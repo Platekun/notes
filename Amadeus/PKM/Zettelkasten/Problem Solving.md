@@ -1,0 +1,7 @@
+---
+Primary Source: "I Am The Master Of My Fate, Bad Luck Comes With Its Friends, The Ultimate Goal Of A Right-Sider, Our Failures Our Badges, Only We Can Save Ourselves, Clarity Comes In Retrospect, Growing To your Full Potential Using The Rules, Finding the Key to Your Own Destiny, Right-Sider’s Traits, Focus Instead Of Panicking, Empty Criticism, The Rules Of the System, Unconventional Thinking, “Decide What To Do” Then “Act On It”, If Something Happens Twice, It’s Worth Betting On, Be Flexible In Your Thinking, What Are You Afraid Of? Believe In Yourself, No. I will do it. Failure isn't an option, Everything Is Designed To Do Something, Find Your Own Answers, An Outsider's Point Of View Can Be Helpful, Artificial Miracles, Howe’s Egg Principle, I Won’t Depend On A God, Finding Calm Amidst Uncertainty, Different Angles Of The Same Problem, A Detective's Iron Rule, Tackle Problems As They Emerge"
+Secondary Sources: "The Illusion That Time Has Stopped, Just Give Me The Details, The Fear Of Being Average, Defying Fate, What Dreams Are Made Of, Investigator Mindset, Feelings Over Facts, Information Clash Instinct, Reality vs Hypotheses, What’s Wrong With Being Naive?, Changing The Way We Look At Things, Believe There's An answer, Time Heals All Wounds"
+Tertiary Sources: "Unchaging Days, You Are The Very Image Of Your Father, Let Your Ideals Drag You To Your Death, Unwavering Conviction, Doubt The World. Know How It Operates"
+---
+
+# Problem Solving
