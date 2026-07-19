@@ -1,0 +1,1360 @@
+﻿Name,Created time,Last edited time,Note Type,Status
+What Is Cloud Computing?,"August 9, 2022 1:04 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is AWS?,"August 9, 2022 2:44 AM","September 20, 2023 2:23 AM",Literature,Processed
+Registration,"August 10, 2022 1:16 AM","September 20, 2023 2:23 AM",Literature,Processed
+Pricing,"August 10, 2022 2:08 AM","September 20, 2023 2:23 AM",Literature,Processed
+Policies,"August 11, 2022 2:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A User Group,"August 11, 2022 2:09 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Policy,"August 11, 2022 2:09 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A User Account,"August 11, 2022 2:09 AM","September 20, 2023 2:23 AM",Literature,Processed
+User Data,"August 11, 2022 11:51 PM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create An EC2 Instance That Does Something At Boot,"August 12, 2022 3:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create And Configure An EC2 Instance,"August 12, 2022 3:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+Security Groups,"August 12, 2022 3:05 AM","September 20, 2023 2:23 AM",Literature,Processed
+Robotic;Notes,"September 26, 2022 3:05 AM","October 1, 2023 11:42 PM",,Unprocessed
+Choosing An Amazon Machine Image,"September 27, 2022 1:29 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Find Details Of An EC2 Instance,"September 27, 2022 2:07 AM","September 20, 2023 2:23 AM",Literature,Processed
+Network Access Control List,"September 29, 2022 12:21 AM","September 20, 2023 2:23 AM",Literature,Processed
+Subnetworks,"September 29, 2022 1:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+Route Tables,"September 30, 2022 2:13 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is CIDR?,"October 4, 2022 1:00 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A VPC,"October 5, 2022 1:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Network ACL,"October 5, 2022 1:49 AM","September 20, 2023 2:23 AM",Literature,Processed
+Multi-Factor Authentication,"October 5, 2022 2:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+Roles,"October 5, 2022 2:04 AM","September 20, 2023 2:23 AM",Literature,Processed
+Users,"October 5, 2022 2:04 AM","September 20, 2023 2:23 AM",Literature,Processed
+Availability Zones,"October 6, 2022 1:03 AM","September 20, 2023 2:23 AM",Literature,Processed
+Scalability,"October 6, 2022 2:18 AM","September 20, 2023 2:23 AM",Literature,Processed
+Availability,"October 6, 2022 2:19 AM","September 20, 2023 2:23 AM",Literature,Processed
+SSL And TSL,"October 6, 2022 2:23 AM","September 20, 2023 2:23 AM",Literature,Processed
+Elasticity,"October 7, 2022 12:26 AM","September 20, 2023 2:23 AM",Literature,Processed
+Reliability,"October 7, 2022 12:41 AM","September 20, 2023 2:23 AM",Literature,Processed
+I Am The Master Of My Fate,"October 7, 2022 3:13 AM","October 1, 2023 11:29 PM",,Processed
+What Is ELB?,"October 8, 2022 1:12 AM","September 20, 2023 2:23 AM",Literature,Processed
+Server Name Indication,"October 8, 2022 1:52 AM","September 20, 2023 2:23 AM",Literature,Processed
+Target Groups,"October 10, 2022 11:42 PM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create An Application Load Balancer,"October 11, 2022 12:53 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Target Group,"October 11, 2022 2:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is EFS?,"October 12, 2022 10:10 PM","September 20, 2023 2:23 AM",Literature,Processed
+Network Drive,"October 12, 2022 11:18 PM","September 20, 2023 2:23 AM",Literature,Processed
+Mounting,"October 13, 2022 12:08 AM","September 20, 2023 2:23 AM",Literature,Processed
+The Fear Of Insignificance,"October 16, 2022 10:41 PM","December 30, 2023 5:20 PM",Permanent,Processed
+Defying Fate,"October 16, 2022 10:41 PM","June 11, 2024 3:16 AM",Permanent,Processed
+The Ultimate Goal Of A Right-Sider,"October 17, 2022 12:44 AM","October 1, 2023 7:30 PM",Literature,Unprocessed
+Howe’s Egg Principle,"October 17, 2022 2:09 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Mixing UI and DAL,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Abstractions On Top Of State Charts,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Correctness Does Not Mean Friendliness,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Conditionals vs Hierarchical States,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Children Components In React VS Ember,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Application States Cannot Be Entirely Serialized,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Waterfall Development Can Be More Efficient Sometimes,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Data Structures VS Objects,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Application Logic Over Tools,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Scroll Restoration And Custom Back Buttons,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+The Core Essence Of A Router,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Mutable State In Functions,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Separation Of Concerns In A Router,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+React Suspense Only Solves Asynchrony Not State Related Challenges,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Stale While Revalidate Is Only Solves The Feeling Of Being Faster,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Using State Charts With A Router,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Using Attributes in CSS Could More Accessible,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+The React Community Love/Hate RelationShip With Rails,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+URL(s) Represent Intent And Reconciliation,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Business Logic In React Components,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+URL Schemes Are Not Frequently changed,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Standing In The Shoulder Of Giants,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Routers Tend To Be Overcomplicated,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+"Identity, Actors And Roles","October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+React References And DOM Behavior,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Types Of Single Page Applications,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Data VS State,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Web Scrollers,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Sharing Business Logic In React Web And React Native,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Firewall Router,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+UseEffect’s Unnatural Mental Model,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Route Anarchy,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+React Arguments,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Lack Of Mental Clarity,"October 18, 2022 1:36 AM","October 1, 2023 11:40 PM",Literature,Unprocessed
+Hard Work And Honesty,"October 18, 2022 1:36 AM","September 20, 2023 2:23 AM",Literature,Processed
+Find Your Own Answers,"October 18, 2022 1:36 AM","September 20, 2023 2:23 AM",Literature,Processed
+Unchaging Days,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+Doubt The World. Know How It Operates,"October 18, 2022 1:36 AM","November 1, 2023 10:06 AM",Literature,Processed
+Right And Proper Is Relative,"October 18, 2022 1:36 AM","October 1, 2023 11:38 PM",Literature,Unprocessed
+Our Failures Our Badges,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+Present vs Future,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+The Fear Of Being Average,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+Artificial Miracles,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+Front-End Architecture 101,"October 18, 2022 2:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+Building Resilient Frontend Architecture,"October 18, 2022 2:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+Metaphysics And JavaScript,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Why We Don’t Do Fixed Price Software Projects,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Coding Fast And Slow,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Why Estimation In Software Development Is Usually Terrible,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Codebase Understanding,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Permanent,Processed
+The Epistemology Of Software Quality - Increment: Teams,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+Self-Hosted Databases,"October 22, 2022 1:16 AM","September 20, 2023 2:23 AM",Literature,Processed
+Managed Databases,"October 22, 2022 1:25 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is RDS?,"October 22, 2022 1:48 AM","September 20, 2023 2:23 AM",Literature,Processed
+Bad Luck Comes With Its Friends,"October 24, 2022 8:17 PM","October 1, 2023 11:37 PM",Literature,Processed
+Reality vs Hypotheses,"October 24, 2022 8:30 PM","October 1, 2023 7:16 PM",Literature,Unprocessed
+Being The Adult,"October 24, 2022 8:33 PM","October 1, 2023 7:16 PM",Literature,Unprocessed
+Finding the Key to Your Own Destiny,"October 24, 2022 8:36 PM","October 1, 2023 7:16 PM",Literature,Processed
+Maturity Is Showing Somebody Can Count On You,"October 24, 2022 8:48 PM","October 1, 2023 7:29 PM",Literature,Unprocessed
+Girls Just Love The Company,"October 24, 2022 9:23 PM","October 1, 2023 7:28 PM",Literature,Unprocessed
+Don’t Hurt More Than Needed,"October 24, 2022 9:23 PM","October 1, 2023 7:17 PM",Literature,Unprocessed
+Drawing Strength and Pride From Our Memories: Embracing Mistakes and Sacrifices,"October 24, 2022 9:52 PM","October 1, 2023 7:14 PM",Literature,Processed
+RDS Backups And Snapshots,"October 24, 2022 11:19 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Multi AZ?,"October 25, 2022 12:53 AM","September 20, 2023 2:23 AM",Literature,Processed
+RDS Encryption,"October 25, 2022 1:07 AM","September 20, 2023 2:23 AM",Literature,Processed
+RDS Network Security,"October 25, 2022 1:17 AM","September 20, 2023 2:23 AM",Literature,Processed
+Types Of Caching,"October 26, 2022 1:11 AM","September 20, 2023 2:23 AM",Literature,Processed
+Client Caching,"October 26, 2022 1:14 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Database Caching,"October 26, 2022 1:14 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Application Caching Strategies,"October 27, 2022 12:30 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is ElastiCache?,"October 27, 2022 8:04 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Docker?,"November 3, 2022 12:29 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is A Task?,"November 3, 2022 1:24 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Service?,"November 3, 2022 2:07 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Fargate?,"November 3, 2022 2:22 AM","September 20, 2023 2:23 AM",Literature,Processed
+ECS with EC2 vs Fargate,"November 4, 2022 12:55 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An Image?,"November 4, 2022 1:28 AM","September 20, 2023 2:23 AM",Literature,Processed
+Upgrade Your Note-Taking the Easy Way,"November 6, 2022 2:20 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is An API?,"November 6, 2022 2:57 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An HTTP API?,"November 8, 2022 1:31 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A REST API?,"November 8, 2022 11:51 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is AppSync?,"November 9, 2022 1:04 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is API Gateway?,"November 9, 2022 1:09 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Cognito?,"November 10, 2022 12:00 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Elastic Beanstalk?,"November 10, 2022 1:30 AM","September 20, 2023 2:23 AM",Literature,Processed
+Integration Services,"November 17, 2022 11:47 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Message Queue?,"November 18, 2022 12:15 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is RPC?,"November 18, 2022 12:15 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is SQS?,"November 19, 2022 11:44 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is EventBridge?,"November 19, 2022 1:30 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is SES?,"November 19, 2022 2:12 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Amazon MQ?,"November 19, 2022 2:12 PM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is CloudMap?,"November 19, 2022 2:24 PM","September 20, 2023 2:23 AM",Literature,Processed
+I Am The Captain Of My Soul,"November 28, 2022 3:03 AM","October 1, 2023 11:28 PM",,Processed
+Let Your Ideals Drag You To Your Death,"December 25, 2022 4:28 PM","October 1, 2023 11:38 PM",Literature,Unprocessed
+What Is A Dristributed Database?,"December 30, 2022 1:53 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Bitcoin?,"December 30, 2022 2:26 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is Database Replication?,"December 30, 2022 2:33 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Genesis Record?,"December 30, 2022 3:05 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An Orphan Record?,"December 30, 2022 3:13 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Block?,"December 30, 2022 3:19 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is A Blockchain?,"December 30, 2022 3:19 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is Ethereum?,"December 30, 2022 3:27 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Be Flexible In Your Thinking,"December 31, 2022 11:07 PM","October 1, 2023 7:49 PM",Literature,Processed
+The Rules Of the System,"January 1, 2023 12:25 AM","October 1, 2023 7:49 PM",Literature,Processed
+Genius vs Talented,"January 1, 2023 12:50 AM","October 1, 2023 7:48 PM",Literature,Processed
+Information Forgery,"January 2, 2023 3:04 AM","October 1, 2023 7:48 PM",Literature,Processed
+Advent Of New Begginings,"January 2, 2023 12:28 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+What Is Proof-of-Stake?,"January 3, 2023 1:11 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+It Doesn't Matter If I Stand A Chance Or Not,"January 3, 2023 12:22 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+What Is A Digital Currency?,"January 3, 2023 3:04 PM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is A Worker Node?,"January 3, 2023 8:48 PM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Will I Be Ever Ready?,"January 6, 2023 2:09 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Minute Of Darkness,"January 10, 2023 12:38 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+The First Day Is Always Turbulent,"January 11, 2023 12:35 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+What Is Valuable Information?,"January 12, 2023 1:57 AM","October 1, 2023 7:48 PM",Literature,Processed
+What You Gonna Do?,"January 12, 2023 12:41 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Placidity,"January 13, 2023 12:48 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Demoing The New Apartment,"January 15, 2023 4:05 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+"Ave, Caesar, Morituri Te Salutant","January 16, 2023 1:16 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Do You Believe Yourself?,"January 19, 2023 1:18 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+"Two Steps Forward, One Step Back","January 20, 2023 1:07 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Will Make It,"January 23, 2023 1:00 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+Shittiest Week Of The Year So Far,"January 24, 2023 1:48 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+"From The Rust Covered Railing On The Roof, You Can See A Very The Very Dreary Scenery","January 25, 2023 1:52 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+But My Dreams Are Big They're Just Not Moving,"January 28, 2023 2:32 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Won't Save You.,"January 30, 2023 12:28 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+"New Month, New Home","February 1, 2023 1:26 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Two Days Later,"February 2, 2023 1:18 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+First Friday,"February 3, 2023 2:16 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+English Channels,"February 4, 2023 1:02 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+The Weekend Arrives,"February 4, 2023 2:37 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Not Feeling Alone For The First Time,"February 5, 2023 2:10 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+We Don't Know How The Other One Feels,"February 8, 2023 2:31 AM","October 1, 2023 7:47 PM",Literature,Processed
+Information Clash Instinct,"February 8, 2023 2:36 AM","October 1, 2023 7:47 PM",Literature,Processed
+A Calm Friday In a Long Time,"February 10, 2023 2:29 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+"Make Sure That Whatever You Do, You Don’t Regret It","February 11, 2023 5:21 PM","October 1, 2023 7:46 PM",Literature,Processed
+Trying Again,"February 13, 2023 1:32 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Saturday already? Feels like Vacations,"February 18, 2023 11:09 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Back To Work,"February 23, 2023 12:39 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+A Happy Sunday,"February 26, 2023 2:40 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Virtual Reality,"February 27, 2023 1:34 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Why Am I Doing this?,"March 3, 2023 3:51 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Boring Sunday,"March 6, 2023 3:18 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Wish For A Time of Tranquility,"March 6, 2023 1:33 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+A Strange Placidity,"March 9, 2023 1:05 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Slowing Down,"March 11, 2023 1:44 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Just Give Me The Details,"March 19, 2023 4:24 AM","October 1, 2023 7:45 PM",Literature,Processed
+A Somehwat Lonely Saturday,"March 19, 2023 4:51 AM","September 30, 2023 7:34 PM",Fleeting,Processed
+What We Believe In,"March 19, 2023 5:39 PM","October 1, 2023 7:31 PM",Literature,Processed
+Disconnected From Everyone Else,"March 20, 2023 4:01 PM","October 1, 2023 7:30 PM",Literature,Processed
+Haven't Written In A While,"March 25, 2023 3:28 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Damn it Brain,"June 21, 2023 11:57 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Maybe I'm Blessed I Guess I'll Never Know,"June 23, 2023 1:33 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+You Are The Very Image Of Your Father,"June 26, 2023 12:57 PM","September 20, 2023 2:23 AM",Permanent,Processed
+Mo-Mo-Monday,"July 4, 2023 12:16 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Is Repression Emotions The Same As Controlling Them?,"July 14, 2023 1:42 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+It Feels Weird,"July 24, 2023 2:13 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+What Does It Mean To Be Yourself?,"July 29, 2023 6:02 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+I Just Wanted To Be Stronger,"August 1, 2023 12:28 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Lacking Focus,"August 9, 2023 12:08 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Data Access: A Forgotten Cornern In Front-End Code,"August 12, 2023 2:53 PM","September 20, 2023 2:23 AM",Permanent,Unprocessed
+The World As A Video Game,"August 21, 2023 2:54 PM","November 4, 2023 7:04 PM",Literature,Processed
+Better Than Yesterday,"August 24, 2023 2:11 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Wishing For Blue Skies,"August 25, 2023 1:18 AM","December 18, 2023 1:32 AM",Literature,Processed
+First Long Week In A While,"August 28, 2023 1:28 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Front-End Glossary: Adapters,"August 30, 2023 12:39 AM","September 20, 2023 2:23 AM",Permanent,Unprocessed
+Hidden Character Growth,"September 3, 2023 1:16 AM","October 1, 2023 11:39 PM",,Processed
+An Alternative Sunday,"September 3, 2023 1:13 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+A Life Without Purpose,"September 3, 2023 3:07 PM","October 1, 2023 7:50 PM",,Processed
+Hair Washing Is Killing My Productivity?,"September 6, 2023 12:39 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Thu-Thu-Thursday,"September 7, 2023 12:47 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+The Childish Desire To Be Special,"September 16, 2023 2:51 PM","November 4, 2023 7:25 PM",Literature,Processed
+Not Everything Goes According To Plan,"September 17, 2023 4:42 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Is It Monday Already?,"September 18, 2023 12:28 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Create A Safe Fixes,"September 18, 2023 12:55 PM","September 20, 2023 2:23 AM",Fleeting,Unprocessed
+Reality Synchro,"September 23, 2023 5:15 PM","October 31, 2023 2:09 AM",Literature,Processed
+Is It Gonna Rain?,"September 25, 2023 1:30 PM","September 25, 2023 1:33 PM",Fleeting,Processed
+A Detective's Iron Rule,"September 26, 2023 1:26 AM","November 1, 2023 9:55 AM",Literature,Processed
+What’s Wrong With Being Naive?,"September 26, 2023 1:48 AM","October 31, 2023 1:16 AM",Literature,Processed
+Still Not Getting Enough Sleep,"September 26, 2023 12:37 PM","September 26, 2023 12:39 PM",Fleeting,Processed
+A Will That Can Turn Negatives Into Positives,"September 28, 2023 1:30 AM","October 31, 2023 1:15 AM",Literature,Processed
+"Despite Everything, I Will Continue","September 28, 2023 12:45 PM","September 28, 2023 12:52 PM",Literature,Processed
+Propietary Tailwind Components,"September 30, 2023 8:14 PM","September 30, 2023 8:15 PM",Fleeting,Unprocessed
+Ark Heart,"September 30, 2023 8:19 PM","October 1, 2023 7:50 PM",Fleeting,Unprocessed
+GeoTags,"October 2, 2023 12:14 AM","October 2, 2023 12:15 AM",Fleeting,Processed
+Using The AFC Account,"October 2, 2023 12:21 AM","October 2, 2023 12:21 AM",Literature,Unprocessed
+Deathly Loneliness Attacks,"October 3, 2023 1:17 AM","November 4, 2023 8:24 PM",Literature,Unprocessed
+Boring Friday,"October 6, 2023 1:26 PM","October 6, 2023 1:29 PM",Fleeting,Processed
+The Loneliness of Strength: Reflections on Satoru Gojo and Personal Growt,"October 9, 2023 12:35 PM","October 9, 2023 12:39 PM",Fleeting,Processed
+I Wonder,"October 24, 2023 2:13 AM","October 24, 2023 2:15 AM",Fleeting,Unprocessed
+Learning to Adapt in This Chaotic World,"November 4, 2023 7:55 PM","November 4, 2023 8:17 PM",Permanent,Processed
+Magi,"November 6, 2023 9:25 PM","November 7, 2023 12:48 PM",,Unprocessed
+Weekend Summary,"November 13, 2023 4:09 AM","November 13, 2023 4:12 AM",Fleeting,Processed
+Cold,"November 15, 2023 1:48 PM","November 15, 2023 1:53 PM",Fleeting,Processed
+Automation Candidates,"November 18, 2023 3:51 PM","November 18, 2023 4:23 PM",,Unprocessed
+AI Momentum,"November 19, 2023 4:46 AM","November 19, 2023 4:50 AM",Fleeting,Processed
+Little By Little,"November 20, 2023 1:23 AM","November 21, 2023 1:32 AM",Fleeting,Processed
+Trying Not To Think About That,"November 20, 2023 1:38 PM","November 21, 2023 1:31 AM",Fleeting,Processed
+Birthday Eve,"November 22, 2023 3:18 AM","November 22, 2023 3:22 AM",Fleeting,Processed
+Multiple Checking Accounts,"November 24, 2023 9:35 PM","November 25, 2023 2:46 AM",Fleeting,Processed
+Remember To Do This,"November 25, 2023 2:47 AM","November 25, 2023 4:55 PM",Fleeting,Processed
+Forgetting We Love Someone,"November 26, 2023 5:21 AM","November 26, 2023 5:29 AM",Literature,Processed
+Second Day Of December,"December 2, 2023 1:14 PM","December 2, 2023 1:19 PM",Fleeting,Processed
+Finance Report 2023-12-05,"December 6, 2023 2:22 AM","December 6, 2023 2:22 AM",,Unprocessed
+Finance Report 2023-12-05,"December 6, 2023 2:30 AM","December 6, 2023 2:30 AM",,Unprocessed
+Finance Report 2023-12-06,"December 7, 2023 2:13 AM","December 7, 2023 2:13 AM",Fleeting,Unprocessed
+Finance Report 2023-12-09,"December 9, 2023 3:00 PM","December 9, 2023 3:00 PM",Fleeting,Unprocessed
+Finance Report 2023-12-09,"December 9, 2023 4:26 PM","December 9, 2023 4:26 PM",Fleeting,Unprocessed
+Lourdes’ Auto Evaluation,"December 10, 2023 2:16 AM","December 10, 2023 6:30 PM",Fleeting,Processed
+"Work Day (@December 13, 2023)","December 13, 2023 5:43 AM","December 13, 2023 12:48 PM",Fleeting,Unprocessed
+Fight Forward,"December 13, 2023 12:38 PM","December 13, 2023 12:48 PM",Fleeting,Processed
+"Work Day (@December 15, 2023)","December 15, 2023 5:57 AM","December 16, 2023 4:29 AM",Fleeting,Unprocessed
+End Of Year Energies,"December 19, 2023 1:46 AM","December 19, 2023 1:50 AM",Fleeting,Processed
+"Work Day (@December 22, 2023)","December 22, 2023 5:40 AM","December 23, 2023 1:48 AM",Fleeting,Unprocessed
+"Work Day (@December 26, 2023)","December 26, 2023 6:41 AM","December 27, 2023 7:24 PM",Fleeting,Unprocessed
+"Work Day (@December 28, 2023)","December 28, 2023 7:21 AM","December 28, 2023 7:21 AM",Fleeting,Unprocessed
+"Work Day (@December 29, 2023)","December 29, 2023 7:09 AM","December 29, 2023 7:09 AM",Fleeting,Unprocessed
+"Work Day (@January 1, 2024)","January 1, 2024 6:14 AM","January 1, 2024 6:14 AM",Fleeting,Unprocessed
+First Day,"January 2, 2024 2:20 AM","January 2, 2024 2:21 AM",Fleeting,Processed
+Dark Clouds,"January 4, 2024 2:22 AM","January 4, 2024 2:26 AM",Fleeting,Processed
+"Work Day (@January 4, 2024)","January 4, 2024 5:12 AM","January 4, 2024 3:56 PM",Fleeting,Unprocessed
+Weekend Distraction,"January 7, 2024 12:40 PM","January 9, 2024 12:30 AM",Fleeting,Processed
+Level Up Or Lose,"January 9, 2024 12:33 AM","January 9, 2024 12:35 AM",Literature,Unprocessed
+We Are The Exception,"January 9, 2024 12:35 AM","February 18, 2024 8:40 PM",Literature,Unprocessed
+After The Storm,"January 9, 2024 1:58 AM","January 9, 2024 2:00 AM",Literature,Unprocessed
+"Work Day (@January 9, 2024)","January 9, 2024 6:20 AM","January 10, 2024 9:14 PM",Fleeting,Unprocessed
+Fucking Flu,"January 11, 2024 4:09 AM","January 11, 2024 4:10 AM",Fleeting,Processed
+"Work Day (@January 16, 2024)","January 16, 2024 7:08 AM","January 16, 2024 7:08 AM",Fleeting,Unprocessed
+"Work Day (@January 17, 2024)","January 17, 2024 5:10 AM","January 17, 2024 5:10 AM",Fleeting,Unprocessed
+In Fire,"January 18, 2024 2:34 AM","January 18, 2024 2:36 AM",Fleeting,Unprocessed
+Coming Back To This,"January 23, 2024 2:14 AM","January 23, 2024 2:19 AM",Fleeting,Unprocessed
+Eureka,"January 25, 2024 2:30 AM","January 25, 2024 2:33 AM",Fleeting,Processed
+"Work Day (@January 30, 2024)","January 30, 2024 7:48 AM","January 30, 2024 7:48 AM",Fleeting,Unprocessed
+"Work Day (@February 1, 2024)","February 1, 2024 7:44 AM","February 1, 2024 7:44 AM",Fleeting,Unprocessed
+Where Our Blue Is,"February 2, 2024 1:58 AM","February 2, 2024 2:05 AM",Literature,Processed
+"Work Day (@February 2, 2024)","February 2, 2024 7:09 AM","February 2, 2024 9:31 PM",Fleeting,Unprocessed
+Kurisu's Second Brain,"February 3, 2024 2:55 PM","June 1, 2024 5:25 PM",Literature,Processed
+I'm Still Me,"February 3, 2024 3:00 PM","March 21, 2024 1:55 AM",Literature,Unprocessed
+Using Time Efficiently,"February 3, 2024 4:02 PM","June 1, 2024 5:58 PM",Literature,Unprocessed
+Military Code,"February 3, 2024 4:39 PM","February 3, 2024 4:40 PM",Literature,Unprocessed
+Moeka's Employer,"February 3, 2024 5:11 PM","February 3, 2024 5:12 PM",Literature,Unprocessed
+Sense Of Self,"February 3, 2024 5:47 PM","February 3, 2024 5:48 PM",Literature,Unprocessed
+Our Second Persona,"February 5, 2024 12:42 AM","February 5, 2024 12:44 AM",Literature,Unprocessed
+Criticism Alone Doesn't Help Anything,"February 5, 2024 12:53 AM","February 5, 2024 12:55 AM",Literature,Unprocessed
+Nobody Can Take Your Place,"February 5, 2024 1:12 AM","February 5, 2024 1:13 AM",Permanent,Unprocessed
+"Work Day (@February 6, 2024)","February 6, 2024 6:25 AM","February 6, 2024 6:25 AM",Fleeting,Unprocessed
+"Work Day (@February 8, 2024)","February 8, 2024 6:38 AM","February 8, 2024 6:38 AM",Fleeting,Unprocessed
+Harsh But True Criticisms,"February 11, 2024 10:47 PM","February 11, 2024 10:48 PM",Literature,Unprocessed
+Proof Of Self,"February 12, 2024 5:18 PM","February 12, 2024 5:22 PM",Literature,Unprocessed
+Rising Above Resentment,"February 12, 2024 5:27 PM","February 19, 2024 3:51 PM",Literature,Unprocessed
+Nancy,"February 13, 2024 1:46 AM","February 19, 2024 3:01 PM",Fleeting,Processed
+"Work Day (@February 13, 2024)","February 13, 2024 6:34 AM","February 13, 2024 6:34 AM",Fleeting,Unprocessed
+Generational Gifts,"February 18, 2024 11:59 PM","February 19, 2024 12:16 AM",Literature,Unprocessed
+"Work Day (@February 19, 2024)","February 19, 2024 5:29 AM","February 19, 2024 5:29 AM",Fleeting,Unprocessed
+Warrior Mindset In Peaceful Times,"February 19, 2024 10:02 PM","February 19, 2024 10:23 PM",Literature,Unprocessed
+"Work Day (@February 20, 2024)","February 20, 2024 5:38 AM","February 20, 2024 10:29 PM",Fleeting,Unprocessed
+Amadeus And Salieri,"February 21, 2024 1:17 AM","June 11, 2024 2:57 AM",Literature,Unprocessed
+"Work Day (@February 21, 2024)","February 21, 2024 6:43 AM","February 21, 2024 6:43 AM",Fleeting,Unprocessed
+"Work Day (@February 23, 2024)","February 23, 2024 7:20 AM","February 23, 2024 7:20 AM",Fleeting,Unprocessed
+"Work Day (@February 26, 2024)","February 26, 2024 5:15 AM","February 26, 2024 5:15 AM",Fleeting,Unprocessed
+"Work Day (@February 27, 2024)","February 27, 2024 5:49 AM","February 27, 2024 5:49 AM",Fleeting,Unprocessed
+"Work Day (@February 28, 2024)","February 28, 2024 6:20 AM","February 28, 2024 6:20 AM",Fleeting,Unprocessed
+"Work Day (@February 29, 2024)","February 29, 2024 5:50 AM","February 29, 2024 1:31 PM",Fleeting,Unprocessed
+I’m Tired Boss,"March 1, 2024 2:39 AM","March 1, 2024 2:42 AM",Fleeting,Unprocessed
+"Work Day (@March 1, 2024)","March 1, 2024 5:31 AM","March 1, 2024 5:31 AM",Fleeting,Unprocessed
+Weekend Rollercoaster Of Emotions,"March 4, 2024 1:55 AM","March 4, 2024 2:21 AM",Fleeting,Processed
+"Work Day (@March 4, 2024)","March 4, 2024 6:51 AM","March 4, 2024 6:51 AM",Fleeting,Unprocessed
+"Work Day (@March 5, 2024)","March 5, 2024 5:14 AM","March 5, 2024 5:14 AM",Fleeting,Unprocessed
+"Work Day (@March 7, 2024)","March 7, 2024 7:12 AM","March 7, 2024 7:12 AM",Fleeting,Unprocessed
+What Is Vite?,"March 9, 2024 8:20 PM","March 9, 2024 8:53 PM",Fleeting,Unprocessed
+"Just Let Me Sleep, Please","March 18, 2024 12:56 AM","March 18, 2024 1:06 AM",Fleeting,Processed
+It's Okay Now,"March 19, 2024 1:26 AM","June 11, 2024 2:54 AM",Literature,Unprocessed
+Wavering Thoughts,"March 19, 2024 1:28 AM","March 19, 2024 1:32 AM",Literature,Unprocessed
+"Work Day (@March 19, 2024)","March 19, 2024 6:53 AM","March 19, 2024 6:53 AM",Fleeting,Unprocessed
+Kagarii's Stratfor Code Name,"March 21, 2024 1:53 AM","March 21, 2024 1:54 AM",Literature,Unprocessed
+"Work Day (@March 22, 2024)","March 22, 2024 5:00 AM","March 22, 2024 5:00 AM",Fleeting,Unprocessed
+Is This What Death Feels Like?,"March 28, 2024 3:02 PM","March 28, 2024 3:56 PM",Literature,Unprocessed
+Soul Vs Memories,"March 28, 2024 3:25 PM","March 28, 2024 3:56 PM",Literature,Unprocessed
+Recharging Batteries,"March 30, 2024 3:33 AM","March 31, 2024 9:31 PM",Fleeting,Unprocessed
+Deceiving Yourself Vs Deceiving The World,"March 31, 2024 9:32 PM","April 1, 2024 1:53 AM",Literature,Unprocessed
+It's Memories What Makes Us Who We Are,"April 1, 2024 1:02 AM","May 23, 2024 2:20 AM",Literature,Unprocessed
+Example Of Coming To Terms With Yort Decisions,"April 1, 2024 1:17 AM","April 1, 2024 1:21 AM",Literature,Unprocessed
+A Person Is Nothing But Their Memories,"April 1, 2024 1:44 AM","April 1, 2024 1:45 AM",Literature,Unprocessed
+"Work Day (@April 1, 2024)","April 1, 2024 5:00 AM","April 1, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 3, 2024)","April 3, 2024 5:00 AM","April 4, 2024 12:44 PM",Fleeting,Unprocessed
+"Work Day (@April 4, 2024)","April 4, 2024 5:01 AM","April 4, 2024 12:44 PM",Fleeting,Unprocessed
+"Work Day (@April 5, 2024)","April 5, 2024 5:00 AM","April 5, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 9, 2024)","April 9, 2024 5:00 AM","April 9, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 10, 2024)","April 10, 2024 5:01 AM","April 10, 2024 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 12, 2024)","April 12, 2024 5:00 AM","April 12, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 29, 2024)","April 29, 2024 7:30 AM","April 29, 2024 7:30 AM",Fleeting,Unprocessed
+"Work Day (@May 1, 2024)","May 1, 2024 7:59 AM","May 1, 2024 7:59 AM",Fleeting,Unprocessed
+"Work Day (@May 2, 2024)","May 2, 2024 6:43 AM","May 2, 2024 6:43 AM",Fleeting,Unprocessed
+"Work Day (@May 3, 2024)","May 3, 2024 5:49 AM","May 3, 2024 5:49 AM",Fleeting,Unprocessed
+"Work Day (@May 6, 2024)","May 6, 2024 5:54 AM","May 6, 2024 5:54 AM",Fleeting,Unprocessed
+"Work Day (@May 10, 2024)","May 10, 2024 7:21 AM","May 10, 2024 7:21 AM",Fleeting,Unprocessed
+"Work Day (@May 14, 2024)","May 14, 2024 5:47 AM","May 14, 2024 5:47 AM",Fleeting,Unprocessed
+"Work Day (@May 15, 2024)","May 15, 2024 7:58 AM","May 15, 2024 7:58 AM",Fleeting,Unprocessed
+Scientific Gatekeeping,"May 21, 2024 2:01 AM","May 21, 2024 2:03 AM",Literature,Unprocessed
+Too Much Comfort Can Blind People,"May 21, 2024 2:23 AM","May 23, 2024 2:20 AM",Literature,Unprocessed
+Ideas For A Project Like Laravel Spark,"May 21, 2024 2:27 AM","May 23, 2024 2:20 AM",Literature,Unprocessed
+Influence Remains,"May 21, 2024 2:29 AM","May 23, 2024 1:33 AM",Literature,Unprocessed
+"Work Day (@May 22, 2024)","May 22, 2024 6:15 AM","May 22, 2024 6:15 AM",Fleeting,Unprocessed
+Patriotic Moment In Steins Gate,"May 23, 2024 1:28 AM","May 23, 2024 1:29 AM",Literature,Unprocessed
+Just Leave It To Me,"May 23, 2024 1:29 AM","May 23, 2024 1:35 AM",Literature,Unprocessed
+Gehenna's Stigma,"May 25, 2024 3:15 PM","May 25, 2024 3:27 PM",Literature,Unprocessed
+Putting Too Much Faith In Common Sense,"May 25, 2024 3:46 PM","May 25, 2024 3:47 PM",Literature,Unprocessed
+Extreme Muscle Relaxation,"May 25, 2024 3:47 PM","May 25, 2024 3:48 PM",Literature,Unprocessed
+I Hope Someday You Can Smile For Real,"May 25, 2024 3:55 PM","May 25, 2024 3:56 PM",Literature,Unprocessed
+Time Heals All Wounds,"June 11, 2024 2:31 AM","June 11, 2024 3:17 AM",Permanent,Processed
+"Work Day (@January 1, 2026)","January 1, 2026 5:05 AM","January 1, 2026 5:05 AM",Fleeting,Unprocessed
+"Work Day (@January 2, 2026)","January 2, 2026 5:13 AM","January 2, 2026 5:13 AM",Fleeting,Unprocessed
+"Work Day (@January 5, 2026)","January 5, 2026 5:02 AM","January 5, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@January 6, 2026)","January 6, 2026 5:00 AM","January 6, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@January 7, 2026)","January 7, 2026 5:20 AM","January 7, 2026 5:20 AM",Fleeting,Unprocessed
+"Work Day (@January 8, 2026)","January 8, 2026 5:02 AM","January 8, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@January 9, 2026)","January 9, 2026 5:21 AM","January 9, 2026 5:21 AM",Fleeting,Unprocessed
+"Work Day (@January 12, 2026)","January 12, 2026 5:06 AM","January 12, 2026 5:06 AM",Fleeting,Unprocessed
+"Work Day (@January 13, 2026)","January 13, 2026 5:21 AM","January 13, 2026 5:21 AM",Fleeting,Unprocessed
+"Work Day (@January 14, 2026)","January 14, 2026 5:37 AM","January 14, 2026 5:37 AM",Fleeting,Unprocessed
+"Work Day (@January 15, 2026)","January 15, 2026 5:16 AM","January 15, 2026 5:16 AM",Fleeting,Unprocessed
+"Work Day (@January 16, 2026)","January 16, 2026 5:15 AM","January 16, 2026 5:15 AM",Fleeting,Unprocessed
+"Work Day (@January 19, 2026)","January 19, 2026 5:19 AM","January 19, 2026 5:19 AM",Fleeting,Unprocessed
+"Work Day (@January 20, 2026)","January 20, 2026 5:06 AM","January 20, 2026 5:06 AM",Fleeting,Unprocessed
+"Work Day (@January 21, 2026)","January 21, 2026 5:25 AM","January 21, 2026 5:25 AM",Fleeting,Unprocessed
+"Work Day (@January 22, 2026)","January 22, 2026 5:27 AM","January 22, 2026 5:27 AM",Fleeting,Unprocessed
+"Work Day (@January 23, 2026)","January 23, 2026 5:18 AM","January 23, 2026 5:18 AM",Fleeting,Unprocessed
+"Work Day (@January 26, 2026)","January 26, 2026 5:00 AM","January 26, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@January 27, 2026)","January 27, 2026 5:25 AM","January 27, 2026 5:25 AM",Fleeting,Unprocessed
+"Work Day (@January 28, 2026)","January 28, 2026 5:27 AM","January 28, 2026 5:27 AM",Fleeting,Unprocessed
+"Work Day (@January 29, 2026)","January 29, 2026 5:07 AM","January 29, 2026 5:07 AM",Fleeting,Unprocessed
+"Work Day (@January 30, 2026)","January 30, 2026 5:08 AM","January 30, 2026 5:08 AM",Fleeting,Unprocessed
+"Work Day (@February 2, 2026)","February 2, 2026 5:04 AM","February 2, 2026 5:04 AM",Fleeting,Unprocessed
+"Work Day (@February 3, 2026)","February 3, 2026 5:10 AM","February 3, 2026 5:10 AM",Fleeting,Unprocessed
+"Work Day (@February 4, 2026)","February 4, 2026 5:20 AM","February 4, 2026 5:20 AM",Fleeting,Unprocessed
+"Work Day (@February 5, 2026)","February 5, 2026 5:15 AM","February 5, 2026 5:15 AM",Fleeting,Unprocessed
+"Work Day (@February 6, 2026)","February 6, 2026 5:18 AM","February 6, 2026 5:18 AM",Fleeting,Unprocessed
+"Work Day (@February 9, 2026)","February 9, 2026 5:02 AM","February 9, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@February 10, 2026)","February 10, 2026 5:20 AM","February 10, 2026 5:20 AM",Fleeting,Unprocessed
+"Work Day (@February 11, 2026)","February 11, 2026 5:14 AM","February 11, 2026 5:14 AM",Fleeting,Unprocessed
+"Work Day (@February 12, 2026)","February 12, 2026 5:15 AM","February 12, 2026 5:15 AM",Fleeting,Unprocessed
+"Work Day (@February 13, 2026)","February 13, 2026 5:11 AM","February 13, 2026 5:11 AM",Fleeting,Unprocessed
+Anonymous Code References Through Science Adventure Media,"February 15, 2026 10:27 PM","February 15, 2026 11:08 PM",Literature,Unprocessed
+"Work Day (@February 16, 2026)","February 16, 2026 5:03 AM","February 16, 2026 5:03 AM",Fleeting,Unprocessed
+"Work Day (@February 17, 2026)","February 17, 2026 5:11 AM","February 17, 2026 5:11 AM",Fleeting,Unprocessed
+"Work Day (@February 18, 2026)","February 18, 2026 5:14 AM","February 18, 2026 5:14 AM",Fleeting,Unprocessed
+"Work Day (@February 19, 2026)","February 19, 2026 5:05 AM","February 19, 2026 5:05 AM",Fleeting,Unprocessed
+"Work Day (@February 20, 2026)","February 20, 2026 5:17 AM","February 20, 2026 5:17 AM",Fleeting,Unprocessed
+"Work Day (@February 23, 2026)","February 23, 2026 5:05 AM","February 23, 2026 5:05 AM",Fleeting,Unprocessed
+"Work Day (@February 24, 2026)","February 24, 2026 5:05 AM","February 24, 2026 5:05 AM",Fleeting,Unprocessed
+"Work Day (@February 25, 2026)","February 25, 2026 5:15 AM","February 25, 2026 5:15 AM",Fleeting,Unprocessed
+"Work Day (@February 26, 2026)","February 26, 2026 5:15 AM","February 26, 2026 5:15 AM",Fleeting,Unprocessed
+"Work Day (@February 27, 2026)","February 27, 2026 5:05 AM","February 27, 2026 5:05 AM",Fleeting,Unprocessed
+"Work Day (@March 2, 2026)","March 2, 2026 5:10 AM","March 2, 2026 5:10 AM",Fleeting,Unprocessed
+"Work Day (@March 3, 2026)","March 3, 2026 5:16 AM","March 3, 2026 5:16 AM",Fleeting,Unprocessed
+"Work Day (@March 4, 2026)","March 4, 2026 5:09 AM","March 4, 2026 5:09 AM",Fleeting,Unprocessed
+"Work Day (@March 5, 2026)","March 5, 2026 5:10 AM","March 5, 2026 5:10 AM",Fleeting,Unprocessed
+"Work Day (@March 6, 2026)","March 6, 2026 5:17 AM","March 6, 2026 5:17 AM",Fleeting,Unprocessed
+"Work Day (@March 9, 2026)","March 9, 2026 5:00 AM","March 9, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 10, 2026)","March 10, 2026 5:01 AM","March 10, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@March 11, 2026)","March 11, 2026 5:00 AM","March 11, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 12, 2026)","March 12, 2026 5:00 AM","March 12, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 13, 2026)","March 13, 2026 5:00 AM","March 13, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 16, 2026)","March 16, 2026 5:00 AM","March 16, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 17, 2026)","March 17, 2026 5:00 AM","March 17, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 18, 2026)","March 18, 2026 5:00 AM","March 18, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 19, 2026)","March 19, 2026 5:01 AM","March 19, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@March 20, 2026)","March 20, 2026 5:00 AM","March 20, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 23, 2026)","March 23, 2026 5:01 AM","March 23, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@March 24, 2026)","March 24, 2026 5:01 AM","March 24, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@March 25, 2026)","March 25, 2026 5:00 AM","March 25, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 26, 2026)","March 26, 2026 5:00 AM","March 26, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@March 27, 2026)","March 27, 2026 5:01 AM","March 27, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@March 30, 2026)","March 30, 2026 5:02 AM","March 30, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@March 31, 2026)","March 31, 2026 5:01 AM","March 31, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 1, 2026)","April 1, 2026 5:02 AM","April 1, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 2, 2026)","April 2, 2026 5:00 AM","April 2, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 3, 2026)","April 3, 2026 5:00 AM","April 3, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 6, 2026)","April 6, 2026 5:02 AM","April 6, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 7, 2026)","April 7, 2026 5:00 AM","April 7, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 8, 2026)","April 8, 2026 5:00 AM","April 8, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 9, 2026)","April 9, 2026 5:00 AM","April 9, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 10, 2026)","April 10, 2026 5:01 AM","April 10, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 13, 2026)","April 13, 2026 5:02 AM","April 13, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 14, 2026)","April 14, 2026 5:00 AM","April 14, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 15, 2026)","April 15, 2026 5:01 AM","April 15, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 16, 2026)","April 16, 2026 5:00 AM","April 16, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 17, 2026)","April 17, 2026 5:03 AM","April 17, 2026 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 20, 2026)","April 20, 2026 5:00 AM","April 20, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 21, 2026)","April 21, 2026 5:00 AM","April 21, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 22, 2026)","April 22, 2026 5:00 AM","April 22, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 23, 2026)","April 23, 2026 5:01 AM","April 23, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 24, 2026)","April 24, 2026 5:01 AM","April 24, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 27, 2026)","April 27, 2026 5:01 AM","April 27, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 28, 2026)","April 28, 2026 5:01 AM","April 28, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 29, 2026)","April 29, 2026 5:01 AM","April 29, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 30, 2026)","April 30, 2026 5:01 AM","April 30, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 1, 2026)","May 1, 2026 5:02 AM","May 1, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 4, 2026)","May 4, 2026 5:01 AM","May 4, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 5, 2026)","May 5, 2026 5:00 AM","May 5, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 6, 2026)","May 6, 2026 5:00 AM","May 6, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 7, 2026)","May 7, 2026 5:00 AM","May 7, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 8, 2026)","May 8, 2026 5:00 AM","May 8, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 11, 2026)","May 11, 2026 5:02 AM","May 11, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 12, 2026)","May 12, 2026 5:01 AM","May 12, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 13, 2026)","May 13, 2026 5:01 AM","May 13, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 14, 2026)","May 14, 2026 5:00 AM","May 14, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 15, 2026)","May 15, 2026 5:02 AM","May 15, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 18, 2026)","May 18, 2026 5:00 AM","May 18, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 19, 2026)","May 19, 2026 5:00 AM","May 19, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 20, 2026)","May 20, 2026 5:00 AM","May 20, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 21, 2026)","May 21, 2026 5:02 AM","May 21, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 22, 2026)","May 22, 2026 5:01 AM","May 22, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 25, 2026)","May 25, 2026 5:00 AM","May 25, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 26, 2026)","May 26, 2026 5:02 AM","May 26, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 27, 2026)","May 27, 2026 5:01 AM","May 27, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 28, 2026)","May 28, 2026 5:00 AM","May 28, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 29, 2026)","May 29, 2026 5:01 AM","May 29, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 1, 2026)","June 1, 2026 5:02 AM","June 1, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 2, 2026)","June 2, 2026 5:01 AM","June 2, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 3, 2026)","June 3, 2026 5:01 AM","June 3, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 4, 2026)","June 4, 2026 5:00 AM","June 4, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 5, 2026)","June 5, 2026 5:01 AM","June 5, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 8, 2026)","June 8, 2026 5:02 AM","June 8, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 9, 2026)","June 9, 2026 5:01 AM","June 9, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 10, 2026)","June 10, 2026 5:00 AM","June 10, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 11, 2026)","June 11, 2026 5:00 AM","June 11, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 12, 2026)","June 12, 2026 5:01 AM","June 12, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 15, 2026)","June 15, 2026 5:00 AM","June 15, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 16, 2026)","June 16, 2026 5:01 AM","June 16, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 17, 2026)","June 17, 2026 5:01 AM","June 17, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 18, 2026)","June 18, 2026 5:01 AM","June 18, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 19, 2026)","June 19, 2026 5:02 AM","June 19, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 22, 2026)","June 22, 2026 5:00 AM","June 22, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 23, 2026)","June 23, 2026 5:01 AM","June 23, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 24, 2026)","June 24, 2026 5:01 AM","June 24, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 25, 2026)","June 25, 2026 5:00 AM","June 25, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 26, 2026)","June 26, 2026 5:00 AM","June 26, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 29, 2026)","June 29, 2026 5:00 AM","June 29, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 30, 2026)","June 30, 2026 5:01 AM","June 30, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 1, 2026)","July 1, 2026 5:01 AM","July 1, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 2, 2026)","July 2, 2026 5:00 AM","July 2, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 3, 2026)","July 3, 2026 5:01 AM","July 3, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 6, 2026)","July 6, 2026 5:01 AM","July 6, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 7, 2026)","July 7, 2026 5:00 AM","July 7, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 8, 2026)","July 8, 2026 5:00 AM","July 8, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 9, 2026)","July 9, 2026 5:00 AM","July 9, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 10, 2026)","July 10, 2026 5:01 AM","July 10, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 13, 2026)","July 13, 2026 5:02 AM","July 13, 2026 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 14, 2026)","July 14, 2026 5:00 AM","July 14, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 15, 2026)","July 15, 2026 5:01 AM","July 15, 2026 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 16, 2026)","July 16, 2026 5:00 AM","July 16, 2026 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 17, 2026)","July 17, 2026 5:00 AM","July 17, 2026 5:00 AM",Fleeting,Unprocessed
+How To Access AWS Using The AWS Command Line Interface,"August 10, 2022 1:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+Billing,"August 10, 2022 2:25 AM","September 20, 2023 2:23 AM",Literature,Processed
+Service Health Dashboard,"August 10, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+What is EC2?,"August 11, 2022 11:50 PM","September 20, 2023 2:23 AM",Literature,Processed
+Launch Types,"August 12, 2022 3:05 AM","September 20, 2023 2:23 AM",Literature,Processed
+Understanding JavaScript Runtimes,"August 18, 2022 12:00 AM","September 20, 2023 2:23 AM",Literature,Processed
+Key Pairs,"September 27, 2022 1:00 AM","September 20, 2023 2:23 AM",Literature,Processed
+IP Addresses,"October 1, 2022 1:54 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create An Internet Gateway,"October 5, 2022 1:48 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Route Table,"October 5, 2022 1:48 AM","September 20, 2023 2:23 AM",Literature,Processed
+Cross-zone Load Balancing,"October 6, 2022 2:23 AM","September 20, 2023 2:23 AM",Literature,Processed
+Load Balancing,"October 7, 2022 1:11 AM","September 20, 2023 2:23 AM",Literature,Processed
+Listeners,"October 10, 2022 11:46 PM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Launch Configuration Template,"October 11, 2022 2:04 AM","September 20, 2023 2:23 AM",Literature,Processed
+Scaling Policies,"October 12, 2022 12:30 AM","September 20, 2023 2:23 AM",Literature,Processed
+Magicians Who Hate Magic,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Do Not Specialize Yet,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+"Software Development Dogmas ","October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Selling Refactors,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Nested Application States Serialization,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+“UI is a function of state” Is Not Quite Right,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Using Layout Components Exclusively For Layout,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+SPA Incongruence with Navigation And Route Transitions,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Eliminating Business Logic From The View Using Actors,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Abstractions For Leaky Dependencies,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Unit Testing is Difficult In React,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+URL (s) and Routing Logic Correctness,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Boring Code Oath,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Doing The Right Thing,"October 18, 2022 1:36 AM","October 1, 2023 11:40 PM",Literature,Processed
+Only We Can Save Ourselves,"October 18, 2022 1:36 AM","October 1, 2023 11:37 PM",Literature,Processed
+The Illusion That Time Has Stopped,"October 18, 2022 1:36 AM","November 18, 2023 7:02 PM",Literature,Processed
+The More Struggle The More Kinder,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+Escapism through Acceptance,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+There Is No Backwards Or Forwards In A Career,"October 18, 2022 1:36 AM","September 20, 2023 2:23 AM",Literature,Processed
+Love Is The Reason,"October 18, 2022 1:36 AM","October 1, 2023 11:37 PM",Literature,Processed
+Why Asking Developers For Time Estimates In Software Projects Is A Terrible Idea And How To Bypass It With SCRUM,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Simple & Boring,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+"Thoughts On React Hooks, Redux and Separation Of Concerns","October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+IOPS,"October 20, 2022 1:51 AM","September 20, 2023 2:23 AM",Literature,Processed
+Choosing A Database Strategy,"October 22, 2022 12:45 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is DynamoDB?,"October 22, 2022 1:30 AM","September 20, 2023 2:23 AM",Literature,Processed
+Fear Of Being Alone,"October 24, 2022 8:19 PM","October 1, 2023 11:28 PM",Literature,Processed
+Truth Is Stranger Than Fiction,"October 24, 2022 9:25 PM","October 1, 2023 7:17 PM",Literature,Unprocessed
+Can Gods Transcend Time?,"October 24, 2022 9:27 PM","October 1, 2023 7:17 PM",Literature,Unprocessed
+What Are You Afraid Of? Believe In Yourself,"October 24, 2022 9:55 PM","October 1, 2023 7:13 PM",Literature,Processed
+I Won’t Depend On A God,"October 24, 2022 9:56 PM","October 1, 2023 7:13 PM",Literature,Unprocessed
+Aurora Connection Management,"October 25, 2022 12:21 AM","September 20, 2023 2:23 AM",Literature,Processed
+RDS Security Checklist,"October 25, 2022 1:26 AM","September 20, 2023 2:23 AM",Literature,Processed
+Concerning Toolkits 🛠 📦,"October 25, 2022 8:27 PM","September 20, 2023 2:23 AM",Literature,Processed
+Cache-Aside Caching Strategy,"October 27, 2022 12:56 AM","September 20, 2023 2:23 AM",Literature,Processed
+Write Behind Caching Strategy,"October 27, 2022 2:09 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Serverless?,"November 2, 2022 1:05 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is ECS?,"November 3, 2022 12:13 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is ECR?,"November 4, 2022 1:22 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Software API?,"November 8, 2022 1:13 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Amplify?,"November 10, 2022 12:34 AM","September 20, 2023 2:23 AM",Literature,Processed
+Simplifying Services,"November 10, 2022 1:22 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An Event Bus?,"November 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A DLT?,"December 29, 2022 7:42 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Crypto?,"December 30, 2022 3:45 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Unconventional Thinking,"December 31, 2022 9:21 PM","October 1, 2023 7:50 PM",Literature,Processed
+Give Your All In Everything You Do,"December 31, 2022 10:47 PM","October 1, 2023 7:49 PM",Literature,Processed
+What Is A Smart Contract?,"January 2, 2023 7:03 PM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is A Crypto Wallet?,"January 4, 2023 12:52 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Sugar Song To Bitter Step,"January 5, 2023 12:26 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+After The Storm,"January 8, 2023 2:40 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+The 80% - 20% Of Moving,"January 9, 2023 8:48 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+What Will I Wish For Then?,"January 16, 2023 2:38 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+"I Will Fight Anyway, I Know Without A Doubt That It's Not A Mistake","January 17, 2023 12:36 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Progress,"January 18, 2023 1:08 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Apartment Inspiration,"February 4, 2023 2:15 PM","September 20, 2023 2:23 AM",Fleeting,Unprocessed
+Lack Of Empathy When Getting Information,"February 7, 2023 2:28 AM","October 1, 2023 7:48 PM",Literature,Processed
+Trying To Resume What Was Paused,"February 7, 2023 1:16 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Identity Disorders,"February 11, 2023 4:32 PM","October 1, 2023 7:47 PM",Literature,Unprocessed
+Investigator Mindset,"February 12, 2023 2:43 PM","December 30, 2023 5:23 PM",Literature,Processed
+Peaceful Sunday,"February 13, 2023 3:36 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+It's Going To Be A Long day,"February 14, 2023 2:06 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+The Oddyssey,"February 23, 2023 12:44 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+Back To The Starting Point,"February 28, 2023 1:03 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+I Can Relax When I'm Around You,"March 19, 2023 4:30 AM","October 1, 2023 7:45 PM",Literature,Processed
+Clarity Comes In Retrospect,"March 19, 2023 5:29 PM","September 20, 2023 2:23 AM",Literature,Processed
+He Writes Another Page,"June 22, 2023 11:48 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Hangover,"June 24, 2023 12:30 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Another Argument,"June 26, 2023 2:00 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+How To Replace Nana's Controller,"June 26, 2023 12:54 PM","September 20, 2023 2:23 AM",Permanent,Processed
+There Are Times When You Need A Helping Hand,"June 26, 2023 1:01 PM","November 26, 2023 5:28 AM",Permanent,Processed
+A Really Long Friday,"June 30, 2023 12:57 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Just Tired,"July 12, 2023 12:09 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Eye Of The Storm,"July 17, 2023 2:35 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+"Nah, Imma Do My Own Thing","July 25, 2023 12:37 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Mid Saturday,"August 26, 2023 6:30 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Truth Seeker,"September 2, 2023 7:47 PM","October 1, 2023 11:39 PM",Literature,Processed
+The Desire To Protect,"September 3, 2023 2:34 AM","October 1, 2023 11:43 PM",Permanent,Processed
+Hot Saturday,"September 3, 2023 4:47 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+"Reflections on the Approach of Year's End: Goals, Fatigue, and Shifting Interests","September 4, 2023 12:16 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Tone Policing,"September 9, 2023 3:09 PM","September 20, 2023 2:27 AM",Fleeting,Processed
+Avoiding Fuzziness,"September 12, 2023 1:00 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Is What You're Seeing Truly Real?,"September 18, 2023 1:19 AM","November 4, 2023 6:42 PM",Literature,Processed
+Negativity As Entertainment,"September 23, 2023 3:51 PM","November 1, 2023 10:14 AM",Literature,Processed
+How We Perceive The World,"September 27, 2023 12:59 AM","October 31, 2023 1:16 AM",Literature,Processed
+Information Broker,"September 30, 2023 8:21 PM","October 1, 2023 7:50 PM",Literature,Unprocessed
+Notion GraphQL API,"October 2, 2023 12:13 AM","October 2, 2023 12:14 AM",Fleeting,Unprocessed
+Nervous System Framework,"October 2, 2023 12:17 AM","October 2, 2023 12:17 AM",Fleeting,Processed
+Virtual Reality,"October 3, 2023 12:59 PM","November 4, 2023 8:24 PM",Fleeting,Processed
+It's Been A While (Again x2),"November 8, 2023 1:26 PM","November 8, 2023 1:28 PM",Fleeting,Processed
+Control That Temper,"November 14, 2023 1:04 PM","November 15, 2023 1:48 PM",Fleeting,Processed
+Last Moment,"November 20, 2023 1:44 AM","November 20, 2023 2:12 AM",Literature,Unprocessed
+Finance Report 2023-12-09,"December 9, 2023 4:30 PM","December 9, 2023 4:30 PM",Fleeting,Unprocessed
+Moody Monday,"December 12, 2023 1:52 AM","December 12, 2023 1:58 AM",Fleeting,Processed
+"Work Day (@December 20, 2023)","December 20, 2023 5:23 AM","December 20, 2023 4:26 PM",Fleeting,Unprocessed
+Annual Review,"December 30, 2023 4:28 PM","December 31, 2023 4:51 PM",Permanent,Processed
+"Work Day (@January 2, 2024)","January 2, 2024 5:18 AM","January 2, 2024 5:18 AM",Fleeting,Unprocessed
+Top-down Memory Search Signals,"January 6, 2024 2:57 PM","June 1, 2024 4:49 PM",Literature,Processed
+"Work Day (@January 8, 2024)","January 8, 2024 6:04 AM","January 8, 2024 6:04 AM",Fleeting,Unprocessed
+"Work Day (@January 11, 2024)","January 11, 2024 5:17 AM","February 29, 2024 12:52 PM",Fleeting,Unprocessed
+Resuming My Life,"January 16, 2024 2:34 AM","January 16, 2024 2:36 AM",Fleeting,Unprocessed
+It's Never Calm,"January 17, 2024 2:42 AM","January 17, 2024 2:42 AM",,Unprocessed
+"Work Day (@January 22, 2024)","January 22, 2024 6:07 AM","January 22, 2024 6:07 AM",Fleeting,Unprocessed
+"Work Day (@January 24, 2024)","January 24, 2024 5:59 AM","January 24, 2024 5:59 AM",Fleeting,Unprocessed
+Bittersweet Saturday,"January 28, 2024 4:02 AM","January 28, 2024 4:05 AM",Fleeting,Processed
+"Work Day (@January 29, 2024)","January 29, 2024 7:50 AM","January 29, 2024 7:06 PM",Fleeting,Unprocessed
+"Work Day (@January 31, 2024)","January 31, 2024 5:28 AM","January 31, 2024 5:28 AM",Fleeting,Unprocessed
+Simulation Of The Brain,"February 3, 2024 2:56 PM","May 28, 2024 2:00 AM",Literature,Unprocessed
+Amadeus Log Messages,"February 3, 2024 3:40 PM","June 1, 2024 5:57 PM",Literature,Processed
+Amadeus Behavior,"February 3, 2024 4:37 PM","April 1, 2024 1:38 AM",Literature,Unprocessed
+Structure And Process,"February 3, 2024 5:25 PM","March 21, 2024 1:56 AM",Literature,Unprocessed
+Noisy Information,"February 5, 2024 12:44 AM","February 19, 2024 9:27 PM",Literature,Unprocessed
+"Work Day (@February 9, 2024)","February 9, 2024 6:32 AM","February 9, 2024 6:32 AM",Fleeting,Unprocessed
+"Work Day (@February 15, 2024)","February 15, 2024 5:15 AM","February 15, 2024 5:15 AM",Fleeting,Unprocessed
+"Work Day (@February 22, 2024)","February 22, 2024 6:42 AM","February 22, 2024 6:42 AM",Fleeting,Unprocessed
+Computers Aren't Like Humans,"February 24, 2024 2:39 PM","February 24, 2024 2:41 PM",Literature,Unprocessed
+Relying On Others,"February 26, 2024 2:10 AM","February 26, 2024 2:13 AM",Fleeting,Unprocessed
+"Work Day (@March 6, 2024)","March 6, 2024 6:08 AM","March 6, 2024 6:08 AM",Fleeting,Unprocessed
+"Work Day (@March 15, 2024)","March 15, 2024 5:27 AM","March 15, 2024 5:27 AM",Fleeting,Unprocessed
+"Work Day (@March 20, 2024)","March 20, 2024 6:12 AM","March 20, 2024 6:12 AM",Fleeting,Unprocessed
+Different Way Of Asking,"March 21, 2024 1:48 AM","March 21, 2024 1:49 AM",Literature,Unprocessed
+What ARE Memories?,"March 21, 2024 1:49 AM","March 21, 2024 1:51 AM",Literature,Unprocessed
+"Work Day (@March 25, 2024)","March 25, 2024 5:02 AM","March 25, 2024 5:02 AM",Fleeting,Unprocessed
+"Work Day (@March 26, 2024)","March 26, 2024 5:02 AM","March 26, 2024 5:02 AM",Fleeting,Unprocessed
+"Work Day (@March 27, 2024)","March 27, 2024 5:02 AM","March 27, 2024 5:02 AM",Fleeting,Unprocessed
+Problematic Relationship Dynamics Comparison,"March 28, 2024 3:05 PM","March 28, 2024 3:56 PM",Literature,Unprocessed
+The Future Can Be Changed,"March 28, 2024 3:52 PM","June 11, 2024 3:00 AM",Literature,Unprocessed
+Deceiving Yourself To Avoid Reality: A Painful Awakening Call,"March 28, 2024 4:01 PM","March 28, 2024 4:30 PM",Literature,Unprocessed
+Trying Once or Twice Probably Won't Get You There,"March 28, 2024 4:30 PM","March 31, 2024 3:10 PM",Literature,Unprocessed
+The Door We Seek,"April 1, 2024 1:22 AM","April 1, 2024 1:26 AM",Literature,Unprocessed
+I Know I Will Find You,"April 1, 2024 1:49 AM","April 1, 2024 1:52 AM",Literature,Unprocessed
+"Work Day (@April 2, 2024)","April 2, 2024 5:01 AM","April 2, 2024 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 8, 2024)","April 8, 2024 5:01 AM","April 8, 2024 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 16, 2024)","April 16, 2024 5:00 AM","April 16, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 19, 2024)","April 19, 2024 7:05 AM","April 19, 2024 7:05 AM",Fleeting,Unprocessed
+"Work Day (@April 24, 2024)","April 24, 2024 6:35 AM","April 24, 2024 6:35 AM",Fleeting,Unprocessed
+"Work Day (@April 25, 2024)","April 25, 2024 7:53 AM","April 25, 2024 7:53 AM",Fleeting,Unprocessed
+"Work Day (@April 30, 2024)","April 30, 2024 5:56 AM","April 30, 2024 5:56 AM",Fleeting,Unprocessed
+"Work Day (@May 17, 2024)","May 17, 2024 6:08 AM","May 17, 2024 6:08 AM",Fleeting,Unprocessed
+Mistaking Fiction For Reality,"May 21, 2024 2:03 AM","May 21, 2024 2:04 AM",Literature,Unprocessed
+Humans Are Social Animals,"May 21, 2024 2:04 AM","May 21, 2024 2:08 AM",Literature,Unprocessed
+Different Axis,"May 23, 2024 1:41 AM","May 23, 2024 2:19 AM",Literature,Unprocessed
+"Work Day (@May 23, 2024)","May 23, 2024 5:07 AM","May 23, 2024 5:07 AM",Fleeting,Unprocessed
+"Work Day (@May 24, 2024)","May 24, 2024 6:50 AM","May 24, 2024 6:50 AM",Fleeting,Unprocessed
+I Wasn’t Alone Everyone Was There For Me,"May 27, 2024 2:21 AM","May 28, 2024 1:25 AM",Literature,Unprocessed
+Paris Museum Pass,"July 21, 2024 3:03 AM","July 21, 2024 4:07 PM",,Unprocessed
+Transfer Sync,"August 25, 2024 3:05 PM","August 31, 2024 8:42 PM",,Unprocessed
+Back to Madrid,"September 28, 2024 9:12 PM","September 28, 2024 9:17 PM",Fleeting,Processed
+"Work Day (@October 29, 2024)","October 29, 2024 5:01 AM","October 29, 2024 4:26 PM",Fleeting,Unprocessed
+"Work Day (@October 30, 2024)","October 30, 2024 7:06 AM","October 30, 2024 7:06 AM",Fleeting,Unprocessed
+"Work Day (@October 31, 2024)","October 31, 2024 5:42 AM","October 31, 2024 5:42 AM",Fleeting,Unprocessed
+Redefine Your Relation With Information,"November 1, 2024 12:47 AM","November 1, 2024 12:58 AM",Literature,Processed
+Notes Are A Glimpse To The Past So We Never Forget,"November 1, 2024 12:52 AM","November 1, 2024 12:58 AM",Literature,Processed
+Zettelkasten Foreshadowing,"November 1, 2024 12:58 AM","November 1, 2024 1:20 AM",Literature,Processed
+Notes As Knowledge Building Blocks,"November 1, 2024 1:05 AM","November 1, 2024 1:10 AM",Literature,Processed
+A Second Brain Make Our Ideas Concrete,"November 1, 2024 1:15 AM","November 1, 2024 1:27 AM",Literature,Processed
+A Second Brail Reveal New Associations Between Ideas,"November 1, 2024 1:20 AM","November 1, 2024 1:27 AM",Literature,Processed
+A Second Brain Helps Us Incubate Our Ideas Over Time,"November 1, 2024 1:28 AM","November 1, 2024 1:36 AM",Literature,Processed
+A Second Brain Sharpens Our Unique Perspectives,"November 1, 2024 1:37 AM","November 1, 2024 1:35 PM",Literature,Processed
+"Work Day (@November 1, 2024)","November 1, 2024 5:51 AM","November 1, 2024 5:51 AM",Fleeting,Unprocessed
+"Work Day (@November 5, 2024)","November 5, 2024 7:30 AM","November 5, 2024 7:30 AM",Fleeting,Unprocessed
+"Work Day (@November 6, 2024)","November 6, 2024 5:23 AM","November 6, 2024 5:23 AM",Fleeting,Unprocessed
+"Work Day (@November 7, 2024)","November 7, 2024 6:26 AM","November 7, 2024 6:26 AM",Fleeting,Unprocessed
+"Work Day (@November 8, 2024)","November 8, 2024 7:57 AM","November 8, 2024 7:57 AM",Fleeting,Unprocessed
+"Work Day (@November 11, 2024)","November 11, 2024 5:07 AM","November 11, 2024 5:07 AM",Fleeting,Unprocessed
+"Work Day (@November 12, 2024)","November 12, 2024 6:51 AM","November 12, 2024 6:51 AM",Fleeting,Unprocessed
+"Work Day (@November 13, 2024)","November 13, 2024 6:55 AM","November 13, 2024 6:55 AM",Fleeting,Unprocessed
+"Work Day (@November 14, 2024)","November 14, 2024 6:41 AM","November 14, 2024 6:41 AM",Fleeting,Unprocessed
+"Work Day (@November 15, 2024)","November 15, 2024 6:08 AM","November 15, 2024 6:08 AM",Fleeting,Unprocessed
+"Work Day (@November 18, 2024)","November 18, 2024 7:16 AM","November 18, 2024 7:16 AM",Fleeting,Unprocessed
+"Work Day (@November 19, 2024)","November 19, 2024 6:19 AM","November 19, 2024 6:19 AM",Fleeting,Unprocessed
+"Work Day (@November 20, 2024)","November 20, 2024 5:40 AM","November 20, 2024 5:40 AM",Fleeting,Unprocessed
+"Work Day (@November 21, 2024)","November 21, 2024 5:18 AM","November 21, 2024 5:18 AM",Fleeting,Unprocessed
+"Work Day (@November 22, 2024)","November 22, 2024 7:05 AM","November 22, 2024 7:05 AM",Fleeting,Unprocessed
+"Work Day (@November 25, 2024)","November 25, 2024 7:07 AM","November 25, 2024 7:07 AM",Fleeting,Unprocessed
+"Work Day (@November 26, 2024)","November 26, 2024 6:40 AM","November 26, 2024 6:40 AM",Fleeting,Unprocessed
+"Work Day (@November 27, 2024)","November 27, 2024 7:08 AM","November 27, 2024 7:08 AM",Fleeting,Unprocessed
+"Work Day (@November 28, 2024)","November 28, 2024 6:21 AM","November 28, 2024 6:21 AM",Fleeting,Unprocessed
+"Work Day (@November 29, 2024)","November 29, 2024 5:19 AM","November 29, 2024 5:19 AM",Fleeting,Unprocessed
+Annual Review,"December 1, 2024 6:53 AM","December 1, 2024 6:53 AM",Permanent,Processed
+"Work Day (@December 2, 2024)","December 2, 2024 5:38 AM","December 2, 2024 5:38 AM",Fleeting,Unprocessed
+"Work Day (@December 3, 2024)","December 3, 2024 6:54 AM","December 3, 2024 6:54 AM",Fleeting,Unprocessed
+"Work Day (@December 4, 2024)","December 4, 2024 5:54 AM","December 4, 2024 5:54 AM",Fleeting,Unprocessed
+"Work Day (@December 5, 2024)","December 5, 2024 6:21 AM","December 5, 2024 6:21 AM",Fleeting,Unprocessed
+"Work Day (@December 6, 2024)","December 6, 2024 7:14 AM","December 6, 2024 7:14 AM",Fleeting,Unprocessed
+"Work Day (@December 9, 2024)","December 9, 2024 5:19 AM","December 9, 2024 5:19 AM",Fleeting,Unprocessed
+"Work Day (@December 10, 2024)","December 10, 2024 6:33 AM","December 10, 2024 6:33 AM",Fleeting,Unprocessed
+"Work Day (@December 11, 2024)","December 11, 2024 5:42 AM","December 11, 2024 5:42 AM",Fleeting,Unprocessed
+"Work Day (@December 12, 2024)","December 12, 2024 5:45 AM","December 12, 2024 5:45 AM",Fleeting,Unprocessed
+"Work Day (@December 13, 2024)","December 13, 2024 5:10 AM","December 13, 2024 5:10 AM",Fleeting,Unprocessed
+"Work Day (@December 16, 2024)","December 16, 2024 7:28 AM","December 16, 2024 7:28 AM",Fleeting,Unprocessed
+"Work Day (@December 17, 2024)","December 17, 2024 5:08 AM","December 17, 2024 5:08 AM",Fleeting,Unprocessed
+"Work Day (@December 18, 2024)","December 18, 2024 5:59 AM","December 18, 2024 5:59 AM",Fleeting,Unprocessed
+"Work Day (@December 19, 2024)","December 19, 2024 5:09 AM","December 19, 2024 5:09 AM",Fleeting,Unprocessed
+"Work Day (@December 20, 2024)","December 20, 2024 5:25 AM","December 20, 2024 5:25 AM",Fleeting,Unprocessed
+"Work Day (@December 23, 2024)","December 23, 2024 6:59 AM","December 23, 2024 6:59 AM",Fleeting,Unprocessed
+"Work Day (@December 24, 2024)","December 24, 2024 6:41 AM","December 24, 2024 6:41 AM",Fleeting,Unprocessed
+"Work Day (@December 25, 2024)","December 25, 2024 7:04 AM","December 25, 2024 7:04 AM",Fleeting,Unprocessed
+"Work Day (@December 26, 2024)","December 26, 2024 5:20 AM","December 26, 2024 5:20 AM",Fleeting,Unprocessed
+"Work Day (@December 27, 2024)","December 27, 2024 7:59 AM","December 27, 2024 7:59 AM",Fleeting,Unprocessed
+Core Values,"December 30, 2024 1:56 AM","January 1, 2025 12:01 AM",Fleeting,Unprocessed
+"Work Day (@December 30, 2024)","December 30, 2024 5:31 AM","December 30, 2024 5:31 AM",Fleeting,Unprocessed
+"Work Day (@December 31, 2024)","December 31, 2024 7:20 AM","December 31, 2024 7:20 AM",Fleeting,Unprocessed
+"Work Day (@January 1, 2025)","January 1, 2025 6:42 AM","January 1, 2025 6:42 AM",Fleeting,Unprocessed
+Despite Everything…,"January 2, 2025 2:26 AM","January 2, 2025 2:31 AM",Fleeting,Unprocessed
+"Work Day (@January 2, 2025)","January 2, 2025 5:47 AM","January 2, 2025 5:47 AM",Fleeting,Unprocessed
+Why Do I Feel So In The Dumps?,"January 3, 2025 2:31 AM","January 3, 2025 2:35 AM",Fleeting,Unprocessed
+"Work Day (@January 3, 2025)","January 3, 2025 6:32 AM","January 3, 2025 6:32 AM",Fleeting,Unprocessed
+"Third Day, Still The Same","January 4, 2025 2:38 AM","January 5, 2025 6:48 PM",Fleeting,Unprocessed
+"Work Day (@January 6, 2025)","January 6, 2025 5:08 AM","January 6, 2025 5:08 AM",Fleeting,Unprocessed
+Test,"January 6, 2025 2:09 PM","January 6, 2025 2:10 PM",Fleeting,Unprocessed
+Childhood Song,"January 6, 2025 10:55 PM","January 6, 2025 10:55 PM",Fleeting,Unprocessed
+"Work Day (@January 7, 2025)","January 7, 2025 5:03 AM","January 7, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@January 8, 2025)","January 8, 2025 7:01 AM","January 8, 2025 7:01 AM",Fleeting,Unprocessed
+"Work Day (@January 9, 2025)","January 9, 2025 6:12 AM","January 9, 2025 6:12 AM",Fleeting,Unprocessed
+"Work Day (@January 10, 2025)","January 10, 2025 7:16 AM","January 10, 2025 7:16 AM",Fleeting,Unprocessed
+Dating Scene,"January 12, 2025 5:03 PM","January 12, 2025 5:03 PM",Fleeting,Unprocessed
+"Work Day (@January 13, 2025)","January 13, 2025 6:49 AM","January 13, 2025 6:49 AM",Fleeting,Unprocessed
+"Work Day (@January 14, 2025)","January 14, 2025 6:58 AM","January 14, 2025 6:58 AM",Fleeting,Unprocessed
+"Work Day (@January 15, 2025)","January 15, 2025 5:57 AM","January 15, 2025 5:57 AM",Fleeting,Unprocessed
+"Work Day (@January 16, 2025)","January 16, 2025 6:02 AM","January 16, 2025 6:02 AM",Fleeting,Unprocessed
+"Work Day (@January 17, 2025)","January 17, 2025 7:44 AM","January 17, 2025 7:44 AM",Fleeting,Unprocessed
+"Work Day (@January 20, 2025)","January 20, 2025 5:28 AM","January 20, 2025 5:28 AM",Fleeting,Unprocessed
+"Work Day (@January 21, 2025)","January 21, 2025 5:40 AM","January 21, 2025 5:40 AM",Fleeting,Unprocessed
+"Work Day (@January 22, 2025)","January 22, 2025 7:14 AM","January 22, 2025 7:14 AM",Fleeting,Unprocessed
+"Work Day (@January 23, 2025)","January 23, 2025 6:21 AM","January 23, 2025 6:21 AM",Fleeting,Unprocessed
+"Work Day (@January 24, 2025)","January 24, 2025 7:44 AM","January 24, 2025 7:44 AM",Fleeting,Unprocessed
+"Work Day (@January 27, 2025)","January 27, 2025 6:38 AM","January 27, 2025 6:38 AM",Fleeting,Unprocessed
+"Work Day (@January 28, 2025)","January 28, 2025 7:55 AM","January 28, 2025 7:55 AM",Fleeting,Unprocessed
+"Work Day (@January 29, 2025)","January 29, 2025 6:22 AM","January 29, 2025 6:22 AM",Fleeting,Unprocessed
+"Work Day (@January 30, 2025)","January 30, 2025 7:55 AM","January 30, 2025 7:55 AM",Fleeting,Unprocessed
+"Work Day (@January 31, 2025)","January 31, 2025 6:36 AM","January 31, 2025 6:36 AM",Fleeting,Unprocessed
+"Work Day (@February 3, 2025)","February 3, 2025 6:04 AM","February 3, 2025 6:04 AM",Fleeting,Unprocessed
+"Work Day (@February 4, 2025)","February 4, 2025 7:14 AM","February 4, 2025 7:14 AM",Fleeting,Unprocessed
+"Work Day (@February 5, 2025)","February 5, 2025 6:26 AM","February 5, 2025 6:26 AM",Fleeting,Unprocessed
+"Work Day (@February 6, 2025)","February 6, 2025 6:01 AM","February 6, 2025 6:01 AM",Fleeting,Unprocessed
+"Work Day (@February 7, 2025)","February 7, 2025 7:36 AM","February 7, 2025 7:36 AM",Fleeting,Unprocessed
+"Work Day (@February 10, 2025)","February 10, 2025 6:49 AM","February 10, 2025 6:49 AM",Fleeting,Unprocessed
+"Work Day (@February 11, 2025)","February 11, 2025 7:09 AM","February 11, 2025 7:09 AM",Fleeting,Unprocessed
+"Work Day (@February 12, 2025)","February 12, 2025 7:12 AM","February 12, 2025 7:12 AM",Fleeting,Unprocessed
+"Work Day (@February 13, 2025)","February 13, 2025 6:12 AM","February 13, 2025 6:12 AM",Fleeting,Unprocessed
+"Work Day (@February 14, 2025)","February 14, 2025 7:08 AM","February 14, 2025 7:08 AM",Fleeting,Unprocessed
+"Work Day (@February 17, 2025)","February 17, 2025 6:10 AM","February 17, 2025 6:10 AM",Fleeting,Unprocessed
+"Work Day (@February 18, 2025)","February 18, 2025 7:19 AM","February 18, 2025 7:19 AM",Fleeting,Unprocessed
+"Work Day (@February 19, 2025)","February 19, 2025 5:37 AM","February 19, 2025 5:37 AM",Fleeting,Unprocessed
+"Work Day (@February 20, 2025)","February 20, 2025 6:39 AM","February 20, 2025 6:39 AM",Fleeting,Unprocessed
+"Work Day (@February 21, 2025)","February 21, 2025 5:02 AM","February 21, 2025 5:02 AM",Fleeting,Unprocessed
+Draw All Your Strength,"February 22, 2025 2:27 PM","February 22, 2025 2:29 PM",Fleeting,Unprocessed
+Ring You A Bell,"February 22, 2025 2:29 PM","February 22, 2025 2:33 PM",Fleeting,Unprocessed
+"Work Day (@February 24, 2025)","February 24, 2025 7:23 AM","February 24, 2025 7:23 AM",Fleeting,Unprocessed
+"Work Day (@February 25, 2025)","February 25, 2025 6:14 AM","February 25, 2025 6:14 AM",Fleeting,Unprocessed
+"Work Day (@February 26, 2025)","February 26, 2025 5:17 AM","February 26, 2025 5:17 AM",Fleeting,Unprocessed
+"Work Day (@February 27, 2025)","February 27, 2025 6:44 AM","February 27, 2025 6:44 AM",Fleeting,Unprocessed
+"Work Day (@February 28, 2025)","February 28, 2025 6:57 AM","February 28, 2025 6:57 AM",Fleeting,Unprocessed
+"Work Day (@March 3, 2025)","March 3, 2025 5:22 AM","March 3, 2025 5:22 AM",Fleeting,Unprocessed
+"Work Day (@March 4, 2025)","March 4, 2025 7:34 AM","March 4, 2025 7:34 AM",Fleeting,Unprocessed
+"Work Day (@March 5, 2025)","March 5, 2025 5:50 AM","March 5, 2025 5:50 AM",Fleeting,Unprocessed
+"Work Day (@March 6, 2025)","March 6, 2025 5:53 AM","March 6, 2025 5:53 AM",Fleeting,Unprocessed
+"Work Day (@March 7, 2025)","March 7, 2025 6:17 AM","March 7, 2025 6:17 AM",Fleeting,Unprocessed
+"Work Day (@March 10, 2025)","March 10, 2025 6:29 AM","March 10, 2025 6:29 AM",Fleeting,Unprocessed
+"Work Day (@March 11, 2025)","March 11, 2025 5:58 AM","March 11, 2025 5:58 AM",Fleeting,Unprocessed
+"Work Day (@March 12, 2025)","March 12, 2025 6:30 AM","March 12, 2025 6:30 AM",Fleeting,Unprocessed
+"Work Day (@March 13, 2025)","March 13, 2025 6:32 AM","March 13, 2025 6:32 AM",Fleeting,Unprocessed
+"Work Day (@March 14, 2025)","March 14, 2025 6:09 AM","March 14, 2025 6:09 AM",Fleeting,Unprocessed
+Clothes Audit,"March 16, 2025 9:49 PM","March 16, 2025 9:50 PM",Fleeting,Unprocessed
+"Work Day (@March 17, 2025)","March 17, 2025 6:43 AM","March 17, 2025 6:43 AM",Fleeting,Unprocessed
+"Work Day (@March 18, 2025)","March 18, 2025 6:23 AM","March 18, 2025 6:23 AM",Fleeting,Unprocessed
+"Work Day (@March 19, 2025)","March 19, 2025 6:52 AM","March 19, 2025 6:52 AM",Fleeting,Unprocessed
+"Work Day (@March 20, 2025)","March 20, 2025 6:12 AM","March 20, 2025 6:12 AM",Fleeting,Unprocessed
+"Work Day (@March 21, 2025)","March 21, 2025 7:01 AM","March 21, 2025 7:01 AM",Fleeting,Unprocessed
+"Work Day (@March 24, 2025)","March 24, 2025 7:34 AM","March 24, 2025 7:34 AM",Fleeting,Unprocessed
+"Work Day (@March 25, 2025)","March 25, 2025 5:33 AM","March 25, 2025 5:33 AM",Fleeting,Unprocessed
+"Work Day (@March 26, 2025)","March 26, 2025 6:07 AM","March 26, 2025 6:07 AM",Fleeting,Unprocessed
+"Work Day (@March 27, 2025)","March 27, 2025 7:31 AM","March 27, 2025 7:31 AM",Fleeting,Unprocessed
+"Work Day (@March 28, 2025)","March 28, 2025 5:02 AM","March 28, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@March 31, 2025)","March 31, 2025 5:03 AM","March 31, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 1, 2025)","April 1, 2025 4:05 PM","April 1, 2025 4:05 PM",Fleeting,Unprocessed
+"Work Day (@April 2, 2025)","April 2, 2025 5:03 AM","April 2, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 3, 2025)","April 3, 2025 5:00 AM","April 3, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 4, 2025)","April 4, 2025 5:03 AM","April 4, 2025 5:03 AM",Fleeting,Unprocessed
+Front-End Decalogue: Ten Wedges To Cut Through UI Complexity,"April 7, 2025 2:35 AM","April 7, 2025 3:33 AM",Fleeting,Unprocessed
+"Work Day (@April 7, 2025)","April 7, 2025 5:03 AM","April 7, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 8, 2025)","April 8, 2025 5:00 AM","April 8, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 9, 2025)","April 9, 2025 5:02 AM","April 9, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 10, 2025)","April 10, 2025 5:02 AM","April 10, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 11, 2025)","April 11, 2025 5:01 AM","April 11, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 14, 2025)","April 14, 2025 5:00 AM","April 14, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 15, 2025)","April 15, 2025 5:02 AM","April 15, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 16, 2025)","April 16, 2025 5:00 AM","April 16, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 17, 2025)","April 17, 2025 5:01 AM","April 17, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 18, 2025)","April 18, 2025 5:03 AM","April 18, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 21, 2025)","April 21, 2025 5:00 AM","April 21, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 22, 2025)","April 22, 2025 5:03 AM","April 22, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 23, 2025)","April 23, 2025 5:02 AM","April 23, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 24, 2025)","April 24, 2025 5:01 AM","April 24, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 25, 2025)","April 25, 2025 5:02 AM","April 25, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@April 28, 2025)","April 28, 2025 5:04 AM","April 28, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@April 29, 2025)","April 29, 2025 5:03 AM","April 29, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@April 30, 2025)","April 30, 2025 5:01 AM","April 30, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 1, 2025)","May 1, 2025 5:01 AM","May 1, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 2, 2025)","May 2, 2025 5:03 AM","May 2, 2025 5:03 AM",Fleeting,Unprocessed
+Who is Wolf?,"May 3, 2025 1:29 AM","May 3, 2025 1:33 AM",Fleeting,Unprocessed
+When To Step Aside?,"May 3, 2025 1:31 AM","May 3, 2025 1:34 AM",Fleeting,Unprocessed
+Optimizing For The Output And Not For Team Scaling,"May 3, 2025 1:33 AM","May 3, 2025 1:33 AM",Fleeting,Unprocessed
+Haven't We Had Enough Of Wolf?,"May 3, 2025 1:34 AM","May 3, 2025 1:34 AM",Fleeting,Unprocessed
+Despite Everything,"May 3, 2025 1:35 AM","May 3, 2025 1:35 AM",Fleeting,Unprocessed
+We're The Strongest,"May 3, 2025 1:37 AM","May 3, 2025 1:37 AM",Fleeting,Unprocessed
+I'm At My Best,"May 3, 2025 1:38 AM","May 3, 2025 1:38 AM",Fleeting,Unprocessed
+Face Your Endgame With That Smile,"May 3, 2025 1:44 AM","May 3, 2025 1:46 AM",Fleeting,Unprocessed
+"Work Day (@May 5, 2025)","May 5, 2025 5:02 AM","May 5, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 6, 2025)","May 6, 2025 5:03 AM","May 6, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@May 7, 2025)","May 7, 2025 5:01 AM","May 7, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 8, 2025)","May 8, 2025 5:00 AM","May 8, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 9, 2025)","May 9, 2025 5:00 AM","May 9, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 12, 2025)","May 12, 2025 5:00 AM","May 12, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 13, 2025)","May 13, 2025 5:03 AM","May 13, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@May 14, 2025)","May 14, 2025 5:00 AM","May 14, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 15, 2025)","May 15, 2025 5:02 AM","May 15, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@May 16, 2025)","May 16, 2025 5:01 AM","May 16, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 19, 2025)","May 19, 2025 5:05 AM","May 19, 2025 5:05 AM",Fleeting,Unprocessed
+"Work Day (@May 20, 2025)","May 20, 2025 5:04 AM","May 20, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@May 21, 2025)","May 21, 2025 5:03 AM","May 21, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@May 22, 2025)","May 22, 2025 5:01 AM","May 22, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 23, 2025)","May 23, 2025 5:00 AM","May 23, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@May 26, 2025)","May 26, 2025 5:04 AM","May 26, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@May 27, 2025)","May 27, 2025 5:04 AM","May 27, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@May 28, 2025)","May 28, 2025 5:01 AM","May 28, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@May 29, 2025)","May 29, 2025 5:03 AM","May 29, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@May 30, 2025)","May 30, 2025 5:02 AM","May 30, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 2, 2025)","June 2, 2025 5:00 AM","June 2, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 3, 2025)","June 3, 2025 5:02 AM","June 3, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 4, 2025)","June 4, 2025 5:04 AM","June 4, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@June 5, 2025)","June 5, 2025 5:01 AM","June 5, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 6, 2025)","June 6, 2025 5:01 AM","June 6, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 9, 2025)","June 9, 2025 4:59 AM","June 9, 2025 4:59 AM",Fleeting,Unprocessed
+"Work Day (@June 10, 2025)","June 10, 2025 5:01 AM","June 10, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 11, 2025)","June 11, 2025 5:01 AM","June 11, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 12, 2025)","June 12, 2025 5:03 AM","June 12, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@June 13, 2025)","June 13, 2025 5:00 AM","June 13, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 16, 2025)","June 16, 2025 5:00 AM","June 16, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 17, 2025)","June 17, 2025 5:02 AM","June 17, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 18, 2025)","June 18, 2025 5:00 AM","June 18, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 19, 2025)","June 19, 2025 5:00 AM","June 19, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@June 20, 2025)","June 20, 2025 5:04 AM","June 20, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@June 23, 2025)","June 23, 2025 5:01 AM","June 23, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@June 24, 2025)","June 24, 2025 5:02 AM","June 24, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 25, 2025)","June 25, 2025 5:03 AM","June 25, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@June 26, 2025)","June 26, 2025 5:02 AM","June 26, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 27, 2025)","June 27, 2025 5:02 AM","June 27, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@June 30, 2025)","June 30, 2025 5:02 AM","June 30, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 1, 2025)","July 1, 2025 5:00 AM","July 1, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 2, 2025)","July 2, 2025 5:00 AM","July 2, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 3, 2025)","July 3, 2025 5:03 AM","July 3, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@July 4, 2025)","July 4, 2025 5:00 AM","July 4, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@July 7, 2025)","July 7, 2025 5:03 AM","July 7, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@July 8, 2025)","July 8, 2025 5:02 AM","July 8, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 9, 2025)","July 9, 2025 5:01 AM","July 9, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 10, 2025)","July 10, 2025 5:01 AM","July 10, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 11, 2025)","July 11, 2025 5:02 AM","July 11, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 14, 2025)","July 14, 2025 5:01 AM","July 14, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 15, 2025)","July 15, 2025 5:02 AM","July 15, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 16, 2025)","July 16, 2025 5:02 AM","July 16, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 17, 2025)","July 17, 2025 5:02 AM","July 17, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 18, 2025)","July 18, 2025 5:03 AM","July 18, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@July 21, 2025)","July 21, 2025 5:03 AM","July 21, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@July 22, 2025)","July 22, 2025 5:04 AM","July 22, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@July 23, 2025)","July 23, 2025 5:03 AM","July 23, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@July 24, 2025)","July 24, 2025 5:01 AM","July 24, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 25, 2025)","July 25, 2025 5:01 AM","July 25, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@July 28, 2025)","July 28, 2025 5:04 AM","July 28, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@July 29, 2025)","July 29, 2025 5:03 AM","July 29, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@July 30, 2025)","July 30, 2025 5:02 AM","July 30, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@July 31, 2025)","July 31, 2025 5:03 AM","July 31, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@August 1, 2025)","August 1, 2025 5:00 AM","August 1, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@August 4, 2025)","August 4, 2025 5:00 AM","August 4, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@August 5, 2025)","August 5, 2025 5:04 AM","August 5, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@August 6, 2025)","August 6, 2025 5:01 AM","August 6, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@August 7, 2025)","August 7, 2025 5:00 AM","August 7, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@August 8, 2025)","August 8, 2025 5:04 AM","August 8, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@August 11, 2025)","August 11, 2025 5:02 AM","August 11, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@August 12, 2025)","August 12, 2025 5:00 AM","August 12, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@August 13, 2025)","August 13, 2025 5:04 AM","August 13, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@August 14, 2025)","August 14, 2025 5:01 AM","August 14, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@August 15, 2025)","August 15, 2025 5:02 AM","August 15, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@August 18, 2025)","August 18, 2025 5:05 AM","August 18, 2025 5:05 AM",Fleeting,Unprocessed
+"Work Day (@August 19, 2025)","August 19, 2025 5:00 AM","August 19, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@August 20, 2025)","August 20, 2025 5:35 AM","August 20, 2025 5:35 AM",Fleeting,Unprocessed
+"Work Day (@August 21, 2025)","August 21, 2025 5:01 AM","August 21, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@August 22, 2025)","August 22, 2025 5:03 AM","August 22, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@August 25, 2025)","August 25, 2025 5:01 AM","August 25, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@August 26, 2025)","August 26, 2025 5:01 AM","August 26, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@August 27, 2025)","August 27, 2025 5:00 AM","August 27, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@August 28, 2025)","August 28, 2025 5:05 AM","August 28, 2025 5:05 AM",Fleeting,Unprocessed
+"Work Day (@August 29, 2025)","August 29, 2025 5:03 AM","August 29, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@September 1, 2025)","September 1, 2025 5:03 AM","September 1, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@September 2, 2025)","September 2, 2025 5:01 AM","September 2, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@September 3, 2025)","September 3, 2025 5:02 AM","September 3, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@September 4, 2025)","September 4, 2025 5:02 AM","September 4, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@September 5, 2025)","September 5, 2025 5:04 AM","September 5, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@September 8, 2025)","September 8, 2025 5:06 AM","September 8, 2025 5:06 AM",Fleeting,Unprocessed
+"Work Day (@September 9, 2025)","September 9, 2025 5:01 AM","September 9, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@September 10, 2025)","September 10, 2025 5:04 AM","September 10, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@September 11, 2025)","September 11, 2025 5:01 AM","September 11, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@September 12, 2025)","September 12, 2025 6:09 AM","September 12, 2025 6:09 AM",Fleeting,Unprocessed
+"Work Day (@September 15, 2025)","September 15, 2025 5:01 AM","September 15, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@September 16, 2025)","September 16, 2025 5:03 AM","September 16, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@September 17, 2025)","September 17, 2025 5:04 AM","September 17, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@September 18, 2025)","September 18, 2025 5:02 AM","September 18, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@September 19, 2025)","September 19, 2025 5:03 AM","September 19, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@September 22, 2025)","September 22, 2025 5:01 AM","September 22, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@September 23, 2025)","September 23, 2025 5:00 AM","September 23, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@September 24, 2025)","September 24, 2025 4:59 AM","September 24, 2025 4:59 AM",Fleeting,Unprocessed
+"Work Day (@September 25, 2025)","September 25, 2025 5:05 AM","September 25, 2025 5:05 AM",Fleeting,Unprocessed
+"Work Day (@September 26, 2025)","September 26, 2025 5:04 AM","September 26, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@September 29, 2025)","September 29, 2025 5:00 AM","September 29, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@September 30, 2025)","September 30, 2025 5:03 AM","September 30, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 1, 2025)","October 1, 2025 5:03 AM","October 1, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 2, 2025)","October 2, 2025 5:03 AM","October 2, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 3, 2025)","October 3, 2025 5:02 AM","October 3, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@October 6, 2025)","October 6, 2025 5:02 AM","October 6, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@October 7, 2025)","October 7, 2025 5:02 AM","October 7, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@October 8, 2025)","October 8, 2025 5:02 AM","October 8, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@October 9, 2025)","October 9, 2025 5:01 AM","October 9, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@October 10, 2025)","October 10, 2025 5:02 AM","October 10, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@October 13, 2025)","October 13, 2025 5:00 AM","October 13, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@October 14, 2025)","October 14, 2025 5:04 AM","October 14, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@October 15, 2025)","October 15, 2025 5:03 AM","October 15, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 16, 2025)","October 16, 2025 5:00 AM","October 16, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@October 17, 2025)","October 17, 2025 5:00 AM","October 17, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@October 20, 2025)","October 20, 2025 5:02 AM","October 20, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@October 21, 2025)","October 21, 2025 5:03 AM","October 21, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 22, 2025)","October 22, 2025 5:01 AM","October 22, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@October 23, 2025)","October 23, 2025 5:03 AM","October 23, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 24, 2025)","October 24, 2025 5:01 AM","October 24, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@October 27, 2025)","October 27, 2025 4:59 AM","October 27, 2025 4:59 AM",Fleeting,Unprocessed
+"Work Day (@October 28, 2025)","October 28, 2025 5:03 AM","October 28, 2025 5:03 AM",Fleeting,Unprocessed
+"Work Day (@October 29, 2025)","October 29, 2025 4:59 AM","October 29, 2025 4:59 AM",Fleeting,Unprocessed
+"Work Day (@October 30, 2025)","October 30, 2025 5:00 AM","October 30, 2025 5:00 AM",Fleeting,Unprocessed
+"Work Day (@October 31, 2025)","October 31, 2025 5:01 AM","October 31, 2025 5:01 AM",Fleeting,Unprocessed
+"Work Day (@November 3, 2025)","November 3, 2025 5:47 AM","November 3, 2025 5:47 AM",Fleeting,Unprocessed
+"Work Day (@November 4, 2025)","November 4, 2025 5:06 AM","November 4, 2025 5:06 AM",Fleeting,Unprocessed
+"Work Day (@November 5, 2025)","November 5, 2025 5:36 AM","November 5, 2025 5:36 AM",Fleeting,Unprocessed
+"Work Day (@November 6, 2025)","November 6, 2025 5:25 AM","November 6, 2025 5:25 AM",Fleeting,Unprocessed
+"Work Day (@November 7, 2025)","November 7, 2025 5:15 AM","November 7, 2025 5:15 AM",Fleeting,Unprocessed
+"Work Day (@November 10, 2025)","November 10, 2025 5:29 AM","November 10, 2025 5:29 AM",Fleeting,Unprocessed
+"Work Day (@November 11, 2025)","November 11, 2025 5:37 AM","November 11, 2025 5:37 AM",Fleeting,Unprocessed
+"Work Day (@November 12, 2025)","November 12, 2025 5:07 AM","November 12, 2025 5:07 AM",Fleeting,Unprocessed
+"Work Day (@November 13, 2025)","November 13, 2025 5:08 AM","November 13, 2025 5:08 AM",Fleeting,Unprocessed
+"Work Day (@November 14, 2025)","November 14, 2025 5:16 AM","November 14, 2025 5:16 AM",Fleeting,Unprocessed
+"Work Day (@November 17, 2025)","November 17, 2025 5:48 AM","November 17, 2025 5:48 AM",Fleeting,Unprocessed
+"Work Day (@November 18, 2025)","November 18, 2025 5:06 AM","November 18, 2025 5:06 AM",Fleeting,Unprocessed
+"Work Day (@November 19, 2025)","November 19, 2025 5:30 AM","November 19, 2025 5:30 AM",Fleeting,Unprocessed
+"Work Day (@November 20, 2025)","November 20, 2025 5:09 AM","November 20, 2025 5:09 AM",Fleeting,Unprocessed
+"Work Day (@November 21, 2025)","November 21, 2025 5:41 AM","November 21, 2025 5:41 AM",Fleeting,Unprocessed
+"Work Day (@November 24, 2025)","November 24, 2025 5:06 AM","November 24, 2025 5:06 AM",Fleeting,Unprocessed
+"Work Day (@November 25, 2025)","November 25, 2025 5:34 AM","November 25, 2025 5:34 AM",Fleeting,Unprocessed
+"Work Day (@November 26, 2025)","November 26, 2025 5:52 AM","November 26, 2025 5:52 AM",Fleeting,Unprocessed
+"Work Day (@November 27, 2025)","November 27, 2025 5:45 AM","November 27, 2025 5:45 AM",Fleeting,Unprocessed
+"Work Day (@November 28, 2025)","November 28, 2025 5:47 AM","November 28, 2025 5:47 AM",Fleeting,Unprocessed
+"Work Day (@December 1, 2025)","December 1, 2025 5:05 AM","December 1, 2025 5:05 AM",Fleeting,Unprocessed
+Annual Review,"December 1, 2025 5:46 AM","December 1, 2025 5:46 AM",Permanent,Processed
+"Work Day (@December 2, 2025)","December 2, 2025 5:09 AM","December 2, 2025 5:09 AM",Fleeting,Unprocessed
+"Work Day (@December 3, 2025)","December 3, 2025 5:18 AM","December 3, 2025 5:18 AM",Fleeting,Unprocessed
+"Work Day (@December 4, 2025)","December 4, 2025 5:17 AM","December 4, 2025 5:17 AM",Fleeting,Unprocessed
+"Work Day (@December 5, 2025)","December 5, 2025 5:17 AM","December 5, 2025 5:17 AM",Fleeting,Unprocessed
+"Work Day (@December 8, 2025)","December 8, 2025 5:21 AM","December 8, 2025 5:21 AM",Fleeting,Unprocessed
+"Work Day (@December 9, 2025)","December 9, 2025 5:04 AM","December 9, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@December 10, 2025)","December 10, 2025 5:04 AM","December 10, 2025 5:04 AM",Fleeting,Unprocessed
+"Work Day (@December 11, 2025)","December 11, 2025 5:32 AM","December 11, 2025 5:32 AM",Fleeting,Unprocessed
+"Work Day (@December 12, 2025)","December 12, 2025 5:14 AM","December 12, 2025 5:14 AM",Fleeting,Unprocessed
+"Work Day (@December 15, 2025)","December 15, 2025 5:32 AM","December 15, 2025 5:32 AM",Fleeting,Unprocessed
+"Work Day (@December 16, 2025)","December 16, 2025 5:20 AM","December 16, 2025 5:20 AM",Fleeting,Unprocessed
+"Work Day (@December 17, 2025)","December 17, 2025 5:09 AM","December 17, 2025 5:09 AM",Fleeting,Unprocessed
+"Work Day (@December 18, 2025)","December 18, 2025 5:06 AM","December 18, 2025 5:06 AM",Fleeting,Unprocessed
+"Work Day (@December 19, 2025)","December 19, 2025 5:05 AM","December 19, 2025 5:05 AM",Fleeting,Unprocessed
+"Work Day (@December 22, 2025)","December 22, 2025 5:14 AM","December 22, 2025 5:14 AM",Fleeting,Unprocessed
+"Work Day (@December 23, 2025)","December 23, 2025 5:21 AM","December 23, 2025 5:21 AM",Fleeting,Unprocessed
+"Work Day (@December 24, 2025)","December 24, 2025 5:11 AM","December 24, 2025 5:11 AM",Fleeting,Unprocessed
+"Work Day (@December 25, 2025)","December 25, 2025 5:02 AM","December 25, 2025 5:02 AM",Fleeting,Unprocessed
+"Work Day (@December 26, 2025)","December 26, 2025 5:23 AM","December 26, 2025 5:23 AM",Fleeting,Unprocessed
+"Work Day (@December 29, 2025)","December 29, 2025 5:22 AM","December 29, 2025 5:22 AM",Fleeting,Unprocessed
+"Work Day (@December 30, 2025)","December 30, 2025 5:08 AM","December 30, 2025 5:08 AM",Fleeting,Unprocessed
+Stupidity and Friendly APIs,"May 16, 2022 2:23 AM","September 20, 2023 2:23 AM",Literature,Processed
+Regions,"August 9, 2022 1:12 AM","September 20, 2023 2:23 AM",Literature,Processed
+On Premise Computing,"August 9, 2022 1:22 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Access AWS Using The AWS Management Console,"August 10, 2022 1:25 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Access AWS Using AWS SDK(s),"August 10, 2022 1:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+AWS Security Model,"August 11, 2022 12:49 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is IAM?,"August 11, 2022 1:00 AM","September 20, 2023 2:23 AM",Literature,Processed
+Permissions,"August 11, 2022 1:44 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Budget,"August 11, 2022 2:57 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create A Role,"August 11, 2022 3:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+Amazon Machine Images,"August 12, 2022 1:05 AM","September 20, 2023 2:23 AM",Literature,Processed
+Instance Types,"August 12, 2022 2:52 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Connect To An EC2 Instance Using SSH,"September 27, 2022 1:07 AM","September 20, 2023 2:23 AM",Literature,Processed
+Internet Gateway,"September 30, 2022 2:05 AM","September 20, 2023 2:23 AM",Literature,Processed
+VPC Defaults,"October 1, 2022 12:48 AM","September 20, 2023 2:23 AM",Literature,Processed
+Blessings Dressed As A Curse,"October 2, 2022 5:18 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+What Are Bits?,"October 4, 2022 2:33 AM","September 20, 2023 2:23 AM",Literature,Processed
+Networking,"October 4, 2022 11:53 PM","September 20, 2023 2:23 AM",Literature,Processed
+VPC Peering,"October 5, 2022 12:10 AM","September 20, 2023 2:23 AM",Literature,Processed
+Transit Gateways,"October 5, 2022 12:14 AM","September 20, 2023 2:23 AM",Literature,Processed
+VPC Endpoints,"October 5, 2022 12:25 AM","September 20, 2023 2:23 AM",Literature,Processed
+How to Create a Subnet,"October 5, 2022 1:47 AM","September 20, 2023 2:23 AM",Literature,Processed
+Password Policies,"October 5, 2022 2:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+Security Tools,"October 5, 2022 2:02 AM","September 20, 2023 2:23 AM",Literature,Processed
+User Groups,"October 5, 2022 2:03 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A VPC?,"October 5, 2022 2:47 AM","September 20, 2023 2:23 AM",Literature,Processed
+Types Of Load Balancers,"October 6, 2022 2:22 AM","September 20, 2023 2:23 AM",Literature,Processed
+Connection Draining,"October 6, 2022 2:22 AM","September 20, 2023 2:23 AM",Literature,Processed
+Health Checks,"October 8, 2022 1:15 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create An Auto Scaling Group,"October 11, 2022 1:06 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An Auto Scaling Group?,"October 11, 2022 2:16 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is EBS?,"October 12, 2022 10:10 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An Instance Store?,"October 12, 2022 10:11 PM","September 20, 2023 2:23 AM",Literature,Processed
+EBS Snapshots,"October 12, 2022 11:26 PM","September 20, 2023 2:23 AM",Literature,Processed
+Types Of EBS,"October 12, 2022 11:29 PM","September 20, 2023 2:23 AM",Literature,Processed
+Create Standalone EBS Volume,"October 13, 2022 1:30 AM","September 20, 2023 2:23 AM",Literature,Processed
+How To Create An EFS?,"October 13, 2022 1:48 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Dreams Are Made Of,"October 16, 2022 10:41 PM","February 18, 2024 11:21 PM",Permanent,Processed
+Unwavering Conviction,"October 17, 2022 12:47 AM","November 2, 2024 3:53 AM",Permanent,Processed
+Authentication And Routing Is State Management,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Server State,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Complexity Subjectiveness,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+UseEffect Mental Model,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+You Will Not Convince Everyone Always,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Web State Explosion,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+State Charts For Strict Navigation,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Route Hierarchy Inversion,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Orchestration Is About Control,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Should A Router Do When Navigating,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+“Decide What To Do” Then “Act On It”,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+State Charts For Business Concerns,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Ember Templates Are A Function Of State,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Difficulty Subjective Terms,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+We Have Gone Full Circle From PHP To React,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Fool-proofing Links,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Making The Bad Thing The Easy Thing,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Are You Willing To Couple To Make Things Easier?,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Reasons For Custom Back Buttons,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+React Still Needs A Good REST Solution,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Class Components Abandonment,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Stack Navigation For Single Page Applications,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+When/Why useEffect Does Not Always Work?,"October 18, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+Everything Is Designed To Do Something,"October 18, 2022 1:36 AM","November 19, 2023 12:51 AM",Literature,Processed
+Life Is A Terminal,"October 18, 2022 1:36 AM","October 1, 2023 11:40 PM",Literature,Processed
+Keep Moving Forward While You Worry,"October 18, 2022 1:36 AM","October 1, 2023 11:40 PM",Literature,Unprocessed
+Mental Clarity Is a Sign Of Braveness,"October 18, 2022 1:36 AM","October 1, 2023 11:40 PM",Literature,Unprocessed
+Sharing What You Like To Your Children,"October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+"Show, Don’t Order","October 18, 2022 1:36 AM","October 1, 2023 11:29 PM",Literature,Processed
+What Is Just?,"October 18, 2022 1:36 AM","October 1, 2023 11:40 PM",Literature,Unprocessed
+"A Framework-Independent, Decoupled Frontend Architecture For Large Scale Projects | T3chFest 2019","October 18, 2022 2:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+The Clean Architecture,"October 18, 2022 2:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+Web UI Architecture,"October 18, 2022 2:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+Decoupling Apps From Frameworks,"October 18, 2022 2:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+"Statecharts For Requirements Specification - As Simple As Possible, As Rich As Needed","October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Interactive Application Architecture,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Planning Is Guessing,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+"No Deadlines For You! Software Dev Without Estimates, Specs or Other Lies","October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Pure UI,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Why The React Community Is Missing The Point Of Web Components,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+"Yes, Your Code Is Opinionated","October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+Fear Of The Un-opinionated Framework,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+Search Engine Optimizations 101,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+Reactivity in Web Frameworks,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+The Magpie Developer,"October 18, 2022 2:50 AM","September 20, 2023 2:23 AM",Literature,Processed
+Throughput,"October 20, 2022 1:45 AM","September 20, 2023 2:23 AM",Literature,Processed
+You Don’t Need Kubernetes,"October 20, 2022 10:46 AM","September 20, 2023 2:23 AM",Fleeting,Unprocessed
+Tu Vida de Gratificación Instantánea,"October 20, 2022 10:56 AM","September 20, 2023 2:23 AM",Fleeting,Unprocessed
+Types Of Databases,"October 22, 2022 1:16 AM","September 20, 2023 2:23 AM",Literature,Processed
+Inventing By Chance,"October 24, 2022 8:15 PM","October 1, 2023 7:15 PM",Literature,Processed
+Software Development Is Like Pop Culture,"October 24, 2022 8:17 PM","September 20, 2023 2:23 AM",Literature,Processed
+Throw Away Common Sense,"October 24, 2022 8:20 PM","November 4, 2023 6:46 PM",Literature,Processed
+Time Is Just The Measure Of Motion,"October 24, 2022 8:38 PM","October 1, 2023 7:29 PM",Literature,Processed
+Different Angles Of The Same Problem,"October 24, 2022 8:40 PM","October 1, 2023 7:29 PM",Literature,Unprocessed
+The Operating System of the Mind,"October 24, 2022 8:44 PM","October 1, 2023 7:29 PM",Literature,Unprocessed
+What Is A People's Pride About?,"October 24, 2022 9:06 PM","September 20, 2023 2:23 AM",Literature,Processed
+We All Depend On Someone's Kindness At Some Point In Our Lives,"October 24, 2022 9:12 PM","October 1, 2023 7:29 PM",Literature,Processed
+Anti INTJ Opinion,"October 24, 2022 9:17 PM","October 1, 2023 7:28 PM",Literature,Unprocessed
+Coming To Terms With Your Decisions,"October 24, 2022 9:24 PM","December 18, 2023 1:11 AM",Literature,Unprocessed
+Looking Into The Past,"October 24, 2022 9:45 PM","October 1, 2023 7:15 PM",Literature,Unprocessed
+Failures As Catalysts,"October 24, 2022 9:49 PM","February 18, 2024 9:14 PM",Literature,Processed
+Finding Calm Amidst Uncertainty,"October 24, 2022 9:52 PM","October 1, 2023 7:14 PM",Literature,Unprocessed
+No. I will do it. Failure isn't an option,"October 24, 2022 9:55 PM","February 18, 2024 11:17 PM",Literature,Processed
+Universal Bonds: Understanding Each Other,"October 24, 2022 9:58 PM","October 1, 2023 11:40 PM",Literature,Processed
+What Is Aurora?,"October 24, 2022 11:16 PM","September 20, 2023 2:23 AM",Literature,Processed
+Parameter Groups,"October 24, 2022 11:33 PM","September 20, 2023 2:23 AM",Literature,Processed
+Read Replicas,"October 24, 2022 11:38 PM","September 20, 2023 2:23 AM",Literature,Processed
+Stand By Replicas,"October 25, 2022 12:58 AM","September 20, 2023 2:23 AM",Literature,Processed
+RDS Connection,"October 25, 2022 1:15 AM","September 20, 2023 2:23 AM",Literature,Processed
+RDS Access Management,"October 25, 2022 1:30 AM","September 20, 2023 2:23 AM",Literature,Processed
+Databases Networking,"October 25, 2022 1:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Caching?,"October 26, 2022 12:43 AM","September 20, 2023 2:23 AM",Literature,Processed
+CDN Caching,"October 26, 2022 1:14 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Web Server Caching,"October 26, 2022 1:14 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Application Caching,"October 26, 2022 1:15 AM","September 20, 2023 2:23 AM",Literature,Processed
+What To Cache?,"October 26, 2022 2:08 AM","September 20, 2023 2:23 AM",Literature,Processed
+Write-through Caching Strategy,"October 27, 2022 1:30 AM","September 20, 2023 2:23 AM",Literature,Processed
+Read-through Caching Strategy,"October 27, 2022 2:31 AM","September 20, 2023 2:23 AM",Literature,Processed
+ElastiCache Engines,"October 27, 2022 8:14 PM","September 20, 2023 2:23 AM",Literature,Processed
+Less Known Database Services,"October 28, 2022 1:15 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is S3?,"November 2, 2022 1:40 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is Lambda?,"November 2, 2022 1:43 AM","September 20, 2023 2:23 AM",Literature,Processed
+EC2 Vs Lambda,"November 2, 2022 9:37 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Are Containers?,"November 2, 2022 11:54 PM","September 20, 2023 2:23 AM",Literature,Processed
+EC2 vs ECS,"November 3, 2022 12:35 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is EKS?,"November 3, 2022 1:09 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Task Definition?,"November 3, 2022 2:06 AM","September 20, 2023 2:23 AM",Literature,Processed
+Container Images Repositories,"November 4, 2022 1:37 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is An Interface?,"November 7, 2022 11:42 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is HTTP?,"November 8, 2022 1:40 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is Lightsail?,"November 10, 2022 1:34 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is AppRunner?,"November 10, 2022 1:36 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Copilot?,"November 10, 2022 1:38 AM","September 20, 2023 2:23 AM",Literature,Processed
+HCI Patterns,"November 12, 2022 9:28 AM","September 20, 2023 2:23 AM",Fleeting,Unprocessed
+Inter-Proccess Communication,"November 18, 2022 12:56 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+What Is SNS?,"November 19, 2022 12:21 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is PubSub?,"November 19, 2022 2:10 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Are Step Functions?,"November 19, 2022 2:13 PM","September 20, 2023 2:23 AM",Literature,Processed
+Hero Of Justice,"December 25, 2022 4:27 PM","October 1, 2023 11:38 PM",Literature,Unprocessed
+What Is Bookkeeping?,"December 28, 2022 8:19 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is A Ledger?,"December 29, 2022 6:35 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Database Duplication?,"December 30, 2022 1:42 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Distributed Consensus?,"December 30, 2022 1:52 AM","September 20, 2023 2:23 AM",Literature,Processed
+What Is Proof-of-Work?,"December 30, 2022 2:25 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Being Serious Is Not A Virtue,"December 31, 2022 9:33 PM","October 1, 2023 7:50 PM",Literature,Unprocessed
+An Outsider's Point Of View Can Be Helpful,"December 31, 2022 9:54 PM","October 1, 2023 7:49 PM",Literature,Processed
+Your Worst Enemy Is What You Think You Know,"December 31, 2022 10:14 PM","November 4, 2023 6:45 PM",Literature,Processed
+I Am Different From Everyone Else,"December 31, 2022 10:23 PM","December 18, 2023 1:03 AM",Literature,Unprocessed
+Information Consumption Says A Lot About A Person,"December 31, 2022 10:32 PM","October 1, 2023 7:49 PM",Literature,Processed
+"If Something Happens Twice, It’s Worth Betting On","December 31, 2022 11:12 PM","October 1, 2023 7:49 PM",Literature,Processed
+Empty Criticism,"January 1, 2023 12:54 AM","October 1, 2023 7:48 PM",Literature,Processed
+"New Year, New Me","January 1, 2023 3:11 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Types Of Blockchains,"January 2, 2023 7:30 PM","September 20, 2023 2:23 AM",Literature,Unprocessed
+How Is Access Represented In Crypto?,"January 3, 2023 4:24 PM","September 20, 2023 2:23 AM",Literature,Unprocessed
+It's Gonna Rain,"January 4, 2023 12:48 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+What Is An Address?,"January 5, 2023 2:11 AM","September 20, 2023 2:23 AM",Literature,Unprocessed
+Turbulentous Saturday,"January 7, 2023 1:04 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+After A Stormy Week,"January 21, 2023 12:13 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+First Cold Of The Year,"January 23, 2023 1:39 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Tired Of Being Sick,"January 26, 2023 1:37 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Messenger From Zero,"January 27, 2023 12:22 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+First Sunday In A Long Time,"January 29, 2023 3:57 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Keep Going,"January 31, 2023 2:00 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+One Week After The Storm,"February 6, 2023 1:25 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Focus Instead Of Panicking,"February 7, 2023 1:44 AM","October 1, 2023 7:48 PM",Literature,Processed
+"Even If The World Didn't Look Like It Had Changed, Time Is Still Passing","February 7, 2023 1:56 AM","October 1, 2023 7:48 PM",Literature,Processed
+Fakers,"February 7, 2023 2:23 AM","October 1, 2023 7:48 PM",Literature,Processed
+Too Tired To Think,"February 8, 2023 1:22 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+And Now I'm All Alone,"February 10, 2023 1:48 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+Starry Saturday,"February 11, 2023 1:41 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Feelings Over Facts,"February 11, 2023 4:23 PM","October 1, 2023 7:47 PM",Literature,Processed
+Human Speech,"February 11, 2023 4:39 PM","October 1, 2023 7:47 PM",Literature,Unprocessed
+Walmart Please,"February 15, 2023 1:07 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Don't Even Know What Day It Is,"February 16, 2023 1:11 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+It’s Friday But Feels Like Monday,"February 17, 2023 1:01 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+SideProject Motion,"February 22, 2023 3:12 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Want To Show The Entire World,"February 23, 2023 1:59 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+Friday But Not A Calm One,"February 24, 2023 12:43 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Saturday Checkpoint,"February 25, 2023 2:54 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Fri-Fri-Friday,"March 3, 2023 12:56 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Will Survive,"March 8, 2023 4:01 AM","September 20, 2023 2:23 AM",Fleeting,Processed
+Trying To Take It slow,"March 14, 2023 1:20 PM","September 20, 2023 2:23 AM",Fleeting,Processed
+I Will Conquer This Chaos,"March 16, 2023 1:32 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Judging On Appearances,"March 19, 2023 2:35 AM","October 1, 2023 7:46 PM",Literature,Processed
+Uki-like Personalities,"March 19, 2023 2:43 AM","October 1, 2023 7:46 PM",Literature,Processed
+An Image That Defines Who We Are,"March 19, 2023 4:14 AM","October 1, 2023 7:46 PM",Literature,Processed
+Growing To your Full Potential Using The Rules,"March 19, 2023 4:54 PM","October 1, 2023 7:30 PM",Literature,Processed
+" Don’t Believe Everything You Think","March 19, 2023 5:23 PM","September 20, 2023 2:23 AM",Literature,Processed
+What Counts It's Love,"March 19, 2023 8:02 PM","October 1, 2023 7:31 PM",Literature,Processed
+The Girl Named Senri Minamisawa,"March 19, 2023 8:28 PM","October 1, 2023 7:30 PM",Literature,Processed
+"Ignorance, The Mortal Enemy Of The Right Sider","March 21, 2023 12:12 PM","October 1, 2023 7:50 PM",Literature,Unprocessed
+It’s Been  A While,"April 7, 2023 3:48 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Starting A new,"June 20, 2023 11:59 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Monday (Lost The Count),"June 26, 2023 1:17 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Learning To Handle Responsibilities,"June 27, 2023 1:15 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+First Day With Lourdes,"June 28, 2023 12:24 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Clean Freak,"June 29, 2023 12:01 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Pasta Saturday,"July 1, 2023 7:52 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Is it Wednesday Already?,"July 5, 2023 1:33 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Are You Happy? I Think I Am,"July 6, 2023 12:41 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Deathly Loneliness Attacks,"July 10, 2023 1:50 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+What's Wrong With My Attention?,"July 11, 2023 11:58 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+What Am I Feeling?,"July 18, 2023 12:11 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+PTO with Lourdes,"July 21, 2023 2:12 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Vibes Energy,"August 1, 2023 2:08 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+A comatose Wednesday,"August 2, 2023 11:59 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+A Neutrall Thursday,"August 3, 2023 12:40 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+I Need To Sleep More,"August 11, 2023 2:10 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Sleep Paralysis,"August 14, 2023 12:11 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+That's Hell You're Walking Into,"August 18, 2023 12:47 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Truth and Illusion in Communication,"August 21, 2023 3:15 PM","November 4, 2023 7:17 PM",Literature,Processed
+After A Short Vacation,"August 22, 2023 12:45 PM","September 20, 2023 2:28 AM",Fleeting,Processed
+Thanks Brain,"September 1, 2023 12:08 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+It’s About The Journey,"September 3, 2023 1:12 AM","October 1, 2023 11:39 PM",,Processed
+Right-Sider’s Traits,"September 3, 2023 1:25 AM","October 1, 2023 11:39 PM",,Processed
+The Other Side Of Being Protected,"September 3, 2023 2:31 PM","October 1, 2023 11:39 PM",,Processed
+I'm So Fucking Tired,"September 11, 2023 12:46 PM","September 20, 2023 2:27 AM",Fleeting,Processed
+Where Are You?,"September 13, 2023 11:22 AM","September 20, 2023 2:28 AM",Fleeting,Processed
+Being An Enabler,"September 14, 2023 12:25 PM","September 30, 2023 7:32 PM",Fleeting,Processed
+Suffering And Anger Are Necessary,"September 18, 2023 1:31 AM","November 4, 2023 6:34 PM",Literature,Processed
+I'm Alive,"September 19, 2023 12:48 PM","September 20, 2023 2:27 AM",Fleeting,Processed
+A Little Breath,"September 21, 2023 12:39 PM","September 21, 2023 12:45 PM",Fleeting,Processed
+"I'm Right Here, Okay?","September 23, 2023 4:50 PM","February 18, 2024 9:19 PM",Literature,Processed
+Changing The Way We Look At Things,"September 25, 2023 12:12 AM","October 31, 2023 1:40 AM",Literature,Processed
+Tackle Problems As They Emerge,"September 25, 2023 12:35 AM","October 31, 2023 1:40 AM",Literature,Processed
+Naive World View,"September 25, 2023 1:00 AM","October 31, 2023 1:17 AM",Literature,Processed
+Humans Are Incomplete,"September 30, 2023 4:03 PM","November 4, 2023 7:38 PM",Literature,Processed
+Overproduction Of Dopamine,"September 30, 2023 4:07 PM","October 31, 2023 1:12 AM",Literature,Processed
+LifeOS For Barranquilla,"September 30, 2023 8:15 PM","September 30, 2023 8:15 PM",Fleeting,Unprocessed
+Barranquilla News Aggregator,"September 30, 2023 8:15 PM","September 30, 2023 8:23 PM",Fleeting,Unprocessed
+Minamisawa Senri's ID,"September 30, 2023 8:20 PM","October 1, 2023 11:42 PM",Fleeting,Unprocessed
+The Consequences Of Our Decisions,"October 1, 2023 11:46 PM","October 1, 2023 11:49 PM",Permanent,Processed
+Unlimited Rulebook,"October 2, 2023 12:17 AM","October 2, 2023 12:18 AM",Fleeting,Processed
+Why Did I Leave?,"October 2, 2023 12:20 AM","October 2, 2023 12:21 AM",Permanent,Processed
+Monday Changes And Insights,"October 2, 2023 1:05 PM","October 2, 2023 1:10 PM",Fleeting,Processed
+I'm Not Sure How I Am Awake,"October 10, 2023 12:51 PM","October 10, 2023 12:54 PM",Fleeting,Processed
+I Don’t Know Rick I feel Dead,"October 12, 2023 1:49 AM","October 12, 2023 1:51 AM",Fleeting,Processed
+My Life Is Not A Tragedy,"October 13, 2023 12:10 PM","October 13, 2023 12:15 PM",Fleeting,Processed
+Hanging In There,"October 18, 2023 2:06 AM","October 18, 2023 2:08 AM",Fleeting,Processed
+Short Week Insights,"October 18, 2023 1:11 PM","October 18, 2023 1:13 PM",Fleeting,Processed
+I’m All Alone Now,"October 23, 2023 3:26 AM","November 4, 2023 8:21 PM",Fleeting,Processed
+It's Been A While (Again),"October 30, 2023 1:10 PM","October 30, 2023 1:14 PM",Fleeting,Processed
+Processing…Processing…,"October 31, 2023 12:22 PM","November 4, 2023 7:43 PM",Fleeting,Processed
+Lab's Address,"November 15, 2023 2:01 PM","October 18, 2024 10:44 PM",Permanent,Processed
+,"November 22, 2023 3:40 PM","November 22, 2023 8:14 PM",,Unprocessed
+Monday On Fire,"November 28, 2023 2:34 AM","November 28, 2023 2:37 AM",Fleeting,Processed
+Finance Reporter,"December 2, 2023 2:36 AM","December 2, 2023 2:40 AM",Fleeting,Unprocessed
+December 1st,"December 2, 2023 4:54 AM","December 2, 2023 4:58 AM",Fleeting,Processed
+Autonomous Strategist,"December 4, 2023 1:46 PM","December 4, 2023 1:46 PM",Fleeting,Unprocessed
+Finance Report 2023-12-05,"December 6, 2023 2:14 AM","December 6, 2023 2:14 AM",,Unprocessed
+Finance Report 2023-12-05,"December 6, 2023 2:25 AM","December 6, 2023 2:25 AM",,Unprocessed
+Finance Report 2023-12-06,"December 7, 2023 2:24 AM","December 7, 2023 2:24 AM",Fleeting,Unprocessed
+Finance Report 2023-12-06,"December 7, 2023 2:26 AM","December 9, 2023 2:55 PM",Fleeting,Unprocessed
+It Feels Weird,"December 7, 2023 2:40 AM","December 7, 2023 2:43 AM",Fleeting,Processed
+10x Moment,"December 8, 2023 12:16 AM","December 8, 2023 12:20 AM",Fleeting,Processed
+Finance Report 2023-12-09,"December 9, 2023 4:27 PM","December 9, 2023 4:27 PM",Fleeting,Unprocessed
+Finance Report 2023-12-09,"December 9, 2023 4:29 PM","December 9, 2023 4:29 PM",Fleeting,Unprocessed
+Finance Report 2023-12-09,"December 9, 2023 5:20 PM","December 9, 2023 5:20 PM",Fleeting,Unprocessed
+Finance Report 2023-12-10,"December 10, 2023 7:23 PM","December 10, 2023 7:23 PM",Fleeting,Unprocessed
+,"December 12, 2023 1:57 AM","December 12, 2023 1:57 AM",,Unprocessed
+"Work Day (@December 12, 2023)","December 12, 2023 12:47 PM","December 13, 2023 12:34 PM",Fleeting,Processed
+"Work Day (@December 14, 2023)","December 14, 2023 5:32 AM","December 14, 2023 5:37 PM",Fleeting,Unprocessed
+"Work Day (@December 18, 2023)","December 18, 2023 6:24 AM","December 19, 2023 12:44 AM",Fleeting,Processed
+Finance Report 2023-12-18,"December 19, 2023 1:16 AM","December 19, 2023 1:16 AM",Fleeting,Unprocessed
+Finance Report 2023-12-18,"December 19, 2023 1:30 AM","December 19, 2023 1:30 AM",Fleeting,Unprocessed
+"Work Day (@December 19, 2023)","December 19, 2023 7:33 AM","December 22, 2023 11:40 PM",Fleeting,Unprocessed
+"Work Day (@December 21, 2023)","December 21, 2023 5:26 AM","December 21, 2023 8:49 PM",Fleeting,Unprocessed
+Finance Report 2023-12-21,"December 21, 2023 11:45 PM","December 21, 2023 11:45 PM",Fleeting,Unprocessed
+"Work Day (@December 27, 2023)","December 27, 2023 5:23 AM","December 27, 2023 5:23 AM",Fleeting,Unprocessed
+Believe In Your Strength,"December 30, 2023 4:56 PM","January 9, 2024 1:01 AM",Literature,Unprocessed
+Hey Future Me,"December 31, 2023 4:52 PM","February 20, 2024 1:18 AM",Fleeting,Processed
+Why Do I Do Things?,"January 3, 2024 2:20 AM","January 3, 2024 2:25 AM",Fleeting,Processed
+"Work Day (@January 3, 2024)","January 3, 2024 7:29 AM","January 3, 2024 7:29 AM",Fleeting,Unprocessed
+Darker Clouds,"January 5, 2024 3:11 AM","January 5, 2024 3:15 AM",Fleeting,Processed
+"Work Day (@January 5, 2024)","January 5, 2024 5:49 AM","January 5, 2024 4:37 PM",Fleeting,Unprocessed
+Darkest Night,"January 6, 2024 3:47 AM","January 6, 2024 3:49 AM",Fleeting,Processed
+Keep Your Emotions In Check,"January 6, 2024 2:55 PM","February 3, 2024 4:30 PM",Literature,Processed
+"Embrace Legacy, Keep Moving","January 9, 2024 12:36 AM","January 9, 2024 12:59 AM",Literature,Unprocessed
+Are You Willing To Be Left Behind?,"January 9, 2024 12:44 AM","January 9, 2024 12:59 AM",Literature,Unprocessed
+An Acclamation Of The Soul,"January 9, 2024 12:52 AM","January 9, 2024 12:58 AM",Literature,Unprocessed
+"Work Day (@January 10, 2024)","January 10, 2024 7:45 AM","January 10, 2024 7:45 AM",Fleeting,Unprocessed
+"Work Day (@January 12, 2024)","January 12, 2024 5:33 AM","January 12, 2024 5:33 AM",Fleeting,Unprocessed
+"Work Day (@January 15, 2024)","January 15, 2024 6:04 AM","January 15, 2024 12:48 PM",Fleeting,Unprocessed
+"Work Day (@January 18, 2024)","January 18, 2024 7:08 AM","January 18, 2024 7:08 AM",Fleeting,Unprocessed
+"Work Day (@January 19, 2024)","January 19, 2024 6:30 AM","January 19, 2024 6:30 AM",Fleeting,Unprocessed
+"Work Day (@January 23, 2024)","January 23, 2024 5:39 AM","January 23, 2024 5:39 AM",Fleeting,Unprocessed
+EveryDay Life,"January 24, 2024 2:47 AM","January 24, 2024 2:54 AM",Fleeting,Processed
+"Work Day (@January 25, 2024)","January 25, 2024 6:33 AM","January 25, 2024 8:23 PM",Fleeting,Unprocessed
+"Work Day (@January 26, 2024)","January 26, 2024 6:56 AM","January 26, 2024 12:19 PM",Fleeting,Unprocessed
+"Tired, I’m tired","January 30, 2024 2:07 AM","January 30, 2024 2:13 AM",Fleeting,Processed
+Enjoying The Moment,"February 2, 2024 1:55 AM","February 2, 2024 1:58 AM",Fleeting,Processed
+,"February 2, 2024 2:05 AM","February 2, 2024 2:06 AM",,Unprocessed
+Idea For Password,"February 3, 2024 2:52 PM","February 3, 2024 2:56 PM",Literature,Unprocessed
+Believe There's An answer,"February 3, 2024 3:04 PM","June 1, 2024 5:55 PM",Literature,Processed
+You're You,"February 3, 2024 3:08 PM","June 27, 2024 2:14 PM",Literature,Unprocessed
+The Simplest Explanation Is Usually The Best One,"February 3, 2024 4:01 PM","June 1, 2024 6:11 PM",Literature,Processed
+Is The Brain The Exception?,"February 3, 2024 4:04 PM","February 3, 2024 4:08 PM",Literature,Unprocessed
+The Nature Of Memories,"February 3, 2024 4:06 PM","February 3, 2024 4:49 PM",Literature,Unprocessed
+The Framing Problem,"February 3, 2024 4:12 PM","February 3, 2024 4:25 PM",Literature,Unprocessed
+Pictures Are Memories,"February 3, 2024 4:42 PM","February 3, 2024 4:44 PM",Literature,Unprocessed
+Amadeus Take On Memories,"February 3, 2024 5:31 PM","February 5, 2024 1:36 AM",Literature,Unprocessed
+Hippocampal Gyrus,"February 5, 2024 12:55 AM","February 5, 2024 12:56 AM",Literature,Unprocessed
+Brain Signal Processing Systems,"February 5, 2024 12:58 AM","February 5, 2024 12:59 AM",Literature,Unprocessed
+"Work Day (@February 5, 2024)","February 5, 2024 5:41 AM","February 5, 2024 5:41 AM",Fleeting,Unprocessed
+"Work Day (@February 7, 2024)","February 7, 2024 7:29 AM","February 7, 2024 7:29 AM",Fleeting,Unprocessed
+Job Hunt Dump,"February 10, 2024 3:51 PM","February 13, 2024 5:37 PM",Fleeting,Processed
+"Work Day (@February 12, 2024)","February 12, 2024 6:12 AM","February 12, 2024 6:12 AM",Fleeting,Unprocessed
+How Envy Shadows,"February 12, 2024 5:30 PM","February 12, 2024 5:33 PM",Literature,Unprocessed
+The Turtle Hermit Way To Learn,"February 13, 2024 1:33 AM","February 13, 2024 1:38 AM",Literature,Unprocessed
+"Work Day (@February 14, 2024)","February 14, 2024 6:55 AM","February 14, 2024 6:55 AM",Fleeting,Unprocessed
+"Work Day (@February 16, 2024)","February 16, 2024 6:43 AM","February 16, 2024 6:43 AM",Fleeting,Unprocessed
+Core Pride,"February 19, 2024 12:00 AM","February 19, 2024 3:56 PM",Literature,Unprocessed
+Glow Of Passion,"February 19, 2024 12:09 AM","February 19, 2024 12:10 AM",Literature,Unprocessed
+Trying To Work Things Out,"February 19, 2024 2:24 AM","February 19, 2024 2:37 AM",Fleeting,Processed
+Scientific Lingo,"February 19, 2024 9:43 PM","February 19, 2024 9:45 PM",Literature,Unprocessed
+We Don't Know How The Brain Works,"February 24, 2024 2:20 PM","February 24, 2024 2:42 PM",Literature,Unprocessed
+The Frame Problem,"February 24, 2024 2:43 PM","February 26, 2024 2:10 AM",Literature,Unprocessed
+"Work Day (@March 8, 2024)","March 8, 2024 6:51 AM","March 8, 2024 6:51 AM",Fleeting,Unprocessed
+Sometimes Things Are Closer Than You Expect You Just Need To Reach For Them,"March 11, 2024 12:33 AM","March 11, 2024 12:45 AM",Permanent,Processed
+"Work Day (@March 11, 2024)","March 11, 2024 5:13 AM","March 11, 2024 5:13 AM",Fleeting,Unprocessed
+"Work Day (@March 12, 2024)","March 12, 2024 5:41 AM","March 12, 2024 5:41 AM",Fleeting,Unprocessed
+"Thanking Dragon Ball, Teaching Finances and SPA Experiments","March 12, 2024 12:43 PM","March 12, 2024 12:59 PM",Fleeting,Processed
+"Work Day (@March 13, 2024)","March 13, 2024 5:01 AM","March 13, 2024 5:01 AM",Fleeting,Unprocessed
+"Work Day (@March 14, 2024)","March 14, 2024 6:14 AM","March 14, 2024 1:06 PM",Fleeting,Unprocessed
+"Work Day (@March 18, 2024)","March 18, 2024 7:52 AM","March 18, 2024 7:52 AM",Fleeting,Unprocessed
+I'm Always Watching You,"March 19, 2024 1:33 AM","March 21, 2024 1:41 AM",Literature,Unprocessed
+Echoes of Regret,"March 19, 2024 1:40 AM","March 19, 2024 12:45 PM",Literature,Unprocessed
+Information A Trump Card,"March 21, 2024 1:35 AM","March 21, 2024 1:40 AM",Literature,Unprocessed
+Memories Trivia,"March 21, 2024 1:41 AM","March 21, 2024 1:48 AM",Literature,Unprocessed
+"Work Day (@March 21, 2024)","March 21, 2024 5:10 AM","March 21, 2024 5:10 AM",Fleeting,Unprocessed
+Another Day In The Work,"March 23, 2024 2:54 AM","March 23, 2024 2:59 AM",Fleeting,Processed
+"Work Day (@March 28, 2024)","March 28, 2024 5:03 AM","March 28, 2024 5:03 AM",Fleeting,Unprocessed
+Cognitive Dissonance,"March 28, 2024 4:52 PM","March 31, 2024 9:32 PM",Literature,Unprocessed
+"Work Day (@March 29, 2024)","March 29, 2024 5:00 AM","March 29, 2024 5:00 AM",Fleeting,Unprocessed
+Remnants Of Death Vs Life Sensations,"March 31, 2024 9:29 PM","March 31, 2024 9:31 PM",Literature,Unprocessed
+Accept The Past For What It Was And Connect It To The Future,"April 1, 2024 1:38 AM","April 1, 2024 1:44 AM",Literature,Unprocessed
+D-Rine,"April 1, 2024 1:52 AM","April 1, 2024 1:52 AM",Literature,Unprocessed
+If I Could Deceive The World,"April 1, 2024 1:54 AM","April 1, 2024 1:54 AM",Literature,Unprocessed
+Tangled Emotions,"April 8, 2024 2:13 AM","April 8, 2024 2:32 AM",Literature,Processed
+"Work Day (@April 11, 2024)","April 11, 2024 5:01 AM","April 11, 2024 5:01 AM",Fleeting,Unprocessed
+"Work Day (@April 15, 2024)","April 15, 2024 5:00 AM","April 15, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 17, 2024)","April 17, 2024 5:00 AM","April 17, 2024 5:00 AM",Fleeting,Unprocessed
+"Work Day (@April 18, 2024)","April 18, 2024 5:38 AM","April 18, 2024 5:38 AM",Fleeting,Unprocessed
+"Work Day (@April 22, 2024)","April 22, 2024 6:35 AM","April 22, 2024 6:35 AM",Fleeting,Unprocessed
+"Work Day (@April 23, 2024)","April 23, 2024 5:16 AM","April 23, 2024 5:16 AM",Fleeting,Unprocessed
+"Work Day (@April 26, 2024)","April 26, 2024 7:40 AM","April 26, 2024 7:40 AM",Fleeting,Unprocessed
+"Work Day (@May 7, 2024)","May 7, 2024 6:23 AM","May 7, 2024 6:23 AM",Fleeting,Unprocessed
+"Work Day (@May 8, 2024)","May 8, 2024 7:33 AM","May 8, 2024 7:33 AM",Fleeting,Unprocessed
+"Work Day (@May 9, 2024)","May 9, 2024 5:55 AM","May 9, 2024 5:55 AM",Fleeting,Unprocessed
+"Work Day (@May 13, 2024)","May 13, 2024 6:24 AM","May 13, 2024 6:24 AM",Fleeting,Unprocessed
+"Work Day (@May 16, 2024)","May 16, 2024 6:18 AM","May 16, 2024 6:18 AM",Fleeting,Unprocessed
+"Work Day (@May 20, 2024)","May 20, 2024 7:37 AM","May 20, 2024 7:37 AM",Fleeting,Unprocessed
+Built-in Self Deception,"May 21, 2024 2:08 AM","May 21, 2024 2:14 AM",Literature,Unprocessed
+Quitters,"May 21, 2024 2:21 AM","May 21, 2024 2:22 AM",Literature,Unprocessed
+"Work Day (@May 21, 2024)","May 21, 2024 5:14 AM","May 21, 2024 5:14 AM",Fleeting,Unprocessed
+Don't Let Peaceful Times Blind You From An Incoming Future,"May 23, 2024 1:13 AM","September 8, 2025 2:29 AM",Literature,Unprocessed
+Future Aspirations Vs Current Capabilities,"May 23, 2024 2:00 AM","May 23, 2024 2:07 AM",Literature,Unprocessed
+Information War,"May 25, 2024 2:53 PM","May 25, 2024 3:15 PM",Literature,Unprocessed
+At Least Provide Me With The Information,"May 25, 2024 3:35 PM","May 25, 2024 3:46 PM",Literature,Unprocessed
+‘God’ vs Science,"May 25, 2024 4:02 PM","June 11, 2024 3:04 AM",Literature,Unprocessed
+"Once You Hit Rock Bottom, You Can Only Climb Back Up","May 27, 2024 2:07 AM","May 27, 2024 2:19 AM",Literature,Unprocessed
+"Work Day (@May 27, 2024)","May 27, 2024 5:37 AM","May 27, 2024 5:37 AM",Fleeting,Unprocessed
+This…Is My Choice,"May 28, 2024 1:25 AM","May 28, 2024 1:29 AM",Literature,Unprocessed
+Should I Marry?,"June 27, 2024 1:57 AM","June 27, 2024 2:11 PM",Fleeting,Unprocessed
+"Without Love, The Truth Cannot Be Seen","June 27, 2024 2:11 PM","October 30, 2024 8:12 PM",Literature,Unprocessed
+"Work Day (@December 31, 2025)","December 31, 2025 5:10 AM","December 31, 2025 5:10 AM",Fleeting,Unprocessed

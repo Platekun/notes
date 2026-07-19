@@ -1,0 +1,20 @@
+﻿Name,Amount,Description,Direction
+Agua,"COP 200,000.00",Servicio de agua de AAA,Egreso
+Gas,"COP 30,000.00",Servicio de gas de Gases del Caribe,Egreso
+Electricidad,"COP 700,000.00",Servicio de electricidad de Air-e,Egreso
+Administración,"COP 350,000.00",Servicio de administración con 10% de descuento.,Egreso
+Alimentación,"COP 2,000,000.00",Compra de alimentos del mes.,Egreso
+Internet,"COP 140,000.00",Servicio de Internet de Claro,Egreso
+Apple One,"COP 83,900.00",Servicio de Apple One de toda la Familia,Egreso
+Servicio de limpieza,"COP 300,000.00","Servicio de Limpieza.
+
+75.000 COP cada sesión.",Egreso
+Renta,"COP 1,000,000.00",Acuerdo de pago por vivir en el apartamento con mi familia.,Egreso
+Subsidio de internet,"COP 100,000.00",Subsidio de internet dado por Zemoga,Ingreso
+Salario,"COP 15,915,654.00","Salario por trabajar en Zemoga
+
+Neto (Exceptuando AFC)",Ingreso
+Productos de cabello,"COP 310,000.00",Productos de cuidado de cabello.,Egreso
+Plan móvil de datos,"COP 89,999.00",Servicio de plan de datos para el celular de Claro,Egreso
+YouTube Premium,"COP 41,900.00",Servicio para no ver publicidad en YouTube,Egreso
+Almuerzos (Día de Limpieza),"COP 180,000.00",,Egreso
