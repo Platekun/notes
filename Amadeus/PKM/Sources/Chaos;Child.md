@@ -1,0 +1,6 @@
+---
+URL: "https://en.wikipedia.org/wiki/Chaos;Child"
+Notes: "Being Serious Is Not A Virtue, Unconventional Thinking, An Outsider's Point Of View Can Be Helpful, Your Worst Enemy Is What You Think You Know, I Am Different From Everyone Else, Information Consumption Says A Lot About A Person, Give Your All In Everything You Do, Be Flexible In Your Thinking, The Rules Of the System, Empty Criticism, Genius vs Talented, If Something Happens Twice, It’s Worth Betting On, Focus Instead Of Panicking, What Is Valuable Information?, Information Forgery, Even If The World Didn't Look Like It Had Changed, Time Is Still Passing, Information Clash Instinct, We Don't Know How The Other One Feels, Fakers, Feelings Over Facts, Identity Disorders, The Fear Of Insignificance, The Girl Named Senri Minamisawa, The Ultimate Goal Of A Right-Sider, A Life Without Purpose, I Can Relax When I'm Around You, Disconnected From Everyone Else, What Counts It's Love, What We Believe In, Growing To your Full Potential Using The Rules, Just Give Me The Details, Uki-like Personalities, An Image That Defines Who We Are, Judging On Appearances, Investigator Mindset, Lack Of Empathy When Getting Information, Ignorance, The Mortal Enemy Of The Right Sider, Human Speech, Make Sure That Whatever You Do, You Don’t Regret It, Ark Heart, Information Broker"
+---
+
+# Chaos;Child
