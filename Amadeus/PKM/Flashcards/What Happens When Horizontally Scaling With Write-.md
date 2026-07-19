@@ -1,0 +1,8 @@
+---
+area: "Systems Design"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "Cache nodes do not have data until written. This happens when scaling or restoring from failures."
+---
+
+# What Happens When Horizontally Scaling With Write-Through?

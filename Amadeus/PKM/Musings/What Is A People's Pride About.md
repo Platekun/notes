@@ -1,0 +1,17 @@
+---
+note-type: "Literature"
+author: "Monaito"
+primary-zettelkasten-area: "Emotions"
+status: "Processed"
+sources: "Saiyan Pride, A People's Pride"
+---
+
+# What Is A People's Pride About?
+
+In the case of Vegeta, Goku and Bardock is about realizing why they want to fight and being honest to themselves. They fight because they want to win and want to protect their loved ones.
+
+> *[[Monaito]]: A people's pride isn't about atoning for the sins of the past.
+[[Monaito]]: And it ain't about taking revenge.
+[[Monaito]]: It's about all about accepting your nature and sticking to your convictions.
+[[Monaito]]: And that's true of any tribe out there.*
+>

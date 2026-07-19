@@ -1,0 +1,394 @@
+﻿Question,Answer,Confidence,Last edited time,Reveal
+What Is AWS?,AWS stands for Amazon Web Services. It’s a cloud services provider which makes use of Amazon’s infrastructure to make their profit.,Confident,"January 15, 2023 11:52 PM",No
+What does it mean to mount something?,"Mounting refers to giving access to a specific file, directory or file system in a specific location of a given file system.
+
+When you “mount” something you establish a mount point which looks like a shortcut speaking in desktop terms.",Confident,"January 16, 2023 12:15 AM",No
+What Is SSL / TSL?,SSL stands for secure socket layer. It’s an layer used on top of HTTP used to encrypt traffic between server and client. TSL is used to refer to a newer version of SSL.,Expert,"January 16, 2023 12:04 AM",No
+What Is An IP Address?,An IP address is used to identify a device within a network. It is used to send information forward between different devices.,Expert,"January 15, 2023 11:59 PM",No
+What Is Server Name Indication?,Server Name indication refers to the client specifying  to the proxy / load balancer which hosts it wants to connect with.,Expert,"January 16, 2023 12:04 AM",No
+What are AWS Availability Zones?,An availability zone is a cluster of data centers in a given AWS region.,Expert,"February 15, 2023 2:02 AM",No
+What are AWS Regions?,AWS has data centers distributed all around the world. Regions are the zones where there is presence of AWS’ data centers.,Expert,"January 15, 2023 11:59 PM",No
+What is Cloud Computing?,"Cloud computing is about renting infrastructure to consumers and billing for the usage.
+
+It’s an answer to the old on-premise computing which required long-term planning before hand.",Confident,"February 1, 2023 12:30 AM",No
+Where Can We Obtain Information About The AWS Bill Of The Month?,We can find billing information on the AWS billing dashboard. It can be used to obtain a detailed report of the services used in the current month.,Not Confident,"August 26, 2023 6:35 PM",No
+How Can We Set Limits To Our Expenses / Costs?,We can create budgets and thresholds to our budgets by using the AWS Budgets service.,Not Confident,"August 26, 2023 6:35 PM",No
+Which Types Of Payment Models Does AWS Offers In General?,"Paying in advance, paying on demand or paying for a subscription.",Expert,"March 15, 2023 11:37 AM",No
+Where Can I Obtain Information About The AWS Services Status?,We can find information of the services’ health on the services health dashboard.,Somewhat Confident,"February 16, 2023 2:43 AM",No
+What is meant by “AWS Responsibility Model”?,"The AWS responsibility model states that security is a shared responsibility between AWS and users. Each party is responsible for the things under their control.
+
+AWS will strive for a highly reliably and secure infrastructure and we must strive for having good security practices with our credentials and secrets.",Confident,"January 16, 2023 12:15 AM",No
+What Are The Ways We Have To Use with AWS?,"We can use the AWS CLI, the AWS Console, the AWS CDK and AWS SDK.",Expert,"January 15, 2023 11:59 PM",No
+What Is IAM?,IAM is the service responsible for managing AWS access. We use it to control the allowed operations of AWS identities.,Confident,"January 15, 2023 11:50 PM",No
+What Is An Identity?,An identity is an actor in AWS which can perform operation on AWS resources.,Confident,"January 15, 2023 11:50 PM",No
+What Is AWS “Principle Of Least Power”?,It states that we should use minimum access needed when using AWS.,Expert,"January 16, 2023 12:04 AM",No
+What Are Policies?,A policy is a collection of permissions that can be attached to an entity.,Confident,"January 15, 2023 11:49 PM",No
+What Are Permissions?,"Permissions are rules that declare which operations an identity can be perform on an AWS resource.
+
+They use a JSON format.",Confident,"January 15, 2023 11:49 PM",No
+What Are Users?,Users represent a physical person of our organization.,Confident,"January 16, 2023 2:15 AM",No
+What Are Roles?,A role is an identity which grants specific permissions to perform tasks in our behalf with other AWS resources.,Confident,"January 16, 2023 12:15 AM",No
+How Should Users Be Created?,Each user must have their own account with a determined access level.,Archived,"January 16, 2023 2:16 AM",No
+What Is A Good Rule Of Thumb For Roles?,Roles are intended to be used by anyone who need them.,Confident,"January 16, 2023 12:15 AM",No
+What Are Users Groups?,User groups are buckets where users can be placed. Users inside this groups will inherit the different permissions.,Confident,"January 17, 2023 11:44 PM",No
+Is There A Limitation Of Regarding The Number Of User Groups Group A User Belong?,"No, multiple users can belong to multiple groups",Archived,"January 16, 2023 2:16 AM",No
+What Happens If An AWS Entity Has Contrarian Permissions?,"When permissions classes against each other, the permission that denies has stronger priority.",Confident,"January 17, 2023 11:44 PM",No
+How Can We Audit Users Permissions?,We can use the IAM Access Advisor to obtain a fully detailed report of which permissions used by each user.,Somewhat Confident,"February 1, 2023 11:38 PM",No
+What Is The IAM Credentials Report Used For?,It is used to obtain a fully detailed report with the security status of our IAM users (Not the credentials themselves).,Confident,"January 16, 2023 12:19 AM",No
+What Is VPC?,"VPC is the AWS which allow us to create our own network infrastructure on the cloud.
+
+VPC stands for Virtual Private Cloud.",Confident,"March 1, 2023 3:17 AM",No
+What Are Some Aspects Which Can Be Configured In VPC?,"You can configure the internet access, network traffic and IP addresses of the resources within the VPC.",Confident,"March 15, 2023 2:58 AM",No
+What Is A Rule AWS Establishes Regarding Resources And VPCs?,All AWS resources must reside within a VPC,Confident,"January 16, 2023 12:15 AM",No
+What Is A Subnet?,A subnet is a logical subdivision of a VPC which uses a portion of the available IP addresses to function.,Confident,"January 16, 2023 12:19 AM",No
+What Is The Relation Between Subnets And Availability Zones?,A subnet must reside within one availability zone.,Confident,"January 16, 2023 12:15 AM",No
+What Is A Public Subnet?,A public subnet is a subnetwork that was granted internet connectivity using an internet gateway.,Confident,"March 1, 2023 3:17 AM",No
+What Does AWS Recommends For Higher Availability In Terms Of Networks?,AWS recommends using multiple subnet for our architectures.,Not Confident,"February 6, 2023 11:14 PM",No
+How Does A Private Subnet Is Granted Internet Connectivity?,A private subnetwork can be granted access to the internet by using something called a NAT gateway.,Somewhat Confident,"March 2, 2023 12:23 AM",No
+What Is A Private Subnet?,A public subnet is a subnetwork which lacks internet connectivity.,Confident,"January 15, 2023 11:46 PM",No
+How Do IP Addresses Work For Resources Inside Private Subnets?,"Resources residing in this type of subnetwork won’t have public IP addresses.
+
+They can be contacted by others resources within the VPC.",Somewhat Confident,"March 2, 2023 12:22 AM",No
+How Does Networking Work Between Subnets?,Resources living in the same VPC can communicate even if they do not share the same subnetwork.,Confident,"January 16, 2023 12:13 AM",No
+What Does NACL stands for?,NACL stands for “Network Access Control List”.,Expert,"March 15, 2023 11:33 AM",No
+How Does A Routing Table Looks Like In Rough Terms?,"A route table is a table which contains three concerns:
+
+- The destination dictates where the traffic is going to be forwarded from.
+- The target is where the traffic is being sent to (The id of an internet gateway or network).
+- Status",Not Confident,"January 17, 2023 12:06 AM",No
+What Is A Routes Table?,A routing table is a table which ditactates how traffic between the subnets and the internet should be forwarded. It makes uses of a series of rules called “routes”.,Not Confident,"January 17, 2023 12:06 AM",No
+What Does A NACL do?,"A NACL works like a firewall for a given subnetwork. It is represented as a table where rows dictate the allowed traffic, it uses ALLOW and DENY rules and a priority system to accomplish this.",Confident,"January 16, 2023 12:15 AM",No
+What Is An Internet Gateway?,An internet gateway is a component that allows communication between the resources residing within a VPC and the internet.,Confident,"February 15, 2023 1:50 AM",No
+How Can We Route Traffic Between 2 VPCs?,We can use an AWS feature called VPC peering to accomplish this.,Somewhat Confident,"February 1, 2023 11:50 PM",No
+What Can Be Done In Order To Establish A Communication Between Private Resources And Other AWS Services?,We can use an AWS feature called VPC endpoints to accomplish this.,Not Confident,"February 10, 2023 1:17 AM",No
+How Can We Route Traffic Between Multiple VPCs?,We can use an AWS featured called transit gateways in order to accomplish this.,Not Confident,"February 10, 2023 1:16 AM",No
+What Is An Instance?,"An instance is used to refer to the renting unit of EC2, they are the equivalent of a slice of hardware provided by AWS.",Confident,"February 15, 2023 1:54 AM",No
+What Aspects Can We Configure With EC2?,"EC2 is highly configurable*: We can configure the name of the instance, network settings like VPC, subnets and security groups, specs via AMIs.
+
+* The complete list is longer",Confident,"January 16, 2023 12:15 AM",No
+What Are Some AWS Defaults When It Comes to VPCs?,"- Users have a default VPC.
+- Users have a default subnet.
+- Users have a default NACL.
+- Users have a default routes table.
+- Users have a default internet gateway.",Confident,"March 1, 2023 3:17 AM",No
+What Is EC2?,EC2 is an AWS which is about renting virtual computers in the cloud.,Confident,"January 16, 2023 12:15 AM",No
+What Is An AMI?,AMI stands for “Amazon Machine Image”. They are used as templates which dictates different hardware specs of the EC2 instances.,Confident,"January 16, 2023 12:15 AM",No
+What Do EC2 Instances Use In Order To Communicate With Other Resources Inside A Network?,EC2 use the private IP addresses of the other resources.,Somewhat Confident,"March 22, 2023 11:53 AM",No
+How Can We Communicate With EC2 Instances From Outside Our VPC (Internet)?,We can use the public IP addresses assigned to our EC2 instances.,Somewhat Confident,"March 16, 2023 11:47 AM",No
+What Are Security Groups?,Security groups are the equivalent of firewalls to EC2 instances. They control all the traffic that goes through EC2 instances.,Confident,"June 2, 2023 4:24 PM",Yes
+What Is A Required In Order To Connect To A EC2 Instance?,We need a keypair in order to connect via SSH.,Somewhat Confident,"February 1, 2023 11:49 PM",No
+How Do Security Groups Work?,"Security groups can control inbound traffic and outbound traffic. Both are represented as tables with a set of rules which specify the protocols, port, and the source from which we can connect to the EC2 instance.",Confident,"January 16, 2023 12:21 AM",No
+Say We Wanna Run A Set Of Steps Every time We Boot An EC2 Instance. What is One Way To Accomplish This?,There is an advanced featured called “User Data” which allow us to define a script  that is executed everytime the EC2 instance is booted up.,Confident,"February 1, 2023 12:29 AM",No
+Which EC2 Instance Type Is Recommended For Non-Critical Interruptible Workloads?,The spot type instances.,Somewhat Confident,"January 19, 2023 2:17 AM",No
+"Say We Know We Are Going To Use An EC2 Instance For A Fixed Period Of Time, How Can We Reduce The Total Cost?",We can use one of the different reserved instance types.,Somewhat Confident,"January 19, 2023 2:17 AM",No
+What Are The Billing Models For EC2 Instances?,EC2 pricing works in two ways: On demand and by paying up front for reserved instances.,Confident,"March 1, 2023 3:20 AM",No
+Which EC2 Instance Type Is Recommended For Predictable Pricing?,The general purpose type instance.,Somewhat Confident,"January 19, 2023 2:17 AM",No
+Which Instance Type Is Recommended If Our Use Case Require Specific Hardware Requirements?,We can use dedicated hosts when we have complex hardware requirements. We will have the complete visibility of the hardware used.,Somewhat Confident,"January 19, 2023 2:17 AM",No
+Which Instance Type Allow Us To Run Our Instance Without Sharing Hardware With Others?,We can use dedicated instances since the hardware they live on won’t be shared with other instances.,Somewhat Confident,"January 4, 2023 3:43 PM",No
+What Is EBS?,EBS is an AWS which is about expanding the storage of our EC2 instance using “volumes”.,Confident,"January 16, 2023 12:21 AM",No
+Say We Want To Set Up Storage For a Development and Testing Environment In Our EC2 Instance? What Kind of EBS Fits This Description?,The general purpose EBS type volume.,Not Confident,"February 10, 2023 1:16 AM",No
+What Are Two Use Cases For Using EBS?,"- We can use EBS volumes as extra storage for our EC2 instances.
+- We can use EBS volumes for creating copies of the same EC2 instance.",Somewhat Confident,"February 16, 2023 2:44 AM",No
+What Is A Network Drive?,A network drive is a device that is available to all the other devices connected in the same network. The drive is recognized as a proper drive however it has a latency cost when it comes to reading and writing data.,Somewhat Confident,"January 3, 2023 1:47 PM",No
+What Is The Provisioned IOPS EBS Intended For?,This type of EBS volume is intended for IOPS-intensive workloads that require low latency.,Not Confident,"February 20, 2023 9:34 PM",No
+What Is A Recommended EBS Type For Data Archives?,The cold EBS type volume.,Not Confident,"February 10, 2023 1:16 AM",No
+What Is A Recommended Use Case For Throughput Optimized HDD EBS Volumes?,The recommended use case is for throughput-intensive workloads that require frequent reads.,Not Confident,"February 20, 2023 9:31 PM",No
+What Is An Instance Store?,"They are an alternative to EBS volumes, stores live inside the same host (The EC2 instance) which increases their reading and writing speed with the downside that if the EC2 instance shuts down the data is lost.",Confident,"March 27, 2023 11:53 AM",Yes
+What Is A Limitation Of EBS And Availability Zones?,EBS volumes are limited by availability zones. An EC2 instance cannot be attached an EBS volume from another availability zone.,Archived,"January 16, 2023 2:30 AM",No
+What Does The E in EFS Stands For?,"It stands for elasticity, meaning the file system can shrink and grow as needed.",Expert,"January 16, 2023 12:03 AM",No
+What Are Listeners?,A listener is a proccess associated with a target group. It constantly checking for new traffic to handle and uses a set of criteria to match the requests.,Not Confident,"January 15, 2023 10:47 PM",No
+What Is ELB?,ELB is an AWS services which is used to perform load balancing.,Confident,"March 1, 2023 3:17 AM",No
+How EFS Does Work?,The content is stored in multiple availability zones in order to make it highly available.,Somewhat Confident,"February 1, 2023 11:39 PM",No
+What Kind Of Routing Do Listeners Allow?,"- Based on URL paths.
+- Based on URL params.
+- Based on hostname.
+- Based on request headers.",Somewhat Confident,"March 22, 2023 11:52 AM",No
+What Are Target Groups?,Target groups are logical grouping of resources which handle the traffic forwarded from the load balancer.,Confident,"February 1, 2023 12:28 AM",No
+What Extra Function Does An ELB Perform On Target Groups?,They can be used to perform health checks.,Confident,"January 15, 2023 11:43 PM",No
+What Happens When A Resource Is Marked For Destruction By An ELB And It Still Has Pending Work?,The resource will finish proccessing the current traffic and then will be terminated. This is called connection draining.,Confident,"January 17, 2023 11:44 PM",No
+What Happens When A Health Check Fails?,The resource is terminated by the ELB.,Confident,"March 15, 2023 2:49 AM",No
+How Do ELBs Use Availability Zones?,You can perform cross-zone load balancing (enabled by default in some types of ELBs),Somewhat Confident,"January 10, 2023 1:04 PM",No
+What Is A Gateway Load Balancer?,The gateway load balancer is designed to have granular control over the content of the packets. It can be used for adding a layer of security using multiple resources to analyze this traffic.,Somewhat Confident,"March 16, 2023 11:47 AM",No
+What Is An Application Load Balancer?,This load balancer tpye is designed for application architectures like containers and microservices.,Somewhat Confident,"January 12, 2023 12:07 AM",No
+What Is A Network Load Balancer?,"This type of load balancer is used for handling an absurd number of requests per second, its targeted at high-performance routing. It operates on the transport layer in order to accomplish this.",Confident,"March 15, 2023 2:50 AM",No
+What Is A Difference Between ALB and NLB?,Application load balancers use security groups while network load balancers pass the traffic directly to the security group of the resources.,Confident,"March 15, 2023 2:49 AM",No
+How Is The Size Of An Auto Scaling Group Decided?,"We have three metrics:
+- The desired capacity which serves as the initial number of nodes of the system.
+- The mininum capacity which is the minimum number of nodes needed by the system (after using policies).
+- The maximum capacity which is the maximum number of nodes that AWS will let the ASG group grow to (after using policies).",Not Confident,"February 15, 2023 1:58 AM",No
+What Is ASG?,ASG is an AWS used to perform horizontal scalability using our resources.,Confident,"January 16, 2023 12:21 AM",No
+What Is Load Balancing?,Load balancing is the practice of using a node to control the workloads of other systems nodes behind.,Confident,"January 15, 2023 11:25 PM",No
+What Is a Health Check?,"In systems design, a health check is used to determine the status of another system node. It is usually checked using an HTTP endpoint.",Confident,"January 15, 2023 11:25 PM",No
+What Is Elasticity?,It’s the ability to add or remove resources as required.,Confident,"March 15, 2023 2:49 AM",No
+What Are Rules In An Auto Scaling Group?,"They are rules which are used to determine the size of the auto scaling group. They are based on different parameters like CPU, request count and network settings.",Not Confident,"January 12, 2023 11:43 PM",No
+What Is Reliability?,It’s the ability of a system to operate continously without failure.,Confident,"January 15, 2023 11:24 PM",No
+What Is Scalability?,It’s the ability to adapt to higher workloads.,Confident,"January 15, 2023 11:24 PM",No
+What Is Vertical Scalability?,It refers to scale a system by increasing the specs of the system node.,Confident,"January 15, 2023 11:24 PM",No
+What Is Horizontal Scalability?,It refers to scale a system using by increasing the numbers of system nodes.,Confident,"January 15, 2023 11:24 PM",No
+Are There Any Difference Between Regions?,"The differences between regions could be different pricing, data bounding laws and services availability.",Confident,"January 15, 2023 11:24 PM",No
+What Are Some Characteristics Of Cloud Computing?,"Agility, Availability, Elasticity, Scalability And Reliability.",Expert,"February 15, 2023 2:03 AM",No
+What Is Availability?,It’s the ability for a system to be available at any time.,Confident,"February 1, 2023 12:23 AM",No
+What Are Some Characteristics Of Horizontal Scalability?,"High reliability, high availability, low downtimes and low consistency. Limited by how much we can pay.",Confident,"January 31, 2023 12:06 PM",No
+What Are Some Characteristics Of Vertical Scalability?,"High consistency, high downtimes, low availability and low reliability.",Confident,"February 28, 2023 11:34 AM",No
+What Is A Subnet Used For?,The idea is to group our resources into different subnetworks within our VPCs. This subnetworks can different network settings depending on our use cases.,Confident,"January 16, 2023 12:20 AM",No
+How Do IP Addresses Work In Public Subnets?,"Resources residing in this type of subnetwork will have a public IP addresses.
+
+They can be contacted by others resources within the VPC and from outside it.",Somewhat Confident,"January 19, 2023 2:16 AM",No
+At Which Level Does A Routes Table Operates On?,A routes table operates at the subnetwork level. This is why they use a CIDR range to specify them as targets.,Confident,"February 15, 2023 1:45 AM",No
+How Do EBS Works As Extra Storage?,"EBS volumes are attached to EC2 instances. Once attached they are recognized from within the EC2 instance as a mounted network drive.
+
+They need to be within the same availability zones of the EC2 instance in order for this to work.",Not Confident,"February 28, 2023 11:30 AM",No
+What Is Throughput?,Throughput is a metric used to refer to the amount of data flowing through a single point.,Confident,"January 17, 2023 11:44 PM",No
+What is IOPS?,IOPS is a performance testing metric used to refer to the amount of read and write operations per second.,Confident,"January 17, 2023 11:44 PM",No
+What Is EFS?,AWS is an AWS used create and configure serverless file systems to store and share data.,Confident,"January 16, 2023 12:13 AM",No
+What Is Aurora?,Aurora is AWS’ own propietary relational database engine. It has some opinionated optimizations made by AWS in order to compete with others engines.,Confident,"January 16, 2023 12:20 AM",No
+What Is RDS?,RDS is an AWS used to create and configure managed relational databases.,Confident,"January 17, 2023 11:44 PM",No
+What Is The Security Layer For RDS?,RDS provides an additional security layer by using SSL and TSL.,Confident,"March 1, 2023 3:10 AM",No
+What Is Replication?,Replication is an horizontal scaling technique that consist in copying data from a database in multiple copies of it (called read replicas).,Confident,"March 27, 2023 11:50 AM",No
+Which Engines Does RDS Supports?,"It has support for multiple engines: MySQL, MariaDB, PostgreSQL, Oracle and MSSQL",Expert,"February 15, 2023 2:04 AM",No
+What Security Algorithm Does RDS Uses?,AES-256,Expert,"February 15, 2023 2:04 AM",No
+What Is The Business Model For RDS?,"Since RDS is a service for managed databases, it performs all the heavy-lifting that involves self-hosting a database under the hood.",Somewhat Confident,"March 2, 2023 12:20 AM",No
+How Is Access Managed In RDS?,We can manage RDS access using database users or IAM based authentication.,Somewhat Confident,"March 2, 2023 12:17 AM",No
+How Does Encryption Works In RDS (Speaking About The Instance)?,"Aurora allows us to encrypt our databases however this has to be configured when creating the RDS instance.
+
+If our instance is encrypted so are our read replicas.",Somewhat Confident,"March 8, 2023 12:16 PM",No
+How Is EBS Related To RDS?,In order to create backups and snapshots of our RDS instances. AWS makes heavy-use of EBS.,Confident,"March 1, 2023 3:10 AM",No
+How Does Replication Works In Amazon Aurora?,"Aurora can be setup to have up to 15 read replicas and with the ability to update 6 of them synchronously.
+
+All the replicas live in different availability zones.",Not Confident,"February 2, 2023 11:31 PM",No
+What Are Some Of The Benefits Of Using Aurora?,Aurora is considered to have a better performance than the other supported engines.,Somewhat Confident,"February 1, 2023 11:47 PM",No
+What Is Multi AZ?,"It is a deployment setup which consists in having a primary RDS instance with a stand by replica being updated synchronously in a different availability zone.
+
+In case a disaster occurs the replica can switch places with the primary RDS instance.",Somewhat Confident,"January 16, 2023 12:26 AM",No
+How Does RDS Achieve High Availability?,RDS makes use of read replicas of the primary RDS instance. The number of replicas depend on the engine and are located on different availability zones.,Somewhat Confident,"March 2, 2023 12:18 AM",No
+What Mechanisms Does Aurora Provides For Connections At Code Level?,"RDS provides two endpoints we can use to connect to the Aurora nodes.
+
+- A writer endpoint which will talk to the primary instance. This is used for write operations.
+- A reader endpoint which will talk to a load balancer which forwards the traffic to a read replica. This is used for read operations.",Confident,"January 15, 2023 11:18 PM",No
+How Can We Encrypt An Unencrypted Database Instance?,"We can create an snapshot using EBS, encrypt the snapshot and restore an RDS instance from it.",Somewhat Confident,"January 19, 2023 2:15 AM",No
+How Do Backups Work In RDS?,"We can perform backups of our RDS instances. They can be triggered manually or are done on a maintenance window.
+
+We also have the ability to configure how long should this backup should be kept in case we need to restore from it.",Somewhat Confident,"January 19, 2023 2:14 AM",No
+What Are Some Advantages To Using Read Replicas?,"The same advantages as horizontal scalability: High reliability, high availability and low downtimes.",Confident,"February 28, 2023 12:21 PM",No
+What Is Amazon Aurora Biggest Tradeoff?,Auora is more expensive than the other supported engines.,Confident,"January 16, 2023 12:13 AM",No
+How Is Billing Affected When Using Multiple Regions With RDS?,Billing could be affected depending on the region selected to host the RDS instance. Extra costs are involved with replicas replicated cross-regions.,Somewhat Confident,"February 1, 2023 11:33 PM",No
+What Is The Network Security Like With RDS?,In terms of security we can use security groups just like we would use them in EC2.,Confident,"February 28, 2023 11:48 AM",No
+What Is Usually Considered When Selecting A Database?,"- The way data is shaped.
+- The way data is related to other entries.
+- The workload requirements / The way the data is accessed.",Confident,"January 16, 2023 12:13 AM",No
+What Is A Managed Database?,A managed database is used to refer to databases that are entirely responsibility of the cloud provider where they are being hosted on.,Confident,"January 31, 2023 12:02 PM",No
+What Is The Downside Of Self-Hosting A Database?,The responsibility can become a heavy burden to some individuals who just need a database.,Confident,"February 28, 2023 11:48 AM",No
+What Does It Mean To Self-Host A Database?,Self-hosting a database means maintaining our own database instance including its required infrastructure.,Confident,"January 16, 2023 12:13 AM",No
+What Is The Benefit Of Self-Hosting A Database?,We have entire control over the database and the hardware it runs on. This flexibility is something some people like.,Confident,"February 15, 2023 1:55 AM",No
+What Are We Trading Off When Using A Managed Database?,We are trading off the amount of control we have over the instance.,Confident,"February 1, 2023 12:47 AM",No
+What Are Two Reasons To Self-Host A Database?,"- Special license clauses that dictate where the software must be run.
+- Having a dedicated team of database experts.",Confident,"January 16, 2023 12:13 AM",No
+What Is The Selling Point Of A Managed Database?,Not wanting to deal with the complexity that involves hosting a database.,Confident,"January 16, 2023 12:13 AM",No
+What Is A Parameter Group?,A collection of settings values used to configure RDS instances. Modifying a parameter group can affect multiple of them.,Confident,"January 17, 2023 11:44 PM",No
+How Does A Common Deployment With An RDS Instance Looks Like In Terms Of Infrastructure?,"A common deployment setup is having a VPC with two subnets:
+
+- A public subnet with an EC2 instance running a web server.
+- A private subnet with an RDS instance running a database.",Not Confident,"January 16, 2023 11:57 PM",No
+What Should Be Cached?,Caches should store data which are guaranteed to be read in subsequent reads.,Confident,"February 28, 2023 11:45 AM",No
+What Are Some Types Of Caching?,"- Client caching.
+- CDN caching.
+- Web server caching.
+- Application caching.
+- Database caching.",Expert,"March 15, 2023 11:34 AM",No
+What Is Caching?,Caching is the technique of storing previously calculated computations for subsequent retrievals.,Confident,"February 28, 2023 11:45 AM",No
+What Is A Cache?,A cache is the layer (optimized for reads) where data ephimeral data is stored.,Confident,"February 28, 2023 11:45 AM",No
+What Is Considered A Successful Cache?,A cache that minimizes cache misses and optimizes cache hits.,Confident,"January 15, 2023 11:17 PM",No
+Where Do Caches Generally Live?,Caches are considered as an independent node(s) in the system.,Confident,"January 15, 2023 11:15 PM",No
+What Does Application Caching Consist Of?,Application caching refers to applying caching techniques inside this layer.,Expert,"January 15, 2023 11:59 PM",No
+What Are Some Strategies For Application Caching?,"- Cache-aside (Lazy loading)
+- Read-through
+- Write-through
+- Write-behind",Archived,"January 17, 2023 11:37 PM",No
+What Can We Cache Using Application Caching?,"We can cache two categories of data:
+- Objects: Treat runtime objects the same way as cache. This means it’s normal to store runtime objects inside the cache.
+- Database queries: Cache results from the database queries we perform.",Confident,"January 16, 2023 12:13 AM",No
+What Is Read-Through About?,"The read-through caching strategy consists in performing reads to the cache, and it’s the cache responsibility to update itself if the data is not present. This is done synchronously.",Confident,"January 17, 2023 11:44 PM",No
+What Is Write-Through About?,"The write-through caching strategy consists in performing writes to the cache, and it’s the cache responsibility to update the database synchronously.",Confident,"January 17, 2023 11:44 PM",No
+What Is Cache-aside About?,"The cache-aside caching strategy is one of the most common caching techniques:
+Everytime we perform a query we attempt to check if it’s present in the cache, if not we retrieve the results and store them in the cache. If it’s present then we simply return the cached value.",Confident,"January 15, 2023 11:15 PM",No
+What Is Write-Behind About?,"The write-through caching strategy consists in performing writes to the cache, and it’s the cache responsibility to update the database asynchronously.",Confident,"January 17, 2023 11:44 PM",No
+How Do Cache Databases Manage Memory?,"- They have different algorithms used to clear entries.
+- They evict entries using a TTL (Time-to-live).",Confident,"January 15, 2023 11:13 PM",No
+What Is ElastiCache?,ElastiCache is An AWS serviced used to make our create and configure managed in-memory databases.,Confident,"March 1, 2023 3:20 AM",No
+What Is DynamoDB?,DynamoDB is an AWS service used to create and configure key-value NoSQL databases.,Confident,"March 1, 2023 3:20 AM",No
+What Is Database Sharding?,Database Sharding is an horizontal scaling technique which consists of splitting the database records across multiple database nodes.,Confident,"February 15, 2023 1:36 AM",No
+What Is Streaming?,It is an advanced feature of DynamoDB. It allows to store time-series ordered data and subscribe to these item changes.,Not Confident,"January 15, 2023 10:44 PM",No
+What Are Some Advanced Features Of DynamoDB?,"- Global Tables.
+- Streaming.
+- DAX.",Archived,"January 16, 2023 2:12 AM",No
+What Are Global Tables In DynamoDB?,They are an advanced feature of DynamoDB. They are tables which data is replicated in multiple regions allowing for lower latencies and higher availability.,Confident,"January 16, 2023 12:20 AM",No
+What Is The Business Model Of DynamoDB?,"The business model is that DynamoDB offers databases that perform with low latencies while also being cost-effective.
+
+It uses SSD(s) to increase data reads and replicates their data redundantly across multiple availability zones and regions to make the data durable.",Not Confident,"February 27, 2023 11:50 AM",No
+What Is DAX In DynamoDB?,It is an advanced feature of DynamoDB. It creates a cache fully managed by AWS that is used to speed up queries.,Confident,"January 16, 2023 12:20 AM",No
+Which Engines Does ElastiCache Supports?,It has support for two engines: Redis And Memcached.,Expert,"February 15, 2023 2:04 AM",No
+What Is Serverless?,Serverless is a development model which allows developers not to worry about the underlying infrastructure of the task they are going to perform.,Confident,"January 16, 2023 12:20 AM",No
+What Is A “Serverless” Service?,A serverless service is mostly a synonym for managed services. AWS is responsible of doing all the heavy-lifting that involves scaling such services and making them highly available.,Somewhat Confident,"February 1, 2023 11:38 PM",No
+When Should We Choose EC2 Instead of Lambda?,EC2 is more beneficial than Lambda once we have enough traffic that we are have the instance is constant use (not being idle).,Confident,"January 17, 2023 11:44 PM",No
+What Is Lambda?,Lambda is used to execute functions in reaction to certain event triggers.,Confident,"February 15, 2023 1:36 AM",No
+How Does Lambda Works?,We are supposed to give Lambda two things: The code that is going to be executed (via the online editor) and a trigger that is going to determine when our function is going to be executed.,Somewhat Confident,"March 2, 2023 12:17 AM",No
+When Should We Choose Lambda Instead of EC2?,Lambda is more beneficial at the start of a project because we are only charged by the time the code is executed.,Confident,"January 15, 2023 11:10 PM",No
+What Is One Of The Biggest Problems With Lambda?,Code executed in Lambda can suffer from cold starts if the function has not been called recently.,Expert,"January 16, 2023 12:18 AM",No
+What Aspects Can We Configure With Lambda?,"We can configure settings like programming language, CPU, storage, IAM permissions and IAM roles",Somewhat Confident,"March 2, 2023 12:17 AM",No
+How Are Regions Identified?,They are identified by their unique names.,Expert,"January 15, 2023 11:59 PM",No
+How Many Availability Zones There Are Per Region?,There are usually two availability zones per region.,Expert,"January 16, 2023 12:10 AM",No
+How Are Availability Zones Identified?,They are identified by their unique name as well.,Expert,"January 15, 2023 11:59 PM",No
+How Do Load Balancers Know The Status Of Each Resource Inside A Target Group?,They communicate with the load balancer in order to determine where the traffic should be sent.,Somewhat Confident,"January 12, 2023 12:12 AM",No
+How Can You Clone An EC2 Instance In A Different Region?,We can use an EBS snapshot do accomplish this.,Somewhat Confident,"January 4, 2023 3:24 PM",No
+How Is Horizontal Scaling Done In Redis?,Replication,Somewhat Confident,"January 4, 2023 3:24 PM",No
+How Is Horizontal Scaling Done In Memcached?,Sharding,Somewhat Confident,"January 4, 2023 3:24 PM",No
+How Does Persistence Work In Memcached?,Memcached does not have support for persistence.,Somewhat Confident,"February 1, 2023 11:45 PM",No
+How Does Redis Achieve High Availability?,Redis supports multi AZ.,Somewhat Confident,"January 4, 2023 3:24 PM",No
+What Is The Story Of High Availability With Memcached?,It has lower availability compared to Redis since we are responsible for the setup.,Somewhat Confident,"January 16, 2023 2:31 AM",No
+Why Would One Use Redis Instead Of Memcached?,Redis provides a more modern setup with a richer feature set. One would choose Memcached if we wish to stick with a classic caching approach.,Somewhat Confident,"February 1, 2023 11:45 PM",No
+How Does Redis Prevents Data Loss?,Redis provides us with persistence features in order to protect our data in case of disaster.,Somewhat Confident,"January 12, 2023 12:10 AM",No
+What Is Lambda Referred As?,Function-as-a-Service (Faas),Expert,"January 15, 2023 11:59 PM",No
+How Does Lambda Scales?,Lambda is a managed services which means AWS performs all the heavy-lifting under the hood.,Somewhat Confident,"March 22, 2023 11:53 AM",Yes
+What Is A Good Use Case For Lambda?,Data manipulation in reaction to a certain event like uploading an image (creating thumbnails) or sending emails.,Somewhat Confident,"March 22, 2023 11:53 AM",No
+How Is Serverless “Cheaper”?,"In specific cases, serverless can be cheaper than other alternatives since the tasks the serverless service solves does not charges for idling resources.",Confident,"January 16, 2023 12:20 AM",No
+What Is Meant By Serverless Event-Driven Architecture?,Architectures that rely on this development model are event-driven because they can connect tasks to event triggers from other services.,Somewhat Confident,"February 1, 2023 11:34 PM",No
+What Are Containers?,,,"January 3, 2023 1:47 PM",No
+What Is An Image?,,,"January 3, 2023 1:47 PM",No
+What Is A Container Repository?,,,"January 3, 2023 1:47 PM",No
+What Is ECS?,ECS is an AWS used to create and manage clusters of containers using Docker.,Confident,"February 15, 2023 1:42 AM",No
+What Is A Service In ECS?,"A service in ECS is the equivalent of an autoscaling group. It defines the min/max number of tasks that can be ran.
+
+They also determine how new tasks should be placed.",Somewhat Confident,"February 1, 2023 11:43 PM",No
+What Is A Task in ECS?,A task is the equivalent of an instance / execution of a task definition.,Somewhat Confident,"February 1, 2023 11:40 PM",No
+What Is Fargate?,Fargate is a serverless execution environment for containers. It is a technology that can be used in ECS to run containers without thinking about the underlying infrastructure.,Confident,"January 16, 2023 12:20 AM",No
+How Do We Change The Contents Of An Image?,,,"January 3, 2023 1:47 PM",No
+What Are Some Use Cases For Containers?,,,"January 3, 2023 1:47 PM",No
+What Are Container Repositories Used For?,Container repositories are mainly used for sharing and distributing container images.,,"January 3, 2023 1:47 PM",No
+How Does ECS Work?,"ECS is a service that needs to be provided of two things: The container images that are going to be used and the task definitions to understand how to run them.
+
+In case we are going to use EC2 instances we need to indicate the cluster about our infrastructure (EC2 + ELB + ASG).",Not Confident,"January 31, 2023 2:00 AM",No
+Why Is Recommended To Use ECS Instead Of Setting Up Docker With EC2?,"It’s recommended because AWS takes care of the responsibility of installling, setting up and upgrading Docker as well as connecting the clusters of containers.",Not Confident,"February 10, 2023 1:14 AM",No
+How Does Fargate Pricing Work?,"Fargate has a similar model to EC2. It takes into account hardware settings like vCPU, memory, storage and the time the resources are being used.",Somewhat Confident,"January 16, 2023 12:26 AM",No
+What Is A Downside Of Using ECS + EC2?,We are responsible for scaling the clusters of containers.,Not Confident,"February 10, 2023 1:14 AM",No
+What Is The Benefit Of Using ECS + EC2 Instead Of Fargate?,We have control over the infrastructure of the clusters.,Not Confident,"February 10, 2023 1:14 AM",No
+What Is A Use Case For Using ECS + EC2?,It is recommended when we have spare EC2 instance capacity.,Somewhat Confident,"February 1, 2023 11:33 PM",No
+What Is A Benefit of Using Fargate Instead Of Using ECS + EC2?,It is much simpler to use because scaling and monitoring is done for us.,Not Confident,"February 10, 2023 1:13 AM",No
+What Is A Use Case For Using Fargate?,It is recommended for teams who wish to focus their time on developing without worrying too much about the infrastructure.,Not Confident,"January 15, 2023 10:34 PM",No
+What Is A Downside Of Using Fargate?,It can be more expensive and limited than using EC2 instances.,Not Confident,"February 10, 2023 1:14 AM",No
+What Is ECR?,ECR is an AWS used to create and manage container images.,Confident,"January 16, 2023 12:20 AM",No
+What Is EKS?,EKS is an AWS used to create and manage clusters of containers using Kubernetes.,Confident,"January 16, 2023 12:20 AM",No
+What Is An API?,,,"January 3, 2023 1:47 PM",No
+What Is An Interface?,,,"January 3, 2023 1:47 PM",No
+What Are Two Examples Of Interfaces?,,,"January 3, 2023 1:47 PM",No
+What Is A REST API?,,,"January 3, 2023 1:47 PM",No
+What Is A Software API?,,,"January 3, 2023 1:47 PM",No
+What Is A HTTP API?,,,"January 3, 2023 1:47 PM",No
+What Is Cognito?,Cognito is an AWS used to manage user data across multiple devices.,Confident,"February 15, 2023 1:33 AM",No
+What Is AppSync?,AppSync is an AWS used to create serverless GraphQL APIs.,Confident,"January 31, 2023 12:04 PM",No
+What Is API Gateway?,API Gateway is an AWS used to create serverless HTTP APIs.,Confident,"February 28, 2023 12:20 PM",No
+What Is A User Pool?,A user pool is a directory that grants authentication.,Confident,"February 15, 2023 1:53 AM",No
+How Does API Gateway Work?,API Gateway needs to be provided with the API structure and the Lambda functions that needs to be executed.,Not Confident,"January 31, 2023 1:58 AM",No
+How Does AppSync Work?,AppSync needs to be provided with the API structure and the data sources.,Not Confident,"January 15, 2023 10:33 PM",No
+What Is An Identity Pool?,An identity pool is a directory that grants access to other AWS.,Confident,"February 15, 2023 1:34 AM",No
+What Are Simplifying Services?,They are services that create an abstraction or wrapper on top of one or multiple services.,Confident,"January 16, 2023 12:13 AM",No
+What Are Some Simplifying Services?,"Amplify, Elastic Beanstalk, Lightsail, AppRunner, Copilot",Archived,"January 16, 2023 2:13 AM",No
+What Is Cognito’s Business Model?,Cognito allows us to create a user pool where users can sign in using their credentials (or third-party ones) and their data will be sync up in the cloud.,Not Confident,"January 12, 2023 11:34 PM",No
+What Is AppRunner?,AppRunner is an AWS used to simplify the deployment of web applications using ECS and Fargate.,Confident,"March 27, 2023 11:49 AM",No
+What Is Lightsail?,Lightsail is an AWS used to simplify the deployment of EC2-based web applications with an Heroku-like experience.,Confident,"January 16, 2023 12:08 AM",No
+What Is Amplify’s Business Model?,"Amplify serves as an abstraction on top of multiple AWS like Cognito, DynamoDB, etc. which can be used as parts that are commonly needed when building web applications. It is mostly focused for Front-End developers.",Somewhat Confident,"November 21, 2023 9:35 AM",No
+What Is Amplify?,Amplify is an AWS used to simplify the development and deployment of FullStack web applications.,Confident,"February 15, 2023 1:43 AM",No
+What Is Elastic Beanstalk?,Elastic Beanstalk is an AWS used to simplify the deployment of EC2-based web applications.,Confident,"January 16, 2023 12:08 AM",No
+What Is Copilot?,Copilot is a CLI that attempts to simplify the ECS experience of deploying containers.,Confident,"March 27, 2023 11:48 AM",No
+What Kind Of APIs Can Be Built With API Gateway?,"We can create HTTP APIs, REST APIs and Websocket APIs.",Confident,"January 16, 2023 12:19 AM",No
+What Kind Of APIs Can Be Built With AppSync?,Standard GraphQL APIs and PubSub APIs.,Somewhat Confident,"January 12, 2023 12:04 AM",No
+Where Is Throughput Usually Considered?,Performance testing,Confident,"January 17, 2023 11:44 PM",No
+What Happens To Data When Horizontally Scaling?,Data is not consistent across the multiple nodes.,Confident,"January 16, 2023 12:19 AM",No
+How Much Can One Vertically Scale A System?,There is a physical limit to how much a machine can be upgraded.,Expert,"January 16, 2023 12:02 AM",No
+What Is Scalability Like For Managed Databases?,Using a cloud provider allow us to horizontally / vertically scale databases easily.,Somewhat Confident,"February 1, 2023 11:37 PM",No
+How Costly Is A Managed Database?,"Depending on the billing model, a managed database can be pretty cost-effective.",Somewhat Confident,"January 12, 2023 12:02 AM",No
+What Is Availability Like For Managed Databases?,Using a cloud provider allow us to have high availability with our database.,Somewhat Confident,"January 4, 2023 3:05 PM",No
+How Are Read Replicas Tipically Updated?,They are updated either sync or async by the primary instance.,Confident,"January 16, 2023 12:09 AM",No
+Where Are Read Replicas Tipically Located?,They are located in availability zones different than the primary instance.,Confident,"January 15, 2023 11:06 PM",No
+What Does Caching Helps With?,Reduces workloads and response times,Confident,"February 15, 2023 1:35 AM",No
+What Is An “Application” In Application Caching?,Application caching refers to the three-tier architecture where the application is the middle layer between the user interface and the database.,Expert,"January 15, 2023 11:59 PM",No
+What Is The Best Case For Cache-Aside?,The best scenario only involves one async operation.,Confident,"January 17, 2023 11:44 PM",No
+How Does Cache-Aside Handle Database Failure?,Cache-aside is resilient to database failures if data is cached.,Somewhat Confident,"February 1, 2023 11:37 PM",No
+What Is The Worst Case For Cache-Aside?,The worst case  scenario involves three async operations.,Confident,"February 15, 2023 1:35 AM",No
+How Does Cache-Aside Handle Cache Failures?,Cache-aside is resilient to cache failures however response time is affected.,Somewhat Confident,"January 11, 2023 2:10 PM",No
+What Is Recommended To Use When Using Techniques Such As Cache-Aside Or Read-Trough?,It is recommended to be used with a TTL.,Somewhat Confident,"February 1, 2023 11:36 PM",No
+What Is The Best Scenario For Read-Through?,Best case scenario involves 1 read operation.,Confident,"January 31, 2023 11:56 AM",No
+How Does Read-Through Handles Database Failures?,Read-through is resilient to database failures if data is cached,Somewhat Confident,"January 11, 2023 2:09 PM",No
+How Does Read-Through Handles Cache Failures?,Read-through cannot handle caching failures.,Somewhat Confident,"February 1, 2023 11:34 PM",No
+How Does Read-Through Handles Cache Inconsistency?,Consistency can be guaranteed if used in conjunction with write-through strategy.,Archived,"January 16, 2023 2:27 AM",No
+What Is A Use Case For Read-Through?,Works for throughput workloads that require frequent reads.,Somewhat Confident,"February 9, 2023 12:46 AM",No
+What Happens When Horizontally Scaling With Read-Through?,Cache nodes do not have data until read. This happens when scaling or restoring from failures.,Somewhat Confident,"February 1, 2023 11:34 PM",No
+What Is The Worst Scenario For Read-Through?,Worst case scenario involves 2 read and 1 write operation.,Confident,"February 15, 2023 1:34 AM",No
+What Is The Best Case For Write-Behind?,Best case scenario involves 1 write operation.,Archived,"January 16, 2023 2:17 AM",No
+How Is Latency In Write-Behind Compared To Write-Through?,Write-behind offers lower latency compared to https://www.notion.so/Write-through-Caching-Strategy-e6dabc31d019483eb434bea9966076f1.,Somewhat Confident,"January 4, 2023 2:01 PM",No
+How Does Write-Behind Handle Cache Failures?,Write-behind is not resilient to cache node failures. There can be data loss.,Archived,"January 16, 2023 2:21 AM",No
+How Does Write-Behind Deal With Stale Data?,Cache is always fresh.,Archived,"January 16, 2023 2:23 AM",No
+How Does Write-Behind Handle Database Failures?,Write-behind cannot handle database failures.,Archived,"January 16, 2023 2:20 AM",No
+How Does Write-Through Handles Cache Failures?,Write-through is not resilient to cache node failures.,Archived,"January 16, 2023 2:21 AM",No
+How Does Write-Through Handles Database Failures?,Write-through is not resilient to database failures.,Archived,"January 16, 2023 2:20 AM",No
+How Does Cache Behave When Using Techniques Such As Write-Through or Write-Behind ?,Cache will be always fresh.,Somewhat Confident,"February 1, 2023 11:33 PM",No
+What Is The Best Case For Write-Through?,Best case scenario involves 2 write operations.,Archived,"January 16, 2023 2:17 AM",No
+How Does Write-Through Handles Cache Inconsistency?,Consistency can be guaranteed if used in conjunction with https://www.notion.so/Read-through-Caching-Strategy-aef11b5acf564603b5d300f5b15e9110 strategy or https://www.notion.so/Cache-Aside-Caching-Strategy-12dff5f78d53483f96032dbda4f67db7.,Archived,"January 16, 2023 2:27 AM",No
+How Is Latency In Write-Through?,High latency. However users tend to accept higher response times with write operations.,Somewhat Confident,"February 1, 2023 11:32 PM",No
+What Happens When Horizontally Scaling With Write-Through?,Cache nodes do not have data until written. This happens when scaling or restoring from failures.,Somewhat Confident,"February 1, 2023 11:37 PM",No
+What Is A Benefit Security Of Using A Load Balancer?,"Since the load balancer acts like a proxy, it also provides the security benefits of hiding the architecture implementation details.",Somewhat Confident,"February 9, 2023 12:50 AM",No
+How Does A Load Balancer Affects Scalability?,Using a load balancer can grant horizontal scalability.,Somewhat Confident,"February 1, 2023 11:31 PM",No
+How Does A Load Balancer Affects Availability?,Using a load balancer can grant higher availability.,Somewhat Confident,"February 9, 2023 12:50 AM",No
+What Is SQS?,SQS is an AWS used to integrate two different applications using serverless message queues.,Confident,"January 16, 2023 12:08 AM",No
+What Is SNS?,SNS is an AWS used to integrate different applications using serverless pubsub.,Confident,"March 15, 2023 2:54 AM",No
+What Is Amazon MQ?,Amazon MQ is an AWS used to create and manage open source message brokers.,Confident,"January 16, 2023 12:08 AM",No
+What Is EventBridge?,EventBridge is an AWS used to integrate different applications using serverless event buses.,Confident,"March 15, 2023 2:54 AM",No
+What Is CloudMap?,CloudMap is an AWS used to perform service discovery on the cloud with our AWS resources.,Confident,"January 16, 2023 12:08 AM",No
+What Is SES?,SES is an AWS used to create and send transactional emails to customers.,Confident,"January 16, 2023 12:08 AM",No
+How Does Communication Work When Using Integration Services?,Communication usually works by passing messages from one “proccess” to another. The specifics of how messages are routed and handled depends on the message-passing technique.,Somewhat Confident,"February 16, 2023 2:37 AM",No
+What Is An Message Queue?,A message queue is a message-passing technique where a queue is used for communication between two “processes”.,Somewhat Confident,"February 9, 2023 12:43 AM",No
+What Is Pub/Sub?,Pubsub is a message-passing technique where a notification system is used to for communication between “processes”.,Somewhat Confident,"March 8, 2023 11:58 AM",No
+How Does EventBridge Work?,"EventBridge provides “event routing”. It listens for events and using a set of provided “rules”, it determines which “targets” should receive an incoming event.
+
+These “rules” are based on the event data structure or schedule.",Not Confident,"February 10, 2023 1:08 AM",No
+What Does SNS And EventBridge Help With?,"- When we need need realtime notifications in our applications.
+- When we need to send the same message to multiple subscribers / consumers.",Not Confident,"January 31, 2023 1:56 AM",No
+What Does SQS Help With?,"- Decoupling and scaling microservices.
+- Sending messages where order is guaranteed and considered.",Not Confident,"February 2, 2023 11:29 PM",No
+When Should I Pick Step Functions?,When you need certain type of orchestration between your Lambda functions (microservices),Not Confident,"February 2, 2023 11:29 PM",No
+What Are Integration Services?,An integration service is an intermediary to perform communication between different “processes”.,Confident,"March 14, 2023 11:42 AM",No
+What Is A Task Definition?,"A task definition is the equivalent of a blueprint. They describe which containers compose our application.
+
+Task definitions are represented as JSON files which contain the following information: Number of containers, ports to use, which volumes should be used, CPU, memory, etc.",Somewhat Confident,"February 9, 2023 12:45 AM",No
+What Is Database Replication Used For?,Offloading traffic for reads or analytics.,Somewhat Confident,"February 9, 2023 12:48 AM",No
+What Aspects Can We Configure With SQS?,"- Message order (Standard or FIFO)
+- Queue settings (timeouts, retention period, delivery delay, size, polling time, etc.)
+- Encryption.
+- Access policies.",Not Confident,"June 2, 2023 4:21 PM",No
+How Does PubSub Works?,“Publishers” will publish messages to a “topic” and the topic will push the message to all the “subscribers”.,Somewhat Confident,"February 9, 2023 12:44 AM",No
+How Coupled Are Subscribers To Producers When Using PubSub?,They are loosely coupled. Publishers do not know where the message is being used and subscribers do not know about producers.,Confident,"January 17, 2023 11:44 PM",No
+How Is Debugging In PubSub systems?,PubSub systems that suffer from system-wide bugs can be difficult to diagnostic.,Expert,"January 16, 2023 12:01 AM",No
+When Is PubSub not recommended?,"PubSub is not recommended for:
+- Small systems
+- Media streaming solutions.",Not Confident,"January 15, 2023 10:24 PM",No
+What Do PubSub Systems Enable?,"Thanks to topics publishing messages immediatly to all subscribers, they allow for real-time communication.",Not Confident,"January 15, 2023 10:30 PM",No
+How Elastic And Scalable Is Using PubSub?,It is considered elastic and with high scalability since publishers and subscribers can be increased / decreased accordingly and independently.,Somewhat Confident,"February 9, 2023 12:45 AM",No
+When Is A Message Queue Not Recommended?,"A message queue is not recommended:
+- For real time communication.
+- For broadcasting purposes (because the messages can only processed by one “process”).",Not Confident,"February 13, 2023 11:42 AM",No
+What Mantainance Costs Does Using A Messsage Queue Brings?,"A message queue has to be created, configured with the “processes” and monitored.",Archived,"February 1, 2023 11:31 PM",No
+How Coupled Are Subscribers To Producers When Using A Message Queue?,They are loosely coupled. Publishers do not know where the message is being used and subscribers do not know about producers.,Confident,"January 17, 2023 11:44 PM",No
+How Is The Message Order In A Message Queue?,A message queue is highly reliable because messages are only processed once and in the right order (FIFO).,Somewhat Confident,"February 1, 2023 11:30 PM",No
+What Does “Process” Mean In The Context Of Integration Services?,"The term “proccess” is a synonym to “interface”, “module”, “application”, “program” or “system nodes”. It really depends on the concrete example.",Confident,"January 15, 2023 11:01 PM",No
+What Is An Event Bus?,An event bus is a software architecture component used to perform communication between different “processes”.,Somewhat Confident,"March 1, 2023 11:34 AM",No
+Which Technique Does An Event Bus Use Under The Hood?,Event buses use the publish/subscribe pattern however the way its implemented it connects all producers and subscribers.,Somewhat Confident,"January 11, 2023 11:53 AM",No
+What Is “Event Routing” In An Event Bus?,The event bus takes the output events from a producer and routes it to any consumer which needs them as input. This features solves the desicion of no having no direct line of communication between “processes”.,Not Confident,"January 16, 2023 11:54 PM",No
+What Is The Message Order In An Event Bus?,Event order is not guaranteed when using an event bus.,Somewhat Confident,"February 1, 2023 11:29 PM",No
+What Other Features Does An Event Bus Usually Provides?,Event buses can also provide event persistence and provide the history to any “process” that happens to disconnect and reconnect.,Somewhat Confident,"February 1, 2023 11:30 PM",No
+What Is Something EventBridge Has That Sets Its Apart From SNS?,"- The ability to route events using the event data itself.
+- Integration with multiple SaaS providers.
+- Cron-like scheduled events.",Not Confident,"February 20, 2023 9:31 PM",No
+What Are Step Functions?,Step Functions is an AWS used to create serverless workflows for distributed applications.,Somewhat Confident,"January 16, 2023 12:25 AM",No
+When Does The Worst Case Scenario Occur For Read-Through?,This happens when a key is looked up for the first time or has been removed (TTL).,Not Confident,"January 24, 2023 2:04 AM",No
+How Can You Bypass Lamba's Timeout Limit?,It is recommended to use ECS as an alternative to bypass Lamba’s execution time.,Not Confident,"January 16, 2023 11:59 PM",No
+How Is Cache Integrity Enforced When Applying Application Caching Techniques?,Depending on the technique that is being used. It is usually paired with a conter-part techniques. If using a read-technique then it is paired with a write one and viceversa.,Somewhat Confident,"March 9, 2023 2:47 AM",No
+,,,"January 16, 2023 2:25 AM",No

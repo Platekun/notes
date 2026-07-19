@@ -1,0 +1,16 @@
+---
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Work"
+status: "Unprocessed"
+---
+
+# Work Day (@January 1, 2026)
+
+## Today's Tasks
+
+[Untitled](Work%20Day%20(@January%201,%202026)/Untitled%202dbb391074758184a24cc418202f5d5c.csv)
+
+## Today's Thoughts
+
+Jot down your thoughts here…

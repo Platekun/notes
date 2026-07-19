@@ -1,0 +1,17 @@
+---
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Caching"
+status: "Processed"
+sources: "Systems Design Primer"
+---
+
+# Types Of Caching
+
+Since caching is merely a concept, it can be applied in by different actors:
+
+- [[Client Caching|Client caching]].
+- [[CDN Caching|CDN caching]].
+- [[Web Server Caching|Web server caching]].
+- [[Database Caching|Database caching]].
+- [[Application Caching|Application caching]].

@@ -1,0 +1,7 @@
+---
+amount: "COP 600,000.00"
+created-by: "Lourdes Ojeda"
+sprint: "Beginning"
+---
+
+# Trip

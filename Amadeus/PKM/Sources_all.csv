@@ -1,0 +1,241 @@
+﻿Name,Files & media,Meta,URL
+Enterprise Service Bus Definition,,,https://en.wikipedia.org/wiki/Enterprise_service_bus
+Difference Between Bus And Queue,,,https://stackoverflow.com/questions/7793927/message-queue-vs-message-bus-what-are-the-differences
+Message Queue Definition,,,https://en.wikipedia.org/wiki/Message_queue
+EventBridge Definition,,,https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html
+https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/,,,https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/
+Inter Proccess Communication Definition,,,https://en.wikipedia.org/wiki/Inter-process_communication
+What You Should Know About Database Caching,,,https://blog.bluzelle.com/things-you-should-know-about-database-caching-2e8451656c2d
+ECS With EC2 Vs Fargate,,,https://www.youtube.com/watch?v=DVrGXjjkpig
+Systems Design Primer,,,https://github.com/donnemartin/system-design-primer#cache
+Caching,,,https://aws.amazon.com/caching/
+Milla Maxwell’s And Gaius’ Justice Debate,,Tales Of Xillia,https://lparchive.org/Tales-of-Xillia/Update 29/
+"A Framework-Independent, Decoupled Frontend Architecture For Large Scale Projects | T3chFest 2019",,,https://www.youtube.com/watch?v=yDlp2o2Eh7Q
+Aoi Sena Monologue,,Chaos;Head,https://lparchive.org/ChaosHead/Update%2051/
+Milla Maxwell’s Mental Clarity,,Tales Of Xillia,https://lparchive.org/Tales-of-Xillia/Update 05/
+Milla Maxwell’s Advice To Rowen,,Tales Of Xillia,https://lparchive.org/Tales-of-Xillia/Update 17/
+Kizumonogatari II Nekketsu-hen,,Monogatari Series,https://monogatari.fandom.com/es/wiki/Kizumonogatari_II_Nekketsu-hen
+"Smallville, Season 10, Episode 1",,Smallville,
+Phi Quote’s Problem Solving Method,,Virtue’s Last Reward,https://lparchive.org/Zero-Escape-Virtues-Last-Reward/Update%2034/
+Jude Vs Alvin,,Tales Of Xillia,https://lparchive.org/Tales-of-Xillia/Update%2032/
+Howe’s Egg Principle Skit,,Tales Of Xillia,https://lparchive.org/Tales-of-Xillia/Update%2007/
+What Is The Difference Between Amazon ECS And ECS?,,,https://stackoverflow.com/a/54236456
+Introducing AWS Copilot,,,https://aws.amazon.com/blogs/containers/introducing-aws-copilot/
+Interface Vs API,,,https://zellwk.com/blog/interface-vs-api/
+AWS Lambda Vs EC2: Which To Use And When,,,https://www.cbtnuggets.com/blog/certifications/cloud/aws-lambda-vs-ec2-which-to-use-and-when
+What Is Serverless?,,,https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless
+Performance At Scale With Amazon Elasticache,,,https://d0.awsstatic.com/whitepapers/performance-at-scale-with-amazon-elasticache.pdf
+IOPS Vs. Throughput vs. Latency – Measuring Storage Performance,,,https://www.parkplacetechnologies.com/blog/storage-performance-metrics/
+Concerning Toolkits,,,https://kentcdodds.com/blog/concerning-toolkits
+Bakemonogatari,,,https://monogatari.fandom.com/es/wiki/Bakemonogatari_(anime)
+Peaceful Warrior,,,https://en.wikipedia.org/wiki/Peaceful_Warrior
+Degrees Of Happiness,,,https://www.reddit.com/r/AskMenOver30/comments/ilfso9/comment/g3s0eyz/?utm_source=share&utm_medium=web2x&context=3
+Front-End Architecture 101: Nir Kaufman @ ReactNYC Talk,,,https://www.youtube.com/watch?v=o8THlN8hgcw
+DevTernity 2019: Ian Cooper - The Clean Architecture,,,https://youtu.be/SxJPQ5qXisw
+Web UI Architecture,,,https://frontendmasters.com/courses/web-ui-architecture/
+GOTO 2019 - Building Resilient Frontend Architecture,,,https://youtu.be/TqfbAXCCVwE
+Frontend architecture: Decoupling apps from frameworks (DevFest 2019),,,https://youtu.be/jmcx3b78V8s
+Pure UI,,,https://rauchg.com/2015/pure-ui
+Things You Should Know About Database Caching,,,https://blog.bluzelle.com/things-you-should-know-about-database-caching-2e8451656c2d
+Planning Is Guessing,,,https://m.signalvnoise.com/planning-is-guessing/
+"No Deadlines For You! Software Dev Without Estimates, Specs or Other Lies",,,http://blog.hut8labs.com/no-deadlines-for-you.html
+Interactive Application Architecture,,,https://lostechies.com/derekgreer/2007/08/25/interactive-application-architecture/
+Why We Don’t Do Fixed Price Software Projects,,,https://blog.salsitasoft.com/why-we-dont-do-fixed-price-software-projects/
+Coding Fast And Slow,,,http://blog.hut8labs.com/coding-fast-and-slow.html
+Why Estimation In Software Development Is Usually Terrible,,,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fm.coderdan.co%2Fwhy-estimation-in-software-development-is-usually-terrible-2d032161bc6
+Why Asking Developers For Time Estimates In Software Projects Is A Terrible Idea And How To Bypass It With SCRUM,,,https://www.romenrg.com/blog/2015/09/28/why-asking-developers-for-time-estimates-in-software-projects-is-a-terrible-idea-and-how-to-bypass-it-with-scrum/
+Why The React Community Is Missing The Point Of Web Components,,,https://dev.to/ben/why-the-react-community-is-missing-the-point-about-web-components-1ic3
+"Yes, Your Code Is Opinionated",,,https://derickbailey.com/email_archive/yes-your-code-is-opinionated/
+The Epistemology Of Software Quality - Increment: Teams,,,https://increment.com/teams/the-epistemology-of-software-quality/
+Fear Of The Un-opinionated Framework,,,https://medium.com/@edoardo849/fear-of-the-unopinionated-framework-67d2f25dff6d
+Simple & Boring,,,https://css-tricks.com/simple-boring
+"Thoughts On React Hooks, Redux And Separation Of Concerns",,,https://blog.isquaredsoftware.com/2019/07/blogged-answers-thoughts-on-hooks/
+Reactivity in Web Frameworks (Part 2),,,https://lihautan.com/reactivity-in-web-frameworks-the-what/
+Reactivity in Web Frameworks,,,https://tanhauhau.hashnode.dev/reactivity-in-web-frameworks-part-1-ck56y73lm03dmmus148vg617q
+The Magpie Developer,,,https://blog.codinghorror.com/the-magpie-developer/
+Ryan Florence’s Use Effect Tweet,,,https://twitter.com/ryanflorence/status/1222248031644340224
+SPA Should Copy Native Navigation,,,https://twitter.com/staysaasy/status/1258572304067497990?s=20
+Yehuda Katz’s Opinion On React Naming Conventions,,,https://twitter.com/wycats/status/1346655693785296897
+Route Hierarchy Do Not Exist,,,https://twitter.com/stivnov/status/1258606143364050944?s=20
+David K. Piano’s Mental Model For Effects Tweet,,,https://twitter.com/DavidKPiano/status/1404463903531225089
+DHH’s Take On DX Magic,,,https://twitter.com/dhh/status/1226296264469336064
+Mark Dalgleish’s Take On Business Logic Reusability,,,https://twitter.com/markdalgleish/status/578798894185783297
+Ryan Florence’s Mental Model,,,https://twitter.com/ryanflorence/status/1196605367993520128
+Class Components Abandonment Tweet,,,https://twitter.com/wycats/status/1280556444568268800
+Web Scrollers Tweet,,,https://twitter.com/cramforce/status/1258563422494396417?s=20
+Web SPAs And Mobile SPAs,,,https://twitter.com/wuchangmingnice/status/1258626795248578560?s=20
+Components Are Not The Primary Unit Of Composition In Front-End Apps,,,https://twitter.com/wycats/status/1352852581991636994
+Split Your User Type,,,https://twitter.com/buildsghost/status/1400630504957775872
+Write Boring Code,,,https://twitter.com/stemmlerjs/status/1245785484233707523
+Specializing Too Soon,,,https://twitter.com/buildsghost/status/1428091800133128195
+React's Nepotism,,,https://twitter.com/adamwathan/status/1182806599917809665
+Not Everything Should Be A Component,,,https://twitter.com/jcormont/status/1191857672066232320
+Routers As Maps To Components,,,https://twitter.com/_juandjara/status/1258564478007947264?s=20
+Ember's State Charts Usage,,,https://twitter.com/sukima/status/1226189833858637830
+Battle-proof Vs Popular Sentiment,,,https://twitter.com/DavidKPiano/status/1209130600281587713
+Back Buttons Use Case,,,https://twitter.com/MbuliLukindo/status/1258660750169686019?s=20
+REST APIs In React-land State,,,https://twitter.com/buildsghost/status/1265190837480112133
+Coupling To Implementation Details,,,https://twitter.com/acdlite/status/1360286183545327627
+The Path Of Least Resistance In Frameworks,,,https://twitter.com/DavidKPiano/status/1360283475039944707
+App Routing Insights,,,https://twitter.com/pesterhazy/status/1258647300337020928?s=20
+Making Invalid States Impossible With Routers,,,https://twitter.com/danielrhodes/status/1258564474471985153?s=20
+URL Schemes Are Not Frequently changed,,,https://twitter.com/harrybrundage/status/1258562924467101699?s=20
+React Is Repeating PHP’s History,,,https://twitter.com/WellPaidGeek/status/1238138950776127489
+Components Are Only Concerned About Rendering,,,https://twitter.com/dan_abramov/status/594943698393288704
+The Next Rails,,,https://twitter.com/buildsghost/status/1288668826561687552
+URL(s) Represent where The App Should Be,,,https://twitter.com/DavidKPiano/status/1258568487175442433?s=20
+React Tries To Redefine The World Around It,,,https://twitter.com/garybernhardt/status/1400135299452309505
+Accesible CSS Practices,,,https://twitter.com/buildsghost/status/1389225898193293313
+Route In React-Router And Use XState As A Map,,,https://twitter.com/DavidKPiano/status/1185961985076322309
+Wrapping Dependencies Into Custom Abstractions,,,https://twitter.com/frontstuff_io/status/1264189583220244480?s=20
+Modeling Apps As A Machine Which Spawns Actors,,,https://twitter.com/hnordt/status/1154549791071887360
+Stale While Revalidate Popularity Analysis,,,https://twitter.com/buildsghost/status/1276012560970473472
+"Do Not Describe Things As Simple, Easy Or Basic ",,,https://twitter.com/Obinnaspeaks/status/1399110340445622285
+A Real Example Of “View As A Function OF State”,,,https://twitter.com/wycats/status/1190042061225037827
+Suspense-related Code Is Still Error-Prone,,,https://twitter.com/DavidKPiano/status/1190265460710920195
+Routing Concerns Should Be Isolated,,,https://twitter.com/EnricoPolanski/status/1258727101982703616?s=20
+A Golden Rule To State Charts,,,https://twitter.com/lmatteis/status/1248752294570704898
+Object Oriented Fear,,,https://twitter.com/wycats/status/1203062551199670272
+Router Side-Effects,,,https://twitter.com/OliverJAsh/status/1258690971509895168?s=20
+Decouple Decision From Execution,,,https://twitter.com/buildsghost/status/1396614269605617665
+Pause Then Render,,,https://twitter.com/faassen/status/1258635545665814528?s=20
+Scroll Restoration And Custom Back Buttons,,,https://twitter.com/chris_07734/status/1258706994183233538?s=20
+SPA Routing Vs Web Routing,,,https://twitter.com/revskill/status/1258570185499226115?s=20
+Layout Components Extreme Take,,,https://twitter.com/markdalgleish/status/1222712121332355072
+What Is Missing In Web Dev Nowadays,,,https://twitter.com/DavidKPiano/status/1236434150506274816
+Data Structure And Objects,,,https://twitter.com/unclebobmartin/status/1231216430839992320
+Delivering More Value With Refactors,,,https://twitter.com/craigjbass/status/1348273762576322560
+Agile Is Less Efficient Than Waterfall Because …,,,https://twitter.com/unclebobmartin/status/1237668472785702912
+What Is The Next State?,,,https://twitter.com/DavidKPiano/status/1243954093082775553
+A Wrong Perspective On UI,,,https://twitter.com/buildsghost/status/1265727209169227777
+Routing Flexibility,,,https://twitter.com/stevensalka/status/1258574136667828224?s=20
+Wizard-like Navigation Using State Charts,,,https://twitter.com/DavidKPiano/status/1195894765285527552
+Nested UI Representation In Routing,,,https://twitter.com/Ravirajn22/status/1258631531280531456?s=20
+URL(s) are a Lossy Representation Of The Application Navigation State,,,https://twitter.com/dan_abramov/status/1258572152934215682?s=20
+Having Restrictions On Web Navigation Seems Complex,,,https://twitter.com/ryanflorence/status/1062095015990579200
+"Software Development Dogmas ",,,https://twitter.com/cassiozen/status/1396874253933285377
+You Will Not Convince Everyone Always,,,https://twitter.com/DavidKPiano/status/1398656151143817217
+Children Components In React VS Ember,,,https://twitter.com/wycats/status/1353083821009244161
+Ryan's Florence Mental Model (Part 2),,,https://twitter.com/bouwe/status/1222243687461261314
+Writing Simple Code Is Not Simple,,,https://twitter.com/hillelogram/status/1211433465956196352
+Conditionals vs Hierarchical States,,,https://twitter.com/kyleshevlin/status/1190494295645511680
+Correctness Does Not Mean Friendliness,,,https://twitter.com/tlakomy/status/1191782832261271554
+Application State Is Client-Side Cache Of Server State,,,https://twitter.com/kentcdodds/status/1228727040238473216
+Authentication And Routing Is State Management,,,https://twitter.com/modernserf/status/1238639932685594625
+What Is Pub/Sub? Publish/Subscribe Messaging Explained,,,https://www.bmc.com/blogs/pub-sub-publish-subscribe/
+Publish-Subscribe Pattern,,,https://en.wikipedia.org/wiki/Publish–subscribe_pattern
+Message Queues,,,https://historicalmodeling.com/distributed-systems/message-queues.html
+Event-based Microservices: Message Bus,,,https://medium.com/usertesting-engineering/event-based-microservices-message-bus-5b4157d5a35d
+Event-based Microservices: Overview,,,https://medium.com/usertesting-engineering/event-based-microservices-overview-b9cf76dde359
+Difference Between A Topic And A Queue,,,https://blog.felix-seifert.com/asynchronous-communication-difference-between-queue-topic/
+TestingJavaScript,,,https://testingjavascript.com
+EpicReact,,,https://epicreact.dev
+Design Systems with React & Storybook,,,https://frontendmasters.com/courses/design-systems/
+NestJs Fundamentals,,,https://learn.nestjs.com/p/fundamentals
+JavaScript And TypeScript Monorepos,,,https://frontendmasters.com/courses/monorepos/
+Complete Intro To Linux And The Command-Line,,,https://frontendmasters.com/courses/linux-command-line/
+Complete Intro To Containers,,,https://frontendmasters.com/courses/complete-intro-containers/
+Complete Intro To Databases,,,https://frontendmasters.com/courses/databases/
+Design For Developers,,,https://frontendmasters.com/courses/design-for-developers/
+Web Performance Warrior,Sources/Book_Web_Performance_Warrior.pdf,,
+Clean Architecture,Sources/Book_Clean_Architecture.pdf,,
+Clean Coder,Sources/Book_The_Clean_Coder.pdf,,
+Data Intensive Applications,Sources/Book_Designing_Data_Intensive_Applicationss.pdf,,
+The Pragmatic Programmer,Sources/Book_The_Pragmatic_Programmer.pdf,,
+Refactoring UI,Sources/Book_Refactoring_UI.pdf,,
+The Mythical Man-month,Sources/Book_The_Mythical_Man-month.pdf,,
+Code Complete 2,Sources/Book_Code_Complete_ED2.pdf,,
+Patterns Of Enterprise Architecture,Sources/Book_Patterns_Of_Enterprise_Architecture_Applications.pdf,,
+Don’t Make Me Think,Sources/Book_Dont_Make_Me_Think.pdf,,
+Constructing The User Interface With Statecharts,Sources/Book_Constructing_User_Interfaces_With_Statecharts.pdf,,
+Software Estimation,Sources/Book_Software_Estimation.pdf,,
+Refactoring,Sources/Book_Refactoring.pdf,,
+Clean Code,Sources/Book_Clean_Code.pdf,,
+MongoDB - The Complete Developer's Guide,,,https://www.udemy.com/course/mongodb-the-complete-developers-guide/
+"SQL - The Complete Developer's Guide (MySQL, PostgreSQL)",,,https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/
+Solid Book,,,https://wiki.solidbook.io
+Redis Bootcamp For Begginners: Get Hands On With Redis,,,https://www.udemy.com/course/redis-bootcamp-for-beginners/
+Bookkeeping Definition,,,https://dictionary.cambridge.org/dictionary/english/bookkeeping
+Ledger Definition,,,https://www.freshbooks.com/hub/accounting/what-is-a-ledger
+Distributed Database Definition,,,https://en.wikipedia.org/wiki/Distributed_database
+Distributed Database Management Systems Article,,,https://www.sciencedirect.com/topics/social-sciences/distributed-database
+Consensus Definition,,,https://en.wikipedia.org/wiki/Consensus_(computer_science)
+How Does Consensus-Based Replication Work in Distributed Databases?,,,https://www.yugabyte.com/blog/how-does-consensus-based-replication-work-in-distributed-databases/
+Cob: a leaderless protocol for parallel Byzantine agreement in incomplete networks,,,"https://link.springer.com/article/10.1007/s10619-022-07410-0#:~:text=A%20leaderless%20consensus%20protocol%2C%20instead,3.2%20and%20prove%20in%20Sect"
+Distributed Ledger Definition,,,https://en.wikipedia.org/wiki/Distributed_ledger
+Proof Of Work Definition,,,https://en.wikipedia.org/wiki/Proof_of_work
+Database Replication Definition,,,https://en.wikipedia.org/wiki/Replication_(computing)
+“What Is Database Replication?” Prompt,,,
+“How is it different from database duplication?” Prompt,,,
+“Do distributed databases use replication and duplication?” Prompt,,,
+"""Can replication and duplication be considered consensus protocols in distributed databases?” Prompt",,,
+"""Is database replication considered an horizontal scaling techique?” Prompt",,,
+"""What is a genesis record in a DLT?” Prompt",,,
+Blockhain Definition,,,https://en.wikipedia.org/wiki/Blockchain
+What Is an Orphan Block?,,,"https://www.investopedia.com/terms/o/orphan-block-cryptocurrency.asp#:~:text=An%20orphan%20block%20is%20a,the%20shorter%20chain%20are%20orphaned"
+"""What is an orphan record in a DLT?” Prompt",,,
+"""Are all DTLs block chains?” Prompt",,,
+"""Do all DLT use cryptography?” Prompt",,,
+"""Do all blockchains use cryptography?” Prompt",,,
+"""If I understand correctly, all blockchains use cryptography but not all DLT use cryptography?” Prompt",,,
+“How does transaction data look like in a blockchain block?” Prompt,,,
+Blockchain Definition,,,https://en.wikipedia.org/wiki/Blockchain
+Right-sider Definition,,Chaos;Child,
+Chaos;Child,,,https://en.wikipedia.org/wiki/Chaos;Child
+“Is there such a thing as a Blockchain address?” Prompt,,,
+“What is a miner address?” Prompt,,,
+Digital Currency Definition,,,https://en.wikipedia.org/wiki/Digital_currency
+"""Could you give me real world examples of digital money?” Prompt",,,
+"""Does the cryptography part of a cryptocurrency comes from its use of blockchain?” Prompt",,,
+Cryptocurrency Definition,,,https://en.wikipedia.org/wiki/Cryptocurrency
+"""Who determines the reward in a proof-of-work protocol?” Prompt",,,
+"“So in a PoW protocol, there is only one block being added. this block can contain the reward for the miner along with other transaction data?” Prompt",,,
+“What is a worker node in systems design?” Prompt,,,
+"Many Nodes, One Distributed System",,,https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4
+Breaking Down Proof-of-Work Mining and 51% Attacks,,,https://academy.moralis.io/blog/breaking-down-proof-of-work-mining-and-51-attacks
+"""Miners are looking to create blocks, and they will solve a challenge in order to do so. If they get it right they will take as many transactions from the pool and shove them inside, is this correct?” Prompt",,,
+"""How are transactions selected in that case?” Prompt",,,
+Cryptocurrency Wallet Definition,,,https://en.wikipedia.org/wiki/Cryptocurrency_wallet
+Mempool Definition,,,https://academy.binance.com/en/glossary/mempool
+"""When you say transactions broadcasted, you mean transactions initiated between users using crypto wallets?” Prompt",,,
+"""If they do not store the crypto, do they perform some kind of read through the blockchain to return a balance?” Prompt",,,
+Public Address Definition,,,https://www.gemini.com/cryptopedia/glossary#public-address
+"What is P2PK, P2PKH, P2SH, P2WPKH - ELI5?",,,https://bitcoin.stackexchange.com/questions/64733/what-is-p2pk-p2pkh-p2sh-p2wpkh-eli5
+What Is P2PKH?,,,https://academy.bit2me.com/en/que-es-p2pkh/
+What is Proof of Stake (PoS)｜Explained For Beginners,,,https://www.youtube.com/watch?v=psKDXvXdr7k
+Proof-of-stake Definition,,,https://en.wikipedia.org/wiki/Proof_of_stake
+Why Bitcoin Was Invented,,,https://www.reddit.com/r/Bitcoin/comments/6rr6ph/just_a_quick_reminder_why_bitcoin_was_invented_in/
+Bitcoin Definition,,,https://en.wikipedia.org/wiki/Bitcoin
+Bitcoin Paper,,,https://bitcoin.org/bitcoin.pdf
+Ethereum Definition,,,https://en.wikipedia.org/wiki/Ethereum
+Ethereum Paper,,,https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf
+"""Was bitcoin proposed with a wallet in mind?” Prompt",,,
+“How does the Proof-of-stake work?” Prompt,,,
+"""Where do validators obtain the transactions to put in a block in a pos protocol?” Prompt",,,
+Robotic;Notes,,,
+Fate/Stay Night: Unlimited Blade Works,,,
+"Moving From EC2 To ECS Fargate, Any Ggotchas We Should Be Aware Of?",,,https://www.reddit.com/r/aws/comments/n31rpq/moving_from_ec2_to_ecs_fargate_any_gotchas_we/gwnmygz/?context=8&depth=9
+,,,
+Why I'm Starting YouTube in 2021 as a Medical Student,,,https://www.youtube.com/watch?v=Yf8rHkv0Lxc
+The Right-sider Connects The Cases,Sources/ChaosChild_Audio_Monologue_-_The_Right-sider_Connects_the_Cases.mp4,,https://www.youtube.com/watch?v=581fR6Da64o
+Chaos;Head,,,
+Dr Dobb's Journal,,,
+Steins;Gate,,,
+Under a Silent Sky - Takuru And Serika Character Analysis,,,https://youtu.be/ZwPT6K35Odc?si=eh4Kmxibo3yZfIMf
+Improve Your Note-taking The Easy Way,,,https://youtube.com/watch?v=3uDROfnx2TE
+Holy Day OF Scourge,,STEINS;GATE OFFICIAL AFTER STORY: HOLY DAY OF SCOURGE,https://idletranslations.wordpress.com/2018/07/15/holy-day-of-scourge/
+Saiyan Pride,,Analysis of what saiyan pride is about,https://www.youtube.com/watch?v=k2EDiUfUqu0
+A People's Pride,,"""A People's Pride"" (民みん族ぞくの誇ほこり Minzoku no Hokori) is the 84th chapter of the https://dragonball.fandom.com/wiki/Dragon_Ball_Super_(manga)https://dragonball.fandom.com/wiki/Dragon_Ball_Super_(manga).",
+,,,
+Rashisa,,,https://www.animelyrics.com/anime/barakamon/rashisa.htm
+,,,
+Metaphysics And JavaScript,,,https://docs.google.com/presentation/d/1PUvpXMBEDS45rd0wHu6tF3j_8wmGC6cOLtOw2hzU-mw/edit#slide=id.p
+Unknown,,,
+,,,
+Spider-Man 2,,,https://en.wikipedia.org/wiki/Spider-Man_2
+Deathly Loneliness Attacks,,,https://www.youtube.com/watch?v=B7oOYOPf74k&list=RDMMB7oOYOPf74k
+"Jujutsu Kaisen, Season 2, Episode 21",,,
+"Jujutsu Kaisen, Season 2, Episode 20",,,
+Dragon Ball Super: Super Hero,,,
+Steins;Gate 0,,,
+Hiyajo Maho's Speech About Consciousness,,,

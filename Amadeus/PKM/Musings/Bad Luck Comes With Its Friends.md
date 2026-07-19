@@ -1,0 +1,17 @@
+---
+note-type: "Literature"
+author: "Oshino Meme"
+primary-zettelkasten-area: "Problem Solving"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+sources: "Bakemonogatari"
+---
+
+# Bad Luck Comes With Its Friends
+
+Why did I capture this? I wonder…Oshino Meme always struck me as a wise man and most things he said always resonated someway. He is talking about bad luck, maybe I thought that believing you have “*bad luck at life*” will bring other problems to the table (as he suggests)
+
+> *Bad luck brings along its friends.*
+> 
+
+![Screen Shot 2022-03-27 at 8.13.16 PM.png](Bad%20Luck%20Comes%20With%20Its%20Friends/Screen_Shot_2022-03-27_at_8.13.16_PM.png)

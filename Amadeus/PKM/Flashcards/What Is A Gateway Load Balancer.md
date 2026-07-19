@@ -1,0 +1,8 @@
+---
+area: "ELB"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "The gateway load balancer is designed to have granular control over the content of the packets. It can be used for adding a layer of security using multiple resources to analyze this traffic."
+---
+
+# What Is A Gateway Load Balancer?

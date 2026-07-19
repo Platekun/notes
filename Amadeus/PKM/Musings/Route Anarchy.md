@@ -1,0 +1,18 @@
+---
+note-type: "Literature"
+author: "Stas Ivanov"
+primary-zettelkasten-area: "Routing"
+status: "Processed"
+sources: "Route Hierarchy Do Not Exist"
+---
+
+# Route Anarchy
+
+There are claims that routes should not have a hierarchy since hierarchies are just a convention between programmers.
+
+> There is no hierarchy in routes.
+It's just a way programmer decided to group interfaces over common params.
+If you have 3 interfaces, where first one requires A and B, second B and C, and third one C and A, you would not be able to group them at all.
+> 
+
+[https://twitter.com/stivnov/status/1258606143364050944?s=20](https://twitter.com/stivnov/status/1258606143364050944?s=20)

@@ -1,0 +1,5 @@
+---
+notes: "Complexity Subjectiveness"
+---
+
+# Hillel

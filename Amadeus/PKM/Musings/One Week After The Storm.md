@@ -1,0 +1,16 @@
+---
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+status: "Processed"
+---
+
+# One Week After The Storm
+
+Feel like a lot has happened since I moved here but at the same time I don’t feel like I have done a lot. I am assuming this is because I am still adapting to my new life in this apartment.
+
+Today I start a new week in Piamonte, I spent my day shopping for supplies with Lourdes and my parents. I am learning new things every day. I also used the washing and dryer machine with the help of my mom.
+
+I am happy they are still around and didn’t abandon me completely.
+
+Hope this week in work is a little easier for me

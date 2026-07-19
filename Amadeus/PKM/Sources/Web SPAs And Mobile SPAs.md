@@ -1,0 +1,6 @@
+---
+url: "https://twitter.com/wuchangmingnice/status/1258626795248578560?s=20"
+notes: "Types Of Single Page Applications"
+---
+
+# Web SPAs And Mobile SPAs

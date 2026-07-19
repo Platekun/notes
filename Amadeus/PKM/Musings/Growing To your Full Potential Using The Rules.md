@@ -1,0 +1,22 @@
+---
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Problem Solving"
+secondary-zettelkasten-area: "Growth"
+status: "Processed"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
+---
+
+# Growing To your Full Potential Using The Rules
+
+I feel this is somehow connected to [[The Rules Of the System]]. Maybe this is the perception that other people have about you. It seems that understanding the rules of the system makes your potential show implicitly.
+
+> *[[Takuru Miyashiro]]: Sorry for having you come out here so quickly.
+
+[[Takeshi Shinjo]] : No it’s better for me to know as much as possible about the case. Even if it’s something small.
+
+Lately, I’d been starting to think that Detective Shinjo might be a lot better at his job than he looked.
+
+Of course, maybe people like him never really fit in an organization, and couln’t grow to their full potential.*
+>

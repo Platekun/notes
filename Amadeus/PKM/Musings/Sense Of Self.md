@@ -1,0 +1,12 @@
+---
+note-type: "Literature"
+author: "Hiyajo Maho"
+status: "Unprocessed"
+experiences: "Play Steins;Gate 0"
+---
+
+# Sense Of Self
+
+*[[Hiyajo Maho]]: No matter how advanced an AI was, it wouldn't talk to itself unless you programmed it to do that. And there was no need, or even a point, to a feature like that.
+
+If an AI started talking to itself, that might be a good indication that there was a “self” to talk to.*

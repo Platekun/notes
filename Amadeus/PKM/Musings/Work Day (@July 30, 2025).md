@@ -1,0 +1,16 @@
+---
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Work"
+status: "Unprocessed"
+---
+
+# Work Day (@July 30, 2025)
+
+## Today's Tasks
+
+[Untitled](Work%20Day%20(@July%2030,%202025)/Untitled%20240b39107475810f8f10da3a88b2a722.csv)
+
+## Today's Thoughts
+
+Jot down your thoughts here…

@@ -1,0 +1,29 @@
+---
+note-type: "Fleeting"
+author: "Carlos Lobo"
+status: "Unprocessed"
+---
+
+# Apartment Inspiration
+
+![Untitled](Apartment%20Inspiration/Untitled.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%201.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%202.png)
+
+Mirror in the bathroom?
+
+---
+
+![Untitled](Apartment%20Inspiration/Untitled%203.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%204.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%205.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%206.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%207.png)
+
+![Untitled](Apartment%20Inspiration/Untitled%208.png)

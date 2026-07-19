@@ -1,0 +1,17 @@
+---
+note-type: "Literature"
+author: "Okabe Rintaro"
+status: "Unprocessed"
+experiences: "Play Steins;Gate 0"
+---
+
+# Criticism Alone Doesn't Help Anything
+
+> *[[Okabe Rintaro]]: How do you know it won't work when you haven't even tried?
+
+[[Okabe Rintaro]]: The world's full of technologies that people never thought would work!
+
+[[Okabe Rintaro]]: But they exist now because people overcame those problems!
+
+[[Okabe Rintaro]]: Criticism alone doesn't help anything.*
+>

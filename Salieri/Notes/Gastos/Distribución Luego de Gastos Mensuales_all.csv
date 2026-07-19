@@ -1,0 +1,18 @@
+﻿Name,Amount,Description,Type of Expense
+Inversión Para Vivienda,"COP 2,500,000.00","Porcentaje dedicado para la compra de una vivienda a futuro.
+
+Afecta retención en la fuente del salario.",Ahorro a Largo Plazo
+Disponible,"COP 10,769,855.00","Este es la cantidad de dinero disponible luego de:
+- Descuento de seguridad social.
+- Gastos comunes.
+- Gastos personales.",
+Cuota de Galleta,"COP 100,000.00",Acuerdo previo de proveer para el cuidado de Galleta,Ayuda
+Educación de Lourdes,"COP 670,000.00",En este momento se refleja en el profesor de inglés,Ayuda
+Pastillas de Lourdes,"COP 50,000.00",Acuerdo previo de proveer para los anticonceptivos que eran algo más caros.,Ayuda
+Cena / Almuerzos casuales,"COP 960,000.00","Ocaciones donde de come en algún establecimiento para el almuerzo o cena.
+
+Se asumen ambos todos los Sábados con un valor de 120.000 COP",Entretenimiento
+Meriendas,"COP 200,000.00",Cualquier comida de la que tengamos antojo cuando salimos.,Entretenimiento
+Retirement Funds Quota,COP 0.00,,Ahorro a Largo Plazo
+Sinking Fund Quota,COP 0.00,,Ahorro a Corto Plazo
+Emergency Fund Quota,COP 0.00,,Ahorro a Corto Plazo

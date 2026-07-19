@@ -1,0 +1,12 @@
+---
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+status: "Processed"
+---
+
+# Demoing The New Apartment
+
+Decided to use the apartment for the Saturday with Lourdes. She’s been a great help in my adaptation to my new place. We cooked some pasta with wine and did amazing, I really liked the dynamic. I hope she gets more confident in the kitchen as time goes.
+
+Today was a relaxed day, however the next week looks stormy. I hope I can get enough rest for what is coming.

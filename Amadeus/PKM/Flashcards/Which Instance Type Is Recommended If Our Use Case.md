@@ -1,0 +1,8 @@
+---
+area: "EC2"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "We can use dedicated hosts when we have complex hardware requirements. We will have the complete visibility of the hardware used."
+---
+
+# Which Instance Type Is Recommended If Our Use Case Require Specific Hardware Requirements?
