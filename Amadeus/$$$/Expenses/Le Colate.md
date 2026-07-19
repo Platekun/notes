@@ -2,7 +2,6 @@
 amount: "COP 60,000.00"
 balance: "Jolly Hawking"
 scope: "Relationship"
-created-time: "September 30, 2023 9:59 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 60,000.00"
 sinking-subtotal: "COP 0.00"

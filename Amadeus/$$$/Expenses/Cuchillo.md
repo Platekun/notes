@@ -2,7 +2,6 @@
 amount: "COP 25,000.00"
 balance: "Cleftjaw Arthur"
 scope: "Lab"
-created-time: "June 21, 2023 12:20 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 25,000.00"
 sinking-subtotal: "COP 0.00"

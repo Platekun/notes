@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Caching"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 26, 2022 12:43 AM"
 sources: "Systems Design Primer, Caching"
 ---
 

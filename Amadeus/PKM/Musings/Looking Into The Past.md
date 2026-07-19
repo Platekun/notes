@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Kurisu Makise"
 primary-zettelkasten-area: "Time Perception"
-last-edited-time: "October 1, 2023 7:15 PM"
 secondary-zettelkasten-area: "Growth"
 status: "Unprocessed"
-created-time: "October 24, 2022 9:45 PM"
 experiences: "Play Steins;Gate"
 sources: "Steins;Gate"
 ---

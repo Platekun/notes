@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Heuristic Maxwell"
 scope: "Lourdes"
-created-time: "November 19, 2022 1:50 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

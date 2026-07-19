@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:28 AM"
 status: "Processed"
-created-time: "July 1, 2023 7:52 PM"
 ---
 
 # Pasta Saturday

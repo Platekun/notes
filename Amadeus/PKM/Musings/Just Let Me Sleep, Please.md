@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "March 18, 2024 1:06 AM"
 status: "Processed"
-created-time: "March 18, 2024 12:56 AM"
 ---
 
 # Just Let Me Sleep, Please

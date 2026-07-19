@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Shogun"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "November 4, 2023 6:46 PM"
 secondary-zettelkasten-area: "Knowledge Management"
 status: "Processed"
-created-time: "October 24, 2022 8:20 PM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

@@ -2,7 +2,6 @@
 amount: "COP 133,353.00"
 balance: "Did April Happen"
 scope: "Lab"
-created-time: "April 3, 2025 5:18 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

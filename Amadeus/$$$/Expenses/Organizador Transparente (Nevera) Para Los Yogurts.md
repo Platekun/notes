@@ -2,7 +2,6 @@
 amount: "COP 12,000.00"
 balance: "Trusting Mirzakhani, Reverent Euclid"
 scope: "Lab"
-created-time: "December 15, 2022 2:44 AM"
 type: "Short-term"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

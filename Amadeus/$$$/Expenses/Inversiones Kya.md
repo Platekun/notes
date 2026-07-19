@@ -2,7 +2,6 @@
 amount: "COP 170,421.00"
 balance: "Forgotten February"
 scope: "Lobito"
-created-time: "February 2, 2025 3:50 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 170,421.00"
 sinking-subtotal: "COP 0.00"

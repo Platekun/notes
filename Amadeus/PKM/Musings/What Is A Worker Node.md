@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "BlockChain"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Systems Design"
 status: "Unprocessed"
-created-time: "January 3, 2023 8:48 PM"
 sources: "“What is a worker node in systems design?” Prompt, Many Nodes, One Distributed System"
 ---
 

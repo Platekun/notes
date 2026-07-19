@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 author: "Carlos Lobo"
-last-edited-time: "February 22, 2025 2:33 PM"
 status: "Unprocessed"
-created-time: "February 22, 2025 2:29 PM"
 ---
 
 # Ring You A Bell

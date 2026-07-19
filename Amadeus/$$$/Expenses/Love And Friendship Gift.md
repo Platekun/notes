@@ -2,7 +2,6 @@
 amount: "COP 324,983.00"
 balance: "Neurotic Serval"
 scope: "Relationship"
-created-time: "September 1, 2024 4:44 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 324,983.00"

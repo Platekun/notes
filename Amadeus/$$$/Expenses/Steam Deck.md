@@ -2,7 +2,6 @@
 amount: "COP 3,600,000.00"
 balance: "Happy Hermann"
 scope: "Lobito"
-created-time: "June 21, 2023 12:16 PM"
 type: "Short-term"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

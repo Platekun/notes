@@ -2,7 +2,6 @@
 amount: "COP 26,900.00"
 balance: "Firelord"
 scope: "Family"
-created-time: "February 7, 2024 7:53 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

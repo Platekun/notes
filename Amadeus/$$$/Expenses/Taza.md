@@ -2,7 +2,6 @@
 amount: "COP 15,000.00"
 balance: "Jolly Hawking"
 scope: "Lab"
-created-time: "September 9, 2023 10:46 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 15,000.00"
 sinking-subtotal: "COP 0.00"

@@ -2,7 +2,6 @@
 amount: "COP 227,000.00"
 balance: "Forgotten February"
 scope: "Family"
-created-time: "February 16, 2025 7:52 AM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 227,000.00"

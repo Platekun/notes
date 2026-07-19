@@ -2,7 +2,6 @@
 amount: "COP 130,000.00"
 balance: "Happy Hermann"
 scope: "Family"
-created-time: "June 17, 2023 10:20 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 130,000.00"

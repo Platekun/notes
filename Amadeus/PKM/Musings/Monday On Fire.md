@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 28, 2023 2:37 AM"
 status: "Processed"
-created-time: "November 28, 2023 2:34 AM"
 ---
 
 # Monday On Fire

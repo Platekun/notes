@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 15, 2023 1:48 PM"
 status: "Processed"
-created-time: "November 14, 2023 1:04 PM"
 ---
 
 # Control That Temper

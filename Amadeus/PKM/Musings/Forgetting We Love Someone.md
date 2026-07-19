@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Introspections"
-last-edited-time: "November 26, 2023 5:29 AM"
 status: "Processed"
-created-time: "November 26, 2023 5:21 AM"
 ---
 
 # Forgetting We Love Someone

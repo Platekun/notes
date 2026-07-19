@@ -2,7 +2,6 @@
 amount: "COP 6,000.00"
 balance: "Blink"
 scope: "Lobito"
-created-time: "September 10, 2022 11:39 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 6,000.00"
 sinking-subtotal: "COP 0.00"

@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Kame-Sen'nin"
-last-edited-time: "February 13, 2024 1:38 AM"
 status: "Unprocessed"
-created-time: "February 13, 2024 1:33 AM"
 ---
 
 # The Turtle Hermit Way To Learn

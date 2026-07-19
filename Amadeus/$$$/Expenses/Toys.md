@@ -2,7 +2,6 @@
 amount: "COP 12,000.00"
 balance: "Thirsty Cartwright"
 scope: "Galleta"
-created-time: "March 4, 2023 10:31 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 12,000.00"
 sinking-subtotal: "COP 0.00"

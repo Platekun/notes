@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Kenichiro Senomiya"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "October 1, 2023 11:29 PM"
 status: "Processed"
-created-time: "October 18, 2022 1:36 AM"
 experiences: "Play Robotic;Notes"
 sources: "Robotic;Notes"
 ---

@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "BlockChain"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Unprocessed"
-created-time: "January 2, 2023 7:30 PM"
 sources: "Blockchain Definition"
 ---
 

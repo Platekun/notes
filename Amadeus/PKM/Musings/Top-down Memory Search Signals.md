@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Okabe Rintaro"
 primary-zettelkasten-area: "Software Architecture"
-last-edited-time: "June 1, 2024 4:49 PM"
 status: "Processed"
-created-time: "January 6, 2024 2:57 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

@@ -2,9 +2,7 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Front-End Development"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Unprocessed"
-created-time: "August 30, 2023 12:39 AM"
 ---
 
 # Front-End Glossary: Adapters

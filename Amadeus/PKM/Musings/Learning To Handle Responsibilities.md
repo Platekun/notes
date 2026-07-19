@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:28 AM"
 status: "Processed"
-created-time: "June 27, 2023 1:15 PM"
 ---
 
 # Learning To Handle Responsibilities

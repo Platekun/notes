@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Yehuda Katz"
 primary-zettelkasten-area: "React"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Ember"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "Components Are Not The Primary Unit Of Composition In Front-End Apps"
 ---
 

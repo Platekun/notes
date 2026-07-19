@@ -2,9 +2,7 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Introspections"
-last-edited-time: "October 1, 2023 11:43 PM"
 status: "Processed"
-created-time: "September 3, 2023 2:34 AM"
 ---
 
 # The Desire To Protect

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Software Development"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Developer Mindset"
 status: "Processed"
-created-time: "November 7, 2022 11:42 PM"
 sources: "Unknown"
 ---
 

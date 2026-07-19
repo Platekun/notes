@@ -2,7 +2,6 @@
 amount: "COP 8,800.00"
 balance: "Blink"
 scope: "Family"
-created-time: "September 3, 2022 8:56 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 8,800.00"
 sinking-subtotal: "COP 0.00"

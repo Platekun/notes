@@ -2,7 +2,6 @@
 amount: "COP 700,000.00"
 balance: "Beautiful Toyota Corolla"
 scope: "Lab"
-created-time: "October 17, 2024 5:33 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

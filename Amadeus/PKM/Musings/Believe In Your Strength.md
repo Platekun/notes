@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Piccolo"
-last-edited-time: "January 9, 2024 1:01 AM"
 status: "Unprocessed"
-created-time: "December 30, 2023 4:56 PM"
 sources: "Dragon Ball Super: Super Hero"
 ---
 

@@ -2,7 +2,6 @@
 amount: "COP 121,000.00"
 balance: "Happy Hermann"
 scope: "Lab"
-created-time: "June 17, 2023 10:55 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

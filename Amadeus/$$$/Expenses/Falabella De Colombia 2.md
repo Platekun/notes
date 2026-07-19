@@ -2,7 +2,6 @@
 amount: "COP 60,490.00"
 balance: "T.B.N"
 scope: "Lobito"
-created-time: "December 6, 2025 11:44 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 60,490.00"
 sinking-subtotal: "COP 0.00"

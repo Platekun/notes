@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:28 AM"
 status: "Processed"
-created-time: "July 6, 2023 12:41 PM"
 ---
 
 # Are You Happy? I Think I Am

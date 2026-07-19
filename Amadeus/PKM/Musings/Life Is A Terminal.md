@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Oshino Meme"
 primary-zettelkasten-area: "Time Perception"
-last-edited-time: "October 1, 2023 11:40 PM"
 status: "Processed"
-created-time: "October 18, 2022 1:36 AM"
 sources: "Kizumonogatari II Nekketsu-hen"
 ---
 

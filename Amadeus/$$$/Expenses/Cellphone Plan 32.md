@@ -2,7 +2,6 @@
 amount: "COP 82,000.00"
 balance: "Super Toyota Highlander"
 scope: "Lobito"
-created-time: "May 16, 2024 5:00 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

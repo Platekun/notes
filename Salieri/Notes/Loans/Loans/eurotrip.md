@@ -1,5 +1,4 @@
 ---
-created-time: "November 11, 2024 8:15 PM"
 scope: "Relationship"
 principal: "COP 18,000,000.00"
 paid: "0"

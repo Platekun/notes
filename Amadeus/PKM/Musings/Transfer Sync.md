@@ -1,7 +1,5 @@
 ---
-last-edited-time: "August 31, 2024 8:42 PM"
 status: "Unprocessed"
-created-time: "August 25, 2024 3:05 PM"
 ---
 
 # Transfer Sync

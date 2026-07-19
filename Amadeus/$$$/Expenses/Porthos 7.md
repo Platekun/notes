@@ -2,7 +2,6 @@
 amount: "COP 110,000.00"
 balance: "Starfire"
 scope: "Relationship"
-created-time: "November 26, 2023 12:37 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 110,000.00"
 sinking-subtotal: "COP 0.00"

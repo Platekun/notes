@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 13, 2023 4:12 AM"
 status: "Processed"
-created-time: "November 13, 2023 4:09 AM"
 ---
 
 # Weekend Summary

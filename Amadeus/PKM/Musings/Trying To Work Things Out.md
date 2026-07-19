@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "February 19, 2024 2:37 AM"
 status: "Processed"
-created-time: "February 19, 2024 2:24 AM"
 ---
 
 # Trying To Work Things Out

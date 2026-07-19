@@ -2,7 +2,6 @@
 amount: "COP 206,000.00"
 balance: "Wonderful SDLC"
 scope: "Lobito"
-created-time: "August 25, 2024 10:59 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 206,000.00"
 sinking-subtotal: "COP 0.00"

@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Mio Kunosato"
 primary-zettelkasten-area: "Knowledge Management"
-last-edited-time: "October 1, 2023 7:49 PM"
 status: "Processed"
-created-time: "December 31, 2022 10:32 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

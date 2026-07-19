@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Systems Design"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Cloud Computing"
 status: "Processed"
-created-time: "August 9, 2022 1:22 AM"
 sources: "Unknown"
 ---
 

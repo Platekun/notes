@@ -2,7 +2,6 @@
 amount: "COP 104,000.00"
 balance: "Wonderful SDLC"
 scope: "Lab"
-created-time: "August 12, 2024 1:41 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

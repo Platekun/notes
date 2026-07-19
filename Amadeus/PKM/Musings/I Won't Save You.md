@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "January 30, 2023 12:28 PM"
 ---
 
 # I Won't Save You.

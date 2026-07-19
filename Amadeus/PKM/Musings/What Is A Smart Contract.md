@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Ethereum"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Unprocessed"
-created-time: "January 2, 2023 7:03 PM"
 sources: "Unknown"
 ---
 

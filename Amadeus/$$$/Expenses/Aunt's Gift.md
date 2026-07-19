@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Smooth Nissan Sentra"
 scope: "Family"
-created-time: "June 8, 2024 4:15 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 100,000.00"

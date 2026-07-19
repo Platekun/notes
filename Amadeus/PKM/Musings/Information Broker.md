@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Katsuko Momose"
-last-edited-time: "October 1, 2023 7:50 PM"
 status: "Unprocessed"
-created-time: "September 30, 2023 8:21 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

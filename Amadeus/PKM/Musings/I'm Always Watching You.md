@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Kurisu Makise"
-last-edited-time: "March 21, 2024 1:41 AM"
 status: "Unprocessed"
-created-time: "March 19, 2024 1:33 AM"
 experiences: "Play Steins;Gate 0"
 ---
 

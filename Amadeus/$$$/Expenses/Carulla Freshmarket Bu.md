@@ -2,7 +2,6 @@
 amount: "COP 100,682.00"
 balance: "Forgotten February"
 scope: "Relationship"
-created-time: "February 2, 2025 1:57 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 100,682.00"
 sinking-subtotal: "COP 0.00"

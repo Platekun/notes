@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Databases"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Systems Design"
 status: "Processed"
-created-time: "December 29, 2022 7:42 PM"
 sources: "Distributed Ledger Definition, \"Do all DLT use cryptography?” Prompt"
 ---
 

@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 author: "Carlos Lobo"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Unprocessed"
-created-time: "February 4, 2023 2:15 PM"
 ---
 
 # Apartment Inspiration

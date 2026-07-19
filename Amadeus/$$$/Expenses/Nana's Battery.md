@@ -2,7 +2,6 @@
 amount: "COP 500,000.00"
 balance: "Cleftjaw Arthur"
 scope: "Lobito"
-created-time: "June 21, 2023 12:18 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 500,000.00"

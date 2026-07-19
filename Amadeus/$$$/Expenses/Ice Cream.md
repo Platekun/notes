@@ -2,7 +2,6 @@
 amount: "COP 17,500.00"
 balance: "Gifted Goose"
 scope: "Relationship"
-created-time: "April 27, 2024 9:11 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 17,500.00"
 sinking-subtotal: "COP 0.00"

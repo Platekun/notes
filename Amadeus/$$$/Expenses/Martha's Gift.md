@@ -2,7 +2,6 @@
 amount: "COP 70,000.00"
 balance: "Starfire"
 scope: "Family"
-created-time: "November 30, 2023 5:32 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 70,000.00"

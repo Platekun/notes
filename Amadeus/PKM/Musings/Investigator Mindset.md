@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Takeshi Shinjo"
 primary-zettelkasten-area: "Knowledge Management"
-last-edited-time: "December 30, 2023 5:23 PM"
 secondary-zettelkasten-area: "Problem Solving"
 status: "Processed"
-created-time: "February 12, 2023 2:43 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

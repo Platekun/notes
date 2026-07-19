@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Bitcoin"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "BlockChain"
 status: "Unprocessed"
-created-time: "December 30, 2022 2:25 AM"
 sources: "Proof Of Work Definition, Distributed Ledger Definition, \"Who determines the reward in a proof-of-work protocol?” Prompt, Breaking Down Proof-of-Work Mining and 51% Attacks, \"Miners are looking to create blocks, and they will solve a challenge in order to do so. If they get it right they will take as many transactions from the pool and shove them inside, is this correct?” Prompt, \"How are transactions selected in that case?” Prompt, Mempool Definition"
 ---
 

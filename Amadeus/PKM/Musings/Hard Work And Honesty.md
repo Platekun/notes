@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Jonathan Kent"
 primary-zettelkasten-area: "Ethics"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 18, 2022 1:36 AM"
 sources: "Smallville, Season 10, Episode 1"
 ---
 

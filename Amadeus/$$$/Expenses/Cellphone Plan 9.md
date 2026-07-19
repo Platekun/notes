@@ -2,7 +2,6 @@
 amount: "COP 82,000.00"
 balance: "Ides Of March"
 scope: "Lobito"
-created-time: "March 16, 2025 6:54 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

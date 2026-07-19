@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Crafsdwarf"
 primary-zettelkasten-area: "Knowledge Management"
-last-edited-time: "October 1, 2023 11:39 PM"
 status: "Processed"
-created-time: "September 2, 2023 7:47 PM"
 experiences: "Play Chaos;Child"
 sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
 ---

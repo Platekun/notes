@@ -2,7 +2,6 @@
 amount: "COP 20,000.00"
 balance: "Empath"
 scope: "Lourdes"
-created-time: "August 27, 2023 12:33 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 20,000.00"
 sinking-subtotal: "COP 0.00"

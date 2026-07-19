@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Bitcoin"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Unprocessed"
-created-time: "December 30, 2022 2:26 AM"
 sources: "Why Bitcoin Was Invented, Bitcoin Definition, Bitcoin Paper, \"Was bitcoin proposed with a wallet in mind?” Prompt"
 ---
 

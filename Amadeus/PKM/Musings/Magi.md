@@ -1,7 +1,5 @@
 ---
-last-edited-time: "November 7, 2023 12:48 PM"
 status: "Unprocessed"
-created-time: "November 6, 2023 9:25 PM"
 ---
 
 # Magi

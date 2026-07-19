@@ -2,7 +2,6 @@
 amount: "COP 150,000.00"
 balance: "Gifted Goose"
 scope: "Lobito"
-created-time: "April 8, 2024 3:25 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 150,000.00"
 sinking-subtotal: "COP 0.00"

@@ -2,7 +2,6 @@
 amount: "COP 12,000.00"
 balance: "Reverent Euclid"
 scope: "Galleta"
-created-time: "December 17, 2022 11:34 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 12,000.00"
 sinking-subtotal: "COP 0.00"

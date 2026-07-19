@@ -2,7 +2,6 @@
 amount: "COP 8,700.00"
 balance: "Forgetful May"
 scope: "Lobito"
-created-time: "May 17, 2025 11:49 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 8,700.00"
 sinking-subtotal: "COP 0.00"

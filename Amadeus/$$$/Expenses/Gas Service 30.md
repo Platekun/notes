@@ -2,7 +2,6 @@
 amount: "COP 30,000.00"
 balance: "Gifted Goose"
 scope: "Lab"
-created-time: "April 20, 2024 5:00 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

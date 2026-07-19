@@ -2,7 +2,6 @@
 amount: "COP 81,000.00"
 balance: "Starfire"
 scope: "Lourdes"
-created-time: "November 25, 2023 11:04 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 81,000.00"
 sinking-subtotal: "COP 0.00"

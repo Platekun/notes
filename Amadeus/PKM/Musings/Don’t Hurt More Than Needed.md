@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Kurisu Makise"
 primary-zettelkasten-area: "Ethics"
-last-edited-time: "October 1, 2023 7:17 PM"
 secondary-zettelkasten-area: "Growth"
 status: "Unprocessed"
-created-time: "October 24, 2022 9:23 PM"
 experiences: "Play Steins;Gate"
 sources: "Steins;Gate"
 ---

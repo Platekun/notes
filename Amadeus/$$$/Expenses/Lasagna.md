@@ -2,7 +2,6 @@
 amount: "COP 20,000.00"
 balance: "Firelord"
 scope: "Relationship"
-created-time: "February 25, 2024 8:33 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 20,000.00"
 sinking-subtotal: "COP 0.00"

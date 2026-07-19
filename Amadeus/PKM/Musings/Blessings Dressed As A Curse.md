@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:28 AM"
 status: "Processed"
-created-time: "October 2, 2022 5:18 PM"
 ---
 
 # Blessings Dressed As A Curse

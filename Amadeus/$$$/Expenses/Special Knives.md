@@ -1,7 +1,6 @@
 ---
 amount: "COP 33,000.00"
 scope: "Family"
-created-time: "December 23, 2023 8:48 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 33,000.00"
 sinking-subtotal: "COP 0.00"

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Jude Mathis"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Developer Mindset"
 status: "Unprocessed"
-created-time: "October 17, 2022 2:09 AM"
 sources: "Howe’s Egg Principle Skit"
 ---
 

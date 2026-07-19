@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Takuru Miyashiro"
 primary-zettelkasten-area: "Empathy"
-last-edited-time: "October 1, 2023 7:48 PM"
 status: "Processed"
-created-time: "February 7, 2023 2:28 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

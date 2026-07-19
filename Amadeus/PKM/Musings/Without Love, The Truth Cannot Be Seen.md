@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Carlos Lobo"
-last-edited-time: "October 30, 2024 8:12 PM"
 status: "Unprocessed"
-created-time: "June 27, 2024 2:11 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

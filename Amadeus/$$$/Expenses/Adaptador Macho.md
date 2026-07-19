@@ -2,7 +2,6 @@
 amount: "COP 450.00"
 balance: "Reverent Euclid"
 scope: "Lab"
-created-time: "December 16, 2022 8:24 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 450.00"
 sinking-subtotal: "COP 0.00"

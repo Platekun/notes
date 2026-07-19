@@ -3,7 +3,6 @@ loan: "Bbc + santa cabrona"
 amount: "COP 120,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "May 27, 2023 6:33 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

@@ -2,10 +2,8 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "June 11, 2024 3:16 AM"
 secondary-zettelkasten-area: "Identity, Time Perception, Growth, Problem Solving"
 status: "Processed"
-created-time: "October 16, 2022 10:41 PM"
 experiences: "Play Steins;Gate"
 sources: "Steins;Gate"
 ---

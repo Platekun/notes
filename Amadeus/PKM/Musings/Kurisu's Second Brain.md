@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Hiyajo Maho"
 primary-zettelkasten-area: "Software Architecture"
-last-edited-time: "June 1, 2024 5:25 PM"
 secondary-zettelkasten-area: "Knowledge Management"
 status: "Processed"
-created-time: "February 3, 2024 2:55 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

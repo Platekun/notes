@@ -2,7 +2,6 @@
 amount: "COP 200,000.00"
 balance: "Jolly Hawking"
 scope: "Lobito"
-created-time: "October 1, 2023 2:42 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

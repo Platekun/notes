@@ -2,7 +2,6 @@
 amount: "COP 700,000.00"
 balance: "First Payoneer Month"
 scope: "Lab"
-created-time: "July 17, 2025 5:04 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Super Toyota Highlander"
 scope: "Galleta"
-created-time: "May 24, 2024 7:08 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 100,000.00"
 sinking-subtotal: "COP 0.00"

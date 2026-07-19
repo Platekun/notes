@@ -1,7 +1,6 @@
 ---
 amount: "COP 130,000.00"
 scope: "Lobito"
-created-time: "December 17, 2023 10:02 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

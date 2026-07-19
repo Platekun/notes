@@ -2,7 +2,6 @@
 amount: "COP 14,000.00"
 balance: "Forgetful May"
 scope: "Relationship"
-created-time: "May 24, 2025 11:21 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 14,000.00"
 sinking-subtotal: "COP 0.00"

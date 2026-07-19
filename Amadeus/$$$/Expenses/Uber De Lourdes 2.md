@@ -2,7 +2,6 @@
 amount: "COP 15,000.00"
 balance: "Trusting Mirzakhani, Reverent Euclid"
 scope: "Lourdes"
-created-time: "December 23, 2022 3:20 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 15,000.00"
 sinking-subtotal: "COP 0.00"

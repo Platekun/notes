@@ -2,7 +2,6 @@
 amount: "COP 51,000.00"
 balance: "Blink"
 scope: "Relationship"
-created-time: "September 3, 2022 8:37 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 51,000.00"
 sinking-subtotal: "COP 0.00"

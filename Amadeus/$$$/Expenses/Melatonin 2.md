@@ -2,7 +2,6 @@
 amount: "COP 50,000.00"
 balance: "Agitated Shockley"
 scope: "Lobito"
-created-time: "January 27, 2024 3:25 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

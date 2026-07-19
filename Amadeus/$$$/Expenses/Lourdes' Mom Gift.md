@@ -2,7 +2,6 @@
 amount: "COP 150,000.00"
 balance: "Super Toyota Highlander"
 scope: "Lourdes"
-created-time: "May 11, 2024 9:56 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 150,000.00"

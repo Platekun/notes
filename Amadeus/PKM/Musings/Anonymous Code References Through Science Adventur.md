@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Carlos Lobo"
-last-edited-time: "February 15, 2026 11:08 PM"
 status: "Unprocessed"
-created-time: "February 15, 2026 10:27 PM"
 ---
 
 # Anonymous Code References Through Science Adventure Media

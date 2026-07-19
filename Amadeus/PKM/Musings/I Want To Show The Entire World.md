@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "February 23, 2023 1:59 PM"
 ---
 
 # I Want To Show The Entire World

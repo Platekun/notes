@@ -1,7 +1,6 @@
 ---
 amount: "COP 41,900.00"
 scope: "Family"
-created-time: "November 7, 2025 5:11 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "December 2, 2023 4:58 AM"
 status: "Processed"
-created-time: "December 2, 2023 4:54 AM"
 ---
 
 # December 1st

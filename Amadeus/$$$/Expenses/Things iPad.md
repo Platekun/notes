@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Kind Salmon"
 scope: "Lobito"
-created-time: "October 4, 2023 2:32 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 100,000.00"
 sinking-subtotal: "COP 0.00"

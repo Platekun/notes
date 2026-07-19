@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Hiyajo Maho"
-last-edited-time: "February 12, 2024 5:33 PM"
 status: "Unprocessed"
-created-time: "February 12, 2024 5:30 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

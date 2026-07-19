@@ -2,7 +2,6 @@
 amount: "COP 8,900.00"
 balance: "Angry Lumiere"
 scope: "Lobito"
-created-time: "October 22, 2022 10:15 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 8,900.00"
 sinking-subtotal: "COP 0.00"

@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Fargate"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "November 4, 2022 12:55 AM"
 sources: "ECS With EC2 Vs Fargate, Moving From EC2 To ECS Fargate, Any Ggotchas We Should Be Aware Of?"
 ---
 

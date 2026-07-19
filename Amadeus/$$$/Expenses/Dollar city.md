@@ -2,7 +2,6 @@
 amount: "COP 18,000.00"
 balance: "Empath"
 scope: "Lab"
-created-time: "August 5, 2023 10:04 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

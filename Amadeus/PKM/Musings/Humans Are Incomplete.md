@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Shogun"
 primary-zettelkasten-area: "Growth"
-last-edited-time: "November 4, 2023 7:38 PM"
 status: "Processed"
-created-time: "September 30, 2023 4:03 PM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Okabe Rintaro"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "February 18, 2024 11:17 PM"
 secondary-zettelkasten-area: "Emotions"
 status: "Processed"
-created-time: "October 24, 2022 9:55 PM"
 experiences: "Play Steins;Gate"
 sources: "Steins;Gate"
 ---

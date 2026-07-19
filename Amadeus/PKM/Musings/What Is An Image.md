@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Docker"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "November 4, 2022 1:28 AM"
 sources: "Unknown"
 ---
 

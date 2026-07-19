@@ -2,7 +2,6 @@
 amount: "COP 133,353.00"
 balance: "Smooth Nissan Sentra"
 scope: "Lab"
-created-time: "June 3, 2024 6:26 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

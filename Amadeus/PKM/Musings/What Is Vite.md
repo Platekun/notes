@@ -1,8 +1,6 @@
 ---
 note-type: "Fleeting"
-last-edited-time: "March 9, 2024 8:53 PM"
 status: "Unprocessed"
-created-time: "March 9, 2024 8:20 PM"
 ---
 
 # What Is Vite?

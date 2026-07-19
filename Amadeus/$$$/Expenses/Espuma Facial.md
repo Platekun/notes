@@ -2,7 +2,6 @@
 amount: "COP 40,600.00"
 balance: "Pedantic Hellman"
 scope: "Lobito"
-created-time: "February 13, 2023 1:42 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Koyomi Araragi"
 primary-zettelkasten-area: "Love"
-last-edited-time: "October 1, 2023 11:37 PM"
 status: "Processed"
-created-time: "October 18, 2022 1:36 AM"
 sources: "Bakemonogatari"
 ---
 

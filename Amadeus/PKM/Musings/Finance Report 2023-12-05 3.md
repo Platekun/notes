@@ -1,7 +1,5 @@
 ---
-last-edited-time: "December 6, 2023 2:14 AM"
 status: "Unprocessed"
-created-time: "December 6, 2023 2:14 AM"
 ---
 
 # Finance Report 2023-12-05

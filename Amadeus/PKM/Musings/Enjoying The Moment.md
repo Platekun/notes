@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "February 2, 2024 1:58 AM"
 status: "Processed"
-created-time: "February 2, 2024 1:55 AM"
 ---
 
 # Enjoying The Moment

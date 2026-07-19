@@ -2,7 +2,6 @@
 amount: "COP 12,000.00"
 balance: "Kind Salmon"
 scope: "Relationship"
-created-time: "October 14, 2023 9:57 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 12,000.00"
 sinking-subtotal: "COP 0.00"

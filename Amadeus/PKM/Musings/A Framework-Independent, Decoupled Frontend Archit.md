@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Villuendas"
 primary-zettelkasten-area: "Software Architecture"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Front-End Development"
 status: "Processed"
-created-time: "October 18, 2022 2:38 AM"
 sources: "A Framework-Independent, Decoupled Frontend Architecture For Large Scale Projects | T3chFest 2019"
 ---
 

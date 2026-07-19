@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Gary Bernhardt"
 primary-zettelkasten-area: "React"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Software Architecture"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "React Tries To Redefine The World Around It"
 ---
 

@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Work"
-last-edited-time: "November 25, 2023 4:55 PM"
 status: "Processed"
-created-time: "November 25, 2023 2:47 AM"
 ---
 
 # Remember To Do This

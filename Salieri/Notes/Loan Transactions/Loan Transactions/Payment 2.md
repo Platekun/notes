@@ -3,7 +3,6 @@ loan: "iPhone 13"
 amount: "COP 300,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "January 31, 2023 3:04 AM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

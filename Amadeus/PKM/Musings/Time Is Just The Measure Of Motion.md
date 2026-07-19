@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Suzuha Amane"
 primary-zettelkasten-area: "Time Perception"
-last-edited-time: "October 1, 2023 7:29 PM"
 status: "Processed"
-created-time: "October 24, 2022 8:38 PM"
 experiences: "Play Steins;Gate"
 sources: "Steins;Gate"
 ---

@@ -2,7 +2,6 @@
 amount: "COP 56,000.00"
 balance: "Blizzard"
 scope: "Relationship"
-created-time: "July 29, 2023 9:43 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 56,000.00"
 sinking-subtotal: "COP 0.00"

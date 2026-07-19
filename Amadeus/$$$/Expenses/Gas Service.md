@@ -2,7 +2,6 @@
 amount: "COP 30,000.00"
 balance: "Strong United Kingdom"
 scope: "Lab"
-created-time: "July 20, 2024 7:15 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

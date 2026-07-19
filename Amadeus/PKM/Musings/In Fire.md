@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "January 18, 2024 2:36 AM"
 status: "Unprocessed"
-created-time: "January 18, 2024 2:34 AM"
 ---
 
 # In Fire

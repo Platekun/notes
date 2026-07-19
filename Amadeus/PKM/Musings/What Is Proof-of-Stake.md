@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "BlockChain"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Ethereum, Systems Design"
 status: "Unprocessed"
-created-time: "January 3, 2023 1:11 AM"
 sources: "What is Proof of Stake (PoS)｜Explained For Beginners (../Sources/What%20is%20Proof%20of%20Stake%20(PoS)%EF%BD%9CExplained%20For%20Beginne%202f0c87f6de6141f69049270155641b0d.md), Proof-of-stake Definition, “How does the Proof-of-stake work?” Prompt, \"Where do validators obtain the transactions to put in a block in a pos protocol?” Prompt"
 ---
 

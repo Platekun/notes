@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Monaito"
 primary-zettelkasten-area: "Emotions"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 24, 2022 9:06 PM"
 sources: "Saiyan Pride, A People's Pride"
 ---
 

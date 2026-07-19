@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Aoi Sena"
 primary-zettelkasten-area: "Emotions"
-last-edited-time: "October 31, 2023 1:15 AM"
 status: "Processed"
-created-time: "September 28, 2023 1:30 AM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

@@ -2,7 +2,6 @@
 amount: "COP 62,000.00"
 balance: "Blizzard"
 scope: "Lab"
-created-time: "July 30, 2023 12:29 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

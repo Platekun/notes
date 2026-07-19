@@ -2,7 +2,6 @@
 amount: "COP 45,250.00"
 balance: "Trusting Mirzakhani"
 scope: "Lobito"
-created-time: "January 9, 2023 3:43 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

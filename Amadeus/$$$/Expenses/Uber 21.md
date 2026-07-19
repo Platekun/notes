@@ -2,7 +2,6 @@
 amount: "COP 39,547.00"
 balance: "Ides Of March"
 scope: "Relationship"
-created-time: "March 10, 2025 2:28 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 39,547.00"
 sinking-subtotal: "COP 0.00"

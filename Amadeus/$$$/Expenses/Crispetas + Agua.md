@@ -2,7 +2,6 @@
 amount: "COP 22,500.00"
 balance: "Naughty Blackburn"
 scope: "Relationship"
-created-time: "August 27, 2022 1:27 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 22,500.00"
 sinking-subtotal: "COP 0.00"

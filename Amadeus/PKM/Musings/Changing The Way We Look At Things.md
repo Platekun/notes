@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Ayase Kishimoto"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "October 31, 2023 1:40 AM"
 secondary-zettelkasten-area: "Problem Solving"
 status: "Processed"
-created-time: "September 25, 2023 12:12 AM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

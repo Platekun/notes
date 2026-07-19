@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Takuru Miyashiro"
 primary-zettelkasten-area: "Love"
-last-edited-time: "October 1, 2023 7:31 PM"
 secondary-zettelkasten-area: "Communication"
 status: "Processed"
-created-time: "March 19, 2023 8:02 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

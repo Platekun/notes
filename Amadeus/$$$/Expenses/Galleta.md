@@ -2,7 +2,6 @@
 amount: "COP 147,000.00"
 balance: "Starfire"
 scope: "Galleta"
-created-time: "November 2, 2023 12:27 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 147,000.00"
 sinking-subtotal: "COP 0.00"

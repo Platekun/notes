@@ -2,7 +2,6 @@
 amount: "COP 130,000.00"
 balance: "Wonderful SDLC"
 scope: "Family"
-created-time: "August 20, 2024 12:44 AM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 130,000.00"

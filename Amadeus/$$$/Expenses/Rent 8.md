@@ -2,7 +2,6 @@
 amount: "COP 1,000,000.00"
 balance: "Firelord"
 scope: "Lab"
-created-time: "February 24, 2024 7:29 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

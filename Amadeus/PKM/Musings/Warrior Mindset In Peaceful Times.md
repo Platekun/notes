@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Suzuha Amane"
-last-edited-time: "February 19, 2024 10:23 PM"
 status: "Unprocessed"
-created-time: "February 19, 2024 10:02 PM"
 ---
 
 # Warrior Mindset In Peaceful Times

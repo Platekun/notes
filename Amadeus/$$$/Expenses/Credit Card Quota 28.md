@@ -2,7 +2,6 @@
 amount: "COP 48,490.00"
 balance: "Strong United Kingdom"
 scope: "Lobito"
-created-time: "July 18, 2024 6:03 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

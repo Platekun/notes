@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Soichiro Kuzuki"
 primary-zettelkasten-area: "Ethics"
-last-edited-time: "October 1, 2023 11:38 PM"
 status: "Unprocessed"
-created-time: "October 18, 2022 1:36 AM"
 sources: "Fate/Stay Night: Unlimited Blade Works"
 ---
 

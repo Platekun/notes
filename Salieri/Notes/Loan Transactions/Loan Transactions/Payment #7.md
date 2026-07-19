@@ -3,7 +3,6 @@ loan: "Car Crash"
 amount: "COP 100,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "September 15, 2022 1:23 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

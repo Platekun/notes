@@ -1,5 +1,4 @@
 ---
-created-time: "August 12, 2023 10:59 PM"
 scope: "Galleta"
 borrower: "Carlos Camilo Lobo Ulloque"
 lender: "Lourdes Ojeda"

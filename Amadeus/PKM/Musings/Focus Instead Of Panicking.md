@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Hinae Arimura"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "October 1, 2023 7:48 PM"
 secondary-zettelkasten-area: "Emotions"
 status: "Processed"
-created-time: "February 7, 2023 1:44 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

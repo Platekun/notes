@@ -3,7 +3,6 @@ loan: "D1- Lola, Brown Shirt, Air fryer, Ambientador nana, Disfraz galleta, Disf
 amount: "COP 256,000.00"
 performed: "Yes"
 created-by: "Carlos Camilo Lobo Ulloque"
-created-time: "October 30, 2024 12:21 AM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

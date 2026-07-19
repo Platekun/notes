@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Rimi Sakihata"
 primary-zettelkasten-area: "Loneliness"
-last-edited-time: "February 18, 2024 9:19 PM"
 secondary-zettelkasten-area: "Yourself"
 status: "Processed"
-created-time: "September 23, 2023 4:50 PM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

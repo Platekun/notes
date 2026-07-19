@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "January 25, 2023 1:52 PM"
 ---
 
 # From The Rust Covered Railing On The Roof, You Can See A Very The Very Dreary Scenery

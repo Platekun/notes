@@ -2,7 +2,6 @@
 amount: "COP 39,800.00"
 balance: "Heuristic Maxwell"
 scope: "Relationship"
-created-time: "November 19, 2022 9:10 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 39,800.00"
 sinking-subtotal: "COP 0.00"

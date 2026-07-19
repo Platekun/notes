@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "January 24, 2024 2:54 AM"
 status: "Processed"
-created-time: "January 24, 2024 2:47 AM"
 ---
 
 # EveryDay Life

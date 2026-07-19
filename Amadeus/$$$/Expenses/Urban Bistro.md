@@ -2,7 +2,6 @@
 amount: "COP 89,000.00"
 balance: "Pedantic Hellman"
 scope: "Relationship"
-created-time: "February 26, 2023 12:29 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 89,000.00"
 sinking-subtotal: "COP 0.00"

@@ -2,7 +2,6 @@
 original-date: "June 1, 2021"
 amount: "COP 156,000.00"
 scope: "Family"
-created-time: "June 12, 2022 2:09 PM"
 type: "Short-term"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

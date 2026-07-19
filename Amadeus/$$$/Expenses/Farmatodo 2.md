@@ -2,7 +2,6 @@
 amount: "COP 91,550.00"
 balance: "Forgotten February"
 scope: "Lab"
-created-time: "February 10, 2025 2:28 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

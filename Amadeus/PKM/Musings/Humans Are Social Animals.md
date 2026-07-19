@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Alexis Leskinen"
-last-edited-time: "May 21, 2024 2:08 AM"
 status: "Unprocessed"
-created-time: "May 21, 2024 2:04 AM"
 experiences: "Play Steins;Gate 0"
 ---
 

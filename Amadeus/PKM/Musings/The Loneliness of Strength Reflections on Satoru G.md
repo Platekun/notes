@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 author: "Carlos Lobo"
-last-edited-time: "October 9, 2023 12:39 PM"
 status: "Processed"
-created-time: "October 9, 2023 12:35 PM"
 ---
 
 # The Loneliness of Strength: Reflections on Satoru Gojo and Personal Growt

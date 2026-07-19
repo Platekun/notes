@@ -2,7 +2,6 @@
 amount: "COP 32,990.00"
 balance: "Ides Of March"
 scope: "Lourdes"
-created-time: "March 24, 2025 11:36 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 32,990.00"
 sinking-subtotal: "COP 0.00"

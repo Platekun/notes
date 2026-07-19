@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 author: "Carlos Lobo"
-last-edited-time: "June 27, 2024 2:11 PM"
 status: "Unprocessed"
-created-time: "June 27, 2024 1:57 AM"
 ---
 
 # Should I Marry?

@@ -2,7 +2,6 @@
 amount: "COP 126,000.00"
 balance: "Agitated Shockley"
 scope: "Relationship"
-created-time: "January 7, 2024 12:38 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 126,000.00"
 sinking-subtotal: "COP 0.00"

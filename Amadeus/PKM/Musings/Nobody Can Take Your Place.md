@@ -1,9 +1,7 @@
 ---
 note-type: "Permanent"
 author: "Carlos Lobo"
-last-edited-time: "February 5, 2024 1:13 AM"
 status: "Unprocessed"
-created-time: "February 5, 2024 1:12 AM"
 experiences: "Play Steins;Gate 0"
 ---
 

@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Amadeus Kurisu"
-last-edited-time: "April 1, 2024 1:38 AM"
 status: "Unprocessed"
-created-time: "February 3, 2024 4:37 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

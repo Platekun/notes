@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:28 AM"
 status: "Processed"
-created-time: "September 4, 2023 12:16 PM"
 ---
 
 # Reflections on the Approach of Year's End: Goals, Fatigue, and Shifting Interests

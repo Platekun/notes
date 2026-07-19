@@ -1,8 +1,6 @@
 ---
 note-type: "Literature"
-last-edited-time: "June 11, 2024 3:04 AM"
 status: "Unprocessed"
-created-time: "May 25, 2024 4:02 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

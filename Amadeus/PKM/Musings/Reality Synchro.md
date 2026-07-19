@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Rimi Sakihata"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "October 31, 2023 2:09 AM"
 secondary-zettelkasten-area: "Emotions"
 status: "Processed"
-created-time: "September 23, 2023 5:15 PM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

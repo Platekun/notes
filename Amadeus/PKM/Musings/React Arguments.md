@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Yehuda Katz"
 primary-zettelkasten-area: "React"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Developer Mindset"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "Yehuda Katz’s Opinion On React Naming Conventions"
 ---
 

@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Okabe Rintaro"
-last-edited-time: "March 21, 2024 1:49 AM"
 status: "Unprocessed"
-created-time: "March 21, 2024 1:48 AM"
 experiences: "Play Steins;Gate 0"
 ---
 

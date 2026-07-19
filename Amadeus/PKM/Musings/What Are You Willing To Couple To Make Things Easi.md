@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Andrew Clark"
 primary-zettelkasten-area: "Developer Mindset"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Software Architecture"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "Coupling To Implementation Details"
 ---
 

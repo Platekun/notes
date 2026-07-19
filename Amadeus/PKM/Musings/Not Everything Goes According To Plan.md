@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:28 AM"
 status: "Processed"
-created-time: "September 17, 2023 4:42 AM"
 ---
 
 # Not Everything Goes According To Plan

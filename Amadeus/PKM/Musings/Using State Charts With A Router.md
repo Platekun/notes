@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "David Kourshid"
 primary-zettelkasten-area: "Routing"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "StateCharts, React"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "Route In React-Router And Use XState As A Map"
 ---
 

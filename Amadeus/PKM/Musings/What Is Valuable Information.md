@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Takuru Miyashiro"
 primary-zettelkasten-area: "Knowledge Management"
-last-edited-time: "October 1, 2023 7:48 PM"
 status: "Processed"
-created-time: "January 12, 2023 1:57 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

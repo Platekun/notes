@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Kent C. Dodds"
 primary-zettelkasten-area: "Tooling"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 25, 2022 8:27 PM"
 sources: "Concerning Toolkits"
 ---
 

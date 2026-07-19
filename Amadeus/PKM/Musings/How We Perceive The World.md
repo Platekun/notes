@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Issei Hatano"
 primary-zettelkasten-area: "Emotions"
-last-edited-time: "October 31, 2023 1:16 AM"
 secondary-zettelkasten-area: "World Perception"
 status: "Processed"
-created-time: "September 27, 2023 12:59 AM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

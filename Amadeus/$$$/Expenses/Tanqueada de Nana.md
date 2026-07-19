@@ -2,7 +2,6 @@
 amount: "COP 15,000.00"
 balance: "Empath"
 scope: "Lobito"
-created-time: "August 21, 2023 7:35 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

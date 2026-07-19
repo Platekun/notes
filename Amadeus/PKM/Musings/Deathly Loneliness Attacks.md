@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "SirHamnet"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "November 4, 2023 8:24 PM"
 status: "Unprocessed"
-created-time: "October 3, 2023 1:17 AM"
 sources: "Deathly Loneliness Attacks"
 ---
 

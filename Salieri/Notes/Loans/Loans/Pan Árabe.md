@@ -1,5 +1,4 @@
 ---
-created-time: "November 9, 2024 2:03 PM"
 borrower: "Lourdes Ojeda"
 lender: "Carlos Camilo Lobo Ulloque"
 principal: "COP 20,000.00"

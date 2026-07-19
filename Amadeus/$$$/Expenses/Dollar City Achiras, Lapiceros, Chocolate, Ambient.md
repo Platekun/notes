@@ -2,7 +2,6 @@
 amount: "COP 47,000.00"
 balance: "Infallible Dijkstra"
 scope: "Lab"
-created-time: "April 26, 2023 2:19 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 47,000.00"
 sinking-subtotal: "COP 0.00"

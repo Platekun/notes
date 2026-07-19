@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "January 9, 2024 12:30 AM"
 status: "Processed"
-created-time: "January 7, 2024 12:40 PM"
 ---
 
 # Weekend Distraction

@@ -2,7 +2,6 @@
 amount: "COP 370,000.00"
 balance: "Firelord"
 scope: "Lobito"
-created-time: "February 3, 2024 8:01 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 370,000.00"
 sinking-subtotal: "COP 0.00"

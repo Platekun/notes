@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Developer Mindset"
-last-edited-time: "October 2, 2023 12:18 AM"
 status: "Processed"
-created-time: "October 2, 2023 12:17 AM"
 ---
 
 # Unlimited Rulebook

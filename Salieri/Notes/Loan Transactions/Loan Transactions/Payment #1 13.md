@@ -3,7 +3,6 @@ loan: "Zapatos"
 amount: "COP 40,000.00"
 performed: "No"
 created-by: "Carlos Camilo Lobo Ulloque"
-created-time: "October 28, 2022 2:43 AM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

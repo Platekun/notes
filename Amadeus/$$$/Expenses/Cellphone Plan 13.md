@@ -2,7 +2,6 @@
 amount: "COP 82,000.00"
 balance: "First Payoneer Month"
 scope: "Lobito"
-created-time: "July 16, 2025 5:02 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

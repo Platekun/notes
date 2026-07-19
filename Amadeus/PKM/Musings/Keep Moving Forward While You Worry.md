@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Milla Maxwell"
 primary-zettelkasten-area: "Decision Making"
-last-edited-time: "October 1, 2023 11:40 PM"
 status: "Unprocessed"
-created-time: "October 18, 2022 1:36 AM"
 experiences: "Play Tales Of Xillia"
 sources: "Milla Maxwell’s Advice To Rowen"
 ---

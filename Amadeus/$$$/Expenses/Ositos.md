@@ -2,7 +2,6 @@
 amount: "COP 4,000.00"
 balance: "Angry Lumiere"
 scope: "Relationship"
-created-time: "October 9, 2022 5:18 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 4,000.00"
 sinking-subtotal: "COP 0.00"

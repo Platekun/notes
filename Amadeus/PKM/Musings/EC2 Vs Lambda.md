@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Lambda"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "November 2, 2022 9:37 PM"
 sources: "AWS Lambda Vs EC2: Which To Use And When"
 ---
 

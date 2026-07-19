@@ -2,7 +2,6 @@
 amount: "COP 8,000.00"
 balance: "Thirsty Cartwright"
 scope: "Lab"
-created-time: "April 26, 2023 2:01 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

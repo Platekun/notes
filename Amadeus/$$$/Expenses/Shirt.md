@@ -2,7 +2,6 @@
 amount: "COP 25,000.00"
 balance: "Firelord"
 scope: "Galleta"
-created-time: "February 24, 2024 6:44 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 25,000.00"
 sinking-subtotal: "COP 0.00"

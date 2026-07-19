@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Tiago Forte"
 primary-zettelkasten-area: "Knowledge Management"
-last-edited-time: "November 1, 2024 1:20 AM"
 status: "Processed"
-created-time: "November 1, 2024 12:58 AM"
 experiences: "Read Building A Second Brain"
 ---
 

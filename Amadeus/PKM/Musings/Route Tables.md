@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "VPC"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "September 30, 2022 2:13 AM"
 sources: "Unknown"
 ---
 

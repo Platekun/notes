@@ -3,7 +3,6 @@ loan: "Viking house y topic"
 amount: "COP 85,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "April 29, 2023 1:57 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

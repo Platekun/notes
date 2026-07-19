@@ -1,9 +1,7 @@
 ---
 note-type: "Permanent"
 author: "Carlos Lobo"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "June 26, 2023 12:54 PM"
 ---
 
 # How To Replace Nana's Controller

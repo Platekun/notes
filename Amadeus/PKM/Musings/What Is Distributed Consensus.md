@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Databases"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Distributed Programming"
 status: "Processed"
-created-time: "December 30, 2022 1:52 AM"
 sources: "Consensus Definition, How Does Consensus-Based Replication Work in Distributed Databases?, Cob: a leaderless protocol for parallel Byzantine agreement in incomplete networks"
 ---
 

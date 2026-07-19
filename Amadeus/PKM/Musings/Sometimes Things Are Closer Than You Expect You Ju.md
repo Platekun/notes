@@ -1,9 +1,7 @@
 ---
 note-type: "Permanent"
 author: "Carlos Lobo"
-last-edited-time: "March 11, 2024 12:45 AM"
 status: "Processed"
-created-time: "March 11, 2024 12:33 AM"
 ---
 
 # Sometimes Things Are Closer Than You Expect You Just Need To Reach For Them

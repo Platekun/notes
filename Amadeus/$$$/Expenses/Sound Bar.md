@@ -2,7 +2,6 @@
 amount: "COP 600,000.00"
 balance: "Kind Salmon"
 scope: "Lab"
-created-time: "October 14, 2023 9:03 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 600,000.00"
 sinking-subtotal: "COP 0.00"

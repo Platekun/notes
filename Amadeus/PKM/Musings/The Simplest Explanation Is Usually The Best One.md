@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Alexis Leskinen"
 primary-zettelkasten-area: "Developer Mindset"
-last-edited-time: "June 1, 2024 6:11 PM"
 status: "Processed"
-created-time: "February 3, 2024 4:01 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

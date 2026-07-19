@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Life"
-last-edited-time: "February 2, 2024 2:05 AM"
 secondary-zettelkasten-area: "Loneliness"
 status: "Processed"
-created-time: "February 2, 2024 1:58 AM"
 ---
 
 # Where Our Blue Is

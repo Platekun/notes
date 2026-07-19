@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Hinae Arimura"
 primary-zettelkasten-area: "Loneliness"
-last-edited-time: "October 1, 2023 7:30 PM"
 status: "Processed"
-created-time: "March 20, 2023 4:01 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

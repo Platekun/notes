@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Oshino Meme"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "October 1, 2023 11:37 PM"
 secondary-zettelkasten-area: "Emotions"
 status: "Processed"
-created-time: "October 24, 2022 8:17 PM"
 sources: "Bakemonogatari"
 ---
 

@@ -1,9 +1,7 @@
 ---
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Introspections"
-last-edited-time: "October 1, 2023 11:29 PM"
 status: "Processed"
-created-time: "October 7, 2022 3:13 AM"
 experiences: "Play Robotic;Notes"
 sources: "Robotic;Notes"
 ---

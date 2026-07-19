@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Blizzard"
 scope: "Lobito"
-created-time: "July 2, 2023 1:38 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 100,000.00"
 sinking-subtotal: "COP 0.00"

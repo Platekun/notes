@@ -2,7 +2,6 @@
 amount: "COP 10,000.00"
 balance: "Pedantic Hellman"
 scope: "Galleta"
-created-time: "February 5, 2023 2:08 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 10,000.00"
 sinking-subtotal: "COP 0.00"

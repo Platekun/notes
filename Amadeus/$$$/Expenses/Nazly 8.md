@@ -2,7 +2,6 @@
 amount: "COP 50,000.00"
 balance: "Reverent Euclid"
 scope: "Relationship"
-created-time: "December 7, 2022 11:31 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 50,000.00"
 sinking-subtotal: "COP 0.00"

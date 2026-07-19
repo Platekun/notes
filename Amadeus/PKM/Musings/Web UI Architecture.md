@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Garran Means"
 primary-zettelkasten-area: "Front-End Development"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 18, 2022 2:38 AM"
 sources: "Web UI Architecture"
 ---
 

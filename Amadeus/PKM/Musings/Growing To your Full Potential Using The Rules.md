@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "October 1, 2023 7:30 PM"
 secondary-zettelkasten-area: "Growth"
 status: "Processed"
-created-time: "March 19, 2023 4:54 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

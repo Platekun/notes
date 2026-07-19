@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Yamazoe Uki"
 primary-zettelkasten-area: "Love"
-last-edited-time: "October 1, 2023 7:46 PM"
 secondary-zettelkasten-area: "Identity"
 status: "Processed"
-created-time: "March 19, 2023 2:43 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

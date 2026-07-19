@@ -2,7 +2,6 @@
 amount: "COP 161,500.00"
 balance: "T.B.N"
 scope: "Lab"
-created-time: "March 7, 2026 10:58 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 161,500.00"
 sinking-subtotal: "COP 0.00"

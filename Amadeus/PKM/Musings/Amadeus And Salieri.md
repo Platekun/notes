@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Hiyajo Maho"
-last-edited-time: "June 11, 2024 2:57 AM"
 status: "Unprocessed"
-created-time: "February 21, 2024 1:17 AM"
 ---
 
 # Amadeus And Salieri

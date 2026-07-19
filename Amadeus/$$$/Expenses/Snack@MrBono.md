@@ -2,7 +2,6 @@
 amount: "COP 13,700.00"
 balance: "Distinguished Ningbo"
 scope: "Relationship"
-created-time: "November 9, 2024 9:14 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 13,700.00"
 sinking-subtotal: "COP 0.00"

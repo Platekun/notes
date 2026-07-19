@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "January 28, 2024 4:05 AM"
 status: "Processed"
-created-time: "January 28, 2024 4:02 AM"
 ---
 
 # Bittersweet Saturday

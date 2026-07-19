@@ -2,7 +2,6 @@
 amount: "COP 29,000.00"
 balance: "Trusting Mirzakhani"
 scope: "Lourdes"
-created-time: "January 15, 2023 12:34 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

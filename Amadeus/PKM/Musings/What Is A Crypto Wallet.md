@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Crypto"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Finances"
 status: "Unprocessed"
-created-time: "January 4, 2023 12:52 AM"
 sources: "Cryptocurrency Wallet Definition, Cryptocurrency Definition, \"If they do not store the crypto, do they perform some kind of read through the blockchain to return a balance?” Prompt, \"When you say transactions broadcasted, you mean transactions initiated between users using crypto wallets?” Prompt"
 ---
 

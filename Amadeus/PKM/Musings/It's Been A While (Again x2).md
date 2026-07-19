@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 8, 2023 1:28 PM"
 status: "Processed"
-created-time: "November 8, 2023 1:26 PM"
 ---
 
 # It's Been A While (Again x2)

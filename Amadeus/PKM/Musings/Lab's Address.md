@@ -2,9 +2,7 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "October 18, 2024 10:44 PM"
 status: "Processed"
-created-time: "November 15, 2023 2:01 PM"
 ---
 
 # Lab's Address

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Serika Onoe"
 primary-zettelkasten-area: "Emotions"
-last-edited-time: "October 1, 2023 7:47 PM"
 secondary-zettelkasten-area: "Problem Solving"
 status: "Processed"
-created-time: "February 8, 2023 2:36 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

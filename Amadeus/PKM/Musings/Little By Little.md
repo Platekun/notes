@@ -2,10 +2,8 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 21, 2023 1:32 AM"
 tertiary-zettelkasten-area: "Journal"
 status: "Processed"
-created-time: "November 20, 2023 1:23 AM"
 ---
 
 # Little By Little

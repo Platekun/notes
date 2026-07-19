@@ -2,7 +2,6 @@
 amount: "COP 26,900.00"
 balance: "Super Toyota Highlander"
 scope: "Family"
-created-time: "May 7, 2024 5:00 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

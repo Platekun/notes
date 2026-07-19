@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Ban Yasuji"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "November 1, 2023 9:55 AM"
 secondary-zettelkasten-area: "Developer Mindset"
 status: "Processed"
-created-time: "September 26, 2023 1:26 AM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

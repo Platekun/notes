@@ -2,7 +2,6 @@
 amount: "COP 282,000.00"
 balance: "Agitated Shockley"
 scope: "Lab"
-created-time: "January 27, 2024 7:52 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

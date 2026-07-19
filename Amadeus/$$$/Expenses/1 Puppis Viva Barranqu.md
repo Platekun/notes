@@ -2,7 +2,6 @@
 amount: "COP 13,500.00"
 balance: "Forgetful May"
 scope: "Galleta"
-created-time: "May 17, 2025 9:03 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

@@ -2,7 +2,6 @@
 amount: "COP 137,500.00"
 balance: "Angry Lumiere"
 scope: "Lourdes"
-created-time: "October 23, 2022 4:46 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 137,500.00"
 sinking-subtotal: "COP 0.00"

@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Work"
-last-edited-time: "January 27, 2026 5:25 AM"
 status: "Unprocessed"
-created-time: "January 27, 2026 5:25 AM"
 ---
 
 # Work Day (@January 27, 2026)

@@ -2,11 +2,9 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "November 2, 2024 3:53 AM"
 secondary-zettelkasten-area: "Ethics"
 tertiary-zettelkasten-area: "Problem Solving"
 status: "Processed"
-created-time: "October 17, 2022 12:47 AM"
 experiences: "Play Tales Of Xillia"
 ---
 

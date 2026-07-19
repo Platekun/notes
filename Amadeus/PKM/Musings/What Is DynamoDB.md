@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "DynamoDB"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 22, 2022 1:30 AM"
 sources: "Unknown"
 ---
 

@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "March 12, 2024 12:59 PM"
 status: "Processed"
-created-time: "March 12, 2024 12:43 PM"
 ---
 
 # Thanking Dragon Ball, Teaching Finances and SPA Experiments

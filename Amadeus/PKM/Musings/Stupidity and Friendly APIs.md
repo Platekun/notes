@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Adam Wathan"
 primary-zettelkasten-area: "Developer Mindset"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "React"
 status: "Processed"
-created-time: "May 16, 2022 2:23 AM"
 sources: "React's Nepotism"
 ---
 

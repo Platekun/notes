@@ -2,7 +2,6 @@
 amount: "COP 24,000.00"
 balance: "Agitated Shockley"
 scope: "Galleta"
-created-time: "January 27, 2024 9:45 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 24,000.00"
 sinking-subtotal: "COP 0.00"

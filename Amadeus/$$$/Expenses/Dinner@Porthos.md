@@ -2,7 +2,6 @@
 amount: "COP 95,000.00"
 balance: "Beautiful Toyota Corolla"
 scope: "Relationship"
-created-time: "October 27, 2024 12:58 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 95,000.00"
 sinking-subtotal: "COP 0.00"

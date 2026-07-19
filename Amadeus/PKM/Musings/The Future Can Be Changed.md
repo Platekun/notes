@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Suzuha Amane"
-last-edited-time: "June 11, 2024 3:00 AM"
 status: "Unprocessed"
-created-time: "March 28, 2024 3:52 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Beautiful Toyota Corolla"
 scope: "Galleta"
-created-time: "October 24, 2024 6:39 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 100,000.00"
 sinking-subtotal: "COP 0.00"

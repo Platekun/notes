@@ -2,7 +2,6 @@
 amount: "COP 670,000.00"
 balance: "Faithful Yellowjacket"
 scope: "Relationship"
-created-time: "December 24, 2024 7:34 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 670,000.00"
 sinking-subtotal: "COP 0.00"

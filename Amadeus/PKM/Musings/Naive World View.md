@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Aoi Sena"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "October 31, 2023 1:17 AM"
 status: "Processed"
-created-time: "September 25, 2023 1:00 AM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

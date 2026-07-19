@@ -3,7 +3,6 @@ loan: "Celebración en pasta Divina"
 amount: "COP 17,000.00"
 performed: "No"
 created-by: "Lourdes Ojeda"
-created-time: "September 19, 2022 12:07 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

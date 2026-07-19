@@ -2,7 +2,6 @@
 amount: "COP 120,000.00"
 balance: "Distinguished Ningbo"
 scope: "Lab"
-created-time: "November 13, 2024 5:55 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

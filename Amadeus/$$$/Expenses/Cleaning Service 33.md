@@ -2,7 +2,6 @@
 amount: "COP 60,000.00"
 balance: "Ides Of March"
 scope: "Lab"
-created-time: "March 25, 2025 9:00 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

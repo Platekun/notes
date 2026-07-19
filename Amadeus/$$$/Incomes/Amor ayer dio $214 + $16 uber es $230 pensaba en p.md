@@ -1,7 +1,6 @@
 ---
 amount: "COP 78,000.00"
 balance: "Reverent Euclid"
-created-time: "December 24, 2022 4:21 PM"
 scope: "Lobito"
 ---
 

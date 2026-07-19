@@ -2,11 +2,9 @@
 note-type: "Literature"
 author: "Aoi Sena"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "November 1, 2023 10:06 AM"
 secondary-zettelkasten-area: "Identity"
 tertiary-zettelkasten-area: "Problem Solving, Developer Mindset"
 status: "Processed"
-created-time: "October 18, 2022 1:36 AM"
 experiences: "Play Chaos;Head"
 sources: "Aoi Sena Monologue"
 ---

@@ -2,9 +2,7 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Ethics"
-last-edited-time: "October 1, 2023 11:49 PM"
 status: "Processed"
-created-time: "October 1, 2023 11:46 PM"
 sources: "Spider-Man 2"
 ---
 

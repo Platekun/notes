@@ -2,7 +2,6 @@
 amount: "COP 35,000.00"
 balance: "Smooth Nissan Sentra"
 scope: "Lobito"
-created-time: "June 25, 2024 9:09 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 35,000.00"
 sinking-subtotal: "COP 0.00"

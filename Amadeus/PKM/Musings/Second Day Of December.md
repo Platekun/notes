@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "December 2, 2023 1:19 PM"
 status: "Processed"
-created-time: "December 2, 2023 1:14 PM"
 ---
 
 # Second Day Of December

@@ -2,7 +2,6 @@
 amount: "COP 70,000.00"
 balance: "Faithful Yellowjacket"
 scope: "Lobito"
-created-time: "January 1, 2025 12:29 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 70,000.00"
 sinking-subtotal: "COP 0.00"

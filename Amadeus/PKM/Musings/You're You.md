@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Kiryu Moeka"
-last-edited-time: "June 27, 2024 2:14 PM"
 status: "Unprocessed"
-created-time: "February 3, 2024 3:08 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

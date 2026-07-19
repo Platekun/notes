@@ -2,7 +2,6 @@
 amount: "COP 49,900.00"
 balance: "Did April Happen"
 scope: "Relationship"
-created-time: "April 12, 2025 9:03 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 49,900.00"
 sinking-subtotal: "COP 0.00"

@@ -2,10 +2,8 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "February 18, 2024 11:21 PM"
 secondary-zettelkasten-area: "Problem Solving, World Perception"
 status: "Processed"
-created-time: "October 16, 2022 10:41 PM"
 experiences: "Play Robotic;Notes"
 sources: "Robotic;Notes"
 ---

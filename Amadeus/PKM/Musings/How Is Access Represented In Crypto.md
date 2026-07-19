@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "BlockChain"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Crypto"
 status: "Unprocessed"
-created-time: "January 3, 2023 4:24 PM"
 sources: "“What is a miner address?” Prompt, “Is there such a thing as a Blockchain address?” Prompt, Blockchain Definition"
 ---
 

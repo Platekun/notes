@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "March 14, 2023 1:20 PM"
 ---
 
 # Trying To Take It slow

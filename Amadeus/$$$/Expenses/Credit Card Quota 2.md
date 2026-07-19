@@ -2,7 +2,6 @@
 amount: "COP 48,490.00"
 balance: "Beautiful Toyota Corolla"
 scope: "Lobito"
-created-time: "October 18, 2024 6:16 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

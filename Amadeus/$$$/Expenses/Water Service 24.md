@@ -1,7 +1,6 @@
 ---
 amount: "COP 120,000.00"
 scope: "Lab"
-created-time: "June 13, 2026 4:59 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

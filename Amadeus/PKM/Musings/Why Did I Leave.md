@@ -2,9 +2,7 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Yourself"
-last-edited-time: "October 2, 2023 12:21 AM"
 status: "Processed"
-created-time: "October 2, 2023 12:20 AM"
 ---
 
 # Why Did I Leave?

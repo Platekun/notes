@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "October 18, 2023 1:13 PM"
 status: "Processed"
-created-time: "October 18, 2023 1:11 PM"
 ---
 
 # Short Week Insights

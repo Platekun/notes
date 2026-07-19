@@ -2,7 +2,6 @@
 amount: "COP 15,000.00"
 balance: "Firelord"
 scope: "Lourdes"
-created-time: "February 19, 2024 6:11 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 15,000.00"
 sinking-subtotal: "COP 0.00"

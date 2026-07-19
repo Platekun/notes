@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "October 1, 2023 7:30 PM"
 secondary-zettelkasten-area: "Knowledge Management"
 status: "Unprocessed"
-created-time: "October 17, 2022 12:44 AM"
 experiences: "Play Chaos;Child"
 sources: "Under a Silent Sky - Takuru And Serika Character Analysis, Chaos;Child"
 ---

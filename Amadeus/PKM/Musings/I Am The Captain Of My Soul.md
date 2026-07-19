@@ -1,10 +1,8 @@
 ---
 author: "Carlos Lobo"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "October 1, 2023 11:28 PM"
 secondary-zettelkasten-area: "Growth, Identity, Emotions"
 status: "Processed"
-created-time: "November 28, 2022 3:03 AM"
 experiences: "Play Robotic;Notes"
 sources: "Robotic;Notes"
 ---

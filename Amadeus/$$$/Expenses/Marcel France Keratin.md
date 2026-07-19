@@ -2,7 +2,6 @@
 original-date: "June 1, 2021"
 amount: "COP 239,000.00"
 scope: "Lobito"
-created-time: "June 12, 2022 2:09 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 239,000.00"
 sinking-subtotal: "COP 0.00"

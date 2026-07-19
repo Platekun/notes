@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Sarah Dayan"
 primary-zettelkasten-area: "Software Architecture"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Unprocessed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "Wrapping Dependencies Into Custom Abstractions"
 ---
 

@@ -2,7 +2,6 @@
 amount: "COP 10,000.00"
 balance: "Festive Faraday"
 scope: "Relationship"
-created-time: "December 9, 2023 11:31 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 10,000.00"
 sinking-subtotal: "COP 0.00"

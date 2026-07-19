@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Katsuko Momose"
 primary-zettelkasten-area: "Knowledge Management"
-last-edited-time: "November 4, 2023 6:45 PM"
 secondary-zettelkasten-area: "World Perception"
 status: "Processed"
-created-time: "December 31, 2022 10:14 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

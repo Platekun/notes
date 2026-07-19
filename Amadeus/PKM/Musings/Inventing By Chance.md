@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Okabe Rintaro"
 primary-zettelkasten-area: "Developer Mindset"
-last-edited-time: "October 1, 2023 7:15 PM"
 status: "Processed"
-created-time: "October 24, 2022 8:15 PM"
 experiences: "Play Steins;Gate"
 sources: "Steins;Gate"
 ---

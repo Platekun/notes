@@ -1,5 +1,4 @@
 ---
-created-time: "September 24, 2022 9:33 PM"
 scope: "Relationship"
 borrower: "Lourdes Ojeda"
 lender: "Carlos Camilo Lobo Ulloque"

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Finances"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Crypto"
 status: "Unprocessed"
-created-time: "January 3, 2023 3:04 PM"
 sources: "Digital Currency Definition, \"Could you give me real world examples of digital money?” Prompt"
 ---
 

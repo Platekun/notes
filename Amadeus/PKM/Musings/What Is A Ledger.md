@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Finances"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "December 29, 2022 6:35 PM"
 sources: "Ledger Definition"
 ---
 

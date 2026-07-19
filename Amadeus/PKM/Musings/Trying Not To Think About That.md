@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 21, 2023 1:31 AM"
 status: "Processed"
-created-time: "November 20, 2023 1:38 PM"
 ---
 
 # Trying Not To Think About That

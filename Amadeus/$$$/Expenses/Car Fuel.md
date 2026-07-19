@@ -2,7 +2,6 @@
 amount: "COP 154,473.00"
 balance: "See You Around Monks"
 scope: "Lobito"
-created-time: "June 7, 2025 8:21 PM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

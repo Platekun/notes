@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Ryan Florence"
 primary-zettelkasten-area: "StateCharts"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "Having Restrictions On Web Navigation Seems Complex"
 ---
 

@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 19, 2023 4:50 AM"
 status: "Processed"
-created-time: "November 19, 2023 4:46 AM"
 ---
 
 # AI Momentum

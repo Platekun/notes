@@ -3,7 +3,6 @@ loan: "Lourdes’ Trainer (July) (../../Loans/Loans/Lourdes%E2%80%99%20Trainer%2
 amount: "COP 50,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "September 2, 2022 2:51 AM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

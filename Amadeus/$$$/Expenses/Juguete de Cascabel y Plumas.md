@@ -2,7 +2,6 @@
 amount: "COP 7,000.00"
 balance: "Blink"
 scope: "Galleta"
-created-time: "September 10, 2022 11:41 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 7,000.00"
 sinking-subtotal: "COP 0.00"

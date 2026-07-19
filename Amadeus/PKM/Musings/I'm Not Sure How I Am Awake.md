@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "October 10, 2023 12:54 PM"
 status: "Processed"
-created-time: "October 10, 2023 12:51 PM"
 ---
 
 # I'm Not Sure How I Am Awake

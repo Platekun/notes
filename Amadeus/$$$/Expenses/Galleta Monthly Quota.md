@@ -1,7 +1,6 @@
 ---
 amount: "COP 65,000.00"
 scope: "Galleta"
-created-time: "August 30, 2022 2:25 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 65,000.00"
 sinking-subtotal: "COP 0.00"

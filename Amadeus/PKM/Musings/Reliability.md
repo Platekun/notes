@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Systems Design"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 7, 2022 12:41 AM"
 sources: "Unknown"
 ---
 

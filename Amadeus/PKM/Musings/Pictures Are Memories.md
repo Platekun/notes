@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Shiina Kagari"
-last-edited-time: "February 3, 2024 4:44 PM"
 status: "Unprocessed"
-created-time: "February 3, 2024 4:42 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

@@ -1,7 +1,6 @@
 ---
 amount: "COP 50,000.00"
 scope: "Relationship"
-created-time: "December 19, 2023 1:45 AM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 50,000.00"

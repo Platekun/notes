@@ -2,7 +2,6 @@
 amount: "COP 83,000.00"
 balance: "See You Around Monks"
 scope: "Relationship"
-created-time: "June 28, 2025 9:01 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 83,000.00"
 sinking-subtotal: "COP 0.00"

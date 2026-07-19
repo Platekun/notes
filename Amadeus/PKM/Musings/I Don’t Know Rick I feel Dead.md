@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "October 12, 2023 1:51 AM"
 status: "Processed"
-created-time: "October 12, 2023 1:49 AM"
 ---
 
 # I Don’t Know Rick I feel Dead

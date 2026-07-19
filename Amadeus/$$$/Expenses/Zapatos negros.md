@@ -2,7 +2,6 @@
 amount: "COP 60,000.00"
 balance: "Blizzard"
 scope: "Lourdes"
-created-time: "July 1, 2023 9:23 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 60,000.00"
 sinking-subtotal: "COP 0.00"

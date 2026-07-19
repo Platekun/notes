@@ -2,7 +2,6 @@
 amount: "COP 41,900.00"
 balance: "Ides Of March"
 scope: "Family"
-created-time: "March 7, 2025 5:44 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

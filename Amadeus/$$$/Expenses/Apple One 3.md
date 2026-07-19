@@ -2,7 +2,6 @@
 amount: "COP 83,900.00"
 balance: "Distinguished Ningbo"
 scope: "Family"
-created-time: "November 24, 2024 5:40 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

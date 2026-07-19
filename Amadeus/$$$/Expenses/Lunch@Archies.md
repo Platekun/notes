@@ -2,7 +2,6 @@
 amount: "COP 99,600.00"
 balance: "Wonderful SDLC"
 scope: "Relationship"
-created-time: "August 31, 2024 6:36 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 99,600.00"
 sinking-subtotal: "COP 0.00"

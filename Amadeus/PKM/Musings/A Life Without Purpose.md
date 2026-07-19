@@ -1,9 +1,7 @@
 ---
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Introspections"
-last-edited-time: "October 1, 2023 7:50 PM"
 status: "Processed"
-created-time: "September 3, 2023 3:07 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

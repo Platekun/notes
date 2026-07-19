@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Itaru Hashida"
-last-edited-time: "September 8, 2025 2:29 AM"
 status: "Unprocessed"
-created-time: "May 23, 2024 1:13 AM"
 experiences: "Play Steins;Gate 0"
 ---
 

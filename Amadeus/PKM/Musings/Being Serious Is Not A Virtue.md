@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Katsuko Momose"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "October 1, 2023 7:50 PM"
 secondary-zettelkasten-area: "Ethics"
 status: "Unprocessed"
-created-time: "December 31, 2022 9:33 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Takumi Nishijou"
 primary-zettelkasten-area: "Emotions"
-last-edited-time: "November 1, 2023 10:14 AM"
 secondary-zettelkasten-area: "World Perception, Knowledge Management"
 status: "Processed"
-created-time: "September 23, 2023 3:51 PM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

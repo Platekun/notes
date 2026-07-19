@@ -2,7 +2,6 @@
 amount: "COP 31,900.00"
 balance: "Pedantic Hellman"
 scope: "Lab"
-created-time: "February 5, 2023 4:23 PM"
 type: "Short-term"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

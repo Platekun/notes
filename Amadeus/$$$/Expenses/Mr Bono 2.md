@@ -2,7 +2,6 @@
 amount: "COP 10,278.00"
 balance: "Trusting Mirzakhani"
 scope: "Family"
-created-time: "January 29, 2023 2:18 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 10,278.00"
 sinking-subtotal: "COP 0.00"

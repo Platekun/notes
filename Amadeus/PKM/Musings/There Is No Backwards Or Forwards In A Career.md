@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Anonymous"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Emotions"
 status: "Processed"
-created-time: "October 18, 2022 1:36 AM"
 sources: "Degrees Of Happiness"
 ---
 

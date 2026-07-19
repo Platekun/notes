@@ -2,7 +2,6 @@
 amount: "COP 129,000.00"
 balance: "Heuristic Maxwell"
 scope: "Lab"
-created-time: "November 19, 2022 10:43 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 129,000.00"
 sinking-subtotal: "COP 0.00"

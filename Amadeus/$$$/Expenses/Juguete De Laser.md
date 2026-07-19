@@ -2,7 +2,6 @@
 amount: "COP 7,000.00"
 balance: "Trusting Mirzakhani"
 scope: "Lab"
-created-time: "January 22, 2023 11:59 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 7,000.00"
 sinking-subtotal: "COP 0.00"

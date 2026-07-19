@@ -1,5 +1,4 @@
 ---
-created-time: "January 22, 2023 1:00 AM"
 scope: "Relationship"
 principal: "COP 100,000.00"
 transactions: "Payment #1"

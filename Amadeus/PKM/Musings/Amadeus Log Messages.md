@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Amadeus Kurisu"
 primary-zettelkasten-area: "Software Development"
-last-edited-time: "June 1, 2024 5:57 PM"
 status: "Processed"
-created-time: "February 3, 2024 3:40 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

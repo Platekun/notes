@@ -2,7 +2,6 @@
 amount: "COP 41,900.00"
 balance: "Almost Forgot January"
 scope: "Family"
-created-time: "January 7, 2025 6:58 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

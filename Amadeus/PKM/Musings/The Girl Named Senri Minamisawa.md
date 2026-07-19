@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Nono Kurusu"
 primary-zettelkasten-area: "Loneliness"
-last-edited-time: "October 1, 2023 7:30 PM"
 status: "Processed"
-created-time: "March 19, 2023 8:28 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

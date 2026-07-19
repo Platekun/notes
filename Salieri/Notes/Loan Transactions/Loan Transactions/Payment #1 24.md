@@ -3,7 +3,6 @@ loan: "Maglia Café"
 amount: "COP 25,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "September 29, 2022 10:33 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

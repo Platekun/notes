@@ -3,7 +3,6 @@ loan: "Galleta Guacal"
 amount: "COP 45,000.00"
 performed: "Yes"
 created-by: "Carlos Camilo Lobo Ulloque"
-created-time: "August 26, 2023 6:13 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

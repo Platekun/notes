@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Aoi Todo"
-last-edited-time: "January 9, 2024 12:58 AM"
 status: "Unprocessed"
-created-time: "January 9, 2024 12:52 AM"
 sources: "Jujutsu Kaisen, Season 2, Episode 21"
 ---
 

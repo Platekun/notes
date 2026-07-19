@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "March 1, 2024 2:42 AM"
 status: "Unprocessed"
-created-time: "March 1, 2024 2:39 AM"
 ---
 
 # I’m Tired Boss

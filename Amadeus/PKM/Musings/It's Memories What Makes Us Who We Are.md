@@ -1,9 +1,7 @@
 ---
 note-type: "Literature"
 author: "Hiyajo Maho"
-last-edited-time: "May 23, 2024 2:20 AM"
 status: "Unprocessed"
-created-time: "April 1, 2024 1:02 AM"
 experiences: "Play Steins;Gate 0"
 sources: "Hiyajo Maho's Speech About Consciousness"
 ---

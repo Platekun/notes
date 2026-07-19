@@ -2,7 +2,6 @@
 amount: "COP 133,353.00"
 balance: "See You Around Monks"
 scope: "Lab"
-created-time: "June 3, 2025 5:04 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

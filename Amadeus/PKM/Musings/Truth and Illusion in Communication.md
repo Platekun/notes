@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Takumi Nishijou"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "November 4, 2023 7:17 PM"
 status: "Processed"
-created-time: "August 21, 2023 3:15 PM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

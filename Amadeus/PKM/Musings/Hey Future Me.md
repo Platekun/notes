@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "February 20, 2024 1:18 AM"
 status: "Processed"
-created-time: "December 31, 2023 4:52 PM"
 ---
 
 # Hey Future Me

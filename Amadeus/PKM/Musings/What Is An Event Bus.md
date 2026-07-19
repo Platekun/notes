@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "EventBridge"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "November 18, 2022 12:58 AM"
 sources: "Enterprise Service Bus Definition, AWS Certified Cloud Practitioner (CLF-C01) | AWS Essentials (../Sources/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)%20AWS%20Ess%20bbbd66f0293243b3b198a4fa0b7894c7.md), Event-based Microservices: Message Bus, Event-based Microservices: Overview"
 ---
 

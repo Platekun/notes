@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Hinae Arimura"
 primary-zettelkasten-area: "World Perception"
-last-edited-time: "October 1, 2023 7:31 PM"
 status: "Processed"
-created-time: "March 19, 2023 5:39 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

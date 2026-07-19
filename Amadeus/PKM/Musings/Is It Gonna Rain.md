@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "September 25, 2023 1:33 PM"
 status: "Processed"
-created-time: "September 25, 2023 1:30 PM"
 ---
 
 # Is It Gonna Rain?

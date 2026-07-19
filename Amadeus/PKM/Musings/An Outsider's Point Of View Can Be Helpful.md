@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Katsuko Momose"
 primary-zettelkasten-area: "Problem Solving"
-last-edited-time: "October 1, 2023 7:49 PM"
 status: "Processed"
-created-time: "December 31, 2022 9:54 PM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

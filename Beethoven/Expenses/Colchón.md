@@ -1,7 +1,6 @@
 ---
 amount: "COP 828,000.00"
 created-by: "Lourdes Ojeda"
-created-time: "April 6, 2025 11:45 PM"
 sprint: "(To Be Named) (../Sprints/%201c8b39107475817a8b4bdd75c49d0d16.md)"
 ---
 

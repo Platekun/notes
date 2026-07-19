@@ -2,7 +2,6 @@
 amount: "COP 90,000.00"
 balance: "Empath"
 scope: "Family"
-created-time: "August 21, 2023 6:42 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 90,000.00"
 sinking-subtotal: "COP 0.00"

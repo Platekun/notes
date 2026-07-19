@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "David Kourshid"
 primary-zettelkasten-area: "Routing"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "StateCharts"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "URL(s) Represent where The App Should Be (../Sources/URL(s)%20Represent%20where%20The%20App%20Should%20Be%20e50b2770adca4315ae08db6d5370d023.md)"
 ---
 

@@ -3,7 +3,6 @@ loan: "Matriarca Amor y Amistad"
 amount: "COP 22,000.00"
 performed: "No"
 created-by: "Lourdes Ojeda"
-created-time: "September 11, 2022 2:46 PM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

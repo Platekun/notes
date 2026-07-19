@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Jamie Kyle"
 primary-zettelkasten-area: "React"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 18, 2022 12:58 AM"
 sources: "The Next Rails"
 ---
 

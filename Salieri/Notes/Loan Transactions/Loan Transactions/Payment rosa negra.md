@@ -3,7 +3,6 @@ loan: "Comida rosa negra"
 amount: "COP 120,000.00"
 performed: "Yes"
 created-by: "Lourdes Ojeda"
-created-time: "August 31, 2023 2:27 AM"
 edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 

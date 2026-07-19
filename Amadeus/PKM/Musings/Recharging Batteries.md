@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "March 31, 2024 9:31 PM"
 status: "Unprocessed"
-created-time: "March 30, 2024 3:33 AM"
 ---
 
 # Recharging Batteries

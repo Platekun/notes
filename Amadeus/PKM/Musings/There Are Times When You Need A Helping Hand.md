@@ -2,9 +2,7 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Introspections"
-last-edited-time: "November 26, 2023 5:28 AM"
 status: "Processed"
-created-time: "June 26, 2023 1:01 PM"
 ---
 
 # There Are Times When You Need A Helping Hand

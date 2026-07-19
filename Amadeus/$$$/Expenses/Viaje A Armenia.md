@@ -2,7 +2,6 @@
 amount: "COP 3,000,000.00"
 balance: "Cleftjaw Arthur"
 scope: "Relationship"
-created-time: "June 21, 2023 12:17 PM"
 type: "Short-term"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

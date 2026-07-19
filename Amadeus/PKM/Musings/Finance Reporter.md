@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 author: "Carlos Lobo"
-last-edited-time: "December 2, 2023 2:40 AM"
 status: "Unprocessed"
-created-time: "December 2, 2023 2:36 AM"
 projects: "Create Finance Reporter"
 ---
 

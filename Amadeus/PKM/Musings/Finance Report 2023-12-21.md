@@ -1,9 +1,7 @@
 ---
 note-type: "Fleeting"
 author: "Mai MoneyMai-d"
-last-edited-time: "December 21, 2023 11:45 PM"
 status: "Unprocessed"
-created-time: "December 21, 2023 11:45 PM"
 ---
 
 # Finance Report 2023-12-21

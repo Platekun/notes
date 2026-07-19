@@ -2,7 +2,6 @@
 amount: "COP 23,000.00"
 balance: "T.B.N"
 scope: "Relationship"
-created-time: "December 28, 2025 2:58 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 23,000.00"
 sinking-subtotal: "COP 0.00"

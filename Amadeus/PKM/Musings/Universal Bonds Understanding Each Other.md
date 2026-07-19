@@ -2,11 +2,9 @@
 note-type: "Literature"
 author: "Kurisu Makise"
 primary-zettelkasten-area: "Love"
-last-edited-time: "October 1, 2023 11:40 PM"
 secondary-zettelkasten-area: "Communication"
 tertiary-zettelkasten-area: "Time Perception"
 status: "Processed"
-created-time: "October 24, 2022 9:58 PM"
 experiences: "Play Steins;Gate"
 sources: "Holy Day OF Scourge"
 ---

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Systems Design"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "RDS"
 status: "Processed"
-created-time: "October 24, 2022 11:38 PM"
 sources: "Unknown"
 ---
 

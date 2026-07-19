@@ -2,11 +2,9 @@
 note-type: "Literature"
 author: "Archer"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "October 1, 2023 11:38 PM"
 secondary-zettelkasten-area: "Ethics"
 tertiary-zettelkasten-area: "Problem Solving"
 status: "Unprocessed"
-created-time: "December 25, 2022 4:28 PM"
 sources: "Fate/Stay Night: Unlimited Blade Works"
 ---
 

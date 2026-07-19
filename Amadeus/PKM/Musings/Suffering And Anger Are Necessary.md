@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Ayase Kishimoto"
 primary-zettelkasten-area: "Growth"
-last-edited-time: "November 4, 2023 6:34 PM"
 secondary-zettelkasten-area: "Emotions"
 status: "Processed"
-created-time: "September 18, 2023 1:31 AM"
 experiences: "Play Chaos;Head"
 sources: "Chaos;Head"
 ---

@@ -2,7 +2,6 @@
 amount: "COP 70,000.00"
 balance: "Thirsty Cartwright"
 scope: "Family"
-created-time: "March 4, 2023 6:45 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 70,000.00"
 sinking-subtotal: "COP 0.00"

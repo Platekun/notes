@@ -2,7 +2,6 @@
 amount: "COP 50,000.00"
 balance: "Blink"
 scope: "Lourdes"
-created-time: "September 3, 2022 8:52 PM"
 type: "Sinking"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 50,000.00"

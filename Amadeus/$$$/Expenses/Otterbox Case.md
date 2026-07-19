@@ -2,7 +2,6 @@
 amount: "COP 90,000.00"
 balance: "Heuristic Maxwell"
 scope: "Lobito"
-created-time: "November 24, 2022 12:59 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 90,000.00"
 sinking-subtotal: "COP 0.00"

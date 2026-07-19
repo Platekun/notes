@@ -2,7 +2,6 @@
 amount: "COP 5,000.00"
 balance: "Did April Happen"
 scope: "Lobito"
-created-time: "April 12, 2025 11:03 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 5,000.00"
 sinking-subtotal: "COP 0.00"

@@ -2,7 +2,6 @@
 amount: "COP 100,000.00"
 balance: "Forgotten February"
 scope: "Galleta"
-created-time: "February 24, 2025 5:50 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 100,000.00"
 sinking-subtotal: "COP 0.00"

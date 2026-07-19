@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Spyair"
 primary-zettelkasten-area: "Communication"
-last-edited-time: "November 20, 2023 2:12 AM"
 secondary-zettelkasten-area: "Relationships"
 status: "Unprocessed"
-created-time: "November 20, 2023 1:44 AM"
 ---
 
 # Last Moment

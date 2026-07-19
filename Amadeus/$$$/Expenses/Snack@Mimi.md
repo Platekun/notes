@@ -2,7 +2,6 @@
 amount: "COP 50,000.00"
 balance: "Super Toyota Highlander"
 scope: "Relationship"
-created-time: "May 11, 2024 9:01 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 50,000.00"
 sinking-subtotal: "COP 0.00"

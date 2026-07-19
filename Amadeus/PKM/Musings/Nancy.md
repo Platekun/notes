@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "February 19, 2024 3:01 PM"
 status: "Processed"
-created-time: "February 13, 2024 1:46 AM"
 ---
 
 # Nancy

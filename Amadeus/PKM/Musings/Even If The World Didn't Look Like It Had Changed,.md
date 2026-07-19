@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Takuru Miyashiro"
 primary-zettelkasten-area: "Time Perception"
-last-edited-time: "October 1, 2023 7:48 PM"
 secondary-zettelkasten-area: "Growth"
 status: "Processed"
-created-time: "February 7, 2023 1:56 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

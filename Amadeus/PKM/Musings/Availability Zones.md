@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "AWS"
-last-edited-time: "September 20, 2023 2:23 AM"
 status: "Processed"
-created-time: "October 6, 2022 1:03 AM"
 sources: "Unknown"
 ---
 

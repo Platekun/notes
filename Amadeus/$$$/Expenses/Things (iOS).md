@@ -2,7 +2,6 @@
 amount: "COP 50,000.00"
 balance: "Reverent Euclid"
 scope: "Lobito"
-created-time: "December 24, 2022 4:00 AM"
 type: "Discretionary"
 discretionary-subtotal: "COP 50,000.00"
 sinking-subtotal: "COP 0.00"

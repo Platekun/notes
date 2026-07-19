@@ -2,11 +2,9 @@
 note-type: "Permanent"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Growth"
-last-edited-time: "September 20, 2023 2:23 AM"
 secondary-zettelkasten-area: "Emotions"
 tertiary-zettelkasten-area: "Problem Solving"
 status: "Processed"
-created-time: "June 26, 2023 12:57 PM"
 ---
 
 # You Are The Very Image Of Your Father

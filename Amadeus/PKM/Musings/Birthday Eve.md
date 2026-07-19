@@ -2,9 +2,7 @@
 note-type: "Fleeting"
 author: "Carlos Lobo"
 primary-zettelkasten-area: "Journal"
-last-edited-time: "November 22, 2023 3:22 AM"
 status: "Processed"
-created-time: "November 22, 2023 3:18 AM"
 ---
 
 # Birthday Eve

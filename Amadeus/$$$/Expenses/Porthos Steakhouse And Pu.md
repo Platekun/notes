@@ -2,7 +2,6 @@
 amount: "COP 165,637.00"
 balance: "Did April Happen"
 scope: "Lobito"
-created-time: "April 13, 2025 5:48 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 165,637.00"
 sinking-subtotal: "COP 0.00"

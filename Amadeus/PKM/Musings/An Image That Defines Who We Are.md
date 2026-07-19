@@ -2,9 +2,7 @@
 note-type: "Literature"
 author: "Hinae Arimura"
 primary-zettelkasten-area: "Identity"
-last-edited-time: "October 1, 2023 7:46 PM"
 status: "Processed"
-created-time: "March 19, 2023 4:14 AM"
 experiences: "Play Chaos;Child"
 sources: "Chaos;Child"
 ---

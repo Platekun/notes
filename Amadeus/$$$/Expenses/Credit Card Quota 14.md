@@ -1,7 +1,6 @@
 ---
 amount: "COP 48,490.00"
 scope: "Lobito"
-created-time: "October 18, 2025 5:02 AM"
 type: "Utilities"
 discretionary-subtotal: "COP 0.00"
 sinking-subtotal: "COP 0.00"

@@ -2,10 +2,8 @@
 note-type: "Literature"
 author: "Kurisu Makise"
 primary-zettelkasten-area: "Developer Mindset"
-last-edited-time: "June 1, 2024 5:55 PM"
 secondary-zettelkasten-area: "Problem Solving"
 status: "Processed"
-created-time: "February 3, 2024 3:04 PM"
 experiences: "Play Steins;Gate 0"
 ---
 

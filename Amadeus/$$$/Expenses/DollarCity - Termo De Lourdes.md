@@ -1,7 +1,6 @@
 ---
 amount: "COP 14,000.00"
 scope: "Lourdes"
-created-time: "September 9, 2022 1:20 PM"
 type: "Discretionary"
 discretionary-subtotal: "COP 14,000.00"
 sinking-subtotal: "COP 0.00"
