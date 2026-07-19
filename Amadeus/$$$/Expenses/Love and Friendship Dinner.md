@@ -1,0 +1,14 @@
+---
+Amount: "COP 184,000.00"
+Balance: "Neurotic Serval"
+Scope: "Relationship"
+Created Time: "September 15, 2024 1:20 AM"
+Type: "Discretionary"
+Discretionary Subtotal: "COP 184,000.00"
+Sinking Subtotal: "COP 0.00"
+Short-term Subtotal: "COP 0.00"
+Utilities Subtotal: "COP 0.00"
+Emergency Subtotal: "COP 0.00"
+---
+
+# Love and Friendship Dinner
