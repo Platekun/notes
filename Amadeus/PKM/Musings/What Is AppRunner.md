@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "App Runner"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 10, 2022 1:36 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "App Runner"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 10, 2022 1:36 AM"
+sources: "Unknown"
 ---
 
 # What Is AppRunner?

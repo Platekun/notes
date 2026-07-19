@@ -1,6 +1,6 @@
 ---
-Parent item: "Software Development"
-Primary Source: "You Don’t Need Kubernetes"
+parent-item: "Software Development"
+primary-source: "You Don’t Need Kubernetes"
 ---
 
 # DevOps

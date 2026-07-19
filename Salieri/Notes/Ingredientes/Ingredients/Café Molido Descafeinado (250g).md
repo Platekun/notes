@@ -1,8 +1,8 @@
 ---
-Slug: "cafe-sello-rojos-descafeinado-250-g-7702032252770-79233"
-Brand: "Café Sello Rojo"
-Price: "COP 14,800.00"
-From: "SAO"
+slug: "cafe-sello-rojos-descafeinado-250-g-7702032252770-79233"
+brand: "Café Sello Rojo"
+price: "COP 14,800.00"
+from: "SAO"
 ---
 
 # Café Molido Descafeinado (250g)

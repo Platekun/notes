@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 16,000.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 16,000.00"
+from: "Fruvecol"
 ---
 
 # Cilantro (1 KG)

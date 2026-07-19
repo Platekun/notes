@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Shiina Mayuri"
-Primary Zettelkasten Area: "Love"
-Last edited time: "October 1, 2023 7:28 PM"
-Status: "Unprocessed"
-Created time: "October 24, 2022 9:23 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Shiina Mayuri"
+primary-zettelkasten-area: "Love"
+last-edited-time: "October 1, 2023 7:28 PM"
+status: "Unprocessed"
+created-time: "October 24, 2022 9:23 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Girls Just Love The Company

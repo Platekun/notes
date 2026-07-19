@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Crafsdwarf"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 7:50 PM"
-Status: "Unprocessed"
-Created time: "March 21, 2023 12:12 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Under a Silent Sky - Takuru And Serika Character Analysis, Chaos;Child"
+note-type: "Literature"
+author: "Crafsdwarf"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 7:50 PM"
+status: "Unprocessed"
+created-time: "March 21, 2023 12:12 PM"
+experiences: "Play Chaos;Child"
+sources: "Under a Silent Sky - Takuru And Serika Character Analysis, Chaos;Child"
 ---
 
 # Ignorance, The Mortal Enemy Of The Right Sider

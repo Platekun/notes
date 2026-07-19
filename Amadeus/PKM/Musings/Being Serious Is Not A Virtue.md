@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Katsuko Momose"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "October 1, 2023 7:50 PM"
-Secondary Zettelkasten Area: "Ethics"
-Status: "Unprocessed"
-Created time: "December 31, 2022 9:33 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Katsuko Momose"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "October 1, 2023 7:50 PM"
+secondary-zettelkasten-area: "Ethics"
+status: "Unprocessed"
+created-time: "December 31, 2022 9:33 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Being Serious Is Not A Virtue

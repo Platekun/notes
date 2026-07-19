@@ -1,5 +1,5 @@
 ---
-Notes: "Right And Proper Is Relative"
+notes: "Right And Proper Is Relative"
 ---
 
 # Soichiro Kuzuki

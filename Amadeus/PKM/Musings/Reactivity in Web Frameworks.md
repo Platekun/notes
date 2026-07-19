@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Tan Li Hau"
-Primary Zettelkasten Area: "Front-End Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 2:50 AM"
-Sources: "Reactivity in Web Frameworks, Reactivity in Web Frameworks (Part 2) (../Sources/Reactivity%20in%20Web%20Frameworks%20%20c894202e05b9474188ed082fb20031be.md)"
+note-type: "Literature"
+author: "Tan Li Hau"
+primary-zettelkasten-area: "Front-End Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 2:50 AM"
+sources: "Reactivity in Web Frameworks, Reactivity in Web Frameworks (Part 2) (../Sources/Reactivity%20in%20Web%20Frameworks%20%20c894202e05b9474188ed082fb20031be.md)"
 ---
 
 # Reactivity in Web Frameworks

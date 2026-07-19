@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "October 13, 2023 12:15 PM"
-Status: "Processed"
-Created time: "October 13, 2023 12:10 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "October 13, 2023 12:15 PM"
+status: "Processed"
+created-time: "October 13, 2023 12:10 PM"
 ---
 
 # My Life Is Not A Tragedy

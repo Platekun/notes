@@ -1,5 +1,5 @@
 ---
-Notes: "Magicians Who Hate Magic"
+notes: "Magicians Who Hate Magic"
 ---
 
 # DHH

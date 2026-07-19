@@ -1,6 +1,6 @@
 ---
-Notes: "Primera Compra de Casa"
-Archived: "No"
+notes: "Primera Compra de Casa"
+archived: "No"
 ---
 
 # Bienes Raíces

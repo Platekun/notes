@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Systems Design"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Distributed Programming"
-Status: "Processed"
-Created time: "November 17, 2022 11:47 PM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Systems Design"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Distributed Programming"
+status: "Processed"
+created-time: "November 17, 2022 11:47 PM"
+sources: "Unknown"
 ---
 
 # Integration Services

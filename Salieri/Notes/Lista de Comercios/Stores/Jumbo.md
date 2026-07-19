@@ -1,5 +1,5 @@
 ---
-Location: "Centro Comercial BuenaVista, Carrera 53 con Cl. 99 #Carrera. 53, Barranquilla, Atlántico"
+location: "Centro Comercial BuenaVista, Carrera 53 con Cl. 99 #Carrera. 53, Barranquilla, Atlántico"
 ---
 
 # Jumbo

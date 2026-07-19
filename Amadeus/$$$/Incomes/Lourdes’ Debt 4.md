@@ -1,8 +1,8 @@
 ---
-Amount: "COP 500,000.00"
-Balance: "Thirsty Wing"
-Created Time: "June 12, 2022 2:43 PM"
-Scope: "Relationship"
+amount: "COP 500,000.00"
+balance: "Thirsty Wing"
+created-time: "June 12, 2022 2:43 PM"
+scope: "Relationship"
 ---
 
 # Lourdes’ Debt

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 61,300.00"
-Balance: "Wonderful SDLC"
-Scope: "Relationship"
-Created Time: "August 3, 2024 7:46 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 61,300.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 61,300.00"
+balance: "Wonderful SDLC"
+scope: "Relationship"
+created-time: "August 3, 2024 7:46 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 61,300.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Supplies@DollarCity

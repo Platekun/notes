@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Jamie Kyle"
-Primary Zettelkasten Area: "Front-End Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "World Perception"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Stale While Revalidate Popularity Analysis"
+note-type: "Literature"
+author: "Jamie Kyle"
+primary-zettelkasten-area: "Front-End Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "World Perception"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Stale While Revalidate Popularity Analysis"
 ---
 
 # Stale While Revalidate Is Only Solves The Feeling Of Being Faster

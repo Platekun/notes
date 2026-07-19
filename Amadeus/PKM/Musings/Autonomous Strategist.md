@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "December 4, 2023 1:46 PM"
-Status: "Unprocessed"
-Created time: "December 4, 2023 1:46 PM"
-Projects: "Create Assistant Invoker With OpenAI"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "December 4, 2023 1:46 PM"
+status: "Unprocessed"
+created-time: "December 4, 2023 1:46 PM"
+projects: "Create Assistant Invoker With OpenAI"
 ---
 
 # Autonomous Strategist

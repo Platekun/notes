@@ -1,11 +1,11 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Introspections"
-Last edited time: "October 1, 2023 7:50 PM"
-Status: "Processed"
-Created time: "September 3, 2023 3:07 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Introspections"
+last-edited-time: "October 1, 2023 7:50 PM"
+status: "Processed"
+created-time: "September 3, 2023 3:07 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # A Life Without Purpose

@@ -1,7 +1,7 @@
 ---
-Multi-select: "Alkosto"
-Original Name: "Softener"
-Stores: "Alkosto, DollarCity"
+multi-select: "Alkosto"
+original-name: "Softener"
+stores: "Alkosto, DollarCity"
 ---
 
 # Suavizante

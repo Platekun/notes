@@ -1,8 +1,8 @@
 ---
-Area: "VPC"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "VPC is the AWS which allow us to create our own network infrastructure on the cloud."
+area: "VPC"
+reveal: "No"
+confidence: "Confident"
+answer: "VPC is the AWS which allow us to create our own network infrastructure on the cloud."
 ---
 
 # What Is VPC?

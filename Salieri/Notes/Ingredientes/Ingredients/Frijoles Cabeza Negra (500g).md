@@ -1,8 +1,8 @@
 ---
-Slug: "frijol-olimpica-cabeza-negra-500-g-7701008001183-2000160"
-Brand: "Olímpica"
-Price: "COP 3,620.00"
-From: "SAO"
+slug: "frijol-olimpica-cabeza-negra-500-g-7701008001183-2000160"
+brand: "Olímpica"
+price: "COP 3,620.00"
+from: "SAO"
 ---
 
 # Frijoles Cabeza Negra (500g)

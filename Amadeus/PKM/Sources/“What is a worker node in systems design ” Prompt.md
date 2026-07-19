@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Worker Node?"
+notes: "What Is A Worker Node?"
 ---
 
 # “What is a worker node in systems design?” Prompt

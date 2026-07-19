@@ -1,5 +1,5 @@
 ---
-URL: "https://github.com/framer/motion"
+url: "https://github.com/framer/motion"
 ---
 
 # GitHub - framer/motion: Open source, production-ready animation and gesture library for React

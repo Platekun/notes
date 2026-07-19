@@ -1,10 +1,10 @@
 ---
-Loan: "Car Crash"
-Amount: "COP 100,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "September 15, 2022 1:23 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Car Crash"
+amount: "COP 100,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "September 15, 2022 1:23 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #7

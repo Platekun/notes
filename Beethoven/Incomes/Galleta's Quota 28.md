@@ -1,7 +1,7 @@
 ---
-Amount: "COP 100,000.00"
-Created time: "April 1, 2024 5:39 AM"
-Sprint: "Pretty Planning Game"
+amount: "COP 100,000.00"
+created-time: "April 1, 2024 5:39 AM"
+sprint: "Pretty Planning Game"
 ---
 
 # Galleta's Quota

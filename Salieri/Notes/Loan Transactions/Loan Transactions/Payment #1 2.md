@@ -1,10 +1,10 @@
 ---
-Loan: "Guantes Para Horno"
-Amount: "COP 32,000.00"
-Performed: "Yes"
-Created By: "Carlos Camilo Lobo Ulloque"
-Created Time: "January 26, 2023 2:01 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Guantes Para Horno"
+amount: "COP 32,000.00"
+performed: "Yes"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "January 26, 2023 2:01 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

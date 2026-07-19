@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Mai MoneyMai-d"
-Last edited time: "December 9, 2023 4:27 PM"
-Status: "Unprocessed"
-Created time: "December 9, 2023 4:27 PM"
+note-type: "Fleeting"
+author: "Mai MoneyMai-d"
+last-edited-time: "December 9, 2023 4:27 PM"
+status: "Unprocessed"
+created-time: "December 9, 2023 4:27 PM"
 ---
 
 # Finance Report 2023-12-09

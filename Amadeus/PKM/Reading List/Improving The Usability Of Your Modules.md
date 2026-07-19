@@ -1,5 +1,5 @@
 ---
-URL: "https://kentcdodds.com/blog/improving-the-usability-of-your-modules"
+url: "https://kentcdodds.com/blog/improving-the-usability-of-your-modules"
 ---
 
 # Improving The Usability Of Your Modules

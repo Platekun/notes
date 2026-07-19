@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 3, 2024 4:25 PM"
-Status: "Unprocessed"
-Created time: "February 3, 2024 4:12 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 3, 2024 4:25 PM"
+status: "Unprocessed"
+created-time: "February 3, 2024 4:12 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # The Framing Problem

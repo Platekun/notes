@@ -1,5 +1,5 @@
 ---
-Notes: "Types Of Single Page Applications"
+notes: "Types Of Single Page Applications"
 ---
 
 # wuchangming

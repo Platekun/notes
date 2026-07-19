@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Khalil Stemler"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Software Architecture"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Write Boring Code"
+note-type: "Literature"
+author: "Khalil Stemler"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Software Architecture"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Write Boring Code"
 ---
 
 # Boring Code Oath

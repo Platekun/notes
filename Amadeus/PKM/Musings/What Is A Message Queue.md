@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Systems Design"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 18, 2022 12:15 AM"
-Sources: "Difference Between Bus And Queue, Message Queues, Message Queue Definition"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Systems Design"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 18, 2022 12:15 AM"
+sources: "Difference Between Bus And Queue, Message Queues, Message Queue Definition"
 ---
 
 # What Is A Message Queue?

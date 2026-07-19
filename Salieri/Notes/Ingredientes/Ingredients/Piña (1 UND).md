@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 1,000.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 1,000.00"
+from: "Fruvecol"
 ---
 
 # Piña (1 UND)

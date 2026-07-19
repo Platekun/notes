@@ -1,8 +1,8 @@
 ---
-Slug: "dedito-de-queso-backerei-10-und-250-g-12002739"
-Brand: "Backerey"
-Price: "COP 7,350.00"
-From: "Tiendas D1"
+slug: "dedito-de-queso-backerei-10-und-250-g-12002739"
+brand: "Backerey"
+price: "COP 7,350.00"
+from: "Tiendas D1"
 ---
 
 # Deditos De Queso (250g)

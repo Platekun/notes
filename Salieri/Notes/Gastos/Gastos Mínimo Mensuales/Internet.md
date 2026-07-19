@@ -1,10 +1,10 @@
 ---
-Amount: "COP 140,000.00"
-Description: "Servicio de Internet de Claro"
-Direction: "Egreso"
-Net Income: "COP 0.00"
-Required Expenses Total: "COP 140,000.00"
-Total: "-COP 140,000.00"
+amount: "COP 140,000.00"
+description: "Servicio de Internet de Claro"
+direction: "Egreso"
+net-income: "COP 0.00"
+required-expenses-total: "COP 140,000.00"
+total: "-COP 140,000.00"
 ---
 
 # Internet

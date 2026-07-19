@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Mitsuhiko Nagafukada"
-Primary Zettelkasten Area: "Ethics"
-Last edited time: "October 1, 2023 11:29 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Mitsuhiko Nagafukada"
+primary-zettelkasten-area: "Ethics"
+last-edited-time: "October 1, 2023 11:29 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # The More Struggle The More Kinder

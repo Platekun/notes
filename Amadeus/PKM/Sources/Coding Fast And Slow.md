@@ -1,6 +1,6 @@
 ---
-URL: "http://blog.hut8labs.com/coding-fast-and-slow.html"
-Notes: "Coding Fast And Slow"
+url: "http://blog.hut8labs.com/coding-fast-and-slow.html"
+notes: "Coding Fast And Slow"
 ---
 
 # Coding Fast And Slow

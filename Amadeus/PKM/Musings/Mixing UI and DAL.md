@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Jelmer"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Front-End Development"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Not Everything Should Be A Component"
+note-type: "Literature"
+author: "Jelmer"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Front-End Development"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Not Everything Should Be A Component"
 ---
 
 # Mixing UI and DAL

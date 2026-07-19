@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Might Guy"
-Last edited time: "February 19, 2024 12:16 AM"
-Status: "Unprocessed"
-Created time: "February 18, 2024 11:59 PM"
+note-type: "Literature"
+author: "Might Guy"
+last-edited-time: "February 19, 2024 12:16 AM"
+status: "Unprocessed"
+created-time: "February 18, 2024 11:59 PM"
 ---
 
 # Generational Gifts

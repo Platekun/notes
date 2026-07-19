@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Databases"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "December 30, 2022 1:53 AM"
-Sources: "Distributed Database Management Systems Article, Distributed Database Definition"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Databases"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "December 30, 2022 1:53 AM"
+sources: "Distributed Database Management Systems Article, Distributed Database Definition"
 ---
 
 # What Is A Dristributed Database?

@@ -1,10 +1,10 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Last edited time: "February 5, 2024 1:13 AM"
-Status: "Unprocessed"
-Created time: "February 5, 2024 1:12 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Permanent"
+author: "Carlos Lobo"
+last-edited-time: "February 5, 2024 1:13 AM"
+status: "Unprocessed"
+created-time: "February 5, 2024 1:12 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Nobody Can Take Your Place

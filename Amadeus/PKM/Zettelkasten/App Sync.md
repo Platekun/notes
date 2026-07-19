@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is AppSync?"
+parent-item: "AWS"
+primary-source: "What Is AppSync?"
 ---
 
 # App Sync

@@ -1,5 +1,5 @@
 ---
-URL: "https://learn.nestjs.com/p/fundamentals"
+url: "https://learn.nestjs.com/p/fundamentals"
 ---
 
 # NestJs Fundamentals

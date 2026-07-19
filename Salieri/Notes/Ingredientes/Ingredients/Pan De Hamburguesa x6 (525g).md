@@ -1,8 +1,8 @@
 ---
-Slug: "pan-bimbo-super-hamburguesa-x-6-un-525g-7705326076809--2138839"
-Brand: "Bimbo"
-Price: "COP 8,800.00"
-From: "SAO"
+slug: "pan-bimbo-super-hamburguesa-x-6-un-525g-7705326076809--2138839"
+brand: "Bimbo"
+price: "COP 8,800.00"
+from: "SAO"
 ---
 
 # Pan De Hamburguesa x6 (525g)

@@ -1,9 +1,9 @@
 ---
-Financial Year: "2021"
-Amount: "COP 11,693.00"
-Scope: "Lobito"
-Amount Per Year: "COP 11,693.00"
-Expense Frequency: "Monthly"
+financial-year: "2021"
+amount: "COP 11,693.00"
+scope: "Lobito"
+amount-per-year: "COP 11,693.00"
+expense-frequency: "Monthly"
 ---
 
 # Patreon

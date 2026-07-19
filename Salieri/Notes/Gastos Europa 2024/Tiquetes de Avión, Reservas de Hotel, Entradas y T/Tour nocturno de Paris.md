@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 55,881.00"
-Total: "COP 111,762.00"
-Unidad: "2"
+precio-cop: "COP 55,881.00"
+total: "COP 111,762.00"
+unidad: "2"
 ---
 
 # Tour nocturno de Paris

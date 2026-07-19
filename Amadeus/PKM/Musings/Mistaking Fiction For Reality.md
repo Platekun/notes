@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "May 21, 2024 2:04 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:03 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "May 21, 2024 2:04 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:03 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Mistaking Fiction For Reality

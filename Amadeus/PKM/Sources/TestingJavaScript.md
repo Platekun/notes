@@ -1,5 +1,5 @@
 ---
-URL: "https://testingjavascript.com"
+url: "https://testingjavascript.com"
 ---
 
 # TestingJavaScript

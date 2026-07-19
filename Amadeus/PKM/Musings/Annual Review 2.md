@@ -1,11 +1,11 @@
 ---
-Note Type: "Permanent"
-Author: "Tiago Forte"
-Primary Zettelkasten Area: "Yourself"
-Last edited time: "December 30, 2023 4:31 PM"
-Secondary Zettelkasten Area: "Growth"
-Status: "Processed"
-Created time: "December 30, 2023 4:10 PM"
+note-type: "Permanent"
+author: "Tiago Forte"
+primary-zettelkasten-area: "Yourself"
+last-edited-time: "December 30, 2023 4:31 PM"
+secondary-zettelkasten-area: "Growth"
+status: "Processed"
+created-time: "December 30, 2023 4:10 PM"
 ---
 
 # Annual Review

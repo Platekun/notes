@@ -1,5 +1,5 @@
 ---
-URL: "https://epicreact.dev"
+url: "https://epicreact.dev"
 ---
 
 # EpicReact

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:28 AM"
-Status: "Processed"
-Created time: "September 7, 2023 12:47 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:28 AM"
+status: "Processed"
+created-time: "September 7, 2023 12:47 PM"
 ---
 
 # Thu-Thu-Thursday

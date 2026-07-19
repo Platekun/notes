@@ -1,6 +1,6 @@
 ---
-Original Name: "Plastic"
-Recipes: "Pechuga De Pollo Rellena"
+original-name: "Plastic"
+recipes: "Pechuga De Pollo Rellena"
 ---
 
 # Plastico

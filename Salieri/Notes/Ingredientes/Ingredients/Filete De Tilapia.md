@@ -1,8 +1,8 @@
 ---
-Slug: "337317"
-Brand: "Antillana"
-Price: "COP 50,288.00"
-From: "Pricesmart"
+slug: "337317"
+brand: "Antillana"
+price: "COP 50,288.00"
+from: "Pricesmart"
 ---
 
 # Filete De Tilapia

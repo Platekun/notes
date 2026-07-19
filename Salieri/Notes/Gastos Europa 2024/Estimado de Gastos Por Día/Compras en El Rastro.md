@@ -1,14 +1,14 @@
 ---
-1 EUR a COP: "COP 4,566.00"
-Fecha: "September 29, 2024"
-Payment Method: "Efectivo"
-Precio (COP): "COP 136,980.00"
-Precio (EUR): "€30.00"
-Total (COP): "COP 273,960.00"
-Total (EUR): "€60.00"
-Total Solo en Efectivo (COP): "COP 136,980.00"
-Total Solo en Efectivo (EUR): "€60.00"
-Unidad: "2"
+1-eur-a-cop: "COP 4,566.00"
+fecha: "September 29, 2024"
+payment-method: "Efectivo"
+precio-cop: "COP 136,980.00"
+precio-eur: "€30.00"
+total-cop: "COP 273,960.00"
+total-eur: "€60.00"
+total-solo-en-efectivo-cop: "COP 136,980.00"
+total-solo-en-efectivo-eur: "€60.00"
+unidad: "2"
 ---
 
 # Compras en El Rastro

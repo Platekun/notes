@@ -1,6 +1,6 @@
 ---
-URL: "https://kentcdodds.com/blog/concerning-toolkits"
-Notes: "Concerning Toolkits 🛠 📦"
+url: "https://kentcdodds.com/blog/concerning-toolkits"
+notes: "Concerning Toolkits 🛠 📦"
 ---
 
 # Concerning Toolkits

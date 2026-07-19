@@ -1,10 +1,10 @@
 ---
-Amount: "COP 350,000.00"
-Description: "Servicio de administración con 10% de descuento."
-Direction: "Egreso"
-Net Income: "COP 0.00"
-Required Expenses Total: "COP 350,000.00"
-Total: "-COP 350,000.00"
+amount: "COP 350,000.00"
+description: "Servicio de administración con 10% de descuento."
+direction: "Egreso"
+net-income: "COP 0.00"
+required-expenses-total: "COP 350,000.00"
+total: "-COP 350,000.00"
 ---
 
 # Administración

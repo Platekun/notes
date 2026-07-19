@@ -1,14 +1,14 @@
 ---
-Amount: "COP 323,829.00"
-Balance: "Wonderful SDLC"
-Scope: "Relationship"
-Created Time: "August 12, 2024 1:40 AM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 323,829.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 323,829.00"
+balance: "Wonderful SDLC"
+scope: "Relationship"
+created-time: "August 12, 2024 1:40 AM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 323,829.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Eiffel Tower Tickets

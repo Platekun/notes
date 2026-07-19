@@ -1,5 +1,5 @@
 ---
-Type: "👕 Shirt"
+type: "👕 Shirt"
 ---
 
 # Yellow Shirt

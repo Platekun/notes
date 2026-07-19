@@ -1,9 +1,9 @@
 ---
-Financial Year: "2021"
-Amount: "COP 30,000.00"
-Scope: "Relationship"
-Amount Per Year: "COP 30,000.00"
-Expense Frequency: "Monthly"
+financial-year: "2021"
+amount: "COP 30,000.00"
+scope: "Relationship"
+amount-per-year: "COP 30,000.00"
+expense-frequency: "Monthly"
 ---
 
 # Lourdes’ Gifts

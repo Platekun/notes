@@ -1,9 +1,9 @@
 ---
-Slug: "jamon-de-pavo-white-holland-250-g-12001190"
-Brand: "White Holland"
-Price: "COP 9,350.00"
-From: "Tiendas D1"
-Recipes: "Pechuga De Pollo Rellena, Sandwich De Huevo"
+slug: "jamon-de-pavo-white-holland-250-g-12001190"
+brand: "White Holland"
+price: "COP 9,350.00"
+from: "Tiendas D1"
+recipes: "Pechuga De Pollo Rellena, Sandwich De Huevo"
 ---
 
 # Jamón De Pavo (250g)

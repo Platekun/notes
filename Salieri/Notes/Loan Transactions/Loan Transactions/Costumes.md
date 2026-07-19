@@ -1,10 +1,10 @@
 ---
-Loan: "Galleta Costume"
-Amount: "COP 10,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "November 20, 2022 5:30 AM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Galleta Costume"
+amount: "COP 10,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "November 20, 2022 5:30 AM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Costumes

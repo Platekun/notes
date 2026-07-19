@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "May 27, 2024 2:19 AM"
-Status: "Unprocessed"
-Created time: "May 27, 2024 2:07 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "May 27, 2024 2:19 AM"
+status: "Unprocessed"
+created-time: "May 27, 2024 2:07 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Once You Hit Rock Bottom, You Can Only Climb Back Up

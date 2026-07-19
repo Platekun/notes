@@ -1,6 +1,6 @@
 ---
-Musings: "Autonomous Strategist"
-Status: "Ready To Start"
+musings: "Autonomous Strategist"
+status: "Ready To Start"
 ---
 
 # Create Assistant Invoker With OpenAI

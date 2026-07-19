@@ -1,14 +1,14 @@
 ---
-Amount: "COP 85,000.00"
-Balance: "Blink"
-Scope: "Lobito"
-Created Time: "September 10, 2022 8:37 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 85,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 85,000.00"
+balance: "Blink"
+scope: "Lobito"
+created-time: "September 10, 2022 8:37 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 85,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Banda Ejercicio Roja

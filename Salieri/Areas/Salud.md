@@ -1,6 +1,6 @@
 ---
-Notes: "Medicamentos, Drogerías"
-Archived: "No"
+notes: "Medicamentos, Drogerías"
+archived: "No"
 ---
 
 # Salud

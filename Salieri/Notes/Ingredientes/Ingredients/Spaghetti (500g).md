@@ -1,8 +1,8 @@
 ---
-Slug: "spaghetti-deliziare-500-g-12000286"
-Brand: "Deliziare"
-Price: "COP 3,990.00"
-From: "Tiendas D1"
+slug: "spaghetti-deliziare-500-g-12000286"
+brand: "Deliziare"
+price: "COP 3,990.00"
+from: "Tiendas D1"
 ---
 
 # Spaghetti (500g)

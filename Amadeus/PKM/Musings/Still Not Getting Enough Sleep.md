@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 26, 2023 12:39 PM"
-Status: "Processed"
-Created time: "September 26, 2023 12:37 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 26, 2023 12:39 PM"
+status: "Processed"
+created-time: "September 26, 2023 12:37 PM"
 ---
 
 # Still Not Getting Enough Sleep

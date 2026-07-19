@@ -1,8 +1,8 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 2,000.00"
-From: "Fruvecol"
-Recipes: "Pasta De Zuchini"
+brand: "Fruvecol"
+price: "COP 2,000.00"
+from: "Fruvecol"
+recipes: "Pasta De Zuchini"
 ---
 
 # Zuccini

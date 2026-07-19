@@ -1,8 +1,8 @@
 ---
-Slug: "pan-frances-baguet-olimpica-315-g-25060997--35356"
-Brand: "Olímpica"
-Price: "COP 5,500.00"
-From: "SAO"
+slug: "pan-frances-baguet-olimpica-315-g-25060997--35356"
+brand: "Olímpica"
+price: "COP 5,500.00"
+from: "SAO"
 ---
 
 # Pan Baguette (315g)

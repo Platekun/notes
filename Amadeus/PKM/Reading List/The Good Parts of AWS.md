@@ -1,5 +1,5 @@
 ---
-URL: "https://dvassallo.gumroad.com/l/aws-good-parts?rdt_cid=4305233696434229700"
+url: "https://dvassallo.gumroad.com/l/aws-good-parts?rdt_cid=4305233696434229700"
 ---
 
 # The Good Parts of AWS

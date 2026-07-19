@@ -1,14 +1,14 @@
 ---
-Amount: "COP 468,370.00"
-Balance: "Wonderful SDLC"
-Scope: "Family"
-Created Time: "August 12, 2024 1:40 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 468,370.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 468,370.00"
+balance: "Wonderful SDLC"
+scope: "Family"
+created-time: "August 12, 2024 1:40 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 468,370.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Groceries@D1

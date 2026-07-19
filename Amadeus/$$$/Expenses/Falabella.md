@@ -1,14 +1,14 @@
 ---
-Amount: "COP 100,490.00"
-Balance: "Ides Of March"
-Scope: "Lobito"
-Created Time: "March 30, 2025 1:47 PM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 100,490.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 100,490.00"
+balance: "Ides Of March"
+scope: "Lobito"
+created-time: "March 30, 2025 1:47 PM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 100,490.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Falabella

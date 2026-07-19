@@ -1,14 +1,14 @@
 ---
-Amount: "COP 224,000.00"
-Balance: "Strong United Kingdom"
-Scope: "Lab"
-Created Time: "July 28, 2024 6:54 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 224,000.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 224,000.00"
+balance: "Strong United Kingdom"
+scope: "Lab"
+created-time: "July 28, 2024 6:54 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 224,000.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Groceries

@@ -1,5 +1,5 @@
 ---
-Meta: "Chaos;Child"
+meta: "Chaos;Child"
 ---
 
 # Right-sider Definition

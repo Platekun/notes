@@ -1,8 +1,8 @@
 ---
-Slug: "pasta-fideo-doria-500-g-7702085013069--25291"
-Brand: "Doria"
-Price: "COP 4,100.00"
-From: "SAO"
+slug: "pasta-fideo-doria-500-g-7702085013069--25291"
+brand: "Doria"
+price: "COP 4,100.00"
+from: "SAO"
 ---
 
 # Fideos (500g)

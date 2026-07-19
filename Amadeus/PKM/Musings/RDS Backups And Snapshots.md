@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "RDS"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 24, 2022 11:19 PM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "RDS"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 24, 2022 11:19 PM"
+sources: "Unknown"
 ---
 
 # RDS Backups And Snapshots

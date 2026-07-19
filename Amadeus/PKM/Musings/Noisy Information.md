@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 19, 2024 9:27 PM"
-Status: "Unprocessed"
-Created time: "February 5, 2024 12:44 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 19, 2024 9:27 PM"
+status: "Unprocessed"
+created-time: "February 5, 2024 12:44 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Noisy Information

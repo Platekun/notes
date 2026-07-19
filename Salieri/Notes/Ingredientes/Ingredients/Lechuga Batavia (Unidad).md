@@ -1,8 +1,8 @@
 ---
-Slug: "lechuga-batavia"
-Brand: "Olímpica"
-Price: "COP 6,980.00"
-From: "SAO"
+slug: "lechuga-batavia"
+brand: "Olímpica"
+price: "COP 6,980.00"
+from: "SAO"
 ---
 
 # Lechuga Batavia (Unidad)

@@ -1,7 +1,7 @@
 ---
-Status: "Done"
-Resources: "The PARA Method, Resources Example, Area vs Resource Explanation"
-Archived: "No"
+status: "Done"
+resources: "The PARA Method, Resources Example, Area vs Resource Explanation"
+archived: "No"
 ---
 
 # Configurar Notion

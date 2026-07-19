@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Primary Zettelkasten Area: "Growth"
-Last edited time: "October 1, 2023 7:14 PM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "October 24, 2022 9:52 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Okabe Rintaro"
+primary-zettelkasten-area: "Growth"
+last-edited-time: "October 1, 2023 7:14 PM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "October 24, 2022 9:52 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Drawing Strength and Pride From Our Memories: Embracing Mistakes and Sacrifices

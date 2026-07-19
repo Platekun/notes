@@ -1,15 +1,15 @@
 ---
-Created Time: "November 19, 2022 9:45 PM"
-Scope: "Galleta"
-Borrower: "Lourdes Ojeda"
-Lender: "Carlos Camilo Lobo Ulloque"
-Principal: "COP 10,000.00"
-Transactions: "Costumes"
-Paid: "10000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Expense Tracker"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "November 19, 2022 9:45 PM"
+scope: "Galleta"
+borrower: "Lourdes Ojeda"
+lender: "Carlos Camilo Lobo Ulloque"
+principal: "COP 10,000.00"
+transactions: "Costumes"
+paid: "10000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Expense Tracker"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Galleta Costume

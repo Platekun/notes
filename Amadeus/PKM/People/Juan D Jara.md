@@ -1,5 +1,5 @@
 ---
-Notes: "Routers Tend To Be Overcomplicated"
+notes: "Routers Tend To Be Overcomplicated"
 ---
 
 # Juan D Jara

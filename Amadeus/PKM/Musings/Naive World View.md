@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Aoi Sena"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 31, 2023 1:17 AM"
-Status: "Processed"
-Created time: "September 25, 2023 1:00 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Aoi Sena"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 31, 2023 1:17 AM"
+status: "Processed"
+created-time: "September 25, 2023 1:00 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Naive World View

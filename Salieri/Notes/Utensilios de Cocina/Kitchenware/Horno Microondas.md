@@ -1,5 +1,5 @@
 ---
-Original Name: "Microwave"
+original-name: "Microwave"
 ---
 
 # Horno Microondas

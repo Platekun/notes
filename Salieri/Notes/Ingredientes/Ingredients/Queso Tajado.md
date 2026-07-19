@@ -1,7 +1,7 @@
 ---
-Brand: "Latti"
-Price: "COP 8,350.00"
-From: "Tiendas D1"
+brand: "Latti"
+price: "COP 8,350.00"
+from: "Tiendas D1"
 ---
 
 # Queso Tajado

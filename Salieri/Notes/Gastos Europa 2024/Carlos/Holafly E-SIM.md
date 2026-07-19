@@ -1,9 +1,9 @@
 ---
-Fecha: "September 27, 2024"
-Gasto Único De Carlos: "COP 272,294.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 272,294.00"
-Solo Carlos: "Yes"
+fecha: "September 27, 2024"
+gasto-único-de-carlos: "COP 272,294.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 272,294.00"
+solo-carlos: "Yes"
 ---
 
 # Holafly E-SIM

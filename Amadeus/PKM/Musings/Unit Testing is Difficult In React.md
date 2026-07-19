@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Gary Bernhardt"
-Primary Zettelkasten Area: "React"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Software Architecture"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "React Tries To Redefine The World Around It"
+note-type: "Literature"
+author: "Gary Bernhardt"
+primary-zettelkasten-area: "React"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Software Architecture"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "React Tries To Redefine The World Around It"
 ---
 
 # Unit Testing is Difficult In React

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 27,000.00"
-Balance: "Thirsty Cartwright"
-Scope: "Relationship"
-Created Time: "April 26, 2023 2:04 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 27,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 27,000.00"
+balance: "Thirsty Cartwright"
+scope: "Relationship"
+created-time: "April 26, 2023 2:04 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 27,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Chocolates

@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Dan Abramov"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "URL(s) are a Lossy Representation Of The Application Navigation State (../Sources/URL(s)%20are%20a%20Lossy%20Representation%20Of%20The%20Applicati%209ef3ba5db4104cc3863a4586a6f8dd07.md)"
+note-type: "Literature"
+author: "Dan Abramov"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "URL(s) are a Lossy Representation Of The Application Navigation State (../Sources/URL(s)%20are%20a%20Lossy%20Representation%20Of%20The%20Applicati%209ef3ba5db4104cc3863a4586a6f8dd07.md)"
 ---
 
 # Application States Cannot Be Entirely Serialized

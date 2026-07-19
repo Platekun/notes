@@ -1,14 +1,14 @@
 ---
-Start Date: "February 1, 2026"
-Salary: "Senior 1"
-Salary Amount: "16900000"
-Income Sum: "0"
-Expenses Sum: "952600"
-Recurrent Expenses Sum: "0"
-AFC Account Transaction Amount: "0"
-Dollar Transactions In COP: "0"
-Gross Balance: "COP 15,947,400.00"
-Expenses: "Restaurante Amalfi Cuc, Lafam 203, Mr Bono Exito Cr 51b, Transaction"
+start-date: "February 1, 2026"
+salary: "Senior 1"
+salary-amount: "16900000"
+income-sum: "0"
+expenses-sum: "952600"
+recurrent-expenses-sum: "0"
+afc-account-transaction-amount: "0"
+dollar-transactions-in-cop: "0"
+gross-balance: "COP 15,947,400.00"
+expenses: "Restaurante Amalfi Cuc, Lafam 203, Mr Bono Exito Cr 51b, Transaction"
 ---
 
 # T.B.N

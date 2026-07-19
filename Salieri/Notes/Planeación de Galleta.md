@@ -1,7 +1,7 @@
 ---
-Area: "Galleta"
-Archived: "false"
-Area Archived: "No"
+area: "Galleta"
+archived: "false"
+area-archived: "No"
 ---
 
 # Planeación de Galleta

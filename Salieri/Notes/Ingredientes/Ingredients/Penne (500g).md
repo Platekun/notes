@@ -1,9 +1,9 @@
 ---
-Slug: "penne-deliziare-500-g-12000287"
-Brand: "Deliziare"
-Price: "COP 3,990.00"
-From: "Tiendas D1"
-Recipes: "Ensalada Fría De Pasta, Jamón y Pollo"
+slug: "penne-deliziare-500-g-12000287"
+brand: "Deliziare"
+price: "COP 3,990.00"
+from: "Tiendas D1"
+recipes: "Ensalada Fría De Pasta, Jamón y Pollo"
 ---
 
 # Penne (500g)

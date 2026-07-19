@@ -1,8 +1,8 @@
 ---
-Amount: "COP 122,500.00"
-Created by: "Lourdes Ojeda"
-Created time: "May 2, 2024 2:51 PM"
-Sprint: "Eight Years"
+amount: "COP 122,500.00"
+created-by: "Lourdes Ojeda"
+created-time: "May 2, 2024 2:51 PM"
+sprint: "Eight Years"
 ---
 
 # Vale gym

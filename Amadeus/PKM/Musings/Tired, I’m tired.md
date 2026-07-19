@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 30, 2024 2:13 AM"
-Status: "Processed"
-Created time: "January 30, 2024 2:07 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 30, 2024 2:13 AM"
+status: "Processed"
+created-time: "January 30, 2024 2:07 AM"
 ---
 
 # Tired, I’m tired

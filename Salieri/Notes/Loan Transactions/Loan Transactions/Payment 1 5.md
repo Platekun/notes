@@ -1,10 +1,10 @@
 ---
-Loan: "Guardería galleta"
-Amount: "COP 80,000.00"
-Performed: "Yes"
-Created By: "Carlos Camilo Lobo Ulloque"
-Created Time: "August 26, 2023 6:13 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Guardería galleta"
+amount: "COP 80,000.00"
+performed: "Yes"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "August 26, 2023 6:13 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment 1

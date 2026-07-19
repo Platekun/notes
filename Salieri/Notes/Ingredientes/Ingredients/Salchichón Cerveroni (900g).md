@@ -1,8 +1,8 @@
 ---
-Slug: "salchichon-zenu-cerveroni-900-g-7701101246894-1253062"
-Brand: "Zenú"
-Price: "COP 20,900.00"
-From: "SAO"
+slug: "salchichon-zenu-cerveroni-900-g-7701101246894-1253062"
+brand: "Zenú"
+price: "COP 20,900.00"
+from: "SAO"
 ---
 
 # Salchichón Cerveroni (900g)

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Kenichiro Senomiya"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "October 1, 2023 11:29 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Kenichiro Senomiya"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "October 1, 2023 11:29 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # Sharing What You Like To Your Children

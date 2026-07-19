@@ -1,8 +1,8 @@
 ---
-Amount: "COP 150,000.00"
-Balance: "Naughty Blackburn"
-Created Time: "August 14, 2022 11:43 PM"
-Scope: "Relationship"
+amount: "COP 150,000.00"
+balance: "Naughty Blackburn"
+created-time: "August 14, 2022 11:43 PM"
+scope: "Relationship"
 ---
 
 # Lourdes' Car Crash

@@ -1,5 +1,5 @@
 ---
-Notes: "Authentication And Routing Is State Management"
+notes: "Authentication And Routing Is State Management"
 ---
 
 # Justin Falcone

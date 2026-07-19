@@ -1,7 +1,7 @@
 ---
-Area: "Relación"
-Archived: "false"
-Area Archived: "No"
+area: "Relación"
+archived: "false"
+area-archived: "No"
 ---
 
 # Acuerdos: Finanzas en Pareja

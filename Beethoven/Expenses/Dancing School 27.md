@@ -1,8 +1,8 @@
 ---
-Amount: "COP 140,000.00"
-Created by: "Automation"
-Created time: "July 1, 2024 7:12 AM"
-Sprint: "Next-level Sheep"
+amount: "COP 140,000.00"
+created-by: "Automation"
+created-time: "July 1, 2024 7:12 AM"
+sprint: "Next-level Sheep"
 ---
 
 # Dancing School

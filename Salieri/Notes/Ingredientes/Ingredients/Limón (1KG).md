@@ -1,8 +1,8 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 2,192.00"
-From: "Fruvecol"
-Recipes: "Pudín De Vainilla"
+brand: "Fruvecol"
+price: "COP 2,192.00"
+from: "Fruvecol"
+recipes: "Pudín De Vainilla"
 ---
 
 # Limón (1KG)

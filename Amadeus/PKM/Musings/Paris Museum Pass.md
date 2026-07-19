@@ -1,8 +1,8 @@
 ---
-Last edited time: "July 21, 2024 4:07 PM"
-Status: "Unprocessed"
-Created time: "July 21, 2024 3:03 AM"
-Experiences: "Play Steins;Gate 0"
+last-edited-time: "July 21, 2024 4:07 PM"
+status: "Unprocessed"
+created-time: "July 21, 2024 3:03 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Paris Museum Pass

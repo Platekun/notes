@@ -1,9 +1,9 @@
 ---
-Slug: "harina-de-maiz-blanco-pan-1-kg-7702084137520--2004701"
-Brand: "P.A.N"
-Price: "COP 3,400.00"
-From: "SAO"
-Recipes: "Pudín De Vainilla, Torta De Queso, Pollo Napolitano, Croquetas De Jamón Serrano"
+slug: "harina-de-maiz-blanco-pan-1-kg-7702084137520--2004701"
+brand: "P.A.N"
+price: "COP 3,400.00"
+from: "SAO"
+recipes: "Pudín De Vainilla, Torta De Queso, Pollo Napolitano, Croquetas De Jamón Serrano"
 ---
 
 # Harina De Maíz (1Kg)

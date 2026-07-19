@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Docker"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 2, 2022 11:54 PM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Docker"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 2, 2022 11:54 PM"
+sources: "Unknown"
 ---
 
 # What Are Containers?

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 132,000.00"
-Balance: "Heuristic Maxwell"
-Scope: "Galleta"
-Created Time: "November 22, 2022 2:01 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 132,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 132,000.00"
+balance: "Heuristic Maxwell"
+scope: "Galleta"
+created-time: "November 22, 2022 2:01 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 132,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Esterilización De Galleta

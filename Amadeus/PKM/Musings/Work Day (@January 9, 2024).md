@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Work"
-Last edited time: "January 10, 2024 9:14 PM"
-Status: "Unprocessed"
-Created time: "January 9, 2024 6:20 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Work"
+last-edited-time: "January 10, 2024 9:14 PM"
+status: "Unprocessed"
+created-time: "January 9, 2024 6:20 AM"
 ---
 
 # Work Day (@January 9, 2024)

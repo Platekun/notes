@@ -1,5 +1,5 @@
 ---
-Notes: "Uki-like Personalities"
+notes: "Uki-like Personalities"
 ---
 
 # Yamazoe Uki

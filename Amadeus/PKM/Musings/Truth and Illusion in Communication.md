@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Takumi Nishijou"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "November 4, 2023 7:17 PM"
-Status: "Processed"
-Created time: "August 21, 2023 3:15 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Takumi Nishijou"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "November 4, 2023 7:17 PM"
+status: "Processed"
+created-time: "August 21, 2023 3:15 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Truth and Illusion in Communication

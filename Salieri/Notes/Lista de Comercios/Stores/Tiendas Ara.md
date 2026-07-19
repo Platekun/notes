@@ -1,5 +1,5 @@
 ---
-Location: "Carrera 53 # 74-181, Barranquilla, Atlántico"
+location: "Carrera 53 # 74-181, Barranquilla, Atlántico"
 ---
 
 # Tiendas Ara

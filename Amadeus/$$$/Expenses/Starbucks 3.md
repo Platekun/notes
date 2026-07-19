@@ -1,14 +1,14 @@
 ---
-Amount: "COP 39,000.00"
-Balance: "Blizzard"
-Scope: "Relationship"
-Created Time: "July 22, 2023 9:59 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 39,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 39,000.00"
+balance: "Blizzard"
+scope: "Relationship"
+created-time: "July 22, 2023 9:59 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 39,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Starbucks

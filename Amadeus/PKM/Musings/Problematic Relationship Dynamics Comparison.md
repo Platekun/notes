@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Shiina Mayuri"
-Last edited time: "March 28, 2024 3:56 PM"
-Status: "Unprocessed"
-Created time: "March 28, 2024 3:05 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Shiina Mayuri"
+last-edited-time: "March 28, 2024 3:56 PM"
+status: "Unprocessed"
+created-time: "March 28, 2024 3:05 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Problematic Relationship Dynamics Comparison

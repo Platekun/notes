@@ -1,5 +1,5 @@
 ---
-Notes: "Hard Work And Honesty"
+notes: "Hard Work And Honesty"
 ---
 
 # Jonathan Kent

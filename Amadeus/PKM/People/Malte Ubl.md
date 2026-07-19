@@ -1,5 +1,5 @@
 ---
-Notes: "Web Scrollers"
+notes: "Web Scrollers"
 ---
 
 # Malte Ubl

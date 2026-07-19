@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Bitcoin"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "December 30, 2022 2:26 AM"
-Sources: "Why Bitcoin Was Invented, Bitcoin Definition, Bitcoin Paper, \"Was bitcoin proposed with a wallet in mind?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Bitcoin"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "December 30, 2022 2:26 AM"
+sources: "Why Bitcoin Was Invented, Bitcoin Definition, Bitcoin Paper, \"Was bitcoin proposed with a wallet in mind?” Prompt"
 ---
 
 # What Is Bitcoin?

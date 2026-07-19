@@ -1,9 +1,9 @@
 ---
-Fecha: "October 10, 2024"
-Gasto Único De Carlos: "COP 290,210.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 290,210.00"
-Solo Carlos: "Yes"
+fecha: "October 10, 2024"
+gasto-único-de-carlos: "COP 290,210.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 290,210.00"
+solo-carlos: "Yes"
 ---
 
 # T Eiffel

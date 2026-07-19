@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 4, 2024 2:26 AM"
-Status: "Processed"
-Created time: "January 4, 2024 2:22 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 4, 2024 2:26 AM"
+status: "Processed"
+created-time: "January 4, 2024 2:22 AM"
 ---
 
 # Dark Clouds

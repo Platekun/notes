@@ -1,8 +1,8 @@
 ---
-Type: "Breakfast, Dinner"
-Ingredients: "Huevos x25, Jamón De Pavo (250g) (../../Ingredientes/Ingredients/Jam%C3%B3n%20De%20Pavo%20(250g)%208c406e022f03466798dacf965d03353d.md), Queso Sabanero Tajado (250g) (../../Ingredientes/Ingredients/Queso%20Sabanero%20Tajado%20(250g)%2022bb847a503e4264b8ae7042db528146.md), Salsa De Tomate (500g) (../../Ingredientes/Ingredients/Salsa%20De%20Tomate%20(500g)%20e9e1c907e4ac4a54ae8ce87d776096c4.md), Mayonesa Baja En Grasa (500g) (../../Ingredientes/Ingredients/Mayonesa%20Baja%20En%20Grasa%20(500g)%2094a54af0d83045be90b332d7f1d21501.md), Lechuga Crespa, Aceite (900ml) (../../Ingredientes/Ingredients/Aceite%20(900ml)%2003ca890d892d42e287e3d73f4399c155.md)"
-Utensils: "Delantal, Servilletas, Sartén, Espátula, Cuchillo"
-Cost: "65500"
+type: "Breakfast, Dinner"
+ingredients: "Huevos x25, Jamón De Pavo (250g) (../../Ingredientes/Ingredients/Jam%C3%B3n%20De%20Pavo%20(250g)%208c406e022f03466798dacf965d03353d.md), Queso Sabanero Tajado (250g) (../../Ingredientes/Ingredients/Queso%20Sabanero%20Tajado%20(250g)%2022bb847a503e4264b8ae7042db528146.md), Salsa De Tomate (500g) (../../Ingredientes/Ingredients/Salsa%20De%20Tomate%20(500g)%20e9e1c907e4ac4a54ae8ce87d776096c4.md), Mayonesa Baja En Grasa (500g) (../../Ingredientes/Ingredients/Mayonesa%20Baja%20En%20Grasa%20(500g)%2094a54af0d83045be90b332d7f1d21501.md), Lechuga Crespa, Aceite (900ml) (../../Ingredientes/Ingredients/Aceite%20(900ml)%2003ca890d892d42e287e3d73f4399c155.md)"
+utensils: "Delantal, Servilletas, Sartén, Espátula, Cuchillo"
+cost: "65500"
 ---
 
 # Sandwich De Huevo

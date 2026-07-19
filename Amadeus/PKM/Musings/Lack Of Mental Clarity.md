@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Jude Mathis"
-Primary Zettelkasten Area: "Decision Making"
-Last edited time: "October 1, 2023 11:40 PM"
-Status: "Unprocessed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Tales Of Xillia"
-Sources: "Jude Vs Alvin"
+note-type: "Literature"
+author: "Jude Mathis"
+primary-zettelkasten-area: "Decision Making"
+last-edited-time: "October 1, 2023 11:40 PM"
+status: "Unprocessed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Tales Of Xillia"
+sources: "Jude Vs Alvin"
 ---
 
 # Lack Of Mental Clarity

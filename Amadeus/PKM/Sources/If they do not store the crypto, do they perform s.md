@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Crypto Wallet?"
+notes: "What Is A Crypto Wallet?"
 ---
 
 # "If they do not store the crypto, do they perform some kind of read through the blockchain to return a balance?” Prompt

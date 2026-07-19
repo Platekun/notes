@@ -1,8 +1,8 @@
 ---
-Area: "EBS"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "EBS volumes are attached to EC2 instances. Once attached they are recognized from within the EC2 instance as a mounted network drive."
+area: "EBS"
+reveal: "No"
+confidence: "Not Confident"
+answer: "EBS volumes are attached to EC2 instances. Once attached they are recognized from within the EC2 instance as a mounted network drive."
 ---
 
 # How Do EBS Works As Extra Storage?

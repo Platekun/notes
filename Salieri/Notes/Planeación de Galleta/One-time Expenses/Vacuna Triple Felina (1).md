@@ -1,7 +1,7 @@
 ---
-Amount: "COP 45,000.00"
-Number of Units: "1"
-Total For Item: "COP 45,000.00"
+amount: "COP 45,000.00"
+number-of-units: "1"
+total-for-item: "COP 45,000.00"
 ---
 
 # Vacuna Triple Felina (1)

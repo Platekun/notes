@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 6, 2024 3:49 AM"
-Status: "Processed"
-Created time: "January 6, 2024 3:47 AM"
+note-type: "Fleeting"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 6, 2024 3:49 AM"
+status: "Processed"
+created-time: "January 6, 2024 3:47 AM"
 ---
 
 # Darkest Night

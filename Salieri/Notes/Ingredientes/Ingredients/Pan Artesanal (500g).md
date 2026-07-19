@@ -1,8 +1,8 @@
 ---
-Slug: "pan-artesanal-horneaditos-500-g-12000800"
-Brand: "Horneaditos"
-Price: "COP 4,990.00"
-From: "Tiendas D1"
+slug: "pan-artesanal-horneaditos-500-g-12000800"
+brand: "Horneaditos"
+price: "COP 4,990.00"
+from: "Tiendas D1"
 ---
 
 # Pan Artesanal (500g)

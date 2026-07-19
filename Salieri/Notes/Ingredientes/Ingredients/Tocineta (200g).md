@@ -1,9 +1,9 @@
 ---
-Slug: "tocineta-tipo-sandwich-viande-200-g-12000770"
-Brand: "Viandé"
-Price: "COP 6,590.00"
-From: "Tiendas D1"
-Recipes: "Pechuga De Pollo Rellena"
+slug: "tocineta-tipo-sandwich-viande-200-g-12000770"
+brand: "Viandé"
+price: "COP 6,590.00"
+from: "Tiendas D1"
+recipes: "Pechuga De Pollo Rellena"
 ---
 
 # Tocineta (200g)

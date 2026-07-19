@@ -1,6 +1,6 @@
 ---
-Brand: "Little Angels"
-Stores: "Tiendas D1, DollarCity"
+brand: "Little Angels"
+stores: "Tiendas D1, DollarCity"
 ---
 
 # Pañitos Húmedos

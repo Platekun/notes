@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Relationships"
-Last edited time: "December 10, 2023 6:30 PM"
-Status: "Processed"
-Created time: "December 10, 2023 2:16 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Relationships"
+last-edited-time: "December 10, 2023 6:30 PM"
+status: "Processed"
+created-time: "December 10, 2023 2:16 AM"
 ---
 
 # Lourdes’ Auto Evaluation

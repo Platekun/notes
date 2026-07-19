@@ -1,9 +1,9 @@
 ---
-Financial Year: "2021"
-Amount: "COP 65,900.00"
-Scope: "Lobito"
-Amount Per Year: "COP 65,900.00"
-Expense Frequency: "Monthly"
+financial-year: "2021"
+amount: "COP 65,900.00"
+scope: "Lobito"
+amount-per-year: "COP 65,900.00"
+expense-frequency: "Monthly"
 ---
 
 # Cellphone Plan

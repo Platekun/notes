@@ -1,8 +1,8 @@
 ---
-Slug: "cerveza-bahia-330-ml-12002513"
-Brand: "Bahía"
-Price: "COP 1,690.00"
-From: "Tiendas D1"
+slug: "cerveza-bahia-330-ml-12002513"
+brand: "Bahía"
+price: "COP 1,690.00"
+from: "Tiendas D1"
 ---
 
 # Cerveza (330ml)

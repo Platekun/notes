@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "May 25, 2024 3:46 PM"
-Status: "Unprocessed"
-Created time: "May 25, 2024 3:35 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "May 25, 2024 3:46 PM"
+status: "Unprocessed"
+created-time: "May 25, 2024 3:35 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # At Least Provide Me With The Information

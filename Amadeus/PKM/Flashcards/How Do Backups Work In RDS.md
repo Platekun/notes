@@ -1,8 +1,8 @@
 ---
-Area: "RDS"
-Reveal: "No"
-Confidence: "Somewhat Confident"
-Answer: "We can perform backups of our RDS instances. They can be triggered manually or are done on a maintenance window."
+area: "RDS"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "We can perform backups of our RDS instances. They can be triggered manually or are done on a maintenance window."
 ---
 
 # How Do Backups Work In RDS?

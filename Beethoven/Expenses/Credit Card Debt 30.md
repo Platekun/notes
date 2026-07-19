@@ -1,8 +1,8 @@
 ---
-Amount: "COP 1,500,000.00"
-Created by: "Automation"
-Created time: "May 1, 2024 5:02 AM"
-Sprint: "Eight Years"
+amount: "COP 1,500,000.00"
+created-by: "Automation"
+created-time: "May 1, 2024 5:02 AM"
+sprint: "Eight Years"
 ---
 
 # Credit Card Debt

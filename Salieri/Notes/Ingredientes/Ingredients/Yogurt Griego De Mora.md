@@ -1,8 +1,8 @@
 ---
-Slug: "yogurt-griego-mora-latti-160-gr-12003385"
-Brand: "Latti"
-Price: "COP 3,850.00"
-From: "Tiendas D1"
+slug: "yogurt-griego-mora-latti-160-gr-12003385"
+brand: "Latti"
+price: "COP 3,850.00"
+from: "Tiendas D1"
 ---
 
 # Yogurt Griego De Mora

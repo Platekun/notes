@@ -1,8 +1,8 @@
 ---
-Slug: "laminas-de-chocolate-biscolata-chocochips-115-g-12001152"
-Brand: "Biscolata"
-Price: "COP 8,990.00"
-From: "Tiendas D1"
+slug: "laminas-de-chocolate-biscolata-chocochips-115-g-12001152"
+brand: "Biscolata"
+price: "COP 8,990.00"
+from: "Tiendas D1"
 ---
 
 # Choco Chips (115g)

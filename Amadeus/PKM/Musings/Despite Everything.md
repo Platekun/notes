@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "May 3, 2025 1:35 AM"
-Status: "Unprocessed"
-Created time: "May 3, 2025 1:35 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "May 3, 2025 1:35 AM"
+status: "Unprocessed"
+created-time: "May 3, 2025 1:35 AM"
 ---
 
 # Despite Everything

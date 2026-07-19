@@ -1,7 +1,7 @@
 ---
-Amount: "COP 670,000.00"
-Created time: "September 1, 2024 7:08 AM"
-Sprint: "Cookie"
+amount: "COP 670,000.00"
+created-time: "September 1, 2024 7:08 AM"
+sprint: "Cookie"
 ---
 
 # English Professor

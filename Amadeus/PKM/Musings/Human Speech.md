@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Emotions"
-Last edited time: "October 1, 2023 7:47 PM"
-Secondary Zettelkasten Area: "Communication"
-Status: "Unprocessed"
-Created time: "February 11, 2023 4:39 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Emotions"
+last-edited-time: "October 1, 2023 7:47 PM"
+secondary-zettelkasten-area: "Communication"
+status: "Unprocessed"
+created-time: "February 11, 2023 4:39 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Human Speech

@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A People's Pride About?"
+notes: "What Is A People's Pride About?"
 ---
 
 # Monaito

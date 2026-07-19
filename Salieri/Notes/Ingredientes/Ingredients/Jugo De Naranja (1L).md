@@ -1,8 +1,8 @@
 ---
-Slug: "jugo-de-naranja-fresco-tree-fruts-1000-ml-12000380"
-Brand: "Tree Fruts"
-Price: "COP 5,190.00"
-From: "Tiendas D1"
+slug: "jugo-de-naranja-fresco-tree-fruts-1000-ml-12000380"
+brand: "Tree Fruts"
+price: "COP 5,190.00"
+from: "Tiendas D1"
 ---
 
 # Jugo De Naranja (1L)

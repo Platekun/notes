@@ -1,9 +1,9 @@
 ---
-Area: "Systems Design"
-Reveal: "No"
-Confidence: "Somewhat Confident"
-Answer: "Offloading traffic for reads or analytics."
-Last edited time: "February 9, 2023 12:48 AM"
+area: "Systems Design"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "Offloading traffic for reads or analytics."
+last-edited-time: "February 9, 2023 12:48 AM"
 ---
 
 # What Is Database Replication Used For?

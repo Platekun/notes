@@ -1,6 +1,6 @@
 ---
-Original Name: "Oven Gloves"
-Recipes: "Pudín De Vainilla, Quesillo"
+original-name: "Oven Gloves"
+recipes: "Pudín De Vainilla, Quesillo"
 ---
 
 # Guantes Para Horno

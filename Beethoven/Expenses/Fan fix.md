@@ -1,8 +1,8 @@
 ---
-Amount: "COP 20,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "March 12, 2024 6:11 PM"
-Sprint: "Modest Kirch"
+amount: "COP 20,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "March 12, 2024 6:11 PM"
+sprint: "Modest Kirch"
 ---
 
 # Fan fix

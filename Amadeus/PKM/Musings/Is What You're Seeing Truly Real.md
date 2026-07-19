@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takumi Nishijou"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "November 4, 2023 6:42 PM"
-Tertiary Zettelkasten Area: "Knowledge Management"
-Status: "Processed"
-Created time: "September 18, 2023 1:19 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Takumi Nishijou"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "November 4, 2023 6:42 PM"
+tertiary-zettelkasten-area: "Knowledge Management"
+status: "Processed"
+created-time: "September 18, 2023 1:19 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Is What You're Seeing Truly Real?

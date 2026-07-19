@@ -1,7 +1,7 @@
 ---
-Email: "ca.lobo@outlook.com"
-Membership Type: "Guest"
-Person: "ca.lobo@outlook.com"
+email: "ca.lobo@outlook.com"
+membership-type: "Guest"
+person: "ca.lobo@outlook.com"
 ---
 
 # ca.lobo@outlook.com

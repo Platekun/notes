@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:49 PM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "December 31, 2022 11:07 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:49 PM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "December 31, 2022 11:07 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Be Flexible In Your Thinking

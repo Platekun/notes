@@ -1,5 +1,5 @@
 ---
-URL: "https://docs.pact.io/"
+url: "https://docs.pact.io/"
 ---
 
 # Introduction | Pact Docs

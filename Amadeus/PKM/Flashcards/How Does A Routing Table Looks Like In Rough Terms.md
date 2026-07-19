@@ -1,8 +1,8 @@
 ---
-Area: "VPC"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "A route table is a table which contains three concerns:"
+area: "VPC"
+reveal: "No"
+confidence: "Not Confident"
+answer: "A route table is a table which contains three concerns:"
 ---
 
 # How Does A Routing Table Looks Like In Rough Terms?

@@ -1,6 +1,6 @@
 ---
-Status: "Done"
-To-Dos: "Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled"
+status: "Done"
+to-dos: "Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled, Untitled"
 ---
 
 # Europe Travel 2024

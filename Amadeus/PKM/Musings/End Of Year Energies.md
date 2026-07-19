@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "December 19, 2023 1:50 AM"
-Status: "Processed"
-Created time: "December 19, 2023 1:46 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "December 19, 2023 1:50 AM"
+status: "Processed"
+created-time: "December 19, 2023 1:46 AM"
 ---
 
 # End Of Year Energies

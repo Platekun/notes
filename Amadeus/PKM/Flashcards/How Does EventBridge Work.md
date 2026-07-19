@@ -1,8 +1,8 @@
 ---
-Area: "EventBridge"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "EventBridge provides “event routing”. It listens for events and using a set of provided “rules”, it determines which “targets” should receive an incoming event."
+area: "EventBridge"
+reveal: "No"
+confidence: "Not Confident"
+answer: "EventBridge provides “event routing”. It listens for events and using a set of provided “rules”, it determines which “targets” should receive an incoming event."
 ---
 
 # How Does EventBridge Work?

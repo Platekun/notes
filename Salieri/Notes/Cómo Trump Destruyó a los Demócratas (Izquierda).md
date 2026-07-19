@@ -1,7 +1,7 @@
 ---
-Resource: "Política"
-Archived: "false"
-Resource Archived: "No"
+resource: "Política"
+archived: "false"
+resource-archived: "No"
 ---
 
 # Cómo Trump Destruyó a los Demócratas (Izquierda)

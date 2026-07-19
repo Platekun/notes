@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Yamazoe Uki"
-Primary Zettelkasten Area: "Love"
-Last edited time: "October 1, 2023 7:46 PM"
-Secondary Zettelkasten Area: "Identity"
-Status: "Processed"
-Created time: "March 19, 2023 2:43 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Yamazoe Uki"
+primary-zettelkasten-area: "Love"
+last-edited-time: "October 1, 2023 7:46 PM"
+secondary-zettelkasten-area: "Identity"
+status: "Processed"
+created-time: "March 19, 2023 2:43 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Uki-like Personalities

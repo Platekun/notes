@@ -1,8 +1,8 @@
 ---
-Area: "ECS"
-Reveal: "No"
-Confidence: "Somewhat Confident"
-Answer: "A service in ECS is the equivalent of an autoscaling group. It defines the min/max number of tasks that can be ran."
+area: "ECS"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "A service in ECS is the equivalent of an autoscaling group. It defines the min/max number of tasks that can be ran."
 ---
 
 # What Is A Service In ECS?

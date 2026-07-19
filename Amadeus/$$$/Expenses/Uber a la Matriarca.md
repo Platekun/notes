@@ -1,14 +1,14 @@
 ---
-Amount: "COP 9,800.00"
-Balance: "Naughty Blackburn"
-Scope: "Lobito"
-Created Time: "August 27, 2022 3:08 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 9,800.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 9,800.00"
+balance: "Naughty Blackburn"
+scope: "Lobito"
+created-time: "August 27, 2022 3:08 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 9,800.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Uber a la Matriarca

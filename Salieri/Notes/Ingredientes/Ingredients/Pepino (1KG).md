@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 2,400.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 2,400.00"
+from: "Fruvecol"
 ---
 
 # Pepino (1KG)

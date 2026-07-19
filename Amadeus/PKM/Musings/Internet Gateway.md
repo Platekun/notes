@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "VPC"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "September 30, 2022 2:05 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "VPC"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "September 30, 2022 2:05 AM"
+sources: "Unknown"
 ---
 
 # Internet Gateway

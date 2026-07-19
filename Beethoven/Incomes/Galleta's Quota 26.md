@@ -1,7 +1,7 @@
 ---
-Amount: "COP 100,000.00"
-Created time: "February 25, 2024 3:39 PM"
-Sprint: "Test Drive"
+amount: "COP 100,000.00"
+created-time: "February 25, 2024 3:39 PM"
+sprint: "Test Drive"
 ---
 
 # Galleta's Quota

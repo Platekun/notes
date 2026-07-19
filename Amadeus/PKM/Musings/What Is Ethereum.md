@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Ethereum"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "December 30, 2022 3:27 AM"
-Sources: "Ethereum Definition, Ethereum Paper"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Ethereum"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "December 30, 2022 3:27 AM"
+sources: "Ethereum Definition, Ethereum Paper"
 ---
 
 # What Is Ethereum?

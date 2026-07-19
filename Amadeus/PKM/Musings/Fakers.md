@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takuru Miyashiro"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 7:48 PM"
-Secondary Zettelkasten Area: "Software Development"
-Status: "Processed"
-Created time: "February 7, 2023 2:23 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takuru Miyashiro"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 7:48 PM"
+secondary-zettelkasten-area: "Software Development"
+status: "Processed"
+created-time: "February 7, 2023 2:23 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Fakers

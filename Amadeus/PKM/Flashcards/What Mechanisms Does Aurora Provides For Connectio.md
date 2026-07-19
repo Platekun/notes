@@ -1,8 +1,8 @@
 ---
-Area: "RDS"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "RDS provides two endpoints we can use to connect to the Aurora nodes."
+area: "RDS"
+reveal: "No"
+confidence: "Confident"
+answer: "RDS provides two endpoints we can use to connect to the Aurora nodes."
 ---
 
 # What Mechanisms Does Aurora Provides For Connections At Code Level?

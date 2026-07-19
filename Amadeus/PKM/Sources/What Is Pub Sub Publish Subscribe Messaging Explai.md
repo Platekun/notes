@@ -1,6 +1,6 @@
 ---
-URL: "https://www.bmc.com/blogs/pub-sub-publish-subscribe/"
-Notes: "What Is PubSub?"
+url: "https://www.bmc.com/blogs/pub-sub-publish-subscribe/"
+notes: "What Is PubSub?"
 ---
 
 # What Is Pub/Sub? Publish/Subscribe Messaging Explained

@@ -1,7 +1,7 @@
 ---
-Status: "Ready To Start"
-Resources: "Ventiladores De Sala Home Sentry"
-Archived: "No"
+status: "Ready To Start"
+resources: "Ventiladores De Sala Home Sentry"
+archived: "No"
 ---
 
 # Comprar Ventilador de Sala

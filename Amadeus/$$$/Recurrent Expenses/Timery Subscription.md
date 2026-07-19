@@ -1,9 +1,9 @@
 ---
-Financial Year: "2021"
-Amount: "COP 31,900.00"
-Scope: "Lobito"
-Amount Per Year: "COP 31,900.00"
-Expense Frequency: "Annual"
+financial-year: "2021"
+amount: "COP 31,900.00"
+scope: "Lobito"
+amount-per-year: "COP 31,900.00"
+expense-frequency: "Annual"
 ---
 
 # Timery Subscription

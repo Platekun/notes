@@ -1,8 +1,8 @@
 ---
-Amount: "COP 200,000.00"
-Created by: "Automation"
-Created time: "June 1, 2024 5:42 AM"
-Sprint: "Frozen Mole"
+amount: "COP 200,000.00"
+created-by: "Automation"
+created-time: "June 1, 2024 5:42 AM"
+sprint: "Frozen Mole"
 ---
 
 # House Tax #2

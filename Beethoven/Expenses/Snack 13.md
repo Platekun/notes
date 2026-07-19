@@ -1,8 +1,8 @@
 ---
-Amount: "COP 30,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "September 24, 2024 12:00 AM"
-Sprint: "Cookie"
+amount: "COP 30,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "September 24, 2024 12:00 AM"
+sprint: "Cookie"
 ---
 
 # Snack

@@ -1,8 +1,8 @@
 ---
-Slug: "clavo-entero-speciaria-20-g-12003894"
-Brand: "Speciaria"
-Price: "COP 2,190.00"
-From: "Tiendas D1"
+slug: "clavo-entero-speciaria-20-g-12003894"
+brand: "Speciaria"
+price: "COP 2,190.00"
+from: "Tiendas D1"
 ---
 
 # Clavo Entero (20g)

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "ECS"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "EC2"
-Status: "Processed"
-Created time: "November 3, 2022 12:35 AM"
-Sources: "What Is The Difference Between Amazon ECS And ECS?"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "ECS"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "EC2"
+status: "Processed"
+created-time: "November 3, 2022 12:35 AM"
+sources: "What Is The Difference Between Amazon ECS And ECS?"
 ---
 
 # EC2 vs ECS

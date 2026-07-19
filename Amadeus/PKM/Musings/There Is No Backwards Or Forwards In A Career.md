@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Anonymous"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Degrees Of Happiness"
+note-type: "Literature"
+author: "Anonymous"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Degrees Of Happiness"
 ---
 
 # There Is No Backwards Or Forwards In A Career

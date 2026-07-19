@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 2,000,000.00"
-Total: "COP 2,000,000.00"
-Unidad: "1"
+precio-cop: "COP 2,000,000.00"
+total: "COP 2,000,000.00"
+unidad: "1"
 ---
 
 # Reserva de hotel (Madrid)

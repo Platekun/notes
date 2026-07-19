@@ -1,5 +1,5 @@
 ---
-Description: "Porcentaje dedicado para la compra de una vivienda a futuro."
+description: "Porcentaje dedicado para la compra de una vivienda a futuro."
 ---
 
 # Inversión Para Vivienda

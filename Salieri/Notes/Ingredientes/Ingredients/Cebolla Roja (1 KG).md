@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 5,500.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 5,500.00"
+from: "Fruvecol"
 ---
 
 # Cebolla Roja (1 KG)

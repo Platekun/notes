@@ -1,5 +1,5 @@
 ---
-Notes: "The Turtle Hermit Way To Learn"
+notes: "The Turtle Hermit Way To Learn"
 ---
 
 # Kame-Sen'nin

@@ -1,7 +1,7 @@
 ---
-Project: "Comprar Ventilador de Sala"
-Archived: "false"
-Project Archived: "No"
+project: "Comprar Ventilador de Sala"
+archived: "false"
+project-archived: "No"
 ---
 
 # Ventiladores De Sala Home Sentry

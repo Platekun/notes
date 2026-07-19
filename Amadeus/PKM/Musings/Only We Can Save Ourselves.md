@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Oshino Meme"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 11:37 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Bakemonogatari"
+note-type: "Literature"
+author: "Oshino Meme"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 11:37 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Bakemonogatari"
 ---
 
 # Only We Can Save Ourselves

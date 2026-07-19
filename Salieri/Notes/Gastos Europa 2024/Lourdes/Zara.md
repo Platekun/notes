@@ -1,7 +1,7 @@
 ---
-Fecha: "October 3, 2024"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 190,808.00"
+fecha: "October 3, 2024"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 190,808.00"
 ---
 
 # Zara

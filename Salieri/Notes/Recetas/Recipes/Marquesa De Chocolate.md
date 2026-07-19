@@ -1,8 +1,8 @@
 ---
-Type: "Dessert"
-Ingredients: "Leche Deslactosada (900ml) (../../Ingredientes/Ingredients/Leche%20Deslactosada%20(900ml)%204d7a4f982c1b49c09d495ab414a9053c.md), Cocoa En Polvo (230g) (../../Ingredientes/Ingredients/Cocoa%20En%20Polvo%20(230g)%20de539b4a793d4992b8c75d9455a28b3d.md), Galletas x6, Chocolate Chocolyne En Polvo (100g) (../../Ingredientes/Ingredients/Chocolate%20Chocolyne%20En%20Polvo%20(100g)%20931966a60d2e4409ab18863ddcd0980e.md), Maizena (90g) (../../Ingredientes/Ingredients/Maizena%20(90g)%2058b5f10bb51e4af08d910ad9c0415a9d.md), Esencia De Vainilla (155ml) (../../Ingredientes/Ingredients/Esencia%20De%20Vainilla%20(155ml)%20eafb7792baae4ccfbb3a9051c2b28eda.md), Chocolate Chocolyne (108g) (../../Ingredientes/Ingredients/Chocolate%20Chocolyne%20(108g)%20500e216c781642f19adc573afe777046.md), Sal (1Kg) (../../Ingredientes/Ingredients/Sal%20(1Kg)%207beb1ca96dd34ed685a5bd547663f3b2.md)"
-Utensils: "Delantal, Servilletas, Cuchara De Madera, Cuchara, Contenedor De Vidrio, Olla, Nevera"
-Cost: "37722"
+type: "Dessert"
+ingredients: "Leche Deslactosada (900ml) (../../Ingredientes/Ingredients/Leche%20Deslactosada%20(900ml)%204d7a4f982c1b49c09d495ab414a9053c.md), Cocoa En Polvo (230g) (../../Ingredientes/Ingredients/Cocoa%20En%20Polvo%20(230g)%20de539b4a793d4992b8c75d9455a28b3d.md), Galletas x6, Chocolate Chocolyne En Polvo (100g) (../../Ingredientes/Ingredients/Chocolate%20Chocolyne%20En%20Polvo%20(100g)%20931966a60d2e4409ab18863ddcd0980e.md), Maizena (90g) (../../Ingredientes/Ingredients/Maizena%20(90g)%2058b5f10bb51e4af08d910ad9c0415a9d.md), Esencia De Vainilla (155ml) (../../Ingredientes/Ingredients/Esencia%20De%20Vainilla%20(155ml)%20eafb7792baae4ccfbb3a9051c2b28eda.md), Chocolate Chocolyne (108g) (../../Ingredientes/Ingredients/Chocolate%20Chocolyne%20(108g)%20500e216c781642f19adc573afe777046.md), Sal (1Kg) (../../Ingredientes/Ingredients/Sal%20(1Kg)%207beb1ca96dd34ed685a5bd547663f3b2.md)"
+utensils: "Delantal, Servilletas, Cuchara De Madera, Cuchara, Contenedor De Vidrio, Olla, Nevera"
+cost: "37722"
 ---
 
 # Marquesa De Chocolate

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Alexis Leskinen"
-Last edited time: "May 21, 2024 2:08 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:04 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Alexis Leskinen"
+last-edited-time: "May 21, 2024 2:08 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:04 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Humans Are Social Animals

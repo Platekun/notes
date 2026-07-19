@@ -1,8 +1,8 @@
 ---
-Slug: "mantequilla-con-sal-alpina-250-g-12001850"
-Brand: "Alpina"
-Price: "COP 12,290.00"
-From: "Tiendas D1"
+slug: "mantequilla-con-sal-alpina-250-g-12001850"
+brand: "Alpina"
+price: "COP 12,290.00"
+from: "Tiendas D1"
 ---
 
 # Mantequilla Sin Sal (250g)

@@ -1,13 +1,13 @@
 ---
-Amount: "COP 14,000.00"
-Scope: "Lourdes"
-Created Time: "September 9, 2022 1:20 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 14,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 14,000.00"
+scope: "Lourdes"
+created-time: "September 9, 2022 1:20 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 14,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # DollarCity - Termo De Lourdes

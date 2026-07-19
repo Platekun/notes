@@ -1,9 +1,9 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Last edited time: "November 21, 2023 1:33 AM"
-Status: "Unprocessed"
-Created time: "November 21, 2023 1:33 AM"
+note-type: "Permanent"
+author: "Carlos Lobo"
+last-edited-time: "November 21, 2023 1:33 AM"
+status: "Unprocessed"
+created-time: "November 21, 2023 1:33 AM"
 ---
 
 # Knowledge

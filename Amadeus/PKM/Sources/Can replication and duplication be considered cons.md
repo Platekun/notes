@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Database Duplication?, What Is Database Replication?"
+notes: "What Is Database Duplication?, What Is Database Replication?"
 ---
 
 # "Can replication and duplication be considered consensus protocols in distributed databases?” Prompt

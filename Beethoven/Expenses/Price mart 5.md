@@ -1,8 +1,8 @@
 ---
-Amount: "COP 177,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "July 1, 2024 4:55 PM"
-Sprint: "Next-level Sheep"
+amount: "COP 177,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "July 1, 2024 4:55 PM"
+sprint: "Next-level Sheep"
 ---
 
 # Price mart

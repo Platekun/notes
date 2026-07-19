@@ -1,5 +1,5 @@
 ---
-Use Cases: "Desinfectante Bucal"
+use-cases: "Desinfectante Bucal"
 ---
 
 # Isodine Bucofaríngeo

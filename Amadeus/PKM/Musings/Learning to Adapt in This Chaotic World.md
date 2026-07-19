@@ -1,11 +1,11 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Introspections"
-Last edited time: "November 4, 2023 8:17 PM"
-Status: "Processed"
-Created time: "November 4, 2023 7:55 PM"
-Experiences: "Play Chaos;Head"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Introspections"
+last-edited-time: "November 4, 2023 8:17 PM"
+status: "Processed"
+created-time: "November 4, 2023 7:55 PM"
+experiences: "Play Chaos;Head"
 ---
 
 # Learning to Adapt in This Chaotic World

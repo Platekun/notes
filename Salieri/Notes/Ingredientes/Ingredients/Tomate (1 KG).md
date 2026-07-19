@@ -1,8 +1,8 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 4,600.00"
-From: "Fruvecol"
-Recipes: "Pasta De Zuchini"
+brand: "Fruvecol"
+price: "COP 4,600.00"
+from: "Fruvecol"
+recipes: "Pasta De Zuchini"
 ---
 
 # Tomate (1 KG)

@@ -1,7 +1,7 @@
 ---
-Amount: "COP 1,500,000.00"
-Created time: "April 1, 2024 1:53 AM"
-Sprint: "Modest Kirch"
+amount: "COP 1,500,000.00"
+created-time: "April 1, 2024 1:53 AM"
+sprint: "Modest Kirch"
 ---
 
 # Virtual inversion

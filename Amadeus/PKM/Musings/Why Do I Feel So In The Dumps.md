@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "January 3, 2025 2:35 AM"
-Status: "Unprocessed"
-Created time: "January 3, 2025 2:31 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "January 3, 2025 2:35 AM"
+status: "Unprocessed"
+created-time: "January 3, 2025 2:31 AM"
 ---
 
 # Why Do I Feel So In The Dumps?

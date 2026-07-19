@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "April 1, 2024 1:21 AM"
-Status: "Unprocessed"
-Created time: "April 1, 2024 1:17 AM"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "April 1, 2024 1:21 AM"
+status: "Unprocessed"
+created-time: "April 1, 2024 1:17 AM"
 ---
 
 # Example Of Coming To Terms With Yort Decisions

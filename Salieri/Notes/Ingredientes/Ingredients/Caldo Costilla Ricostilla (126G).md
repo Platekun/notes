@@ -1,8 +1,8 @@
 ---
-Slug: "caldo-costilla-ricostilla-126g-7702354949525-2184823"
-Brand: "Ricostilla"
-Price: "COP 5,750.00"
-From: "SAO"
+slug: "caldo-costilla-ricostilla-126g-7702354949525-2184823"
+brand: "Ricostilla"
+price: "COP 5,750.00"
+from: "SAO"
 ---
 
 # Caldo Costilla Ricostilla (126G)

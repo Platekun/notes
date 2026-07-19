@@ -1,13 +1,13 @@
 ---
-Created Time: "November 2, 2024 2:24 PM"
-Borrower: "Carlos Camilo Lobo Ulloque"
-Lender: "Lourdes Ojeda"
-Principal: "COP 26,000.00"
-Paid: "0"
-Remaining: "COP 26,000.00"
-Progress: "0%"
-Created by: "Lourdes Ojeda"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "November 2, 2024 2:24 PM"
+borrower: "Carlos Camilo Lobo Ulloque"
+lender: "Lourdes Ojeda"
+principal: "COP 26,000.00"
+paid: "0"
+remaining: "COP 26,000.00"
+progress: "0%"
+created-by: "Lourdes Ojeda"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Desodorante Lolo

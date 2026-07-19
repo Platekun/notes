@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Lukindo Mbuli"
-Primary Zettelkasten Area: "Routing"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Back Buttons Use Case"
+note-type: "Literature"
+author: "Lukindo Mbuli"
+primary-zettelkasten-area: "Routing"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Back Buttons Use Case"
 ---
 
 # Reasons For Custom Back Buttons

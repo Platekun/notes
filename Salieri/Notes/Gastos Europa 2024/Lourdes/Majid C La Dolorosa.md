@@ -1,7 +1,7 @@
 ---
-Fecha: "September 29, 2024"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 49,663.00"
+fecha: "September 29, 2024"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 49,663.00"
 ---
 
 # Majid C. La Dolorosa

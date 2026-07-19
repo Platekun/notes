@@ -1,14 +1,14 @@
 ---
-Amount: "COP 291,840.00"
-Balance: "Did April Happen"
-Scope: "Lobito"
-Created Time: "April 6, 2025 4:13 AM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 291,840.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 291,840.00"
+balance: "Did April Happen"
+scope: "Lobito"
+created-time: "April 6, 2025 4:13 AM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 291,840.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Polo Club Viva Barranq

@@ -1,8 +1,8 @@
 ---
-Type: "Dessert"
-Ingredients: "Mantequilla (125g) (../../Ingredientes/Ingredients/Mantequilla%20(125g)%2089f884f2d3984977816eab80fd0a1ed1.md), Azúcar (1Kg) (../../Ingredientes/Ingredients/Az%C3%BAcar%20(1Kg)%20f5e8b58c75ef4c54929b4225ad0ae82f.md), Huevos x25, Esencia De Vainilla (155ml) (../../Ingredientes/Ingredients/Esencia%20De%20Vainilla%20(155ml)%20eafb7792baae4ccfbb3a9051c2b28eda.md), Leche Deslactosada (900ml) (../../Ingredientes/Ingredients/Leche%20Deslactosada%20(900ml)%204d7a4f982c1b49c09d495ab414a9053c.md), Harina De Maíz (1Kg) (../../Ingredientes/Ingredients/Harina%20De%20Ma%C3%ADz%20(1Kg)%20945843848ae745a6a03634cbb4530be1.md), Limón (1KG) (../../Ingredientes/Ingredients/Lim%C3%B3n%20(1KG)%20d90149fa4a74415cbcaf3c3302b9701d.md), Polvo Para Hornear (80g) (../../Ingredientes/Ingredients/Polvo%20Para%20Hornear%20(80g)%207548ac6dfdf24af489a26a3d00983426.md)"
-Utensils: "Cuchara, Rayador, Tazón, Delantal, Guantes Para Horno, Servilletas, Horno"
-Cost: "39582"
+type: "Dessert"
+ingredients: "Mantequilla (125g) (../../Ingredientes/Ingredients/Mantequilla%20(125g)%2089f884f2d3984977816eab80fd0a1ed1.md), Azúcar (1Kg) (../../Ingredientes/Ingredients/Az%C3%BAcar%20(1Kg)%20f5e8b58c75ef4c54929b4225ad0ae82f.md), Huevos x25, Esencia De Vainilla (155ml) (../../Ingredientes/Ingredients/Esencia%20De%20Vainilla%20(155ml)%20eafb7792baae4ccfbb3a9051c2b28eda.md), Leche Deslactosada (900ml) (../../Ingredientes/Ingredients/Leche%20Deslactosada%20(900ml)%204d7a4f982c1b49c09d495ab414a9053c.md), Harina De Maíz (1Kg) (../../Ingredientes/Ingredients/Harina%20De%20Ma%C3%ADz%20(1Kg)%20945843848ae745a6a03634cbb4530be1.md), Limón (1KG) (../../Ingredientes/Ingredients/Lim%C3%B3n%20(1KG)%20d90149fa4a74415cbcaf3c3302b9701d.md), Polvo Para Hornear (80g) (../../Ingredientes/Ingredients/Polvo%20Para%20Hornear%20(80g)%207548ac6dfdf24af489a26a3d00983426.md)"
+utensils: "Cuchara, Rayador, Tazón, Delantal, Guantes Para Horno, Servilletas, Horno"
+cost: "39582"
 ---
 
 # Pudín De Vainilla

@@ -1,6 +1,6 @@
 ---
-Parent item: "Software Development"
-Secondary Sources: "Class Components Abandonment"
+parent-item: "Software Development"
+secondary-sources: "Class Components Abandonment"
 ---
 
 # Design Patterns

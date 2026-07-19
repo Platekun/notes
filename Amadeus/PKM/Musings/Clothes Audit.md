@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "March 16, 2025 9:50 PM"
-Status: "Unprocessed"
-Created time: "March 16, 2025 9:49 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "March 16, 2025 9:50 PM"
+status: "Unprocessed"
+created-time: "March 16, 2025 9:49 PM"
 ---
 
 # Clothes Audit

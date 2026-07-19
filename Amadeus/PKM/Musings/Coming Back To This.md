@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 23, 2024 2:19 AM"
-Status: "Unprocessed"
-Created time: "January 23, 2024 2:14 AM"
+note-type: "Fleeting"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 23, 2024 2:19 AM"
+status: "Unprocessed"
+created-time: "January 23, 2024 2:14 AM"
 ---
 
 # Coming Back To This

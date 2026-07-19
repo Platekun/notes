@@ -1,8 +1,8 @@
 ---
-Slug: "pan-olimpica-sup-peo-400g-7701008000353-2006635"
-Brand: "Olímpica"
-Price: "COP 4,500.00"
-From: "SAO"
+slug: "pan-olimpica-sup-peo-400g-7701008000353-2006635"
+brand: "Olímpica"
+price: "COP 4,500.00"
+from: "SAO"
 ---
 
 # Pan Súper Perro (400g)

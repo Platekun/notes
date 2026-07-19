@@ -1,5 +1,5 @@
 ---
-Original Name: "Whisk"
+original-name: "Whisk"
 ---
 
 # Batidor

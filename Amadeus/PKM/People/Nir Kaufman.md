@@ -1,5 +1,5 @@
 ---
-Notes: "Front-End Architecture 101"
+notes: "Front-End Architecture 101"
 ---
 
 # Nir Kaufman

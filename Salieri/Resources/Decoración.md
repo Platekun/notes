@@ -1,6 +1,6 @@
 ---
-Notes: "Ideas For Apartment"
-Archived: "No"
+notes: "Ideas For Apartment"
+archived: "No"
 ---
 
 # Decoración

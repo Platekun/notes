@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Tiago Forte"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "November 1, 2024 1:35 PM"
-Status: "Processed"
-Created time: "November 1, 2024 1:37 AM"
-Experiences: "Read Building A Second Brain"
+note-type: "Literature"
+author: "Tiago Forte"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "November 1, 2024 1:35 PM"
+status: "Processed"
+created-time: "November 1, 2024 1:37 AM"
+experiences: "Read Building A Second Brain"
 ---
 
 # A Second Brain Sharpens Our Unique Perspectives

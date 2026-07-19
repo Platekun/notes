@@ -1,5 +1,5 @@
 ---
-Archived: "No"
+archived: "No"
 ---
 
 # Scratchpad 11 Jan 2024

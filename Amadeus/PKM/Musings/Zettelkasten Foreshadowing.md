@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Tiago Forte"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "November 1, 2024 1:20 AM"
-Status: "Processed"
-Created time: "November 1, 2024 12:58 AM"
-Experiences: "Read Building A Second Brain"
+note-type: "Literature"
+author: "Tiago Forte"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "November 1, 2024 1:20 AM"
+status: "Processed"
+created-time: "November 1, 2024 12:58 AM"
+experiences: "Read Building A Second Brain"
 ---
 
 # Zettelkasten Foreshadowing

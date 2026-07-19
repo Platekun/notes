@@ -1,5 +1,5 @@
 ---
-Original Name: "Mesh Skimmer"
+original-name: "Mesh Skimmer"
 ---
 
 # Desnatador De Malla

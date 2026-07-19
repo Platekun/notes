@@ -1,6 +1,6 @@
 ---
-Brand: "BrillaKing"
-Stores: "DollarCity, Tiendas D1"
+brand: "BrillaKing"
+stores: "DollarCity, Tiendas D1"
 ---
 
 # Polvo Abrasivo

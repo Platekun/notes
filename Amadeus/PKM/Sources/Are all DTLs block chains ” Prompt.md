@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Blockchain?"
+notes: "What Is A Blockchain?"
 ---
 
 # "Are all DTLs block chains?” Prompt

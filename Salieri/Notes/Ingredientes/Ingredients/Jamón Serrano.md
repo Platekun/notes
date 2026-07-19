@@ -1,9 +1,9 @@
 ---
-Slug: "jamon-serrano-lourisierra-80-g-12000480"
-Brand: "Louri Sierra"
-Price: "COP 7,990.00"
-From: "Tiendas D1"
-Recipes: "Croquetas De Jamón Serrano"
+slug: "jamon-serrano-lourisierra-80-g-12000480"
+brand: "Louri Sierra"
+price: "COP 7,990.00"
+from: "Tiendas D1"
+recipes: "Croquetas De Jamón Serrano"
 ---
 
 # Jamón Serrano

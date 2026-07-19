@@ -1,8 +1,8 @@
 ---
-Amount: "COP 80,000.00"
-Created by: "Automation"
-Created time: "April 28, 2024 5:02 AM"
-Sprint: "Pretty Planning Game"
+amount: "COP 80,000.00"
+created-by: "Automation"
+created-time: "April 28, 2024 5:02 AM"
+sprint: "Pretty Planning Game"
 ---
 
 # Cellphone Plan

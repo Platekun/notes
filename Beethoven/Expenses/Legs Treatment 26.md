@@ -1,8 +1,8 @@
 ---
-Amount: "COP 50,000.00"
-Created by: "Automation"
-Created time: "June 1, 2024 5:53 AM"
-Sprint: "Frozen Mole"
+amount: "COP 50,000.00"
+created-by: "Automation"
+created-time: "June 1, 2024 5:53 AM"
+sprint: "Frozen Mole"
 ---
 
 # Legs Treatment

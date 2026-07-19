@@ -1,8 +1,8 @@
 ---
-Slug: "aromatica-hindu-manzanilla-x-2-0--18-g-7702746030169--84189"
-Brand: "Hindú"
-Price: "COP 4,390.00"
-From: "SAO"
+slug: "aromatica-hindu-manzanilla-x-2-0--18-g-7702746030169--84189"
+brand: "Hindú"
+price: "COP 4,390.00"
+from: "SAO"
 ---
 
 # Aromática Manzanilla Hindú

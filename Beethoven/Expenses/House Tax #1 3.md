@@ -1,8 +1,8 @@
 ---
-Amount: "COP 150,000.00"
-Created by: "Automation"
-Created time: "February 28, 2024 5:43 AM"
-Sprint: "Test Drive"
+amount: "COP 150,000.00"
+created-by: "Automation"
+created-time: "February 28, 2024 5:43 AM"
+sprint: "Test Drive"
 ---
 
 # House Tax #1

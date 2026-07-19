@@ -1,6 +1,6 @@
 ---
-Brand: "Betty Crocker"
-Stores: "DollarCity"
+brand: "Betty Crocker"
+stores: "DollarCity"
 ---
 
 # Aluminium Foil

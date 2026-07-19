@@ -1,5 +1,5 @@
 ---
-URL: "https://github.com/reactjs/react-basic"
+url: "https://github.com/reactjs/react-basic"
 ---
 
 # React Basic

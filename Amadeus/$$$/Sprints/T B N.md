@@ -1,14 +1,14 @@
 ---
-Start Date: "August 1, 2025"
-Salary: "Senior 1"
-Salary Amount: "16900000"
-Income Sum: "0"
-Expenses Sum: "384789"
-Recurrent Expenses Sum: "0"
-AFC Account Transaction Amount: "0"
-Dollar Transactions In COP: "0"
-Gross Balance: "COP 16,515,211.00"
-Expenses: "Inversiones Kya, Gestirestaurantes Sas, Mario Bross Comidas Ra, Tres Fuegos Parrilla"
+start-date: "August 1, 2025"
+salary: "Senior 1"
+salary-amount: "16900000"
+income-sum: "0"
+expenses-sum: "384789"
+recurrent-expenses-sum: "0"
+afc-account-transaction-amount: "0"
+dollar-transactions-in-cop: "0"
+gross-balance: "COP 16,515,211.00"
+expenses: "Inversiones Kya, Gestirestaurantes Sas, Mario Bross Comidas Ra, Tres Fuegos Parrilla"
 ---
 
 # T.B.N

@@ -1,5 +1,5 @@
 ---
-URL: "https://prateeksurana.me/blog/future-of-rendering-in-react/"
+url: "https://prateeksurana.me/blog/future-of-rendering-in-react/"
 ---
 
 # The future of rendering in React

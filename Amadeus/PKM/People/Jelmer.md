@@ -1,5 +1,5 @@
 ---
-Notes: "Mixing UI and DAL"
+notes: "Mixing UI and DAL"
 ---
 
 # Jelmer

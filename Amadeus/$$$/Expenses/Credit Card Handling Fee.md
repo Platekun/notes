@@ -1,15 +1,15 @@
 ---
-Original Date: "June 1, 2022"
-Amount: "COP 73,200.00"
-Balance: "Charming Kirch"
-Scope: "Lobito"
-Created Time: "July 2, 2022 2:29 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 73,200.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+original-date: "June 1, 2022"
+amount: "COP 73,200.00"
+balance: "Charming Kirch"
+scope: "Lobito"
+created-time: "July 2, 2022 2:29 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 73,200.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Credit Card Handling Fee

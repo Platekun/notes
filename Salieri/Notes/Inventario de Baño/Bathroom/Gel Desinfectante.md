@@ -1,6 +1,6 @@
 ---
-Brand: "Natural Feeling"
-Stores: "Tiendas D1"
+brand: "Natural Feeling"
+stores: "Tiendas D1"
 ---
 
 # Gel Desinfectante

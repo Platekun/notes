@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 8,000.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 8,000.00"
+from: "Fruvecol"
 ---
 
 # Mandarina (1 KG)

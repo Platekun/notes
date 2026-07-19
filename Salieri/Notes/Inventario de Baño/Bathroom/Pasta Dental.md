@@ -1,6 +1,6 @@
 ---
-Brand: "Colgate"
-Stores: "Tiendas D1"
+brand: "Colgate"
+stores: "Tiendas D1"
 ---
 
 # Pasta Dental

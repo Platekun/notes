@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 600.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 600.00"
+from: "Fruvecol"
 ---
 
 # Mazorca (3 UND)

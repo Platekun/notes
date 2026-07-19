@@ -1,10 +1,10 @@
 ---
-Amount: "COP 83,900.00"
-Description: "Servicio de Apple One de toda la Familia"
-Direction: "Egreso"
-Net Income: "COP 0.00"
-Required Expenses Total: "COP 83,900.00"
-Total: "-COP 83,900.00"
+amount: "COP 83,900.00"
+description: "Servicio de Apple One de toda la Familia"
+direction: "Egreso"
+net-income: "COP 0.00"
+required-expenses-total: "COP 83,900.00"
+total: "-COP 83,900.00"
 ---
 
 # Apple One

@@ -1,9 +1,9 @@
 ---
-Slug: "galleta-2-tacos-ducales-noel-241-grs-12000096"
-Brand: "Noel"
-Price: "COP 5,490.00"
-From: "Tiendas D1"
-Recipes: "Postre Napoleón"
+slug: "galleta-2-tacos-ducales-noel-241-grs-12000096"
+brand: "Noel"
+price: "COP 5,490.00"
+from: "Tiendas D1"
+recipes: "Postre Napoleón"
 ---
 
 # Galletas Ducales (241g)

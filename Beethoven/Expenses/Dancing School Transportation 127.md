@@ -1,8 +1,8 @@
 ---
-Amount: "COP 20,000.00"
-Created by: "Automation"
-Created time: "August 28, 2024 5:30 AM"
-Sprint: "Holi"
+amount: "COP 20,000.00"
+created-by: "Automation"
+created-time: "August 28, 2024 5:30 AM"
+sprint: "Holi"
 ---
 
 # Dancing School Transportation

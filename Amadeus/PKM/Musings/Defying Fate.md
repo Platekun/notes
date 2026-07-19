@@ -1,13 +1,13 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "June 11, 2024 3:16 AM"
-Secondary Zettelkasten Area: "Identity, Time Perception, Growth, Problem Solving"
-Status: "Processed"
-Created time: "October 16, 2022 10:41 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "June 11, 2024 3:16 AM"
+secondary-zettelkasten-area: "Identity, Time Perception, Growth, Problem Solving"
+status: "Processed"
+created-time: "October 16, 2022 10:41 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Defying Fate

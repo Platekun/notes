@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Hinae Arimura"
-Primary Zettelkasten Area: "Love"
-Last edited time: "October 1, 2023 7:45 PM"
-Status: "Processed"
-Created time: "March 19, 2023 4:30 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Hinae Arimura"
+primary-zettelkasten-area: "Love"
+last-edited-time: "October 1, 2023 7:45 PM"
+status: "Processed"
+created-time: "March 19, 2023 4:30 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # I Can Relax When I'm Around You

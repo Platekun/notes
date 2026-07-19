@@ -1,7 +1,7 @@
 ---
-Project: "Viaje a Europa 2024"
-Archived: "true"
-Project Archived: "Yes"
+project: "Viaje a Europa 2024"
+archived: "true"
+project-archived: "Yes"
 ---
 
 # Visita A Pisa

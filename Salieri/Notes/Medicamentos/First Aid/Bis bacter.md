@@ -1,5 +1,5 @@
 ---
-Use Cases: "Gastro"
+use-cases: "Gastro"
 ---
 
 # Bis bacter

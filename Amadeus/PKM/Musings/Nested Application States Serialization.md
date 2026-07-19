@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Ravirajn"
-Primary Zettelkasten Area: "StateCharts"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Mobile Development"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Nested UI Representation In Routing"
+note-type: "Literature"
+author: "Ravirajn"
+primary-zettelkasten-area: "StateCharts"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Mobile Development"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Nested UI Representation In Routing"
 ---
 
 # Nested Application States Serialization

@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "January 5, 2025 6:48 PM"
-Status: "Unprocessed"
-Created time: "January 4, 2025 2:38 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "January 5, 2025 6:48 PM"
+status: "Unprocessed"
+created-time: "January 4, 2025 2:38 AM"
 ---
 
 # Third Day, Still The Same

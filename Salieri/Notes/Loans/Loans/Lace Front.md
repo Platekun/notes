@@ -1,15 +1,15 @@
 ---
-Created Time: "July 3, 2022 5:49 PM"
-Scope: "Lourdes"
-Borrower: "Lourdes Ojeda"
-Lender: "Carlos Camilo Lobo Ulloque"
-Principal: "COP 250,000.00"
-Transactions: "Payment #1"
-Paid: "250000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Carlos Camilo Lobo Ulloque"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "July 3, 2022 5:49 PM"
+scope: "Lourdes"
+borrower: "Lourdes Ojeda"
+lender: "Carlos Camilo Lobo Ulloque"
+principal: "COP 250,000.00"
+transactions: "Payment #1"
+paid: "250000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Carlos Camilo Lobo Ulloque"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Lace Front

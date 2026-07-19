@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Software Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 6, 2022 2:57 PM"
-Sources: "Interface Vs API"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Software Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 6, 2022 2:57 PM"
+sources: "Interface Vs API"
 ---
 
 # What Is An API?

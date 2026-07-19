@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 432,616.00"
-Total: "COP 865,232.00"
-Unidad: "2"
+precio-cop: "COP 432,616.00"
+total: "COP 865,232.00"
+unidad: "2"
 ---
 
 # Tour Capilla Sistina, Museos del Vaticano y Basílica de San Pedro

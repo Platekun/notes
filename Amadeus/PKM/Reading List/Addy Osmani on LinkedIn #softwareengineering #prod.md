@@ -1,5 +1,5 @@
 ---
-URL: "https://www.linkedin.com/feed/update/urn:li:activity:6993963825087602688?utm_source=share&utm_medium=member_ios"
+url: "https://www.linkedin.com/feed/update/urn:li:activity:6993963825087602688?utm_source=share&utm_medium=member_ios"
 ---
 
 # Addy Osmani on LinkedIn: #softwareengineering #productivity #leaders | 23 comments

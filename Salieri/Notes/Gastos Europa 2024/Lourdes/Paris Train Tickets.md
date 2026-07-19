@@ -1,7 +1,7 @@
 ---
-Fecha: "September 10, 2024"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 82,200.00"
+fecha: "September 10, 2024"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 82,200.00"
 ---
 
 # Paris Train Tickets

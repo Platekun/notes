@@ -1,5 +1,5 @@
 ---
-Use Cases: "Alergia"
+use-cases: "Alergia"
 ---
 
 # VapoRub

@@ -1,9 +1,9 @@
 ---
-Fecha: "October 12, 2024"
-Gasto Único De Carlos: "COP 86,711.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 86,711.00"
-Solo Carlos: "Yes"
+fecha: "October 12, 2024"
+gasto-único-de-carlos: "COP 86,711.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 86,711.00"
+solo-carlos: "Yes"
 ---
 
 # Sc Lib Shakespe

@@ -1,9 +1,9 @@
 ---
-Fecha: "October 12, 2024"
-Gasto Único De Carlos: "COP 357,212.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 357,212.00"
-Solo Carlos: "Yes"
+fecha: "October 12, 2024"
+gasto-único-de-carlos: "COP 357,212.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 357,212.00"
+solo-carlos: "Yes"
 ---
 
 # Bhv Marais Rivol (Perfumes en Hotel de Ville)

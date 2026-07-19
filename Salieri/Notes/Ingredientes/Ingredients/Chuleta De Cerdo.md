@@ -1,7 +1,7 @@
 ---
-Brand: "GSF"
-Price: "COP 10,390.00"
-From: "Tiendas D1"
+brand: "GSF"
+price: "COP 10,390.00"
+from: "Tiendas D1"
 ---
 
 # Chuleta De Cerdo

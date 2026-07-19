@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Last edited time: "May 23, 2024 1:29 AM"
-Status: "Unprocessed"
-Created time: "May 23, 2024 1:28 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+last-edited-time: "May 23, 2024 1:29 AM"
+status: "Unprocessed"
+created-time: "May 23, 2024 1:28 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Patriotic Moment In Steins Gate

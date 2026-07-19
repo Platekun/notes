@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:30 PM"
-Secondary Zettelkasten Area: "Knowledge Management"
-Status: "Unprocessed"
-Created time: "October 17, 2022 12:44 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Under a Silent Sky - Takuru And Serika Character Analysis, Chaos;Child"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:30 PM"
+secondary-zettelkasten-area: "Knowledge Management"
+status: "Unprocessed"
+created-time: "October 17, 2022 12:44 AM"
+experiences: "Play Chaos;Child"
+sources: "Under a Silent Sky - Takuru And Serika Character Analysis, Chaos;Child"
 ---
 
 # The Ultimate Goal Of A Right-Sider

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 25,250.00"
-Balance: "Super Toyota Highlander"
-Scope: "Galleta"
-Created Time: "May 18, 2024 10:51 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 25,250.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 25,250.00"
+balance: "Super Toyota Highlander"
+scope: "Galleta"
+created-time: "May 18, 2024 10:51 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 25,250.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # T-Shirt

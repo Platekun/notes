@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takumi Nishijou"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "November 4, 2023 7:25 PM"
-Secondary Zettelkasten Area: "Emotions, Growth"
-Status: "Processed"
-Created time: "September 16, 2023 2:51 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Takumi Nishijou"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "November 4, 2023 7:25 PM"
+secondary-zettelkasten-area: "Emotions, Growth"
+status: "Processed"
+created-time: "September 16, 2023 2:51 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # The Childish Desire To Be Special

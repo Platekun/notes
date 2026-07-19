@@ -1,5 +1,5 @@
 ---
-Notes: "Building Resilient Frontend Architecture"
+notes: "Building Resilient Frontend Architecture"
 ---
 
 # Monica Lent

@@ -1,5 +1,5 @@
 ---
-URL: "https://www.linkedin.com/posts/bytebytego_proxies-are-everywhere-why-is-nginx-called-activity-6991269348858298368-WSCl?utm_source=share&utm_medium=member_ios"
+url: "https://www.linkedin.com/posts/bytebytego_proxies-are-everywhere-why-is-nginx-called-activity-6991269348858298368-WSCl?utm_source=share&utm_medium=member_ios"
 ---
 
 # ByteByteGo on LinkedIn: Proxies are everywhere. Why is nginx called a reverse proxy? Is the | 14 comments

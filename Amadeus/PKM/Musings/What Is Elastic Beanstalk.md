@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Elastic Beanstalk"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 10, 2022 1:30 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Elastic Beanstalk"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 10, 2022 1:30 AM"
+sources: "Unknown"
 ---
 
 # What Is Elastic Beanstalk?

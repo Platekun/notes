@@ -1,8 +1,8 @@
 ---
-Amount: "COP 230,000.00"
-Created by: "Automation"
-Created time: "June 1, 2024 7:29 AM"
-Sprint: "Frozen Mole"
+amount: "COP 230,000.00"
+created-by: "Automation"
+created-time: "June 1, 2024 7:29 AM"
+sprint: "Frozen Mole"
 ---
 
 # Hair Saloon

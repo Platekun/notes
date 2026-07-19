@@ -1,5 +1,5 @@
 ---
-URL: "https://kentcdodds.com/blog/classes-complexity-and-functional-programming"
+url: "https://kentcdodds.com/blog/classes-complexity-and-functional-programming"
 ---
 
 # Classes, Complexity, and Functional Programming

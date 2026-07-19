@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Takuru Miyashiro"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 7:48 PM"
-Status: "Processed"
-Created time: "January 12, 2023 1:57 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takuru Miyashiro"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 7:48 PM"
+status: "Processed"
+created-time: "January 12, 2023 1:57 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # What Is Valuable Information?

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Last edited time: "March 21, 2024 1:41 AM"
-Status: "Unprocessed"
-Created time: "March 19, 2024 1:33 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Kurisu Makise"
+last-edited-time: "March 21, 2024 1:41 AM"
+status: "Unprocessed"
+created-time: "March 19, 2024 1:33 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # I'm Always Watching You

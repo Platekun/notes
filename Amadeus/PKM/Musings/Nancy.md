@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "February 19, 2024 3:01 PM"
-Status: "Processed"
-Created time: "February 13, 2024 1:46 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "February 19, 2024 3:01 PM"
+status: "Processed"
+created-time: "February 13, 2024 1:46 AM"
 ---
 
 # Nancy

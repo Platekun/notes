@@ -1,8 +1,8 @@
 ---
-Amount: "COP 2,500,000.00"
-Balance: "Wonderful SDLC"
-Created Time: "August 24, 2024 5:46 AM"
-Scope: "Lobito"
+amount: "COP 2,500,000.00"
+balance: "Wonderful SDLC"
+created-time: "August 24, 2024 5:46 AM"
+scope: "Lobito"
 ---
 
 # AFC Savings

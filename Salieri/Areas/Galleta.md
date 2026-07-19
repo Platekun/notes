@@ -1,6 +1,6 @@
 ---
-Notes: "Planeación de Galleta"
-Archived: "No"
+notes: "Planeación de Galleta"
+archived: "No"
 ---
 
 # Galleta

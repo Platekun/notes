@@ -1,14 +1,14 @@
 ---
-Amount: "COP 7,450.00"
-Balance: "Thirsty Cartwright"
-Scope: "Lab"
-Created Time: "April 26, 2023 2:01 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 7,450.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 7,450.00"
+balance: "Thirsty Cartwright"
+scope: "Lab"
+created-time: "April 26, 2023 2:01 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 7,450.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Chorizo Vela

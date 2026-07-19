@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Paulus Esterhazy"
-Primary Zettelkasten Area: "Routing"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "App Routing Insights"
+note-type: "Literature"
+author: "Paulus Esterhazy"
+primary-zettelkasten-area: "Routing"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "App Routing Insights"
 ---
 
 # URL (s) and Routing Logic Correctness

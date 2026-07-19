@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:14 PM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Unprocessed"
-Created time: "October 24, 2022 9:52 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Okabe Rintaro"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:14 PM"
+secondary-zettelkasten-area: "Emotions"
+status: "Unprocessed"
+created-time: "October 24, 2022 9:52 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Finding Calm Amidst Uncertainty

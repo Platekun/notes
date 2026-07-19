@@ -1,14 +1,14 @@
 ---
-Amount: "COP 10,000.00"
-Balance: "Pedantic Hellman"
-Scope: "Galleta"
-Created Time: "February 5, 2023 2:08 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 10,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 10,000.00"
+balance: "Pedantic Hellman"
+scope: "Galleta"
+created-time: "February 5, 2023 2:08 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 10,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Galleta's Toy

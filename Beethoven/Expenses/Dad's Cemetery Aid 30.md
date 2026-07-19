@@ -1,8 +1,8 @@
 ---
-Amount: "COP 50,000.00"
-Created by: "Automation"
-Created time: "September 1, 2024 5:31 AM"
-Sprint: "Cookie"
+amount: "COP 50,000.00"
+created-by: "Automation"
+created-time: "September 1, 2024 5:31 AM"
+sprint: "Cookie"
 ---
 
 # Dad's Cemetery Aid

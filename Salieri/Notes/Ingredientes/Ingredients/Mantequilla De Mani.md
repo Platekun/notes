@@ -1,8 +1,8 @@
 ---
-Slug: "25018"
-Brand: "Member's Selection"
-Price: "COP 26,500.00"
-From: "Pricesmart"
+slug: "25018"
+brand: "Member's Selection"
+price: "COP 26,500.00"
+from: "Pricesmart"
 ---
 
 # Mantequilla De Mani

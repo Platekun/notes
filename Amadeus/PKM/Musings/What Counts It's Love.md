@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takuru Miyashiro"
-Primary Zettelkasten Area: "Love"
-Last edited time: "October 1, 2023 7:31 PM"
-Secondary Zettelkasten Area: "Communication"
-Status: "Processed"
-Created time: "March 19, 2023 8:02 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takuru Miyashiro"
+primary-zettelkasten-area: "Love"
+last-edited-time: "October 1, 2023 7:31 PM"
+secondary-zettelkasten-area: "Communication"
+status: "Processed"
+created-time: "March 19, 2023 8:02 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # What Counts It's Love

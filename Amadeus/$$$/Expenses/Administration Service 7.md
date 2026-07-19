@@ -1,14 +1,14 @@
 ---
-Amount: "COP 350,000.00"
-Balance: "Ides Of March"
-Scope: "Lab"
-Created Time: "March 9, 2025 5:30 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 350,000.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 350,000.00"
+balance: "Ides Of March"
+scope: "Lab"
+created-time: "March 9, 2025 5:30 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 350,000.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Administration Service

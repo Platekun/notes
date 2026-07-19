@@ -1,8 +1,8 @@
 ---
-Amount: "COP 150,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "April 8, 2024 10:38 PM"
-Sprint: "Pretty Planning Game"
+amount: "COP 150,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "April 8, 2024 10:38 PM"
+sprint: "Pretty Planning Game"
 ---
 
 # Dental cleaning

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 38,500.00"
-Balance: "Angry Lumiere"
-Scope: "Relationship"
-Created Time: "October 1, 2022 11:06 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 38,500.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 38,500.00"
+balance: "Angry Lumiere"
+scope: "Relationship"
+created-time: "October 1, 2022 11:06 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 38,500.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # sweet art october 1st

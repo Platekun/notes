@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 3, 2024 2:25 AM"
-Status: "Processed"
-Created time: "January 3, 2024 2:20 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 3, 2024 2:25 AM"
+status: "Processed"
+created-time: "January 3, 2024 2:20 AM"
 ---
 
 # Why Do I Do Things?

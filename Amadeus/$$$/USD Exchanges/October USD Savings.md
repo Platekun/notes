@@ -1,10 +1,10 @@
 ---
-Destination Amount: "$1,186.00"
-Buy Rate: "COP 4,865.00"
-Source Amount: "COP 5,769,890.00"
-Balance: "Angry Lumiere"
-Created Time: "October 30, 2022 4:27 PM"
-Scope: "Lobito"
+destination-amount: "$1,186.00"
+buy-rate: "COP 4,865.00"
+source-amount: "COP 5,769,890.00"
+balance: "Angry Lumiere"
+created-time: "October 30, 2022 4:27 PM"
+scope: "Lobito"
 ---
 
 # October USD Savings

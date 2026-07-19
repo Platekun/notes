@@ -1,7 +1,7 @@
 ---
-Fecha: "October 2, 2024"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 26,882.00"
+fecha: "October 2, 2024"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 26,882.00"
 ---
 
 # Aerop. Adolfo Suarez

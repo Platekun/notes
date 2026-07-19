@@ -1,8 +1,8 @@
 ---
-Area: "ECS"
-Reveal: "No"
-Confidence: "Somewhat Confident"
-Answer: "A task definition is the equivalent of a blueprint. They describe which containers compose our application."
+area: "ECS"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "A task definition is the equivalent of a blueprint. They describe which containers compose our application."
 ---
 
 # What Is A Task Definition?

@@ -1,5 +1,5 @@
 ---
-Use Cases: "Gripe"
+use-cases: "Gripe"
 ---
 
 # Guayacolato

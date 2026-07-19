@@ -1,5 +1,5 @@
 ---
-Description: "Everything related to Galleta."
+description: "Everything related to Galleta."
 ---
 
 # Galleta

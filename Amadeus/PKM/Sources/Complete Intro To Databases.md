@@ -1,5 +1,5 @@
 ---
-URL: "https://frontendmasters.com/courses/databases/"
+url: "https://frontendmasters.com/courses/databases/"
 ---
 
 # Complete Intro To Databases

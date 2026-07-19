@@ -1,5 +1,5 @@
 ---
-Original Name: "Kitchen Shears"
+original-name: "Kitchen Shears"
 ---
 
 # Tijeras De Cocina

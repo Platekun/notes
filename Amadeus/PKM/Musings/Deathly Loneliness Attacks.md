@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "SirHamnet"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "November 4, 2023 8:24 PM"
-Status: "Unprocessed"
-Created time: "October 3, 2023 1:17 AM"
-Sources: "Deathly Loneliness Attacks"
+note-type: "Literature"
+author: "SirHamnet"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "November 4, 2023 8:24 PM"
+status: "Unprocessed"
+created-time: "October 3, 2023 1:17 AM"
+sources: "Deathly Loneliness Attacks"
 ---
 
 # Deathly Loneliness Attacks

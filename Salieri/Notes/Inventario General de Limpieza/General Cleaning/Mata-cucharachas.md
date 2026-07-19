@@ -1,5 +1,5 @@
 ---
-Stores: "Tiendas D1, DollarCity"
+stores: "Tiendas D1, DollarCity"
 ---
 
 # Mata-cucharachas

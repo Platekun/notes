@@ -1,7 +1,7 @@
 ---
-Amount: "COP 50,000.00"
-Created time: "April 1, 2024 5:27 AM"
-Sprint: "Pretty Planning Game"
+amount: "COP 50,000.00"
+created-time: "April 1, 2024 5:27 AM"
+sprint: "Pretty Planning Game"
 ---
 
 # Pills

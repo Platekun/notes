@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Monaito"
-Primary Zettelkasten Area: "Emotions"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 24, 2022 9:06 PM"
-Sources: "Saiyan Pride, A People's Pride"
+note-type: "Literature"
+author: "Monaito"
+primary-zettelkasten-area: "Emotions"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 24, 2022 9:06 PM"
+sources: "Saiyan Pride, A People's Pride"
 ---
 
 # What Is A People's Pride About?

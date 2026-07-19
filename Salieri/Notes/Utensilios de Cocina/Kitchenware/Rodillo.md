@@ -1,5 +1,5 @@
 ---
-Original Name: "Rolling Spin"
+original-name: "Rolling Spin"
 ---
 
 # Rodillo

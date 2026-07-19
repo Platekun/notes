@@ -1,6 +1,6 @@
 ---
-Amount: "COP 15,915,654.00"
-Description: "Salario por trabajar en Zemoga"
+amount: "COP 15,915,654.00"
+description: "Salario por trabajar en Zemoga"
 ---
 
 # Salario

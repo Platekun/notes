@@ -1,9 +1,9 @@
 ---
-Financial Year: "2021"
-Amount: "COP 240,000.00"
-Scope: "Family"
-Amount Per Year: "COP 240,000.00"
-Expense Frequency: "Monthly"
+financial-year: "2021"
+amount: "COP 240,000.00"
+scope: "Family"
+amount-per-year: "COP 240,000.00"
+expense-frequency: "Monthly"
 ---
 
 # Saturday’s Dinner [AVG]

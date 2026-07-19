@@ -1,6 +1,6 @@
 ---
-URL: "https://en.wikipedia.org/wiki/Digital_currency"
-Notes: "What Is A Digital Currency?"
+url: "https://en.wikipedia.org/wiki/Digital_currency"
+notes: "What Is A Digital Currency?"
 ---
 
 # Digital Currency Definition

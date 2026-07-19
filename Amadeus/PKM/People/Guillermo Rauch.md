@@ -1,5 +1,5 @@
 ---
-Notes: "Pure UI"
+notes: "Pure UI"
 ---
 
 # Guillermo Rauch

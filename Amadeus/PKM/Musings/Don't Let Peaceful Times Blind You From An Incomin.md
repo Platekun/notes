@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Itaru Hashida"
-Last edited time: "September 8, 2025 2:29 AM"
-Status: "Unprocessed"
-Created time: "May 23, 2024 1:13 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Itaru Hashida"
+last-edited-time: "September 8, 2025 2:29 AM"
+status: "Unprocessed"
+created-time: "May 23, 2024 1:13 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Don't Let Peaceful Times Blind You From An Incoming Future

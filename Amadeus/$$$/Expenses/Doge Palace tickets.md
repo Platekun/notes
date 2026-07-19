@@ -1,14 +1,14 @@
 ---
-Amount: "COP 270,000.00"
-Balance: "Smooth Nissan Sentra"
-Scope: "Relationship"
-Created Time: "June 18, 2024 1:03 PM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 270,000.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 270,000.00"
+balance: "Smooth Nissan Sentra"
+scope: "Relationship"
+created-time: "June 18, 2024 1:03 PM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 270,000.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Doge Palace tickets

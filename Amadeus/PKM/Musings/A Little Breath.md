@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 21, 2023 12:45 PM"
-Status: "Processed"
-Created time: "September 21, 2023 12:39 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 21, 2023 12:45 PM"
+status: "Processed"
+created-time: "September 21, 2023 12:39 PM"
 ---
 
 # A Little Breath

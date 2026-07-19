@@ -1,8 +1,8 @@
 ---
-Slug: "arepa-con-queso-mozzarella-masmai-400-grs-12000030"
-Brand: "Masmaí"
-Price: "COP 4,690.00"
-From: "Tiendas D1"
+slug: "arepa-con-queso-mozzarella-masmai-400-grs-12000030"
+brand: "Masmaí"
+price: "COP 4,690.00"
+from: "Tiendas D1"
 ---
 
 # Arepa Con Queso (400g)

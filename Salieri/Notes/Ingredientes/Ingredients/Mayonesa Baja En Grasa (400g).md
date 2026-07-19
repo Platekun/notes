@@ -1,8 +1,8 @@
 ---
-Slug: "mayonesa-medalla-oro-400-g-7701008505636--1388423"
-Brand: "Medalla De Oro"
-Price: "COP 8,100.00"
-From: "SAO"
+slug: "mayonesa-medalla-oro-400-g-7701008505636--1388423"
+brand: "Medalla De Oro"
+price: "COP 8,100.00"
+from: "SAO"
 ---
 
 # Mayonesa Baja En Grasa (400g)

@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:48 PM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "January 1, 2023 12:54 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:48 PM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "January 1, 2023 12:54 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Empty Criticism

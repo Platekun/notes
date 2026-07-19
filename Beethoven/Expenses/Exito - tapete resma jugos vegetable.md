@@ -1,8 +1,8 @@
 ---
-Amount: "COP 130,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "November 12, 2024 12:29 AM"
-Sprint: "Happiness"
+amount: "COP 130,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "November 12, 2024 12:29 AM"
+sprint: "Happiness"
 ---
 
 # Exito - tapete resma jugos vegetable

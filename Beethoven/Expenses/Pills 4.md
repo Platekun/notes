@@ -1,8 +1,8 @@
 ---
-Amount: "COP 50,000.00"
-Created by: "Automation"
-Created time: "December 1, 2024 6:30 AM"
-Sprint: "Navidad"
+amount: "COP 50,000.00"
+created-by: "Automation"
+created-time: "December 1, 2024 6:30 AM"
+sprint: "Navidad"
 ---
 
 # Pills

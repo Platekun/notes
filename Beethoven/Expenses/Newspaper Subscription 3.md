@@ -1,7 +1,7 @@
 ---
-Amount: "COP 200,000.00"
-Created by: "Automation"
-Created time: "December 23, 2025 5:16 AM"
+amount: "COP 200,000.00"
+created-by: "Automation"
+created-time: "December 23, 2025 5:16 AM"
 ---
 
 # Newspaper Subscription

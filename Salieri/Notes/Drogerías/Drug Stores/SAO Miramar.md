@@ -1,6 +1,6 @@
 ---
-Address: "Centro Comercial Miramar, Piso 1, Local 7, Cra. 43 #99-50, Barranquilla, Atlántico"
-Phone Number: "605 3581717"
+address: "Centro Comercial Miramar, Piso 1, Local 7, Cra. 43 #99-50, Barranquilla, Atlántico"
+phone-number: "605 3581717"
 ---
 
 # SAO Miramar

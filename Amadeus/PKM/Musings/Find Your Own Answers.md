@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Sócrates (Peaceful Warrior) (../People/S%C3%B3crates%20%2085f1b35c32c64552ace09affa364060a.md)"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "World Perception"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Peaceful Warrior"
+note-type: "Literature"
+author: "Sócrates (Peaceful Warrior) (../People/S%C3%B3crates%20%2085f1b35c32c64552ace09affa364060a.md)"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "World Perception"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Peaceful Warrior"
 ---
 
 # Find Your Own Answers

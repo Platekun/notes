@@ -1,8 +1,8 @@
 ---
-Area: "Cloud Computing"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "Cloud computing is about renting infrastructure to consumers and billing for the usage."
+area: "Cloud Computing"
+reveal: "No"
+confidence: "Confident"
+answer: "Cloud computing is about renting infrastructure to consumers and billing for the usage."
 ---
 
 # What is Cloud Computing?

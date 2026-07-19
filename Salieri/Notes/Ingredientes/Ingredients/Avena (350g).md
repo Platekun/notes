@@ -1,9 +1,9 @@
 ---
-Slug: "avena-o-hojuel-500-g"
-Brand: "Olímpica"
-Price: "COP 3,100.00"
-From: "SAO"
-Recipes: "Galletas Fit De Gaby"
+slug: "avena-o-hojuel-500-g"
+brand: "Olímpica"
+price: "COP 3,100.00"
+from: "SAO"
+recipes: "Galletas Fit De Gaby"
 ---
 
 # Avena (350g)

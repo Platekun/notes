@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Suzuha Amane"
-Primary Zettelkasten Area: "Growth"
-Last edited time: "October 1, 2023 7:29 PM"
-Status: "Unprocessed"
-Created time: "October 24, 2022 8:48 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Suzuha Amane"
+primary-zettelkasten-area: "Growth"
+last-edited-time: "October 1, 2023 7:29 PM"
+status: "Unprocessed"
+created-time: "October 24, 2022 8:48 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Maturity Is Showing Somebody Can Count On You

@@ -1,5 +1,5 @@
 ---
-Use Cases: "Antiácido, Reflujo"
+use-cases: "Antiácido, Reflujo"
 ---
 
 # Bicarbonato de Sodio

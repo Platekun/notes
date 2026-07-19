@@ -1,8 +1,8 @@
 ---
-Slug: "pistacho-nuthos-70-g-12001121"
-Brand: "Nuthos"
-Price: "COP 6,790.00"
-From: "Tiendas D1"
+slug: "pistacho-nuthos-70-g-12001121"
+brand: "Nuthos"
+price: "COP 6,790.00"
+from: "Tiendas D1"
 ---
 
 # Pistachos (70g)

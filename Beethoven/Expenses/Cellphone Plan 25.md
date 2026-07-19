@@ -1,8 +1,8 @@
 ---
-Amount: "COP 80,000.00"
-Created by: "Automation"
-Created time: "July 28, 2024 6:53 AM"
-Sprint: "Next-level Sheep"
+amount: "COP 80,000.00"
+created-by: "Automation"
+created-time: "July 28, 2024 6:53 AM"
+sprint: "Next-level Sheep"
 ---
 
 # Cellphone Plan

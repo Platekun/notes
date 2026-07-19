@@ -1,8 +1,8 @@
 ---
-Amount: "COP 2,500,000.00"
-Balance: "Super Toyota Highlander"
-Created Time: "May 24, 2024 7:29 AM"
-Scope: "Lobito"
+amount: "COP 2,500,000.00"
+balance: "Super Toyota Highlander"
+created-time: "May 24, 2024 7:29 AM"
+scope: "Lobito"
 ---
 
 # AFC Savings

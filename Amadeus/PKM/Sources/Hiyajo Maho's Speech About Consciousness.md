@@ -1,5 +1,5 @@
 ---
-Notes: "It's Memories What Makes Us Who We Are"
+notes: "It's Memories What Makes Us Who We Are"
 ---
 
 # Hiyajo Maho's Speech About Consciousness

@@ -1,8 +1,8 @@
 ---
-Amount: "COP 200,000.00"
-Created by: "Automation"
-Created time: "May 1, 2024 5:02 AM"
-Sprint: "Eight Years"
+amount: "COP 200,000.00"
+created-by: "Automation"
+created-time: "May 1, 2024 5:02 AM"
+sprint: "Eight Years"
 ---
 
 # House Tax #2

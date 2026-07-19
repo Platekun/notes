@@ -1,6 +1,6 @@
 ---
-Listo: "Yes"
-Para: "Ambos"
+listo: "Yes"
+para: "Ambos"
 ---
 
 # Polvo pies

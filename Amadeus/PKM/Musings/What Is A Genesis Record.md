@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Databases"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Crypto"
-Status: "Processed"
-Created time: "December 30, 2022 3:05 AM"
-Sources: "\"What is a genesis record in a DLT?” Prompt, Blockhain Definition"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Databases"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Crypto"
+status: "Processed"
+created-time: "December 30, 2022 3:05 AM"
+sources: "\"What is a genesis record in a DLT?” Prompt, Blockhain Definition"
 ---
 
 # What Is A Genesis Record?

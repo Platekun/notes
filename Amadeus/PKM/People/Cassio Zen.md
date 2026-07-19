@@ -1,5 +1,5 @@
 ---
-Notes: "Software Development Dogmas"
+notes: "Software Development Dogmas"
 ---
 
 # Cassio Zen

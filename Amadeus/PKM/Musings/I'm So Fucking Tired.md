@@ -1,11 +1,11 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:27 AM"
-Secondary Zettelkasten Area: "Sleep"
-Status: "Processed"
-Created time: "September 11, 2023 12:46 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:27 AM"
+secondary-zettelkasten-area: "Sleep"
+status: "Processed"
+created-time: "September 11, 2023 12:46 PM"
 ---
 
 # I'm So Fucking Tired

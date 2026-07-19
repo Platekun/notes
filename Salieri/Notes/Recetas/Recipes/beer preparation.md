@@ -1,7 +1,7 @@
 ---
-Type: "Drink"
-Utensils: "Delantal, Servilletas"
-Cost: "0"
+type: "Drink"
+utensils: "Delantal, Servilletas"
+cost: "0"
 ---
 
 # beer preparation

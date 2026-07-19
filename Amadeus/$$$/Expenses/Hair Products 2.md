@@ -1,14 +1,14 @@
 ---
-Amount: "COP 228,000.00"
-Balance: "Beautiful Toyota Corolla"
-Scope: "Lobito"
-Created Time: "October 26, 2024 5:34 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 228,000.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 228,000.00"
+balance: "Beautiful Toyota Corolla"
+scope: "Lobito"
+created-time: "October 26, 2024 5:34 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 228,000.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Hair Products

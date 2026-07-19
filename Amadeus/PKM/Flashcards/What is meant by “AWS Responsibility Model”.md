@@ -1,8 +1,8 @@
 ---
-Area: "IAM"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "The AWS responsibility model states that security is a shared responsibility between AWS and users. Each party is responsible for the things under their control."
+area: "IAM"
+reveal: "No"
+confidence: "Confident"
+answer: "The AWS responsibility model states that security is a shared responsibility between AWS and users. Each party is responsible for the things under their control."
 ---
 
 # What is meant by “AWS Responsibility Model”?

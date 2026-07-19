@@ -1,5 +1,5 @@
 ---
-Notes: "Unconventional Thinking, The Rules Of the System, Investigator Mindset"
+notes: "Unconventional Thinking, The Rules Of the System, Investigator Mindset"
 ---
 
 # Takeshi Shinjo

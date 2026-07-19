@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Yehuda Katz"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Front-End Development, Design Patterns"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Class Components Abandonment Tweet"
+note-type: "Literature"
+author: "Yehuda Katz"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Front-End Development, Design Patterns"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Class Components Abandonment Tweet"
 ---
 
 # Class Components Abandonment

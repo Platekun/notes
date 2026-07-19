@@ -1,6 +1,6 @@
 ---
-Status: "Paused"
-Archived: "No"
+status: "Paused"
+archived: "No"
 ---
 
 # Realizar el Libro “100 Cosas Que Hacer En Pareja”

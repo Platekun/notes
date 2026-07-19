@@ -1,6 +1,6 @@
 ---
-Primary Source: "Where Our Blue Is"
-Sub-item: "Introspections, Identity, World Perception"
+primary-source: "Where Our Blue Is"
+sub-item: "Introspections, Identity, World Perception"
 ---
 
 # Life

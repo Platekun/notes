@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Proof-of-Stake?"
+notes: "What Is Proof-of-Stake?"
 ---
 
 # "Where do validators obtain the transactions to put in a block in a pos protocol?” Prompt

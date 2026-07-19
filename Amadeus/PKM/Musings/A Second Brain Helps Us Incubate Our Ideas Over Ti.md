@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Tiago Forte"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "November 1, 2024 1:36 AM"
-Status: "Processed"
-Created time: "November 1, 2024 1:28 AM"
-Experiences: "Read Building A Second Brain"
+note-type: "Literature"
+author: "Tiago Forte"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "November 1, 2024 1:36 AM"
+status: "Processed"
+created-time: "November 1, 2024 1:28 AM"
+experiences: "Read Building A Second Brain"
 ---
 
 # A Second Brain Helps Us Incubate Our Ideas Over Time

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "February 26, 2024 2:13 AM"
-Status: "Unprocessed"
-Created time: "February 26, 2024 2:10 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "February 26, 2024 2:13 AM"
+status: "Unprocessed"
+created-time: "February 26, 2024 2:10 AM"
 ---
 
 # Relying On Others

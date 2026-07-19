@@ -1,8 +1,8 @@
 ---
-Area: "EC2"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "EC2 is highly configurable*: We can configure the name of the instance, network settings like VPC, subnets and security groups, specs via AMIs."
+area: "EC2"
+reveal: "No"
+confidence: "Confident"
+answer: "EC2 is highly configurable*: We can configure the name of the instance, network settings like VPC, subnets and security groups, specs via AMIs."
 ---
 
 # What Aspects Can We Configure With EC2?

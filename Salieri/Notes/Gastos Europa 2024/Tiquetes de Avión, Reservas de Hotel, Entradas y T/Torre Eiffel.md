@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 151,825.00"
-Total: "COP 303,650.00"
-Unidad: "2"
+precio-cop: "COP 151,825.00"
+total: "COP 303,650.00"
+unidad: "2"
 ---
 
 # Torre Eiffel

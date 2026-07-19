@@ -1,5 +1,5 @@
 ---
-Notes: "What Is An Orphan Record?"
+notes: "What Is An Orphan Record?"
 ---
 
 # "What is an orphan record in a DLT?” Prompt

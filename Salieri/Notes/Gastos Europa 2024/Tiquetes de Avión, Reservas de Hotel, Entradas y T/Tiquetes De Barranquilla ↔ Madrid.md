@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 5,500,000.00"
-Total: "COP 11,000,000.00"
-Unidad: "2"
+precio-cop: "COP 5,500,000.00"
+total: "COP 11,000,000.00"
+unidad: "2"
 ---
 
 # Tiquetes De Barranquilla ↔ Madrid

@@ -1,6 +1,6 @@
 ---
-Listo: "No"
-Para: "Ambos"
+listo: "No"
+para: "Ambos"
 ---
 
 # Cepillo de Dientes y ortodoncia

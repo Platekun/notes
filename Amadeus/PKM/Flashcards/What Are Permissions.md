@@ -1,8 +1,8 @@
 ---
-Area: "IAM"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "Permissions are rules that declare which operations an identity can be perform on an AWS resource."
+area: "IAM"
+reveal: "No"
+confidence: "Confident"
+answer: "Permissions are rules that declare which operations an identity can be perform on an AWS resource."
 ---
 
 # What Are Permissions?

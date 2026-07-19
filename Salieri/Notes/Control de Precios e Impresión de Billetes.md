@@ -1,7 +1,7 @@
 ---
-Resource: "Economía"
-Archived: "false"
-Resource Archived: "No"
+resource: "Economía"
+archived: "false"
+resource-archived: "No"
 ---
 
 # Control de Precios e Impresión de Billetes

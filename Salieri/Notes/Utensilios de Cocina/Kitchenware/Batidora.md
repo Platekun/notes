@@ -1,6 +1,6 @@
 ---
-Original Name: "Hand Mixer"
-Recipes: "Postre Napoleón, Galletas Fit De Gaby"
+original-name: "Hand Mixer"
+recipes: "Postre Napoleón, Galletas Fit De Gaby"
 ---
 
 # Batidora

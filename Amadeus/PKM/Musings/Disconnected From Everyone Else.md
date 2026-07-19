@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Hinae Arimura"
-Primary Zettelkasten Area: "Loneliness"
-Last edited time: "October 1, 2023 7:30 PM"
-Status: "Processed"
-Created time: "March 20, 2023 4:01 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Hinae Arimura"
+primary-zettelkasten-area: "Loneliness"
+last-edited-time: "October 1, 2023 7:30 PM"
+status: "Processed"
+created-time: "March 20, 2023 4:01 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Disconnected From Everyone Else

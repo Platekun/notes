@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Systems Design"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "RDS"
-Status: "Processed"
-Created time: "October 24, 2022 11:38 PM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Systems Design"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "RDS"
+status: "Processed"
+created-time: "October 24, 2022 11:38 PM"
+sources: "Unknown"
 ---
 
 # Read Replicas

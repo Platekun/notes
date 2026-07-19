@@ -1,5 +1,5 @@
 ---
-Notes: "Reactivity in Web Frameworks"
+notes: "Reactivity in Web Frameworks"
 ---
 
 # Tan Li Hau

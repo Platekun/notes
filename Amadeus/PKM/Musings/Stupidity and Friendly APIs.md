@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Adam Wathan"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "React"
-Status: "Processed"
-Created time: "May 16, 2022 2:23 AM"
-Sources: "React's Nepotism"
+note-type: "Literature"
+author: "Adam Wathan"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "React"
+status: "Processed"
+created-time: "May 16, 2022 2:23 AM"
+sources: "React's Nepotism"
 ---
 
 # Stupidity and Friendly APIs

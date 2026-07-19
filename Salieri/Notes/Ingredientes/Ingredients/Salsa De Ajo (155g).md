@@ -1,8 +1,8 @@
 ---
-Slug: "salsa-ajo-la-coruna-155-g-7702312240237--586556"
-Brand: "La Coruña"
-Price: "COP 4,650.00"
-From: "SAO"
+slug: "salsa-ajo-la-coruna-155-g-7702312240237--586556"
+brand: "La Coruña"
+price: "COP 4,650.00"
+from: "SAO"
 ---
 
 # Salsa De Ajo (155g)

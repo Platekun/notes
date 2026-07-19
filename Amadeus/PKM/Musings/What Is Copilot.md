@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Copilot"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 10, 2022 1:38 AM"
-Sources: "Introducing AWS Copilot"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Copilot"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 10, 2022 1:38 AM"
+sources: "Introducing AWS Copilot"
 ---
 
 # What Is Copilot?

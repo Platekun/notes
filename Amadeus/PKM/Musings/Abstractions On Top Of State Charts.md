@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Sukima"
-Primary Zettelkasten Area: "StateCharts"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Ember's State Charts Usage"
+note-type: "Literature"
+author: "Sukima"
+primary-zettelkasten-area: "StateCharts"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Ember's State Charts Usage"
 ---
 
 # Abstractions On Top Of State Charts

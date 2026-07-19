@@ -1,7 +1,7 @@
 ---
-Resource: "Bienes Raíces"
-Archived: "false"
-Resource Archived: "No"
+resource: "Bienes Raíces"
+archived: "false"
+resource-archived: "No"
 ---
 
 # Primera Compra de Casa

@@ -1,5 +1,5 @@
 ---
-URL: "https://www.youtube.com/watch?v=_LOpLRxUTHc"
+url: "https://www.youtube.com/watch?v=_LOpLRxUTHc"
 ---
 
 # (32) The Biggest Decision for a Sorcerer - YouTube

@@ -1,7 +1,7 @@
 ---
-Amount: "COP 670,000.00"
-Created time: "July 1, 2024 6:20 AM"
-Sprint: "Next-level Sheep"
+amount: "COP 670,000.00"
+created-time: "July 1, 2024 6:20 AM"
+sprint: "Next-level Sheep"
 ---
 
 # English Professor

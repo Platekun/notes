@@ -1,8 +1,8 @@
 ---
-Slug: "queso-muenster-o-gouda-tajado-150-g-12002654"
-Brand: "Muenster"
-Price: "COP 7,990.00"
-From: "Tiendas D1"
+slug: "queso-muenster-o-gouda-tajado-150-g-12002654"
+brand: "Muenster"
+price: "COP 7,990.00"
+from: "Tiendas D1"
 ---
 
 # Queso Gouda Tajado (150g)

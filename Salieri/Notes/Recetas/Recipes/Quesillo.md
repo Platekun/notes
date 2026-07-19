@@ -1,8 +1,8 @@
 ---
-Type: "Dessert"
-Ingredients: "Agua, Azúcar (1Kg) (../../Ingredientes/Ingredients/Az%C3%BAcar%20(1Kg)%20f5e8b58c75ef4c54929b4225ad0ae82f.md), Huevos x25, Leche En Polvo (187g) (../../Ingredientes/Ingredients/Leche%20En%20Polvo%20(187g)%20cc28bad45a8c481eb16f9c97c2f6504c.md), Esencia De Vainilla (155ml) (../../Ingredientes/Ingredients/Esencia%20De%20Vainilla%20(155ml)%20eafb7792baae4ccfbb3a9051c2b28eda.md), Mantequilla (125g) (../../Ingredientes/Ingredients/Mantequilla%20(125g)%2089f884f2d3984977816eab80fd0a1ed1.md)"
-Utensils: "Delantal, Servilletas, Cuchara, Licuadora, Horno, Guantes Para Horno, Molde Para Quesilllo, Tazón"
-Cost: "29840"
+type: "Dessert"
+ingredients: "Agua, Azúcar (1Kg) (../../Ingredientes/Ingredients/Az%C3%BAcar%20(1Kg)%20f5e8b58c75ef4c54929b4225ad0ae82f.md), Huevos x25, Leche En Polvo (187g) (../../Ingredientes/Ingredients/Leche%20En%20Polvo%20(187g)%20cc28bad45a8c481eb16f9c97c2f6504c.md), Esencia De Vainilla (155ml) (../../Ingredientes/Ingredients/Esencia%20De%20Vainilla%20(155ml)%20eafb7792baae4ccfbb3a9051c2b28eda.md), Mantequilla (125g) (../../Ingredientes/Ingredients/Mantequilla%20(125g)%2089f884f2d3984977816eab80fd0a1ed1.md)"
+utensils: "Delantal, Servilletas, Cuchara, Licuadora, Horno, Guantes Para Horno, Molde Para Quesilllo, Tazón"
+cost: "29840"
 ---
 
 # Quesillo

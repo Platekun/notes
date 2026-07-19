@@ -1,5 +1,5 @@
 ---
-Use Cases: "Sueño"
+use-cases: "Sueño"
 ---
 
 # Melatonina

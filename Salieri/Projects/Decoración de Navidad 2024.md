@@ -1,6 +1,6 @@
 ---
-Status: "In Progress"
-Archived: "No"
+status: "In Progress"
+archived: "No"
 ---
 
 # Decoración de Navidad 2024

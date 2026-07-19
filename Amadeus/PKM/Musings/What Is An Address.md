@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "BlockChain"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "January 5, 2023 2:11 AM"
-Sources: "What is P2PK, P2PKH, P2SH, P2WPKH - ELI5?, What Is P2PKH?"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "BlockChain"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "January 5, 2023 2:11 AM"
+sources: "What is P2PK, P2PKH, P2SH, P2WPKH - ELI5?, What Is P2PKH?"
 ---
 
 # What Is An Address?

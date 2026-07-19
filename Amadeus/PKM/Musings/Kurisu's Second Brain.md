@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "June 1, 2024 5:25 PM"
-Secondary Zettelkasten Area: "Knowledge Management"
-Status: "Processed"
-Created time: "February 3, 2024 2:55 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "June 1, 2024 5:25 PM"
+secondary-zettelkasten-area: "Knowledge Management"
+status: "Processed"
+created-time: "February 3, 2024 2:55 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Kurisu's Second Brain

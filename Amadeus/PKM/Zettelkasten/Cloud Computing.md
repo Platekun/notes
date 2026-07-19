@@ -1,8 +1,8 @@
 ---
-Parent item: "Software Development"
-Primary Source: "Scalability, What Is Cloud Computing?"
-Secondary Sources: "On Premise Computing"
-Sub-item: "AWS, Edge Computing, Serverless"
+parent-item: "Software Development"
+primary-source: "Scalability, What Is Cloud Computing?"
+secondary-sources: "On Premise Computing"
+sub-item: "AWS, Edge Computing, Serverless"
 ---
 
 # Cloud Computing

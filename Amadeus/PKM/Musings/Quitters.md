@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Shiina Kagari"
-Last edited time: "May 21, 2024 2:22 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:21 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Shiina Kagari"
+last-edited-time: "May 21, 2024 2:22 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:21 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Quitters

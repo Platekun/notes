@@ -1,8 +1,8 @@
 ---
-Amount: "COP 19,865,900.00"
-Balance: "Optimistic Albattani"
-Created Time: "June 12, 2022 5:10 PM"
-Scope: "Lobito"
+amount: "COP 19,865,900.00"
+balance: "Optimistic Albattani"
+created-time: "June 12, 2022 5:10 PM"
+scope: "Lobito"
 ---
 
 # Liquidation

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "January 29, 2023 3:57 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "January 29, 2023 3:57 PM"
 ---
 
 # First Sunday In A Long Time

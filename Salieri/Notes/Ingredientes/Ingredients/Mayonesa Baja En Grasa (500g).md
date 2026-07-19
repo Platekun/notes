@@ -1,9 +1,9 @@
 ---
-Slug: "mayonesa-baja-en-grasa-zev-500-g-12000305"
-Brand: "Zev"
-Price: "COP 3,790.00"
-From: "Tiendas D1"
-Recipes: "Ensalada Fría De Pasta, Jamón y Pollo, Sandwich De Huevo"
+slug: "mayonesa-baja-en-grasa-zev-500-g-12000305"
+brand: "Zev"
+price: "COP 3,790.00"
+from: "Tiendas D1"
+recipes: "Ensalada Fría De Pasta, Jamón y Pollo, Sandwich De Huevo"
 ---
 
 # Mayonesa Baja En Grasa (500g)

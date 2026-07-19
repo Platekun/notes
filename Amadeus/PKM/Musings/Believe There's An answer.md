@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "June 1, 2024 5:55 PM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "February 3, 2024 3:04 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Kurisu Makise"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "June 1, 2024 5:55 PM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "February 3, 2024 3:04 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Believe There's An answer

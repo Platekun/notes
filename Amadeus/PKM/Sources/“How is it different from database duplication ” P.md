@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Database Duplication?, What Is Database Replication?"
+notes: "What Is Database Duplication?, What Is Database Replication?"
 ---
 
 # “How is it different from database duplication?” Prompt

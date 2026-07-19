@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "October 2, 2023 12:15 AM"
-Status: "Processed"
-Created time: "October 2, 2023 12:14 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "October 2, 2023 12:15 AM"
+status: "Processed"
+created-time: "October 2, 2023 12:14 AM"
 ---
 
 # GeoTags

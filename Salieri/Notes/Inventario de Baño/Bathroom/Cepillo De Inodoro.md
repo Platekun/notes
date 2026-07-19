@@ -1,6 +1,6 @@
 ---
-Brand: "Javex"
-Stores: "DollarCity, Tiendas D1"
+brand: "Javex"
+stores: "DollarCity, Tiendas D1"
 ---
 
 # Cepillo De Inodoro

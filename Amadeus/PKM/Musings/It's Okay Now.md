@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Last edited time: "June 11, 2024 2:54 AM"
-Status: "Unprocessed"
-Created time: "March 19, 2024 1:26 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Kurisu Makise"
+last-edited-time: "June 11, 2024 2:54 AM"
+status: "Unprocessed"
+created-time: "March 19, 2024 1:26 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # It's Okay Now

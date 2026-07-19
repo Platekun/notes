@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Crafsdwarf"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 11:39 PM"
-Status: "Processed"
-Created time: "September 2, 2023 7:47 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
+note-type: "Literature"
+author: "Crafsdwarf"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 11:39 PM"
+status: "Processed"
+created-time: "September 2, 2023 7:47 PM"
+experiences: "Play Chaos;Child"
+sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
 ---
 
 # Truth Seeker

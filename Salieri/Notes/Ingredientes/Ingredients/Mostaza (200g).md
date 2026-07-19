@@ -1,8 +1,8 @@
 ---
-Slug: "mostaza-zev-200-g-12000265"
-Brand: "Zev"
-Price: "COP 2,190.00"
-From: "Tiendas D1"
+slug: "mostaza-zev-200-g-12000265"
+brand: "Zev"
+price: "COP 2,190.00"
+from: "Tiendas D1"
 ---
 
 # Mostaza (200g)

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 9, 2024 2:00 AM"
-Status: "Unprocessed"
-Created time: "January 9, 2024 1:58 AM"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 9, 2024 2:00 AM"
+status: "Unprocessed"
+created-time: "January 9, 2024 1:58 AM"
 ---
 
 # After The Storm

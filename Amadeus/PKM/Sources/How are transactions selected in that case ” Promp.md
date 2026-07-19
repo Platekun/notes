@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Proof-of-Work?"
+notes: "What Is Proof-of-Work?"
 ---
 
 # "How are transactions selected in that case?” Prompt

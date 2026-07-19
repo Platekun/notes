@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Mark Dalgleish"
-Primary Zettelkasten Area: "React"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Software Architecture"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Mark Dalgleish’s Take On Business Logic Reusability"
+note-type: "Literature"
+author: "Mark Dalgleish"
+primary-zettelkasten-area: "React"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Software Architecture"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Mark Dalgleish’s Take On Business Logic Reusability"
 ---
 
 # Sharing Business Logic In React Web And React Native

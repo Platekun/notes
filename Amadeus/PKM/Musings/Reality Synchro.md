@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Rimi Sakihata"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 31, 2023 2:09 AM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "September 23, 2023 5:15 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Rimi Sakihata"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 31, 2023 2:09 AM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "September 23, 2023 5:15 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Reality Synchro

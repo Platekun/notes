@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Databases"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Systems Design"
-Status: "Processed"
-Created time: "December 29, 2022 7:42 PM"
-Sources: "Distributed Ledger Definition, \"Do all DLT use cryptography?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Databases"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Systems Design"
+status: "Processed"
+created-time: "December 29, 2022 7:42 PM"
+sources: "Distributed Ledger Definition, \"Do all DLT use cryptography?” Prompt"
 ---
 
 # What Is A DLT?

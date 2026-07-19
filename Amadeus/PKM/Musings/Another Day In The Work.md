@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "March 23, 2024 2:59 AM"
-Status: "Processed"
-Created time: "March 23, 2024 2:54 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "March 23, 2024 2:59 AM"
+status: "Processed"
+created-time: "March 23, 2024 2:54 AM"
 ---
 
 # Another Day In The Work

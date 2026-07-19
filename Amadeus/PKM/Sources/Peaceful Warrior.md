@@ -1,6 +1,6 @@
 ---
-URL: "https://en.wikipedia.org/wiki/Peaceful_Warrior"
-Notes: "Find Your Own Answers"
+url: "https://en.wikipedia.org/wiki/Peaceful_Warrior"
+notes: "Find Your Own Answers"
 ---
 
 # Peaceful Warrior

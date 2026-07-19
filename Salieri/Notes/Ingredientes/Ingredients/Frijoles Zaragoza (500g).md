@@ -1,8 +1,8 @@
 ---
-Slug: "frijol-olimpica-rosado-riego-zaragoza-500-g-7701008001930-16365"
-Brand: "Olímpica"
-Price: "COP 3,850.00"
-From: "SAO"
+slug: "frijol-olimpica-rosado-riego-zaragoza-500-g-7701008001930-16365"
+brand: "Olímpica"
+price: "COP 3,850.00"
+from: "SAO"
 ---
 
 # Frijoles Zaragoza (500g)

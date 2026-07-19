@@ -1,5 +1,5 @@
 ---
-Notes: "Selling Refactors"
+notes: "Selling Refactors"
 ---
 
 # Craig J. Bass

@@ -1,6 +1,6 @@
 ---
-Listo: "No"
-Para: "Ambos"
+listo: "No"
+para: "Ambos"
 ---
 
 # Set de costuras? si se daña ropa

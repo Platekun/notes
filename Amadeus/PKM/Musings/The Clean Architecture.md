@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Ian Cooper"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 2:38 AM"
-Sources: "DevTernity 2019: Ian Cooper - The Clean Architecture"
+note-type: "Literature"
+author: "Ian Cooper"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 2:38 AM"
+sources: "DevTernity 2019: Ian Cooper - The Clean Architecture"
 ---
 
 # The Clean Architecture

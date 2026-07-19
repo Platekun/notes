@@ -1,5 +1,5 @@
 ---
-Description: "Everything related to my family."
+description: "Everything related to my family."
 ---
 
 # Family

@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "April 7, 2025 3:33 AM"
-Status: "Unprocessed"
-Created time: "April 7, 2025 2:35 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "April 7, 2025 3:33 AM"
+status: "Unprocessed"
+created-time: "April 7, 2025 2:35 AM"
 ---
 
 # Front-End Decalogue: Ten Wedges To Cut Through UI Complexity

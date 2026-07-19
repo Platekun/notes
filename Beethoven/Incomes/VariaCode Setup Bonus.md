@@ -1,7 +1,7 @@
 ---
-Amount In USD: "$400.00"
-Created time: "May 25, 2024 11:16 PM"
-Sprint: "Eight Years"
+amount-in-usd: "$400.00"
+created-time: "May 25, 2024 11:16 PM"
+sprint: "Eight Years"
 ---
 
 # VariaCode Setup Bonus

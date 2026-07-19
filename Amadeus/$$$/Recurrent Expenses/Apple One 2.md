@@ -1,9 +1,9 @@
 ---
-Financial Year: "2022"
-Amount: "COP 64,500.00"
-Scope: "Family"
-Amount Per Year: "COP 64,500.00"
-Expense Frequency: "Monthly"
+financial-year: "2022"
+amount: "COP 64,500.00"
+scope: "Family"
+amount-per-year: "COP 64,500.00"
+expense-frequency: "Monthly"
 ---
 
 # Apple One

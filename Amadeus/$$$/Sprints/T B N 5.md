@@ -1,14 +1,14 @@
 ---
-Start Date: "December 1, 2025"
-Salary: "Senior 1"
-Salary Amount: "16900000"
-Income Sum: "0"
-Expenses Sum: "774492"
-Recurrent Expenses Sum: "0"
-AFC Account Transaction Amount: "0"
-Dollar Transactions In COP: "0"
-Gross Balance: "COP 16,125,508.00"
-Expenses: "Falabella De Colombia, Brisket, Sc Barranquilla, Casa Tua Cucina, Tapitaoca, Olivia Viva Barranquil, Wet Sunday VIVA"
+start-date: "December 1, 2025"
+salary: "Senior 1"
+salary-amount: "16900000"
+income-sum: "0"
+expenses-sum: "774492"
+recurrent-expenses-sum: "0"
+afc-account-transaction-amount: "0"
+dollar-transactions-in-cop: "0"
+gross-balance: "COP 16,125,508.00"
+expenses: "Falabella De Colombia, Brisket, Sc Barranquilla, Casa Tua Cucina, Tapitaoca, Olivia Viva Barranquil, Wet Sunday VIVA"
 ---
 
 # T.B.N

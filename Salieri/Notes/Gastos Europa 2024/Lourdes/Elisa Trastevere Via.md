@@ -1,7 +1,7 @@
 ---
-Fecha: "October 7, 2024"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 21,275.00"
+fecha: "October 7, 2024"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 21,275.00"
 ---
 
 # Elisa Trastevere Via

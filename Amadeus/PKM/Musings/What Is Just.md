@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Milla Maxwell"
-Primary Zettelkasten Area: "Ethics"
-Last edited time: "October 1, 2023 11:40 PM"
-Secondary Zettelkasten Area: "Growth"
-Tertiary Zettelkasten Area: "Identity"
-Status: "Unprocessed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Tales Of Xillia"
-Sources: "Milla Maxwell’s And Gaius’ Justice Debate"
+note-type: "Literature"
+author: "Milla Maxwell"
+primary-zettelkasten-area: "Ethics"
+last-edited-time: "October 1, 2023 11:40 PM"
+secondary-zettelkasten-area: "Growth"
+tertiary-zettelkasten-area: "Identity"
+status: "Unprocessed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Tales Of Xillia"
+sources: "Milla Maxwell’s And Gaius’ Justice Debate"
 ---
 
 # What Is Just?

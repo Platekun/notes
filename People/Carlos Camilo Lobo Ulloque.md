@@ -1,7 +1,7 @@
 ---
-Email: "carloscamilo.loboulloque@gmail.com"
-Membership Type: "Workspace owner"
-Person: "Carlos Camilo Lobo Ulloque"
+email: "carloscamilo.loboulloque@gmail.com"
+membership-type: "Workspace owner"
+person: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Carlos Camilo Lobo Ulloque

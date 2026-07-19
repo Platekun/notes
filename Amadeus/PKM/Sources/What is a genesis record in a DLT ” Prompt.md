@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Genesis Record?"
+notes: "What Is A Genesis Record?"
 ---
 
 # "What is a genesis record in a DLT?” Prompt

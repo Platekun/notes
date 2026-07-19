@@ -1,5 +1,5 @@
 ---
-Original Name: "Salad Spinner"
+original-name: "Salad Spinner"
 ---
 
 # Escurridor De Ensalada

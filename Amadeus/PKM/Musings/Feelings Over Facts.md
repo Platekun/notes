@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Serika Onoe"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 7:47 PM"
-Secondary Zettelkasten Area: "Emotions, Problem Solving"
-Status: "Processed"
-Created time: "February 11, 2023 4:23 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Serika Onoe"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 7:47 PM"
+secondary-zettelkasten-area: "Emotions, Problem Solving"
+status: "Processed"
+created-time: "February 11, 2023 4:23 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Feelings Over Facts

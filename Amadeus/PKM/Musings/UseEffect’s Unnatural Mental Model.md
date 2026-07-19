@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Ryan Florence"
-Primary Zettelkasten Area: "React"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "David K. Piano’s Mental Model For Effects Tweet"
+note-type: "Literature"
+author: "Ryan Florence"
+primary-zettelkasten-area: "React"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "David K. Piano’s Mental Model For Effects Tweet"
 ---
 
 # UseEffect’s Unnatural Mental Model

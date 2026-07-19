@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "February 13, 2024 5:37 PM"
-Status: "Processed"
-Created time: "February 10, 2024 3:51 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "February 13, 2024 5:37 PM"
+status: "Processed"
+created-time: "February 10, 2024 3:51 PM"
 ---
 
 # Job Hunt Dump

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "October 2, 2023 1:10 PM"
-Status: "Processed"
-Created time: "October 2, 2023 1:05 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "October 2, 2023 1:10 PM"
+status: "Processed"
+created-time: "October 2, 2023 1:05 PM"
 ---
 
 # Monday Changes And Insights

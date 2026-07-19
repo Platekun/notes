@@ -1,6 +1,6 @@
 ---
-Brand: "Rexona"
-Stores: "Tiendas D1"
+brand: "Rexona"
+stores: "Tiendas D1"
 ---
 
 # Desodorante

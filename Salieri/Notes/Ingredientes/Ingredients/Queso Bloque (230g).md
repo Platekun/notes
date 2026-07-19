@@ -1,9 +1,9 @@
 ---
-Slug: "queso-bloque-vita-latti-230-gr-12004571"
-Brand: "Latti"
-Price: "COP 9,890.00"
-From: "Tiendas D1"
-Recipes: "Torta De Queso, Pollo Napolitano"
+slug: "queso-bloque-vita-latti-230-gr-12004571"
+brand: "Latti"
+price: "COP 9,890.00"
+from: "Tiendas D1"
+recipes: "Torta De Queso, Pollo Napolitano"
 ---
 
 # Queso Bloque (230g)

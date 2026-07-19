@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takeshi Shinjo"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "December 30, 2023 5:23 PM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "February 12, 2023 2:43 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takeshi Shinjo"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "December 30, 2023 5:23 PM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "February 12, 2023 2:43 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Investigator Mindset

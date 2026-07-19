@@ -1,6 +1,6 @@
 ---
-Original Name: "Frying Pan"
-Recipes: "Pasta De Zuchini, Pollo Napolitano, Croquetas De Jamón Serrano, Sandwich De Huevo"
+original-name: "Frying Pan"
+recipes: "Pasta De Zuchini, Pollo Napolitano, Croquetas De Jamón Serrano, Sandwich De Huevo"
 ---
 
 # Sartén

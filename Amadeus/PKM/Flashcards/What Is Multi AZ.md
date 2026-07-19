@@ -1,8 +1,8 @@
 ---
-Area: "RDS"
-Reveal: "No"
-Confidence: "Somewhat Confident"
-Answer: "It is a deployment setup which consists in having a primary RDS instance with a stand by replica being updated synchronously in a different availability zone."
+area: "RDS"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "It is a deployment setup which consists in having a primary RDS instance with a stand by replica being updated synchronously in a different availability zone."
 ---
 
 # What Is Multi AZ?

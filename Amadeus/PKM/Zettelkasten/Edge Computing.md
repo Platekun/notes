@@ -1,5 +1,5 @@
 ---
-Parent item: "Cloud Computing"
+parent-item: "Cloud Computing"
 ---
 
 # Edge Computing

@@ -1,8 +1,8 @@
 ---
-Slug: "crema-de-whisky-baileys-orig-700-ml-5011013100156-1457732"
-Brand: "Bailey's"
-Price: "COP 72,000.00"
-From: "SAO"
+slug: "crema-de-whisky-baileys-orig-700-ml-5011013100156-1457732"
+brand: "Bailey's"
+price: "COP 72,000.00"
+from: "SAO"
 ---
 
 # Crema De Whisky Baileys Original (700ml)

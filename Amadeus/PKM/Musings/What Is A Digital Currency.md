@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Finances"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Crypto"
-Status: "Unprocessed"
-Created time: "January 3, 2023 3:04 PM"
-Sources: "Digital Currency Definition, \"Could you give me real world examples of digital money?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Finances"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Crypto"
+status: "Unprocessed"
+created-time: "January 3, 2023 3:04 PM"
+sources: "Digital Currency Definition, \"Could you give me real world examples of digital money?” Prompt"
 ---
 
 # What Is A Digital Currency?

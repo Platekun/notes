@@ -1,6 +1,6 @@
 ---
-URL: "https://dictionary.cambridge.org/dictionary/english/bookkeeping"
-Notes: "What Is Bookkeeping?"
+url: "https://dictionary.cambridge.org/dictionary/english/bookkeeping"
+notes: "What Is Bookkeeping?"
 ---
 
 # Bookkeeping Definition

@@ -1,9 +1,9 @@
 ---
-Financial Year: "2023"
-Amount: "COP 500,000.00"
-Scope: "Lab"
-Amount Per Year: "COP 500,000.00"
-Expense Frequency: "Monthly"
+financial-year: "2023"
+amount: "COP 500,000.00"
+scope: "Lab"
+amount-per-year: "COP 500,000.00"
+expense-frequency: "Monthly"
 ---
 
 # Lab Electricity Service

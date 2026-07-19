@@ -1,14 +1,14 @@
 ---
-Amount: "COP 154,473.00"
-Balance: "See You Around Monks"
-Scope: "Lobito"
-Created Time: "June 7, 2025 8:21 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 154,473.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 154,473.00"
+balance: "See You Around Monks"
+scope: "Lobito"
+created-time: "June 7, 2025 8:21 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 154,473.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Car Fuel

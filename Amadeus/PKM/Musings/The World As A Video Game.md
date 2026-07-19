@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Takumi Nishijou"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "November 4, 2023 7:04 PM"
-Secondary Zettelkasten Area: "Growth"
-Tertiary Zettelkasten Area: "Time Perception"
-Status: "Processed"
-Created time: "August 21, 2023 2:54 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Takumi Nishijou"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "November 4, 2023 7:04 PM"
+secondary-zettelkasten-area: "Growth"
+tertiary-zettelkasten-area: "Time Perception"
+status: "Processed"
+created-time: "August 21, 2023 2:54 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # The World As A Video Game

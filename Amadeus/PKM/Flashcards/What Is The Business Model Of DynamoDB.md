@@ -1,8 +1,8 @@
 ---
-Area: "DynamoDB"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "The business model is that DynamoDB offers databases that perform with low latencies while also being cost-effective."
+area: "DynamoDB"
+reveal: "No"
+confidence: "Not Confident"
+answer: "The business model is that DynamoDB offers databases that perform with low latencies while also being cost-effective."
 ---
 
 # What Is The Business Model Of DynamoDB?

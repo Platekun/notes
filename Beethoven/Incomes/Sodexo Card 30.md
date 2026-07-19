@@ -1,7 +1,7 @@
 ---
-Amount: "COP 400,000.00"
-Created time: "April 1, 2024 7:38 AM"
-Sprint: "Pretty Planning Game"
+amount: "COP 400,000.00"
+created-time: "April 1, 2024 7:38 AM"
+sprint: "Pretty Planning Game"
 ---
 
 # Sodexo Card

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Alexis Leskinen"
-Last edited time: "March 21, 2024 1:56 AM"
-Status: "Unprocessed"
-Created time: "February 3, 2024 5:25 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Alexis Leskinen"
+last-edited-time: "March 21, 2024 1:56 AM"
+status: "Unprocessed"
+created-time: "February 3, 2024 5:25 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Structure And Process

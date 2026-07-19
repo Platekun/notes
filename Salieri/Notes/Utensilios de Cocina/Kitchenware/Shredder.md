@@ -1,5 +1,5 @@
 ---
-Recipes: "Pollo Napolitano, Ensalada Fría De Pasta, Jamón y Pollo, Croquetas De Jamón Serrano"
+recipes: "Pollo Napolitano, Ensalada Fría De Pasta, Jamón y Pollo, Croquetas De Jamón Serrano"
 ---
 
 # Shredder

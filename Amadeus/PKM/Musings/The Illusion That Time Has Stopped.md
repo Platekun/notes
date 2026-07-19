@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Kaito Yashio"
-Primary Zettelkasten Area: "Time Perception"
-Last edited time: "November 18, 2023 7:02 PM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Kaito Yashio"
+primary-zettelkasten-area: "Time Perception"
+last-edited-time: "November 18, 2023 7:02 PM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # The Illusion That Time Has Stopped

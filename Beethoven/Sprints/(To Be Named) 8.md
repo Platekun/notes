@@ -1,9 +1,9 @@
 ---
-Balance: "COP 0.00"
-Expenses Sum: "0"
-Incomes Sum: "0"
-Savings Sum: "0"
-Start Date: "September 1, 2025"
+balance: "COP 0.00"
+expenses-sum: "0"
+incomes-sum: "0"
+savings-sum: "0"
+start-date: "September 1, 2025"
 ---
 
 # (To Be Named)

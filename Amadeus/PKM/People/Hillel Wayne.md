@@ -1,5 +1,5 @@
 ---
-Notes: "The Epistemology Of Software Quality - Increment: Teams"
+notes: "The Epistemology Of Software Quality - Increment: Teams"
 ---
 
 # Hillel Wayne

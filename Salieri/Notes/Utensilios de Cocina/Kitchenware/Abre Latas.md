@@ -1,5 +1,5 @@
 ---
-Original Name: "Can Opener"
+original-name: "Can Opener"
 ---
 
 # Abre Latas

@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 3,900.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 3,900.00"
+from: "Fruvecol"
 ---
 
 # Yuca (1KG)

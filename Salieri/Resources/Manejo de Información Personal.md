@@ -1,5 +1,5 @@
 ---
-Archived: "No"
+archived: "No"
 ---
 
 # Manejo de Información Personal

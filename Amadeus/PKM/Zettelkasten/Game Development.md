@@ -1,5 +1,5 @@
 ---
-Parent item: "Software Development"
+parent-item: "Software Development"
 ---
 
 # Game Development

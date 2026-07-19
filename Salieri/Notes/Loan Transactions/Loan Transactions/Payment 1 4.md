@@ -1,10 +1,10 @@
 ---
-Loan: "Viking house Felícita y nancy"
-Amount: "COP 110,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "May 27, 2023 6:35 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Viking house Felícita y nancy"
+amount: "COP 110,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "May 27, 2023 6:35 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment 1

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Back-End Development"
-Last edited time: "October 2, 2023 12:14 AM"
-Status: "Unprocessed"
-Created time: "October 2, 2023 12:13 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Back-End Development"
+last-edited-time: "October 2, 2023 12:14 AM"
+status: "Unprocessed"
+created-time: "October 2, 2023 12:13 AM"
 ---
 
 # Notion GraphQL API

@@ -1,15 +1,15 @@
 ---
-Created Time: "August 20, 2022 11:14 PM"
-Scope: "Lourdes"
-Borrower: "Lourdes Ojeda"
-Lender: "Carlos Camilo Lobo Ulloque"
-Principal: "COP 7,000.00"
-Transactions: "Payment #1"
-Paid: "7000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Carlos Camilo Lobo Ulloque"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "August 20, 2022 11:14 PM"
+scope: "Lourdes"
+borrower: "Lourdes Ojeda"
+lender: "Carlos Camilo Lobo Ulloque"
+principal: "COP 7,000.00"
+transactions: "Payment #1"
+paid: "7000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Carlos Camilo Lobo Ulloque"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Yoi Case

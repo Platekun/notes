@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 1, 2023 7:29 PM"
-Secondary Zettelkasten Area: "Knowledge Management"
-Status: "Unprocessed"
-Created time: "October 24, 2022 8:44 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Kurisu Makise"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 1, 2023 7:29 PM"
+secondary-zettelkasten-area: "Knowledge Management"
+status: "Unprocessed"
+created-time: "October 24, 2022 8:44 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # The Operating System of the Mind

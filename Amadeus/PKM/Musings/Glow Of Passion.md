@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Junna Daitoku"
-Last edited time: "February 19, 2024 12:10 AM"
-Status: "Unprocessed"
-Created time: "February 19, 2024 12:09 AM"
+note-type: "Literature"
+author: "Junna Daitoku"
+last-edited-time: "February 19, 2024 12:10 AM"
+status: "Unprocessed"
+created-time: "February 19, 2024 12:09 AM"
 ---
 
 # Glow Of Passion

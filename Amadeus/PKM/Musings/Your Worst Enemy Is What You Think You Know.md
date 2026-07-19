@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Katsuko Momose"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "November 4, 2023 6:45 PM"
-Secondary Zettelkasten Area: "World Perception"
-Status: "Processed"
-Created time: "December 31, 2022 10:14 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Katsuko Momose"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "November 4, 2023 6:45 PM"
+secondary-zettelkasten-area: "World Perception"
+status: "Processed"
+created-time: "December 31, 2022 10:14 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Your Worst Enemy Is What You Think You Know

@@ -1,6 +1,6 @@
 ---
-Listo: "No"
-Para: "Carlos"
+listo: "No"
+para: "Carlos"
 ---
 
 # Anticonceptivos? jaja

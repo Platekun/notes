@@ -1,6 +1,6 @@
 ---
-Musings: "Finance Reporter"
-Status: "Ready To Start"
+musings: "Finance Reporter"
+status: "Ready To Start"
 ---
 
 # Create Finance Reporter

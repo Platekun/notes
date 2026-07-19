@@ -1,5 +1,5 @@
 ---
-URL: "https://www.animelyrics.com/anime/barakamon/rashisa.htm"
+url: "https://www.animelyrics.com/anime/barakamon/rashisa.htm"
 ---
 
 # Rashisa

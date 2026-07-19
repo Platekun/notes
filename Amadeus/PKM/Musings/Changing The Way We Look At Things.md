@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Ayase Kishimoto"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 31, 2023 1:40 AM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "September 25, 2023 12:12 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Ayase Kishimoto"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 31, 2023 1:40 AM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "September 25, 2023 12:12 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Changing The Way We Look At Things

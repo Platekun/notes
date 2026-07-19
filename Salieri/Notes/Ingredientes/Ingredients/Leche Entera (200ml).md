@@ -1,9 +1,9 @@
 ---
-Slug: "leche-entera-tetra-pak-latti-200ml-12003216"
-Brand: "Latti"
-Price: "COP 1,190.00"
-From: "Tiendas D1"
-Recipes: "Croquetas De Jamón Serrano"
+slug: "leche-entera-tetra-pak-latti-200ml-12003216"
+brand: "Latti"
+price: "COP 1,190.00"
+from: "Tiendas D1"
+recipes: "Croquetas De Jamón Serrano"
 ---
 
 # Leche Entera (200ml)

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "February 5, 2024 12:44 AM"
-Status: "Unprocessed"
-Created time: "February 5, 2024 12:42 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "February 5, 2024 12:44 AM"
+status: "Unprocessed"
+created-time: "February 5, 2024 12:42 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Our Second Persona

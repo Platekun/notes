@@ -1,10 +1,10 @@
 ---
-Loan: "Lourdes’ Trainer"
-Amount: "COP 80,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "September 29, 2022 10:34 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Lourdes’ Trainer"
+amount: "COP 80,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "September 29, 2022 10:34 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

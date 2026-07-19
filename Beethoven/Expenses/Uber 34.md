@@ -1,8 +1,8 @@
 ---
-Amount: "COP 22,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "July 12, 2024 6:36 PM"
-Sprint: "Next-level Sheep"
+amount: "COP 22,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "July 12, 2024 6:36 PM"
+sprint: "Next-level Sheep"
 ---
 
 # Uber

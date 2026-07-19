@@ -1,8 +1,8 @@
 ---
-Slug: "lomitos-de-salmon-454-g-12004645"
-Brand: "Pesqueros"
-Price: "COP 9,450.00"
-From: "Tiendas D1"
+slug: "lomitos-de-salmon-454-g-12004645"
+brand: "Pesqueros"
+price: "COP 9,450.00"
+from: "Tiendas D1"
 ---
 
 # Lomitos De Salmón x5 (454g)

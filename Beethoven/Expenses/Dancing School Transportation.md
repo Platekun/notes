@@ -1,8 +1,8 @@
 ---
-Amount: "COP 20,000.00"
-Created by: "Automation"
-Created time: "March 27, 2024 5:02 AM"
-Sprint: "Modest Kirch"
+amount: "COP 20,000.00"
+created-by: "Automation"
+created-time: "March 27, 2024 5:02 AM"
+sprint: "Modest Kirch"
 ---
 
 # Dancing School Transportation

@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Justin Falcone"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Authentication And Routing Is State Management"
+note-type: "Literature"
+author: "Justin Falcone"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Authentication And Routing Is State Management"
 ---
 
 # Authentication And Routing Is State Management

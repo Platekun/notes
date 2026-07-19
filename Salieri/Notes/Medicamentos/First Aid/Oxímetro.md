@@ -1,5 +1,5 @@
 ---
-Use Cases: "Signos Vitales"
+use-cases: "Signos Vitales"
 ---
 
 # Oxímetro

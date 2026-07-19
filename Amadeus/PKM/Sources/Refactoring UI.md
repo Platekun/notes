@@ -1,5 +1,5 @@
 ---
-"Files & media": "Book_Refactoring_UI.pdf"
+files-media: "Book_Refactoring_UI.pdf"
 ---
 
 # Refactoring UI

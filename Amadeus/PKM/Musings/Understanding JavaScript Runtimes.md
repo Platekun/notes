@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Software Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "August 18, 2022 12:00 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Software Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "August 18, 2022 12:00 AM"
+sources: "Unknown"
 ---
 
 # Understanding JavaScript Runtimes

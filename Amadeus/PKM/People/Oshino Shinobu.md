@@ -1,5 +1,5 @@
 ---
-Notes: "Doing The Right Thing"
+notes: "Doing The Right Thing"
 ---
 
 # Oshino Shinobu

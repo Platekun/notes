@@ -1,6 +1,6 @@
 ---
-URL: "https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless"
-Notes: "What Is Serverless?"
+url: "https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless"
+notes: "What Is Serverless?"
 ---
 
 # What Is Serverless?

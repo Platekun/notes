@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 3, 2024 5:48 PM"
-Status: "Unprocessed"
-Created time: "February 3, 2024 5:47 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 3, 2024 5:48 PM"
+status: "Unprocessed"
+created-time: "February 3, 2024 5:47 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Sense Of Self

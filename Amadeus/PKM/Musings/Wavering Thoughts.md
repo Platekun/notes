@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "March 19, 2024 1:32 AM"
-Status: "Unprocessed"
-Created time: "March 19, 2024 1:28 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "March 19, 2024 1:32 AM"
+status: "Unprocessed"
+created-time: "March 19, 2024 1:28 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Wavering Thoughts

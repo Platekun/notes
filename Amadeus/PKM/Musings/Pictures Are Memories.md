@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Shiina Kagari"
-Last edited time: "February 3, 2024 4:44 PM"
-Status: "Unprocessed"
-Created time: "February 3, 2024 4:42 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Shiina Kagari"
+last-edited-time: "February 3, 2024 4:44 PM"
+status: "Unprocessed"
+created-time: "February 3, 2024 4:42 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Pictures Are Memories

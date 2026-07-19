@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 135,000.00"
-Total: "COP 270,000.00"
-Unidad: "2"
+precio-cop: "COP 135,000.00"
+total: "COP 270,000.00"
+unidad: "2"
 ---
 
 # Palacio Ducal

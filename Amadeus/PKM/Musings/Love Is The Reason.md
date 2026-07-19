@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Koyomi Araragi"
-Primary Zettelkasten Area: "Love"
-Last edited time: "October 1, 2023 11:37 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Bakemonogatari"
+note-type: "Literature"
+author: "Koyomi Araragi"
+primary-zettelkasten-area: "Love"
+last-edited-time: "October 1, 2023 11:37 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Bakemonogatari"
 ---
 
 # Love Is The Reason

@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takuru Miyashiro"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 7:45 PM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "March 19, 2023 4:24 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takuru Miyashiro"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 7:45 PM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "March 19, 2023 4:24 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Just Give Me The Details

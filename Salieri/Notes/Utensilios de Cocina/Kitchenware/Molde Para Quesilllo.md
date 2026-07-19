@@ -1,5 +1,5 @@
 ---
-Recipes: "Quesillo"
+recipes: "Quesillo"
 ---
 
 # Molde Para Quesilllo

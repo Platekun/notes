@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "February 22, 2025 2:29 PM"
-Status: "Unprocessed"
-Created time: "February 22, 2025 2:27 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "February 22, 2025 2:29 PM"
+status: "Unprocessed"
+created-time: "February 22, 2025 2:27 PM"
 ---
 
 # Draw All Your Strength

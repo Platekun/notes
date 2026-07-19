@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Systems Design"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 7, 2022 12:26 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Systems Design"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 7, 2022 12:26 AM"
+sources: "Unknown"
 ---
 
 # Elasticity

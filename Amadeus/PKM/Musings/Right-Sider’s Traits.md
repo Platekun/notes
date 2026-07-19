@@ -1,12 +1,12 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 11:39 PM"
-Secondary Zettelkasten Area: "Knowledge Management"
-Status: "Processed"
-Created time: "September 3, 2023 1:25 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 11:39 PM"
+secondary-zettelkasten-area: "Knowledge Management"
+status: "Processed"
+created-time: "September 3, 2023 1:25 AM"
+experiences: "Play Chaos;Child"
+sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
 ---
 
 # Right-Sider’s Traits

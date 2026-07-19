@@ -1,14 +1,14 @@
 ---
-Start Date: "January 1, 2026"
-Salary: "Senior 1"
-Salary Amount: "16900000"
-Income Sum: "0"
-Expenses Sum: "717870"
-Recurrent Expenses Sum: "0"
-AFC Account Transaction Amount: "0"
-Dollar Transactions In COP: "0"
-Gross Balance: "COP 16,182,130.00"
-Expenses: "Gestirestaurantes Sas, Akai Acai Y Greek Ice, Transaction, Starbucks Viva Barranq, Bbc Cerveceria, Mr Bono Buenavista Ii"
+start-date: "January 1, 2026"
+salary: "Senior 1"
+salary-amount: "16900000"
+income-sum: "0"
+expenses-sum: "717870"
+recurrent-expenses-sum: "0"
+afc-account-transaction-amount: "0"
+dollar-transactions-in-cop: "0"
+gross-balance: "COP 16,182,130.00"
+expenses: "Gestirestaurantes Sas, Akai Acai Y Greek Ice, Transaction, Starbucks Viva Barranq, Bbc Cerveceria, Mr Bono Buenavista Ii"
 ---
 
 # T.B.N

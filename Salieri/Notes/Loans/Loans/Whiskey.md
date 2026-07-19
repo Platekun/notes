@@ -1,15 +1,15 @@
 ---
-Created Time: "July 29, 2023 10:59 PM"
-Scope: "Relationship"
-Borrower: "Carlos Camilo Lobo Ulloque"
-Lender: "Lourdes Ojeda"
-Principal: "COP 120,000.00"
-Transactions: "Payment 1"
-Paid: "120000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Lourdes Ojeda"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "July 29, 2023 10:59 PM"
+scope: "Relationship"
+borrower: "Carlos Camilo Lobo Ulloque"
+lender: "Lourdes Ojeda"
+principal: "COP 120,000.00"
+transactions: "Payment 1"
+paid: "120000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Lourdes Ojeda"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Whiskey

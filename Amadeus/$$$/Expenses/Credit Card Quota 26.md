@@ -1,14 +1,14 @@
 ---
-Amount: "COP 48,490.00"
-Balance: "Super Toyota Highlander"
-Scope: "Lobito"
-Created Time: "May 18, 2024 7:31 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 48,490.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 48,490.00"
+balance: "Super Toyota Highlander"
+scope: "Lobito"
+created-time: "May 18, 2024 7:31 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 48,490.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Credit Card Quota

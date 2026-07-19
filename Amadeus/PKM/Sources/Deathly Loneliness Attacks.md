@@ -1,6 +1,6 @@
 ---
-URL: "https://www.youtube.com/watch?v=B7oOYOPf74k&list=RDMMB7oOYOPf74k"
-Notes: "Deathly Loneliness Attacks"
+url: "https://www.youtube.com/watch?v=B7oOYOPf74k&list=RDMMB7oOYOPf74k"
+notes: "Deathly Loneliness Attacks"
 ---
 
 # Deathly Loneliness Attacks

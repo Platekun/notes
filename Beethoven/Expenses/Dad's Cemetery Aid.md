@@ -1,8 +1,8 @@
 ---
-Amount: "COP 50,000.00"
-Created by: "Automation"
-Created time: "July 1, 2024 6:09 AM"
-Sprint: "Next-level Sheep"
+amount: "COP 50,000.00"
+created-by: "Automation"
+created-time: "July 1, 2024 6:09 AM"
+sprint: "Next-level Sheep"
 ---
 
 # Dad's Cemetery Aid

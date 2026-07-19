@@ -1,10 +1,10 @@
 ---
-Loan: "Lourdes Shopping"
-Amount: "COP 22,000.00"
-Performed: "Yes"
-Created By: "Carlos Camilo Lobo Ulloque"
-Created Time: "July 31, 2022 6:21 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Lourdes Shopping"
+amount: "COP 22,000.00"
+performed: "Yes"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "July 31, 2022 6:21 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

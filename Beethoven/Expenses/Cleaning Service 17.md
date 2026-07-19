@@ -1,7 +1,7 @@
 ---
-Amount: "COP 120,000.00"
-Created by: "Automation"
-Created time: "January 1, 2026 5:29 AM"
+amount: "COP 120,000.00"
+created-by: "Automation"
+created-time: "January 1, 2026 5:29 AM"
 ---
 
 # Cleaning Service

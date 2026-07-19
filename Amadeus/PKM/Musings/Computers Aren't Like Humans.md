@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 24, 2024 2:41 PM"
-Status: "Unprocessed"
-Created time: "February 24, 2024 2:39 PM"
-Sources: "Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 24, 2024 2:41 PM"
+status: "Unprocessed"
+created-time: "February 24, 2024 2:39 PM"
+sources: "Steins;Gate 0"
 ---
 
 # Computers Aren't Like Humans

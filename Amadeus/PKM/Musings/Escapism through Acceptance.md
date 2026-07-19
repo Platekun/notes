@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Kaito Yashio"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 1, 2023 11:29 PM"
-Secondary Zettelkasten Area: "Time Perception"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Kaito Yashio"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 1, 2023 11:29 PM"
+secondary-zettelkasten-area: "Time Perception"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # Escapism through Acceptance

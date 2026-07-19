@@ -1,6 +1,6 @@
 ---
-Multi-select: "BrillaKing"
-Stores: "DollarCity"
+multi-select: "BrillaKing"
+stores: "DollarCity"
 ---
 
 # Limpia Piso

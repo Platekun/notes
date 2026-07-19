@@ -1,5 +1,5 @@
 ---
-Description: "Everything related to the Future Widget Laboratory."
+description: "Everything related to the Future Widget Laboratory."
 ---
 
 # Lab

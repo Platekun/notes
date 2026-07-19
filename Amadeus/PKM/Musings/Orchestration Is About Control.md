@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "David Kourshid"
-Primary Zettelkasten Area: "StateCharts"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "What Is The Next State?"
+note-type: "Literature"
+author: "David Kourshid"
+primary-zettelkasten-area: "StateCharts"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "What Is The Next State?"
 ---
 
 # Orchestration Is About Control

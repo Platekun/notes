@@ -1,7 +1,7 @@
 ---
-Multi-select: "Clorox"
-Original Name: "Bleach"
-Stores: "Alkosto, SAO, Tiendas D1"
+multi-select: "Clorox"
+original-name: "Bleach"
+stores: "Alkosto, SAO, Tiendas D1"
 ---
 
 # Cloro Multicolor

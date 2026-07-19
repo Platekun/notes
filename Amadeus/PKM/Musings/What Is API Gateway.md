@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "API Gateway"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 9, 2022 1:09 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "API Gateway"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 9, 2022 1:09 AM"
+sources: "Unknown"
 ---
 
 # What Is API Gateway?

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Alexis Leskinen"
-Last edited time: "May 25, 2024 3:15 PM"
-Status: "Unprocessed"
-Created time: "May 25, 2024 2:53 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Alexis Leskinen"
+last-edited-time: "May 25, 2024 3:15 PM"
+status: "Unprocessed"
+created-time: "May 25, 2024 2:53 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Information War

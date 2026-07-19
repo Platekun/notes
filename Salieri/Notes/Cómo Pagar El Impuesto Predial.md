@@ -1,7 +1,7 @@
 ---
-Area: "Finances"
-Archived: "false"
-Area Archived: "No"
+area: "Finances"
+archived: "false"
+area-archived: "No"
 ---
 
 # Cómo Pagar El Impuesto Predial

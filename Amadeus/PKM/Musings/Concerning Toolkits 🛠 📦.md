@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Kent C. Dodds"
-Primary Zettelkasten Area: "Tooling"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 25, 2022 8:27 PM"
-Sources: "Concerning Toolkits"
+note-type: "Literature"
+author: "Kent C. Dodds"
+primary-zettelkasten-area: "Tooling"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 25, 2022 8:27 PM"
+sources: "Concerning Toolkits"
 ---
 
 # Concerning Toolkits 🛠 📦

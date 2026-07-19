@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Suzuha Amane"
-Last edited time: "May 23, 2024 2:20 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:23 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Suzuha Amane"
+last-edited-time: "May 23, 2024 2:20 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:23 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Too Much Comfort Can Blind People

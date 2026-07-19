@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 47,311.00"
-Total: "COP 94,622.00"
-Unidad: "2"
+precio-cop: "COP 47,311.00"
+total: "COP 94,622.00"
+unidad: "2"
 ---
 
 # Basílica de San Marcos

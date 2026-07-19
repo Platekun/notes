@@ -1,13 +1,13 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "November 2, 2024 3:53 AM"
-Secondary Zettelkasten Area: "Ethics"
-Tertiary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "October 17, 2022 12:47 AM"
-Experiences: "Play Tales Of Xillia"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "November 2, 2024 3:53 AM"
+secondary-zettelkasten-area: "Ethics"
+tertiary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "October 17, 2022 12:47 AM"
+experiences: "Play Tales Of Xillia"
 ---
 
 # Unwavering Conviction

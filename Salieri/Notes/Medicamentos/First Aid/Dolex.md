@@ -1,5 +1,5 @@
 ---
-Use Cases: "Dolor De Cabeza, Malestar General"
+use-cases: "Dolor De Cabeza, Malestar General"
 ---
 
 # Dolex

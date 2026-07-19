@@ -1,6 +1,6 @@
 ---
-URL: "https://historicalmodeling.com/distributed-systems/message-queues.html"
-Notes: "What Is A Message Queue?"
+url: "https://historicalmodeling.com/distributed-systems/message-queues.html"
+notes: "What Is A Message Queue?"
 ---
 
 # Message Queues

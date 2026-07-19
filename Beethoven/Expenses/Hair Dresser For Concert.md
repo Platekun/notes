@@ -1,8 +1,8 @@
 ---
-Amount: "COP 100,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "May 1, 2024 3:04 AM"
-Sprint: "Pretty Planning Game"
+amount: "COP 100,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "May 1, 2024 3:04 AM"
+sprint: "Pretty Planning Game"
 ---
 
 # Hair Dresser For Concert

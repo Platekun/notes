@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 28, 2023 12:52 PM"
-Status: "Processed"
-Created time: "September 28, 2023 12:45 PM"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 28, 2023 12:52 PM"
+status: "Processed"
+created-time: "September 28, 2023 12:45 PM"
 ---
 
 # Despite Everything, I Will Continue

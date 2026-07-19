@@ -1,6 +1,6 @@
 ---
-Original Name: "Spoon"
-Recipes: "Pudín De Vainilla, Marquesa De Chocolate, Quesillo"
+original-name: "Spoon"
+recipes: "Pudín De Vainilla, Marquesa De Chocolate, Quesillo"
 ---
 
 # Cuchara

@@ -1,5 +1,5 @@
 ---
-Archived: "No"
+archived: "No"
 ---
 
 # The Most Popular Idea I've Ever Invented (PARA Method)

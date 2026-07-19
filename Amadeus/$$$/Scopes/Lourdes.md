@@ -1,5 +1,5 @@
 ---
-Description: "Everything related to Lourdes."
+description: "Everything related to Lourdes."
 ---
 
 # Lourdes

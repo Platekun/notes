@@ -1,5 +1,5 @@
 ---
-Notes: "How We Perceive The World"
+notes: "How We Perceive The World"
 ---
 
 # Issei Hatano

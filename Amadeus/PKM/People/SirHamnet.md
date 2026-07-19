@@ -1,5 +1,5 @@
 ---
-Notes: "Deathly Loneliness Attacks"
+notes: "Deathly Loneliness Attacks"
 ---
 
 # SirHamnet

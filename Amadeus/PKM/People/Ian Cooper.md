@@ -1,5 +1,5 @@
 ---
-Notes: "The Clean Architecture"
+notes: "The Clean Architecture"
 ---
 
 # Ian Cooper

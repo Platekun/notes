@@ -1,14 +1,14 @@
 ---
-Amount: "COP 88,700.00"
-Balance: "Trusting Mirzakhani"
-Scope: "Lobito"
-Created Time: "January 14, 2023 1:53 PM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 88,700.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 88,700.00"
+balance: "Trusting Mirzakhani"
+scope: "Lobito"
+created-time: "January 14, 2023 1:53 PM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 88,700.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Gym

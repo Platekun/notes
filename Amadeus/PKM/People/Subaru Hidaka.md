@@ -1,5 +1,5 @@
 ---
-Notes: "Present vs Future"
+notes: "Present vs Future"
 ---
 
 # Subaru Hidaka

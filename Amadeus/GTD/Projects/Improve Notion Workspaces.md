@@ -1,5 +1,5 @@
 ---
-Status: "Done"
+status: "Done"
 ---
 
 # Improve Notion Workspaces

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Juan D Jara"
-Primary Zettelkasten Area: "Routing"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Routers As Maps To Components"
+note-type: "Literature"
+author: "Juan D Jara"
+primary-zettelkasten-area: "Routing"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Routers As Maps To Components"
 ---
 
 # Routers Tend To Be Overcomplicated

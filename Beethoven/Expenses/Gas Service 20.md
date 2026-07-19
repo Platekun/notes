@@ -1,7 +1,7 @@
 ---
-Amount: "COP 30,000.00"
-Created by: "Automation"
-Created time: "April 1, 2026 5:02 AM"
+amount: "COP 30,000.00"
+created-by: "Automation"
+created-time: "April 1, 2026 5:02 AM"
 ---
 
 # Gas Service

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "March 31, 2024 3:10 PM"
-Status: "Unprocessed"
-Created time: "March 28, 2024 4:30 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "March 31, 2024 3:10 PM"
+status: "Unprocessed"
+created-time: "March 28, 2024 4:30 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Trying Once or Twice Probably Won't Get You There

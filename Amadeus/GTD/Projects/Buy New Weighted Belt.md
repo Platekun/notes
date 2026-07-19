@@ -1,5 +1,5 @@
 ---
-Status: "Ready To Start"
+status: "Ready To Start"
 ---
 
 # Buy New Weighted Belt

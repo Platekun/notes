@@ -1,5 +1,5 @@
 ---
-Notes: "SPA Incongruence with Navigation And Route Transitions"
+notes: "SPA Incongruence with Navigation And Route Transitions"
 ---
 
 # Truong Hoang Dung

@@ -1,6 +1,6 @@
 ---
-Brand: "Natural Feeling"
-Stores: "Tiendas D1, DollarCity"
+brand: "Natural Feeling"
+stores: "Tiendas D1, DollarCity"
 ---
 
 # Jabón De Cuerpo

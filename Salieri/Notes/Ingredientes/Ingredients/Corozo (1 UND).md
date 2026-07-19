@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 900.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 900.00"
+from: "Fruvecol"
 ---
 
 # Corozo (1 UND)

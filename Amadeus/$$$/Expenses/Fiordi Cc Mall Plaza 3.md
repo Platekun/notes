@@ -1,14 +1,14 @@
 ---
-Amount: "COP 130,565.00"
-Balance: "T.B.N"
-Scope: "Relationship"
-Created Time: "March 8, 2026 1:09 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 130,565.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 130,565.00"
+balance: "T.B.N"
+scope: "Relationship"
+created-time: "March 8, 2026 1:09 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 130,565.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Fiordi Cc Mall Plaza

@@ -1,5 +1,5 @@
 ---
-Notes: "Boring Code Oath"
+notes: "Boring Code Oath"
 ---
 
 # Khalil Stemler

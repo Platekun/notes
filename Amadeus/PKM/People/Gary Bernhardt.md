@@ -1,5 +1,5 @@
 ---
-Notes: "Unit Testing is Difficult In React"
+notes: "Unit Testing is Difficult In React"
 ---
 
 # Gary Bernhardt

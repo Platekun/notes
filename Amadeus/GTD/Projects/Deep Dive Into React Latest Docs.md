@@ -1,5 +1,5 @@
 ---
-Status: "Ready To Start"
+status: "Ready To Start"
 ---
 
 # Deep Dive Into React Latest Docs

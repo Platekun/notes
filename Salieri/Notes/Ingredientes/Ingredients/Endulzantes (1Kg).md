@@ -1,8 +1,8 @@
 ---
-Slug: "13"
-Brand: "Member's Selection"
-Price: "COP 43,900.00"
-From: "Pricesmart"
+slug: "13"
+brand: "Member's Selection"
+price: "COP 43,900.00"
+from: "Pricesmart"
 ---
 
 # Endulzantes (1Kg)

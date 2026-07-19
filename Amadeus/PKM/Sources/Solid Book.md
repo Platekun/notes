@@ -1,5 +1,5 @@
 ---
-URL: "https://wiki.solidbook.io"
+url: "https://wiki.solidbook.io"
 ---
 
 # Solid Book

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "November 4, 2023 8:24 PM"
-Status: "Processed"
-Created time: "October 3, 2023 12:59 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "November 4, 2023 8:24 PM"
+status: "Processed"
+created-time: "October 3, 2023 12:59 PM"
 ---
 
 # Virtual Reality

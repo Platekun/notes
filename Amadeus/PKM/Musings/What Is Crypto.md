@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Crypto"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "December 30, 2022 3:45 AM"
-Sources: "Cryptocurrency Definition, \"Does the cryptography part of a cryptocurrency comes from its use of blockchain?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Crypto"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "December 30, 2022 3:45 AM"
+sources: "Cryptocurrency Definition, \"Does the cryptography part of a cryptocurrency comes from its use of blockchain?” Prompt"
 ---
 
 # What Is Crypto?

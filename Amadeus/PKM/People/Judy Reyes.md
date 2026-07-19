@@ -1,5 +1,5 @@
 ---
-Notes: "A Person Is Nothing But Their Memories"
+notes: "A Person Is Nothing But Their Memories"
 ---
 
 # Judy Reyes

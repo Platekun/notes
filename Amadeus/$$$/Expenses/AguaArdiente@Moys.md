@@ -1,14 +1,14 @@
 ---
-Amount: "COP 106,000.00"
-Balance: "Firelord"
-Scope: "Relationship"
-Created Time: "February 11, 2024 1:36 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 106,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 106,000.00"
+balance: "Firelord"
+scope: "Relationship"
+created-time: "February 11, 2024 1:36 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 106,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # AguaArdiente@Moys

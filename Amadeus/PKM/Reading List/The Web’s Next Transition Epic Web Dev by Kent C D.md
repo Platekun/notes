@@ -1,5 +1,5 @@
 ---
-URL: "https://www.epicweb.dev/the-webs-next-transition"
+url: "https://www.epicweb.dev/the-webs-next-transition"
 ---
 
 # The Web’s Next Transition | Epic Web Dev by Kent C. Dodds

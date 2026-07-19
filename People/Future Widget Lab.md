@@ -1,7 +1,7 @@
 ---
-Email: "futurewidgetlab@gmail.com"
-Membership Type: "Guest"
-Person: "Future Widget Lab"
+email: "futurewidgetlab@gmail.com"
+membership-type: "Guest"
+person: "Future Widget Lab"
 ---
 
 # Future Widget Lab

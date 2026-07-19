@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Primary Zettelkasten Area: "Decision Making"
-Last edited time: "December 18, 2023 1:11 AM"
-Status: "Unprocessed"
-Created time: "October 24, 2022 9:24 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Kurisu Makise"
+primary-zettelkasten-area: "Decision Making"
+last-edited-time: "December 18, 2023 1:11 AM"
+status: "Unprocessed"
+created-time: "October 24, 2022 9:24 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Coming To Terms With Your Decisions

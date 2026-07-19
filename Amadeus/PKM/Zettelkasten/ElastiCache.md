@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "ElastiCache Engines, What Is ElastiCache?"
+parent-item: "AWS"
+primary-source: "ElastiCache Engines, What Is ElastiCache?"
 ---
 
 # ElastiCache

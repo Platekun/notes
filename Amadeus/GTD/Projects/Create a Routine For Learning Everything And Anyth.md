@@ -1,5 +1,5 @@
 ---
-Status: "Ready To Start"
+status: "Ready To Start"
 ---
 
 # Create a Routine For Learning Everything And Anything

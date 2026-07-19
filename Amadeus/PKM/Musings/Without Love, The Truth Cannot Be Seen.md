@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Last edited time: "October 30, 2024 8:12 PM"
-Status: "Unprocessed"
-Created time: "June 27, 2024 2:11 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Carlos Lobo"
+last-edited-time: "October 30, 2024 8:12 PM"
+status: "Unprocessed"
+created-time: "June 27, 2024 2:11 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Without Love, The Truth Cannot Be Seen

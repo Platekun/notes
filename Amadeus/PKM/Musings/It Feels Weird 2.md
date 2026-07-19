@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "December 7, 2023 2:43 AM"
-Status: "Processed"
-Created time: "December 7, 2023 2:40 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "December 7, 2023 2:43 AM"
+status: "Processed"
+created-time: "December 7, 2023 2:40 AM"
 ---
 
 # It Feels Weird

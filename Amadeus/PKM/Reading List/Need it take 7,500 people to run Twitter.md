@@ -1,5 +1,5 @@
 ---
-URL: "https://world.hey.com/dhh/need-it-take-7-500-people-to-run-twitter-a8cb36a6"
+url: "https://world.hey.com/dhh/need-it-take-7-500-people-to-run-twitter-a8cb36a6"
 ---
 
 # Need it take 7,500 people to run Twitter?

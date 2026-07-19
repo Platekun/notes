@@ -1,14 +1,14 @@
 ---
-Original Date: "June 1, 2021"
-Amount: "COP 156,000.00"
-Scope: "Family"
-Created Time: "June 12, 2022 2:09 PM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 156,000.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+original-date: "June 1, 2021"
+amount: "COP 156,000.00"
+scope: "Family"
+created-time: "June 12, 2022 2:09 PM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 156,000.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Father’s Day Lunch

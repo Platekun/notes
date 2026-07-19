@@ -1,7 +1,7 @@
 ---
-Amount: "COP 300,000.00"
-Created by: "Automation"
-Created time: "May 1, 2026 5:02 AM"
+amount: "COP 300,000.00"
+created-by: "Automation"
+created-time: "May 1, 2026 5:02 AM"
 ---
 
 # Cat Food

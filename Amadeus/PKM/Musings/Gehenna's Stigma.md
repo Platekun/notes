@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "May 25, 2024 3:27 PM"
-Status: "Unprocessed"
-Created time: "May 25, 2024 3:15 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "May 25, 2024 3:27 PM"
+status: "Unprocessed"
+created-time: "May 25, 2024 3:15 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Gehenna's Stigma

@@ -1,7 +1,7 @@
 ---
-Area: "Alimentación"
-Archived: "false"
-Area Archived: "No"
+area: "Alimentación"
+archived: "false"
+area-archived: "No"
 ---
 
 # Ingredientes

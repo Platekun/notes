@@ -1,10 +1,10 @@
 ---
-Loan: "D1- Lola, Brown Shirt, Air fryer, Ambientador nana, Disfraz galleta, Disfraz"
-Amount: "COP 256,000.00"
-Performed: "Yes"
-Created By: "Carlos Camilo Lobo Ulloque"
-Created Time: "October 30, 2024 12:21 AM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "D1- Lola, Brown Shirt, Air fryer, Ambientador nana, Disfraz galleta, Disfraz"
+amount: "COP 256,000.00"
+performed: "Yes"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "October 30, 2024 12:21 AM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

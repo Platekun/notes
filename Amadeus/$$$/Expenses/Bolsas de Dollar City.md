@@ -1,14 +1,14 @@
 ---
-Amount: "COP 15,000.00"
-Balance: "Happy Hermann"
-Scope: "Family"
-Created Time: "June 17, 2023 10:42 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 15,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 15,000.00"
+balance: "Happy Hermann"
+scope: "Family"
+created-time: "June 17, 2023 10:42 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 15,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Bolsas de Dollar City

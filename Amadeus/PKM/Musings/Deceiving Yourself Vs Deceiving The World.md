@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "April 1, 2024 1:53 AM"
-Status: "Unprocessed"
-Created time: "March 31, 2024 9:32 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "April 1, 2024 1:53 AM"
+status: "Unprocessed"
+created-time: "March 31, 2024 9:32 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Deceiving Yourself Vs Deceiving The World

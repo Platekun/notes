@@ -1,9 +1,9 @@
 ---
-Slug: "384978"
-Brand: "Bucanero Pollos"
-Price: "COP 57,500.00"
-From: "Pricesmart"
-Recipes: "Pasta De Zuchini"
+slug: "384978"
+brand: "Bucanero Pollos"
+price: "COP 57,500.00"
+from: "Pricesmart"
+recipes: "Pasta De Zuchini"
 ---
 
 # Lomitos De Pechuga De Pollo

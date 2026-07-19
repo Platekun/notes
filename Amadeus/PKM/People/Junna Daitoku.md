@@ -1,5 +1,5 @@
 ---
-Notes: "Glow Of Passion"
+notes: "Glow Of Passion"
 ---
 
 # Junna Daitoku

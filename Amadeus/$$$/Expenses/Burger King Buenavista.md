@@ -1,14 +1,14 @@
 ---
-Amount: "COP 51,660.00"
-Balance: "Ides Of March"
-Scope: "Relationship"
-Created Time: "March 16, 2025 12:43 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 51,660.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 51,660.00"
+balance: "Ides Of March"
+scope: "Relationship"
+created-time: "March 16, 2025 12:43 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 51,660.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Burger King Buenavista

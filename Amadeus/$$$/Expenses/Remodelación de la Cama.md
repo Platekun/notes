@@ -1,14 +1,14 @@
 ---
-Amount: "COP 900,000.00"
-Balance: "Blink"
-Scope: "Lab"
-Created Time: "October 2, 2022 5:24 PM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 900,000.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 900,000.00"
+balance: "Blink"
+scope: "Lab"
+created-time: "October 2, 2022 5:24 PM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 900,000.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Remodelación de la Cama

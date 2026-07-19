@@ -1,10 +1,10 @@
 ---
-Loan: "Regalo karen"
-Amount: "COP 60,000.00"
-Performed: "Yes"
-Created By: "Carlos Camilo Lobo Ulloque"
-Created Time: "January 26, 2023 2:02 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Regalo karen"
+amount: "COP 60,000.00"
+performed: "Yes"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "January 26, 2023 2:02 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

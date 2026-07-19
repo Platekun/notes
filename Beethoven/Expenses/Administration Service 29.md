@@ -1,8 +1,8 @@
 ---
-Amount: "COP 400,000.00"
-Created by: "Automation"
-Created time: "June 1, 2024 7:40 AM"
-Sprint: "Frozen Mole"
+amount: "COP 400,000.00"
+created-by: "Automation"
+created-time: "June 1, 2024 7:40 AM"
+sprint: "Frozen Mole"
 ---
 
 # Administration Service

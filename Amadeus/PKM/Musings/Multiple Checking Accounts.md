@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Work"
-Last edited time: "November 25, 2023 2:46 AM"
-Status: "Processed"
-Created time: "November 24, 2023 9:35 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Work"
+last-edited-time: "November 25, 2023 2:46 AM"
+status: "Processed"
+created-time: "November 24, 2023 9:35 PM"
 ---
 
 # Multiple Checking Accounts

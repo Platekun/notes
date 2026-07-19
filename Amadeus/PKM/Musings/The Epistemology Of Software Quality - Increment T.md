@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Hillel Wayne"
-Primary Zettelkasten Area: "Sleep"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 2:50 AM"
-Sources: "The Epistemology Of Software Quality - Increment: Teams"
+note-type: "Literature"
+author: "Hillel Wayne"
+primary-zettelkasten-area: "Sleep"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 2:50 AM"
+sources: "The Epistemology Of Software Quality - Increment: Teams"
 ---
 
 # The Epistemology Of Software Quality - Increment: Teams

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "May 28, 2024 1:29 AM"
-Status: "Unprocessed"
-Created time: "May 28, 2024 1:25 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "May 28, 2024 1:29 AM"
+status: "Unprocessed"
+created-time: "May 28, 2024 1:25 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # This…Is My Choice

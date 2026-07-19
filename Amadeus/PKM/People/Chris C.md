@@ -1,5 +1,5 @@
 ---
-Notes: "Scroll Restoration And Custom Back Buttons"
+notes: "Scroll Restoration And Custom Back Buttons"
 ---
 
 # Chris C.

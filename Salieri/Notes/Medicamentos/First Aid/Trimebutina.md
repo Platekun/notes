@@ -1,5 +1,5 @@
 ---
-Use Cases: "Colón, Gastro"
+use-cases: "Colón, Gastro"
 ---
 
 # Trimebutina

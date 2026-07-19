@@ -1,5 +1,5 @@
 ---
-Price: "COP 0.00"
+price: "COP 0.00"
 ---
 
 # Hielo

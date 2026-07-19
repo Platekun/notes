@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Tiago Forte"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "November 1, 2024 12:58 AM"
-Secondary Zettelkasten Area: "Yourself"
-Status: "Processed"
-Created time: "November 1, 2024 12:47 AM"
-Experiences: "Read Building A Second Brain"
+note-type: "Literature"
+author: "Tiago Forte"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "November 1, 2024 12:58 AM"
+secondary-zettelkasten-area: "Yourself"
+status: "Processed"
+created-time: "November 1, 2024 12:47 AM"
+experiences: "Read Building A Second Brain"
 ---
 
 # Redefine Your Relation With Information

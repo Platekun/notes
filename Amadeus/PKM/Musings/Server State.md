@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Kent C. Dodds"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Front-End Development, Distributed Programming, Caching"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Application State Is Client-Side Cache Of Server State"
+note-type: "Literature"
+author: "Kent C. Dodds"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Front-End Development, Distributed Programming, Caching"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Application State Is Client-Side Cache Of Server State"
 ---
 
 # Server State

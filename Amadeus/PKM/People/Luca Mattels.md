@@ -1,5 +1,5 @@
 ---
-Notes: "State Charts For Business Concerns"
+notes: "State Charts For Business Concerns"
 ---
 
 # Luca Mattels

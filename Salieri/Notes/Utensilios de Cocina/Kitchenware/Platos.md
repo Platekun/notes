@@ -1,6 +1,6 @@
 ---
-Original Name: "DInner Plate"
-Recipes: "Pollo Napolitano, Croquetas De Jamón Serrano, Galletas Fit De Gaby"
+original-name: "DInner Plate"
+recipes: "Pollo Napolitano, Croquetas De Jamón Serrano, Galletas Fit De Gaby"
 ---
 
 # Platos

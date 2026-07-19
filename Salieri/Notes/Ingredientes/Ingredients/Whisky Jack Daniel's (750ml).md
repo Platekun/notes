@@ -1,8 +1,8 @@
 ---
-Slug: "whisky-jack-dan-750-ml-82184090466-1569062"
-Brand: "Jack Daniel's"
-Price: "COP 128,000.00"
-From: "SAO"
+slug: "whisky-jack-dan-750-ml-82184090466-1569062"
+brand: "Jack Daniel's"
+price: "COP 128,000.00"
+from: "SAO"
 ---
 
 # Whisky Jack Daniel's (750ml)

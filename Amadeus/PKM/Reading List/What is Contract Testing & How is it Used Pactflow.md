@@ -1,5 +1,5 @@
 ---
-URL: "https://pactflow.io/blog/what-is-contract-testing/"
+url: "https://pactflow.io/blog/what-is-contract-testing/"
 ---
 
 # What is Contract Testing & How is it Used? | Pactflow

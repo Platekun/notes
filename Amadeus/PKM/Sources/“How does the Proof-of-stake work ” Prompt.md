@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Proof-of-Stake?"
+notes: "What Is Proof-of-Stake?"
 ---
 
 # “How does the Proof-of-stake work?” Prompt

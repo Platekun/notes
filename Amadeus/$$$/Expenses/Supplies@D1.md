@@ -1,14 +1,14 @@
 ---
-Amount: "COP 65,000.00"
-Balance: "Smooth Nissan Sentra"
-Scope: "Lab"
-Created Time: "June 21, 2024 5:54 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 65,000.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 65,000.00"
+balance: "Smooth Nissan Sentra"
+scope: "Lab"
+created-time: "June 21, 2024 5:54 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 65,000.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Supplies@D1

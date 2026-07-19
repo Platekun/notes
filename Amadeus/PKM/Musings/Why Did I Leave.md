@@ -1,10 +1,10 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Yourself"
-Last edited time: "October 2, 2023 12:21 AM"
-Status: "Processed"
-Created time: "October 2, 2023 12:20 AM"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Yourself"
+last-edited-time: "October 2, 2023 12:21 AM"
+status: "Processed"
+created-time: "October 2, 2023 12:20 AM"
 ---
 
 # Why Did I Leave?

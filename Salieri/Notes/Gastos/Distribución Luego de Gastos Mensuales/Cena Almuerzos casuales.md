@@ -1,5 +1,5 @@
 ---
-Description: "Ocaciones donde de come en algún establecimiento para el almuerzo o cena."
+description: "Ocaciones donde de come en algún establecimiento para el almuerzo o cena."
 ---
 
 # Cena / Almuerzos casuales

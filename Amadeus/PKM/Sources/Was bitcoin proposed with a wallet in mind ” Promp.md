@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Bitcoin?"
+notes: "What Is Bitcoin?"
 ---
 
 # "Was bitcoin proposed with a wallet in mind?” Prompt

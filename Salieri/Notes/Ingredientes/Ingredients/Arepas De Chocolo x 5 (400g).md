@@ -1,8 +1,8 @@
 ---
-Slug: "arepa-de-chocolo-5-und-masmai-400-grs-12000024"
-Brand: "Masmaí"
-Price: "COP 3,290.00"
-From: "Tiendas D1"
+slug: "arepa-de-chocolo-5-und-masmai-400-grs-12000024"
+brand: "Masmaí"
+price: "COP 3,290.00"
+from: "Tiendas D1"
 ---
 
 # Arepas De Chocolo x 5 (400g)

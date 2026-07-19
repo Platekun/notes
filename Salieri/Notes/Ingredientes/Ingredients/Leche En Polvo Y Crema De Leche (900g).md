@@ -1,9 +1,9 @@
 ---
-Slug: "leche-polv-olimpica-bsa-380-g"
-Brand: "Olímpica"
-Price: "COP 9,990.00"
-From: "SAO"
-Recipes: "Bailey"
+slug: "leche-polv-olimpica-bsa-380-g"
+brand: "Olímpica"
+price: "COP 9,990.00"
+from: "SAO"
+recipes: "Bailey"
 ---
 
 # Leche En Polvo Y Crema De Leche (900g)

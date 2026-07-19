@@ -1,5 +1,5 @@
 ---
-Use Cases: "Antiácido"
+use-cases: "Antiácido"
 ---
 
 # Omeprazol

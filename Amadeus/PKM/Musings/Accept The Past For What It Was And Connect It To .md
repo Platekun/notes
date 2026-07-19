@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "April 1, 2024 1:44 AM"
-Status: "Unprocessed"
-Created time: "April 1, 2024 1:38 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "April 1, 2024 1:44 AM"
+status: "Unprocessed"
+created-time: "April 1, 2024 1:38 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Accept The Past For What It Was And Connect It To The Future

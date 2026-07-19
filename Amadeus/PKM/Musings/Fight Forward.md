@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "December 13, 2023 12:48 PM"
-Status: "Processed"
-Created time: "December 13, 2023 12:38 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "December 13, 2023 12:48 PM"
+status: "Processed"
+created-time: "December 13, 2023 12:38 PM"
 ---
 
 # Fight Forward

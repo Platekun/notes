@@ -1,14 +1,14 @@
 ---
-Amount: "COP 83,944.00"
-Balance: "Distinguished Ningbo"
-Scope: "Lab"
-Created Time: "November 9, 2024 11:18 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 83,944.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 83,944.00"
+balance: "Distinguished Ningbo"
+scope: "Lab"
+created-time: "November 9, 2024 11:18 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 83,944.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Supplies@Exito

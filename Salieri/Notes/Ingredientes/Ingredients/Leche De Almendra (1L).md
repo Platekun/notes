@@ -1,9 +1,9 @@
 ---
-Slug: "bebida-tosh-almendra-sa-1l"
-Brand: "Tosh"
-Price: "COP 14,500.00"
-From: "SAO"
-Recipes: "Galletas Fit De Gaby"
+slug: "bebida-tosh-almendra-sa-1l"
+brand: "Tosh"
+price: "COP 14,500.00"
+from: "SAO"
+recipes: "Galletas Fit De Gaby"
 ---
 
 # Leche De Almendra (1L)

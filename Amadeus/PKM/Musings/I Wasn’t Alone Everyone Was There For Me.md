@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "May 28, 2024 1:25 AM"
-Status: "Unprocessed"
-Created time: "May 27, 2024 2:21 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "May 28, 2024 1:25 AM"
+status: "Unprocessed"
+created-time: "May 27, 2024 2:21 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # I Wasn’t Alone Everyone Was There For Me

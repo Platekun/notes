@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 24, 2024 2:42 PM"
-Status: "Unprocessed"
-Created time: "February 24, 2024 2:20 PM"
-Sources: "Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 24, 2024 2:42 PM"
+status: "Unprocessed"
+created-time: "February 24, 2024 2:20 PM"
+sources: "Steins;Gate 0"
 ---
 
 # We Don't Know How The Brain Works

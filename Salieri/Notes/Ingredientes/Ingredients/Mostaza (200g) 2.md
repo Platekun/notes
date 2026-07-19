@@ -1,8 +1,8 @@
 ---
-Slug: "mostaza-medalla-oro-doy-pack-200-g-7701008506473--1417630"
-Brand: "Medalla De Oro"
-Price: "COP 2,300.00"
-From: "SAO"
+slug: "mostaza-medalla-oro-doy-pack-200-g-7701008506473--1417630"
+brand: "Medalla De Oro"
+price: "COP 2,300.00"
+from: "SAO"
 ---
 
 # Mostaza (200g)

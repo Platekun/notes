@@ -1,14 +1,14 @@
 ---
-Amount: "COP 90,000.00"
-Balance: "Empath"
-Scope: "Family"
-Created Time: "August 21, 2023 6:42 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 90,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 90,000.00"
+balance: "Empath"
+scope: "Family"
+created-time: "August 21, 2023 6:42 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 90,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Pizza

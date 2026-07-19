@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Primary Zettelkasten Area: "Love"
-Last edited time: "October 1, 2023 11:40 PM"
-Secondary Zettelkasten Area: "Communication"
-Tertiary Zettelkasten Area: "Time Perception"
-Status: "Processed"
-Created time: "October 24, 2022 9:58 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Holy Day OF Scourge"
+note-type: "Literature"
+author: "Kurisu Makise"
+primary-zettelkasten-area: "Love"
+last-edited-time: "October 1, 2023 11:40 PM"
+secondary-zettelkasten-area: "Communication"
+tertiary-zettelkasten-area: "Time Perception"
+status: "Processed"
+created-time: "October 24, 2022 9:58 PM"
+experiences: "Play Steins;Gate"
+sources: "Holy Day OF Scourge"
 ---
 
 # Universal Bonds: Understanding Each Other

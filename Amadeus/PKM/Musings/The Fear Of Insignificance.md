@@ -1,13 +1,13 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "December 30, 2023 5:20 PM"
-Secondary Zettelkasten Area: "Loneliness, Growth, Time Perception"
-Status: "Processed"
-Created time: "October 16, 2022 10:41 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "December 30, 2023 5:20 PM"
+secondary-zettelkasten-area: "Loneliness, Growth, Time Perception"
+status: "Processed"
+created-time: "October 16, 2022 10:41 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # The Fear Of Insignificance

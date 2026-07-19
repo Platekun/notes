@@ -1,8 +1,8 @@
 ---
-Amount: "COP 45,000.00"
-Balance: "Blink"
-Created Time: "September 24, 2022 11:42 PM"
-Scope: "Lobito"
+amount: "COP 45,000.00"
+balance: "Blink"
+created-time: "September 24, 2022 11:42 PM"
+scope: "Lobito"
 ---
 
 # TuPlus

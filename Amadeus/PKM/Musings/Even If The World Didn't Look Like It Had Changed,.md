@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takuru Miyashiro"
-Primary Zettelkasten Area: "Time Perception"
-Last edited time: "October 1, 2023 7:48 PM"
-Secondary Zettelkasten Area: "Growth"
-Status: "Processed"
-Created time: "February 7, 2023 1:56 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takuru Miyashiro"
+primary-zettelkasten-area: "Time Perception"
+last-edited-time: "October 1, 2023 7:48 PM"
+secondary-zettelkasten-area: "Growth"
+status: "Processed"
+created-time: "February 7, 2023 1:56 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Even If The World Didn't Look Like It Had Changed, Time Is Still Passing

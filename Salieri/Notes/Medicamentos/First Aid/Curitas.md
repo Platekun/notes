@@ -1,5 +1,5 @@
 ---
-Use Cases: "Protección"
+use-cases: "Protección"
 ---
 
 # Curitas

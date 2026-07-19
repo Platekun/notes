@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Last edited time: "February 5, 2024 12:56 AM"
-Status: "Unprocessed"
-Created time: "February 5, 2024 12:55 AM"
-Experiences: "Play Steins;Gate 0"
-Sources: "Steins;Gate 0"
+note-type: "Literature"
+last-edited-time: "February 5, 2024 12:56 AM"
+status: "Unprocessed"
+created-time: "February 5, 2024 12:55 AM"
+experiences: "Play Steins;Gate 0"
+sources: "Steins;Gate 0"
 ---
 
 # Hippocampal Gyrus

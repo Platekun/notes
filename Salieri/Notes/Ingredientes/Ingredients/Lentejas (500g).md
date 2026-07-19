@@ -1,8 +1,8 @@
 ---
-Slug: "lenteja-olimpica--500-g-7701008001374-2000171"
-Brand: "Olímpica"
-Price: "COP 3,500.00"
-From: "SAO"
+slug: "lenteja-olimpica--500-g-7701008001374-2000171"
+brand: "Olímpica"
+price: "COP 3,500.00"
+from: "SAO"
 ---
 
 # Lentejas (500g)

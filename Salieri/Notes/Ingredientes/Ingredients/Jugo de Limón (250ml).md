@@ -1,8 +1,8 @@
 ---
-Slug: "jugo-de-limon-tree-fruts-250-ml-12002197"
-Brand: "Tree Fruts"
-Price: "COP 2,990.00"
-From: "Tiendas D1"
+slug: "jugo-de-limon-tree-fruts-250-ml-12002197"
+brand: "Tree Fruts"
+price: "COP 2,990.00"
+from: "Tiendas D1"
 ---
 
 # Jugo de Limón (250ml)

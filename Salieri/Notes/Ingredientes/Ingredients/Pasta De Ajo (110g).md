@@ -1,9 +1,9 @@
 ---
-Slug: "pasta-de-ajo-delika-110-g-12004032"
-Brand: "Delika"
-Price: "COP 2,190.00"
-From: "Tiendas D1"
-Recipes: "Pechuga De Pollo Rellena"
+slug: "pasta-de-ajo-delika-110-g-12004032"
+brand: "Delika"
+price: "COP 2,190.00"
+from: "Tiendas D1"
+recipes: "Pechuga De Pollo Rellena"
 ---
 
 # Pasta De Ajo (110g)

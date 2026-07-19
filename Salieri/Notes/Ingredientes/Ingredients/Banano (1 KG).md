@@ -1,8 +1,8 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 2,900.00"
-From: "Fruvecol"
-Recipes: "Galletas Fit De Gaby"
+brand: "Fruvecol"
+price: "COP 2,900.00"
+from: "Fruvecol"
+recipes: "Galletas Fit De Gaby"
 ---
 
 # Banano (1 KG)

@@ -1,6 +1,6 @@
 ---
-Utensils: "Delantal, Servilletas"
-Cost: "0"
+utensils: "Delantal, Servilletas"
+cost: "0"
 ---
 
 # New Recipe

@@ -1,8 +1,8 @@
 ---
-Amount: "COP 900,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "January 4, 2025 2:58 PM"
-Sprint: "Beginning"
+amount: "COP 900,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "January 4, 2025 2:58 PM"
+sprint: "Beginning"
 ---
 
 # Hotel

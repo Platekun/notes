@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Subaru Hidaka"
-Primary Zettelkasten Area: "Time Perception"
-Last edited time: "October 1, 2023 11:29 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Subaru Hidaka"
+primary-zettelkasten-area: "Time Perception"
+last-edited-time: "October 1, 2023 11:29 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # Present vs Future

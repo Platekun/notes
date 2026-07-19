@@ -1,5 +1,5 @@
 ---
-Notes: "Generational Gifts"
+notes: "Generational Gifts"
 ---
 
 # Might Guy

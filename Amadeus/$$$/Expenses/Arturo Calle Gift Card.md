@@ -1,14 +1,14 @@
 ---
-Amount: "COP 200,000.00"
-Balance: "Wonderful SDLC"
-Scope: "Relationship"
-Created Time: "August 10, 2024 9:26 PM"
-Type: "Sinking"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 200,000.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 200,000.00"
+balance: "Wonderful SDLC"
+scope: "Relationship"
+created-time: "August 10, 2024 9:26 PM"
+type: "Sinking"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 200,000.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Arturo Calle Gift Card

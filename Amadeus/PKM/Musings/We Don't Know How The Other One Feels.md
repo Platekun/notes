@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Communication"
-Last edited time: "October 1, 2023 7:47 PM"
-Secondary Zettelkasten Area: "Growth"
-Status: "Processed"
-Created time: "February 8, 2023 2:31 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Communication"
+last-edited-time: "October 1, 2023 7:47 PM"
+secondary-zettelkasten-area: "Growth"
+status: "Processed"
+created-time: "February 8, 2023 2:31 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # We Don't Know How The Other One Feels

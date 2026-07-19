@@ -1,9 +1,9 @@
 ---
-Fecha: "October 8, 2024"
-Gasto Único De Carlos: "COP 60,644.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 60,644.00"
-Solo Carlos: "Yes"
+fecha: "October 8, 2024"
+gasto-único-de-carlos: "COP 60,644.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 60,644.00"
+solo-carlos: "Yes"
 ---
 
 # Farmacrimi Stazione T

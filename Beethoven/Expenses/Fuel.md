@@ -1,8 +1,8 @@
 ---
-Amount: "COP 40,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "November 5, 2024 12:55 AM"
-Sprint: "Happiness"
+amount: "COP 40,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "November 5, 2024 12:55 AM"
+sprint: "Happiness"
 ---
 
 # Fuel

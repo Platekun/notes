@@ -1,5 +1,5 @@
 ---
-URL: "https://www.gemini.com/cryptopedia/glossary#public-address"
+url: "https://www.gemini.com/cryptopedia/glossary#public-address"
 ---
 
 # Public Address Definition

@@ -1,11 +1,11 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "October 1, 2023 7:50 PM"
-Status: "Unprocessed"
-Created time: "September 30, 2023 8:19 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "October 1, 2023 7:50 PM"
+status: "Unprocessed"
+created-time: "September 30, 2023 8:19 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Ark Heart

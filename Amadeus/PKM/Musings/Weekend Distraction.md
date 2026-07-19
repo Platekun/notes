@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "January 9, 2024 12:30 AM"
-Status: "Processed"
-Created time: "January 7, 2024 12:40 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "January 9, 2024 12:30 AM"
+status: "Processed"
+created-time: "January 7, 2024 12:40 PM"
 ---
 
 # Weekend Distraction

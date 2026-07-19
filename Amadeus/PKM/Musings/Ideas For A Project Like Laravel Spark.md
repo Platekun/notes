@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Itaru Hashida"
-Last edited time: "May 23, 2024 2:20 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:27 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Itaru Hashida"
+last-edited-time: "May 23, 2024 2:20 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:27 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Ideas For A Project Like Laravel Spark

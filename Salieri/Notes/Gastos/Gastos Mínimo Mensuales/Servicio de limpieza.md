@@ -1,6 +1,6 @@
 ---
-Amount: "COP 300,000.00"
-Description: "Servicio de Limpieza."
+amount: "COP 300,000.00"
+description: "Servicio de Limpieza."
 ---
 
 # Servicio de limpieza

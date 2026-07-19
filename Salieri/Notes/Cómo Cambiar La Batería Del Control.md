@@ -1,7 +1,7 @@
 ---
-Area: "Nana"
-Archived: "false"
-Area Archived: "No"
+area: "Nana"
+archived: "false"
+area-archived: "No"
 ---
 
 # Cómo Cambiar La Batería Del Control

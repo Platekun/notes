@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Decision Making"
-Last edited time: "October 1, 2023 7:46 PM"
-Status: "Processed"
-Created time: "February 11, 2023 5:21 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Decision Making"
+last-edited-time: "October 1, 2023 7:46 PM"
+status: "Processed"
+created-time: "February 11, 2023 5:21 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Make Sure That Whatever You Do, You Don’t Regret It

@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Kurisu Makise"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 1, 2023 7:17 PM"
-Secondary Zettelkasten Area: "Time Perception"
-Status: "Unprocessed"
-Created time: "October 24, 2022 9:27 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Kurisu Makise"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 1, 2023 7:17 PM"
+secondary-zettelkasten-area: "Time Perception"
+status: "Unprocessed"
+created-time: "October 24, 2022 9:27 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Can Gods Transcend Time?

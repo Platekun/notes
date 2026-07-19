@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Databases"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Distributed Programming, Systems Design"
-Status: "Processed"
-Created time: "December 30, 2022 2:33 AM"
-Sources: "Database Replication Definition, “What Is Database Replication?” Prompt, “How is it different from database duplication?” Prompt, “Do distributed databases use replication and duplication?” Prompt, \"Is database replication considered an horizontal scaling techique?” Prompt, \"Can replication and duplication be considered consensus protocols in distributed databases?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Databases"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Distributed Programming, Systems Design"
+status: "Processed"
+created-time: "December 30, 2022 2:33 AM"
+sources: "Database Replication Definition, “What Is Database Replication?” Prompt, “How is it different from database duplication?” Prompt, “Do distributed databases use replication and duplication?” Prompt, \"Is database replication considered an horizontal scaling techique?” Prompt, \"Can replication and duplication be considered consensus protocols in distributed databases?” Prompt"
 ---
 
 # What Is Database Replication?

@@ -1,5 +1,5 @@
 ---
-Stores: "HomeCenter"
+stores: "HomeCenter"
 ---
 
 # Balde Y Escurridor

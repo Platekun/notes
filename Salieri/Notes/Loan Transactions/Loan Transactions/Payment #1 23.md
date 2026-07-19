@@ -1,10 +1,10 @@
 ---
-Loan: "Lourdes SOMO Course"
-Amount: "COP 60,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "September 2, 2022 2:45 AM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Lourdes SOMO Course"
+amount: "COP 60,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "September 2, 2022 2:45 AM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

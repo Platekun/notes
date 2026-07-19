@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 9,580.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 9,580.00"
+from: "Fruvecol"
 ---
 
 # Pimentón Rojo (1 KG)

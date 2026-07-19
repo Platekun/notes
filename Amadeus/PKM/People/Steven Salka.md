@@ -1,5 +1,5 @@
 ---
-Notes: "Route Hierarchy Inversion"
+notes: "Route Hierarchy Inversion"
 ---
 
 # Steven Salka

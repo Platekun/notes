@@ -1,5 +1,5 @@
 ---
-URL: "https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0"
+url: "https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0"
 ---
 
 # Why we're leaving the cloud

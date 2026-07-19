@@ -1,8 +1,8 @@
 ---
-Amount: "COP 75,000.00"
-Created by: "Automation"
-Created time: "July 12, 2024 6:25 AM"
-Sprint: "Next-level Sheep"
+amount: "COP 75,000.00"
+created-by: "Automation"
+created-time: "July 12, 2024 6:25 AM"
+sprint: "Next-level Sheep"
 ---
 
 # Epilator

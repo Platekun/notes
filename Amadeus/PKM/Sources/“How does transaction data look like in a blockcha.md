@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Block?"
+notes: "What Is A Block?"
 ---
 
 # “How does transaction data look like in a blockchain block?” Prompt

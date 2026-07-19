@@ -1,14 +1,14 @@
 ---
-Amount: "COP 4,100,000.00"
-Balance: "Super Toyota Highlander"
-Scope: "Relationship"
-Created Time: "May 18, 2024 10:53 PM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 4,100,000.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 4,100,000.00"
+balance: "Super Toyota Highlander"
+scope: "Relationship"
+created-time: "May 18, 2024 10:53 PM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 4,100,000.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Paris Hotel

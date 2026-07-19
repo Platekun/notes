@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Database Replication?"
+notes: "What Is Database Replication?"
 ---
 
 # “What Is Database Replication?” Prompt

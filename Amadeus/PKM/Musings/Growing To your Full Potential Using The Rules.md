@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:30 PM"
-Secondary Zettelkasten Area: "Growth"
-Status: "Processed"
-Created time: "March 19, 2023 4:54 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:30 PM"
+secondary-zettelkasten-area: "Growth"
+status: "Processed"
+created-time: "March 19, 2023 4:54 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Growing To your Full Potential Using The Rules

@@ -1,8 +1,8 @@
 ---
-Amount: "COP 140,000.00"
-Created by: "Automation"
-Created time: "January 1, 2025 5:51 AM"
-Sprint: "Beginning"
+amount: "COP 140,000.00"
+created-by: "Automation"
+created-time: "January 1, 2025 5:51 AM"
+sprint: "Beginning"
 ---
 
 # Dancing School

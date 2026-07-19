@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Hinae Arimura"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:48 PM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "February 7, 2023 1:44 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Hinae Arimura"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:48 PM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "February 7, 2023 1:44 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Focus Instead Of Panicking

@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Alexis Leskinen"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "June 1, 2024 6:11 PM"
-Status: "Processed"
-Created time: "February 3, 2024 4:01 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Alexis Leskinen"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "June 1, 2024 6:11 PM"
+status: "Processed"
+created-time: "February 3, 2024 4:01 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # The Simplest Explanation Is Usually The Best One

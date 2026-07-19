@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "April 1, 2024 1:26 AM"
-Status: "Unprocessed"
-Created time: "April 1, 2024 1:22 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "April 1, 2024 1:26 AM"
+status: "Unprocessed"
+created-time: "April 1, 2024 1:22 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # The Door We Seek

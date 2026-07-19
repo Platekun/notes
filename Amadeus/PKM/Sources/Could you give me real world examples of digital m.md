@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Digital Currency?"
+notes: "What Is A Digital Currency?"
 ---
 
 # "Could you give me real world examples of digital money?” Prompt

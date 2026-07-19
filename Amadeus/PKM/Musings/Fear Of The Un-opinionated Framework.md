@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Edo Scalafiotti"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 2:50 AM"
-Sources: "Fear Of The Un-opinionated Framework"
+note-type: "Literature"
+author: "Edo Scalafiotti"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 2:50 AM"
+sources: "Fear Of The Un-opinionated Framework"
 ---
 
 # Fear Of The Un-opinionated Framework

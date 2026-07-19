@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "October 18, 2023 2:08 AM"
-Status: "Processed"
-Created time: "October 18, 2023 2:06 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "October 18, 2023 2:08 AM"
+status: "Processed"
+created-time: "October 18, 2023 2:06 AM"
 ---
 
 # Hanging In There

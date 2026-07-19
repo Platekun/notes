@@ -1,7 +1,7 @@
 ---
-Project: "Comprar Barra de Sonido"
-Archived: "true"
-Project Archived: "Yes"
+project: "Comprar Barra de Sonido"
+archived: "true"
+project-archived: "Yes"
 ---
 
 # SoundBar Noblex

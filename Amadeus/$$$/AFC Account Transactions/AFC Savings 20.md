@@ -1,7 +1,7 @@
 ---
-Amount: "COP 2,500,000.00"
-Created Time: "January 24, 2026 5:23 AM"
-Scope: "Lobito"
+amount: "COP 2,500,000.00"
+created-time: "January 24, 2026 5:23 AM"
+scope: "Lobito"
 ---
 
 # AFC Savings

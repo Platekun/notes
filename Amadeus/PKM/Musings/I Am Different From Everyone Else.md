@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Nono Kurusu"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "December 18, 2023 1:03 AM"
-Secondary Zettelkasten Area: "Loneliness"
-Tertiary Zettelkasten Area: "Time Perception"
-Status: "Unprocessed"
-Created time: "December 31, 2022 10:23 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Nono Kurusu"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "December 18, 2023 1:03 AM"
+secondary-zettelkasten-area: "Loneliness"
+tertiary-zettelkasten-area: "Time Perception"
+status: "Unprocessed"
+created-time: "December 31, 2022 10:23 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # I Am Different From Everyone Else

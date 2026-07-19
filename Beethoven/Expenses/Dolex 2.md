@@ -1,8 +1,8 @@
 ---
-Amount: "COP 30,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "November 2, 2024 1:43 AM"
-Sprint: "Happiness"
+amount: "COP 30,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "November 2, 2024 1:43 AM"
+sprint: "Happiness"
 ---
 
 # Dolex

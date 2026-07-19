@@ -1,12 +1,12 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "June 11, 2024 3:17 AM"
-Secondary Zettelkasten Area: "Identity, Growth, Problem Solving, Time Perception"
-Status: "Processed"
-Created time: "June 11, 2024 2:31 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "June 11, 2024 3:17 AM"
+secondary-zettelkasten-area: "Identity, Growth, Problem Solving, Time Perception"
+status: "Processed"
+created-time: "June 11, 2024 2:31 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Time Heals All Wounds

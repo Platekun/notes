@@ -1,11 +1,11 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Introspections"
-Last edited time: "October 1, 2023 11:39 PM"
-Status: "Processed"
-Created time: "September 3, 2023 1:16 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Introspections"
+last-edited-time: "October 1, 2023 11:39 PM"
+status: "Processed"
+created-time: "September 3, 2023 1:16 AM"
+experiences: "Play Chaos;Child"
+sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
 ---
 
 # Hidden Character Growth

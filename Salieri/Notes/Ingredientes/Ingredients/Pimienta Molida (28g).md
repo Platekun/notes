@@ -1,8 +1,8 @@
 ---
-Brand: "Speciaria"
-Price: "COP 1,990.00"
-From: "Tiendas D1"
-Recipes: "Pasta De Zuchini, Ensalada Fría De Pasta, Jamón y Pollo, Croquetas De Jamón Serrano"
+brand: "Speciaria"
+price: "COP 1,990.00"
+from: "Tiendas D1"
+recipes: "Pasta De Zuchini, Ensalada Fría De Pasta, Jamón y Pollo, Croquetas De Jamón Serrano"
 ---
 
 # Pimienta Molida (28g)

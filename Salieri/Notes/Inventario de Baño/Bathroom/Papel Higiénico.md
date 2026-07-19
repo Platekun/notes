@@ -1,6 +1,6 @@
 ---
-Brand: "Familia"
-Stores: "SAO"
+brand: "Familia"
+stores: "SAO"
 ---
 
 # Papel Higiénico

@@ -1,7 +1,7 @@
 ---
-Amount: "COP 1,000,000.00"
-Created by: "Carlos Camilo Lobo Ulloque"
-Created time: "February 25, 2024 3:14 PM"
+amount: "COP 1,000,000.00"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "February 25, 2024 3:14 PM"
 ---
 
 # Car's Tax

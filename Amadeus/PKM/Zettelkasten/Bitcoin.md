@@ -1,6 +1,6 @@
 ---
-Parent item: "Crypto"
-Primary Source: "What Is Bitcoin?, What Is Proof-of-Work?"
+parent-item: "Crypto"
+primary-source: "What Is Bitcoin?, What Is Proof-of-Work?"
 ---
 
 # Bitcoin

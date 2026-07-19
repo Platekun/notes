@@ -1,14 +1,14 @@
 ---
-Amount: "COP 25,800.00"
-Balance: "Blizzard"
-Scope: "Lobito"
-Created Time: "July 16, 2023 9:24 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 25,800.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 25,800.00"
+balance: "Blizzard"
+scope: "Lobito"
+created-time: "July 16, 2023 9:24 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 25,800.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Chicken Bake

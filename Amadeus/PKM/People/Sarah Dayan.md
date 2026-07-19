@@ -1,5 +1,5 @@
 ---
-Notes: "Abstractions For Leaky Dependencies"
+notes: "Abstractions For Leaky Dependencies"
 ---
 
 # Sarah Dayan

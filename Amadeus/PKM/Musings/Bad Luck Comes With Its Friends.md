@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Oshino Meme"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 11:37 PM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "October 24, 2022 8:17 PM"
-Sources: "Bakemonogatari"
+note-type: "Literature"
+author: "Oshino Meme"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 11:37 PM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "October 24, 2022 8:17 PM"
+sources: "Bakemonogatari"
 ---
 
 # Bad Luck Comes With Its Friends

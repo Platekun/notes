@@ -1,9 +1,9 @@
 ---
-Fecha: "October 10, 2024"
-Gasto Único De Carlos: "COP 71,153.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 71,153.00"
-Solo Carlos: "Yes"
+fecha: "October 10, 2024"
+gasto-único-de-carlos: "COP 71,153.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 71,153.00"
+solo-carlos: "Yes"
 ---
 
 # Sumup Kiosque A Journau

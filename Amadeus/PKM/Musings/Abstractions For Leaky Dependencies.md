@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Sarah Dayan"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Wrapping Dependencies Into Custom Abstractions"
+note-type: "Literature"
+author: "Sarah Dayan"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Wrapping Dependencies Into Custom Abstractions"
 ---
 
 # Abstractions For Leaky Dependencies

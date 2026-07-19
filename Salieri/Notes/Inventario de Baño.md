@@ -1,7 +1,7 @@
 ---
-Area: "Hogar"
-Archived: "false"
-Area Archived: "No"
+area: "Hogar"
+archived: "false"
+area-archived: "No"
 ---
 
 # Inventario de Baño

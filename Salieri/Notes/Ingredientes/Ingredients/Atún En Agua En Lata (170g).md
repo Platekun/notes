@@ -1,8 +1,8 @@
 ---
-Slug: "320840"
-Brand: "Member's Selection"
-Price: "COP 32,900.00"
-From: "Pricesmart"
+slug: "320840"
+brand: "Member's Selection"
+price: "COP 32,900.00"
+from: "Pricesmart"
 ---
 
 # Atún En Agua En Lata (170g)

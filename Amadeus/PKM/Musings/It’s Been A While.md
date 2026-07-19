@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:28 AM"
-Status: "Processed"
-Created time: "April 7, 2023 3:48 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:28 AM"
+status: "Processed"
+created-time: "April 7, 2023 3:48 AM"
 ---
 
 # It’s Been  A While

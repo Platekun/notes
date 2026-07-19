@@ -1,5 +1,5 @@
 ---
-"Files & media": "Book_Refactoring.pdf"
+files-media: "Book_Refactoring.pdf"
 ---
 
 # Refactoring

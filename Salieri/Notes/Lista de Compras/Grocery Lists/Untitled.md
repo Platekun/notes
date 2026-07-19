@@ -1,7 +1,7 @@
 ---
-Approximate Price: "0"
-Quantity: "1"
-Subtotal: "COP 0.00"
+approximate-price: "0"
+quantity: "1"
+subtotal: "COP 0.00"
 ---
 
 # Untitled

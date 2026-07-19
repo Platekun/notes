@@ -1,5 +1,5 @@
 ---
-Stores: "DollarCity, SAO"
+stores: "DollarCity, SAO"
 ---
 
 # Rollo De Papel (No Reutilizable)

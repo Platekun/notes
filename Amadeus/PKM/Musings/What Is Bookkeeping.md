@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Finances"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "December 28, 2022 8:19 PM"
-Sources: "Bookkeeping Definition"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Finances"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "December 28, 2022 8:19 PM"
+sources: "Bookkeeping Definition"
 ---
 
 # What Is Bookkeeping?

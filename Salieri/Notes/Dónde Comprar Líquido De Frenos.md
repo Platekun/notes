@@ -1,7 +1,7 @@
 ---
-Area: "Nana"
-Archived: "false"
-Area Archived: "No"
+area: "Nana"
+archived: "false"
+area-archived: "No"
 ---
 
 # Dónde Comprar Líquido De Frenos

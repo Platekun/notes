@@ -1,5 +1,5 @@
 ---
-Notes: "You're You"
+notes: "You're You"
 ---
 
 # Kiryu Moeka

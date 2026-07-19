@@ -1,8 +1,8 @@
 ---
-Slug: "jugo-de-mandarina-tree-fruts-1000-ml-12000444"
-Brand: "Tree Fruts"
-Price: "COP 6,890.00"
-From: "Tiendas D1"
+slug: "jugo-de-mandarina-tree-fruts-1000-ml-12000444"
+brand: "Tree Fruts"
+price: "COP 6,890.00"
+from: "Tiendas D1"
 ---
 
 # Jugo de Mandarina (1L)

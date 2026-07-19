@@ -1,8 +1,8 @@
 ---
-Slug: "sopa-instantanea-maruchan-sobre-sabor-pollo-85-g-41789002915--1607794"
-Brand: "Maruchan"
-Price: "COP 3,100.00"
-From: "SAO"
+slug: "sopa-instantanea-maruchan-sobre-sabor-pollo-85-g-41789002915--1607794"
+brand: "Maruchan"
+price: "COP 3,100.00"
+from: "SAO"
 ---
 
 # Ramen Pollo (85g)

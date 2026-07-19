@@ -1,6 +1,6 @@
 ---
-URL: "https://aws.amazon.com/caching/"
-Notes: "What To Cache?, What Is Caching?"
+url: "https://aws.amazon.com/caching/"
+notes: "What To Cache?, What Is Caching?"
 ---
 
 # Caching

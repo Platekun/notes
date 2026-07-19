@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Rimi Sakihata"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "December 18, 2023 1:32 AM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "August 25, 2023 1:18 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Rimi Sakihata"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "December 18, 2023 1:32 AM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "August 25, 2023 1:18 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Wishing For Blue Skies

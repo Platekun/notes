@@ -1,6 +1,6 @@
 ---
-URL: "https://en.wikipedia.org/wiki/Publish–subscribe_pattern"
-Notes: "What Is PubSub?"
+url: "https://en.wikipedia.org/wiki/Publish–subscribe_pattern"
+notes: "What Is PubSub?"
 ---
 
 # Publish-Subscribe Pattern

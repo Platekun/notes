@@ -1,10 +1,10 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "August 12, 2023 2:53 PM"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "August 12, 2023 2:53 PM"
 ---
 
 # Data Access: A Forgotten Cornern In Front-End Code

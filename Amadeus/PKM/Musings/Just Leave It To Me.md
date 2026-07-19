@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Itaru Hashida"
-Last edited time: "May 23, 2024 1:35 AM"
-Status: "Unprocessed"
-Created time: "May 23, 2024 1:29 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Itaru Hashida"
+last-edited-time: "May 23, 2024 1:35 AM"
+status: "Unprocessed"
+created-time: "May 23, 2024 1:29 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Just Leave It To Me

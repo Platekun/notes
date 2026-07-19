@@ -1,7 +1,7 @@
 ---
-Resource: "Decoración"
-Archived: "false"
-Resource Archived: "No"
+resource: "Decoración"
+archived: "false"
+resource-archived: "No"
 ---
 
 # Ideas For Apartment

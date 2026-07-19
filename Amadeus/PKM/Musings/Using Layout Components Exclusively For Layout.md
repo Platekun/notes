@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Mark Dalgleish"
-Primary Zettelkasten Area: "CSS"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Layout Components Extreme Take"
+note-type: "Literature"
+author: "Mark Dalgleish"
+primary-zettelkasten-area: "CSS"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Layout Components Extreme Take"
 ---
 
 # Using Layout Components Exclusively For Layout

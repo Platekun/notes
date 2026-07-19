@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "March 18, 2024 1:06 AM"
-Status: "Processed"
-Created time: "March 18, 2024 12:56 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "March 18, 2024 1:06 AM"
+status: "Processed"
+created-time: "March 18, 2024 12:56 AM"
 ---
 
 # Just Let Me Sleep, Please

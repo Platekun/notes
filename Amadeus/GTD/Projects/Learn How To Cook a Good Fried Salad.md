@@ -1,5 +1,5 @@
 ---
-Status: "Ready To Start"
+status: "Ready To Start"
 ---
 
 # Learn How To Cook a Good Fried Salad

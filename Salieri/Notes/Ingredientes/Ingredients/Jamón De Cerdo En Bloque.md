@@ -1,9 +1,9 @@
 ---
-Slug: "jamon-cerdo-medalla-oo-24458177-899152"
-Brand: "Zenú"
-Price: "COP 32,900.00"
-From: "SAO"
-Recipes: "Ensalada Fría De Pasta, Jamón y Pollo"
+slug: "jamon-cerdo-medalla-oo-24458177-899152"
+brand: "Zenú"
+price: "COP 32,900.00"
+from: "SAO"
+recipes: "Ensalada Fría De Pasta, Jamón y Pollo"
 ---
 
 # Jamón De Cerdo En Bloque

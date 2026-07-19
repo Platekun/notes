@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Database Replication?"
+notes: "What Is Database Replication?"
 ---
 
 # "Is database replication considered an horizontal scaling techique?” Prompt

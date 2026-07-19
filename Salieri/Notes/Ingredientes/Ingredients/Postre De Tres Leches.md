@@ -1,8 +1,8 @@
 ---
-Slug: "postre-tres-leches-86-g-12001898"
-Brand: "Don Jacobo"
-Price: "COP 4,100.00"
-From: "Tiendas D1"
+slug: "postre-tres-leches-86-g-12001898"
+brand: "Don Jacobo"
+price: "COP 4,100.00"
+from: "Tiendas D1"
 ---
 
 # Postre De Tres Leches

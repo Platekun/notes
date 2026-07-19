@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Aoi Todo"
-Last edited time: "January 9, 2024 12:59 AM"
-Status: "Unprocessed"
-Created time: "January 9, 2024 12:36 AM"
-Sources: "Jujutsu Kaisen, Season 2, Episode 20"
+note-type: "Literature"
+author: "Aoi Todo"
+last-edited-time: "January 9, 2024 12:59 AM"
+status: "Unprocessed"
+created-time: "January 9, 2024 12:36 AM"
+sources: "Jujutsu Kaisen, Season 2, Episode 20"
 ---
 
 # Embrace Legacy, Keep Moving

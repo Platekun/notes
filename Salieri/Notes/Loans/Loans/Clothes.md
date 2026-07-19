@@ -1,14 +1,14 @@
 ---
-Created Time: "September 7, 2024 9:35 PM"
-Borrower: "Carlos Camilo Lobo Ulloque"
-Lender: "Lourdes Ojeda"
-Principal: "COP 370,500.00"
-Transactions: "Payment #1"
-Paid: "375000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Carlos Camilo Lobo Ulloque"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "September 7, 2024 9:35 PM"
+borrower: "Carlos Camilo Lobo Ulloque"
+lender: "Lourdes Ojeda"
+principal: "COP 370,500.00"
+transactions: "Payment #1"
+paid: "375000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Carlos Camilo Lobo Ulloque"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Clothes

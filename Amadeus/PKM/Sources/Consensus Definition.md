@@ -1,6 +1,6 @@
 ---
-URL: "https://en.wikipedia.org/wiki/Consensus_(computer_science)"
-Notes: "What Is Distributed Consensus?"
+url: "https://en.wikipedia.org/wiki/Consensus_(computer_science)"
+notes: "What Is Distributed Consensus?"
 ---
 
 # Consensus Definition

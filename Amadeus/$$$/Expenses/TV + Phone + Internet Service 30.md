@@ -1,14 +1,14 @@
 ---
-Amount: "COP 133,353.00"
-Balance: "Smooth Nissan Sentra"
-Scope: "Lab"
-Created Time: "June 3, 2024 6:26 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 133,353.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 133,353.00"
+balance: "Smooth Nissan Sentra"
+scope: "Lab"
+created-time: "June 3, 2024 6:26 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 133,353.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # TV + Phone + Internet Service

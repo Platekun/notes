@@ -1,7 +1,7 @@
 ---
-URL: "https://www.youtube.com/watch?v=k2EDiUfUqu0"
-Meta: "Analysis of what saiyan pride is about"
-Notes: "What Is A People's Pride About?"
+url: "https://www.youtube.com/watch?v=k2EDiUfUqu0"
+meta: "Analysis of what saiyan pride is about"
+notes: "What Is A People's Pride About?"
 ---
 
 # Saiyan Pride

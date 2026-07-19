@@ -1,8 +1,8 @@
 ---
-Slug: "tortilla-integral-natri-8-und-250-g-12001257"
-Brand: "Natri"
-Price: "COP 3,990.00"
-From: "Tiendas D1"
+slug: "tortilla-integral-natri-8-und-250-g-12001257"
+brand: "Natri"
+price: "COP 3,990.00"
+from: "Tiendas D1"
 ---
 
 # Tortillas Integrales (250g)

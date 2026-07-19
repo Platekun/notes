@@ -1,5 +1,5 @@
 ---
-Notes: "The Magpie Developer"
+notes: "The Magpie Developer"
 ---
 
 # Jeff Atwood

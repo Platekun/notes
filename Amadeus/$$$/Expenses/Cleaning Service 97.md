@@ -1,14 +1,14 @@
 ---
-Amount: "COP 60,000.00"
-Balance: "Agitated Shockley"
-Scope: "Lab"
-Created Time: "January 9, 2024 9:00 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 60,000.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 60,000.00"
+balance: "Agitated Shockley"
+scope: "Lab"
+created-time: "January 9, 2024 9:00 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 60,000.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Cleaning Service

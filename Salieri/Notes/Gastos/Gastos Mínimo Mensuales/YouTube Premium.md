@@ -1,10 +1,10 @@
 ---
-Amount: "COP 41,900.00"
-Description: "Servicio para no ver publicidad en YouTube"
-Direction: "Egreso"
-Net Income: "COP 0.00"
-Required Expenses Total: "COP 41,900.00"
-Total: "-COP 41,900.00"
+amount: "COP 41,900.00"
+description: "Servicio para no ver publicidad en YouTube"
+direction: "Egreso"
+net-income: "COP 0.00"
+required-expenses-total: "COP 41,900.00"
+total: "-COP 41,900.00"
 ---
 
 # YouTube Premium

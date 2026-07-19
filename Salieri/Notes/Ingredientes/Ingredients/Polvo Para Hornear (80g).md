@@ -1,9 +1,9 @@
 ---
-Slug: "polvo-para-hornear-levapan-80-g-7702014592023--679093"
-Brand: "Olímpica"
-Price: "COP 7,890.00"
-From: "SAO"
-Recipes: "Pudín De Vainilla, Torta De Queso"
+slug: "polvo-para-hornear-levapan-80-g-7702014592023--679093"
+brand: "Olímpica"
+price: "COP 7,890.00"
+from: "SAO"
+recipes: "Pudín De Vainilla, Torta De Queso"
 ---
 
 # Polvo Para Hornear (80g)

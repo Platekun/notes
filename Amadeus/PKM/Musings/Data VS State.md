@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Ryan Florence"
-Primary Zettelkasten Area: "StateCharts"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Ryan Florence’s Mental Model"
+note-type: "Literature"
+author: "Ryan Florence"
+primary-zettelkasten-area: "StateCharts"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Ryan Florence’s Mental Model"
 ---
 
 # Data VS State

@@ -1,8 +1,8 @@
 ---
-Area: "ECS"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "ECS is a service that needs to be provided of two things: The container images that are going to be used and the task definitions to understand how to run them."
+area: "ECS"
+reveal: "No"
+confidence: "Not Confident"
+answer: "ECS is a service that needs to be provided of two things: The container images that are going to be used and the task definitions to understand how to run them."
 ---
 
 # How Does ECS Work?

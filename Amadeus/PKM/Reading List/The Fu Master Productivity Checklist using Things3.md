@@ -1,5 +1,5 @@
 ---
-URL: "https://productivewithapurpose.com/2019/05/21/the-fu-master-productivity-checklist-using-things3/#Today_Anytime"
+url: "https://productivewithapurpose.com/2019/05/21/the-fu-master-productivity-checklist-using-things3/#Today_Anytime"
 ---
 
 # The Fu Master Productivity Checklist using Things3 - Productive with a Purpose

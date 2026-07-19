@@ -1,5 +1,5 @@
 ---
-Notes: "Throw Away Common Sense, Humans Are Incomplete"
+notes: "Throw Away Common Sense, Humans Are Incomplete"
 ---
 
 # Shogun

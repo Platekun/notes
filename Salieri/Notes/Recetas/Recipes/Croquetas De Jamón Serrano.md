@@ -1,8 +1,8 @@
 ---
-Type: "Dinner, Lunch"
-Ingredients: "Leche Entera (200ml) (../../Ingredientes/Ingredients/Leche%20Entera%20(200ml)%2059a4ce2d892b40b58627977944098706.md), Crema De Leche (180g) (../../Ingredientes/Ingredients/Crema%20De%20Leche%20(180g)%20ab5aff974fb44b3a9e81d982d6c55f9e.md), Mantequilla (125g) (../../Ingredientes/Ingredients/Mantequilla%20(125g)%2089f884f2d3984977816eab80fd0a1ed1.md), Aceite (900ml) (../../Ingredientes/Ingredients/Aceite%20(900ml)%2003ca890d892d42e287e3d73f4399c155.md), Cebolla Cab Blanca (1 KG) (../../Ingredientes/Ingredients/Cebolla%20Cab%20Blanca%20%20d552ddcdef5f43c28e26f897e64bdb0d.md), Harina De Maíz (1Kg) (../../Ingredientes/Ingredients/Harina%20De%20Ma%C3%ADz%20(1Kg)%20945843848ae745a6a03634cbb4530be1.md), Jamón Serrano, Sal (1Kg) (../../Ingredientes/Ingredients/Sal%20(1Kg)%207beb1ca96dd34ed685a5bd547663f3b2.md), Pimienta Molida (28g) (../../Ingredientes/Ingredients/Pimienta%20Molida%20(28g)%2012703cd78cda4ee7a8a76ae9432cb90d.md), Huevos x25, Pan Tajado Artesanal Integral (500g) (../../Ingredientes/Ingredients/Pan%20Tajado%20Artesanal%20Integral%20(500g)%207674e42d56204d08b6f146d7decf2456.md)"
-Utensils: "Delantal, Servilletas, Olla, Shredder, Platos, Contenedor De Vidrio, Nevera, Sartén, Brocha"
-Cost: "68910"
+type: "Dinner, Lunch"
+ingredients: "Leche Entera (200ml) (../../Ingredientes/Ingredients/Leche%20Entera%20(200ml)%2059a4ce2d892b40b58627977944098706.md), Crema De Leche (180g) (../../Ingredientes/Ingredients/Crema%20De%20Leche%20(180g)%20ab5aff974fb44b3a9e81d982d6c55f9e.md), Mantequilla (125g) (../../Ingredientes/Ingredients/Mantequilla%20(125g)%2089f884f2d3984977816eab80fd0a1ed1.md), Aceite (900ml) (../../Ingredientes/Ingredients/Aceite%20(900ml)%2003ca890d892d42e287e3d73f4399c155.md), Cebolla Cab Blanca (1 KG) (../../Ingredientes/Ingredients/Cebolla%20Cab%20Blanca%20%20d552ddcdef5f43c28e26f897e64bdb0d.md), Harina De Maíz (1Kg) (../../Ingredientes/Ingredients/Harina%20De%20Ma%C3%ADz%20(1Kg)%20945843848ae745a6a03634cbb4530be1.md), Jamón Serrano, Sal (1Kg) (../../Ingredientes/Ingredients/Sal%20(1Kg)%207beb1ca96dd34ed685a5bd547663f3b2.md), Pimienta Molida (28g) (../../Ingredientes/Ingredients/Pimienta%20Molida%20(28g)%2012703cd78cda4ee7a8a76ae9432cb90d.md), Huevos x25, Pan Tajado Artesanal Integral (500g) (../../Ingredientes/Ingredients/Pan%20Tajado%20Artesanal%20Integral%20(500g)%207674e42d56204d08b6f146d7decf2456.md)"
+utensils: "Delantal, Servilletas, Olla, Shredder, Platos, Contenedor De Vidrio, Nevera, Sartén, Brocha"
+cost: "68910"
 ---
 
 # Croquetas De Jamón Serrano

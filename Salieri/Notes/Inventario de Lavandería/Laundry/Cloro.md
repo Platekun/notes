@@ -1,7 +1,7 @@
 ---
-Multi-select: "Clorox"
-Original Name: "Bleach"
-Stores: "Alkosto, SAO"
+multi-select: "Clorox"
+original-name: "Bleach"
+stores: "Alkosto, SAO"
 ---
 
 # Cloro

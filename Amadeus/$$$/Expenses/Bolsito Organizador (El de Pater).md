@@ -1,14 +1,14 @@
 ---
-Amount: "COP 24,900.00"
-Balance: "Trusting Mirzakhani"
-Scope: "Lobito"
-Created Time: "January 23, 2023 12:06 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 24,900.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 24,900.00"
+balance: "Trusting Mirzakhani"
+scope: "Lobito"
+created-time: "January 23, 2023 12:06 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 24,900.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Bolsito Organizador (El de Pater)

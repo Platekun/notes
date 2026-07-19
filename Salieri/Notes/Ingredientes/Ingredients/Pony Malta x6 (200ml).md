@@ -1,8 +1,8 @@
 ---
-Slug: "beb-pony-malta-pet-200-ml--x-6"
-Brand: "Bavaria"
-Price: "COP 7,700.00"
-From: "SAO"
+slug: "beb-pony-malta-pet-200-ml--x-6"
+brand: "Bavaria"
+price: "COP 7,700.00"
+from: "SAO"
 ---
 
 # Pony Malta x6 (200ml)

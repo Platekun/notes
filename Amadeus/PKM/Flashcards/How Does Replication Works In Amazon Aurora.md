@@ -1,8 +1,8 @@
 ---
-Area: "RDS"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "Aurora can be setup to have up to 15 read replicas and with the ability to update 6 of them synchronously."
+area: "RDS"
+reveal: "No"
+confidence: "Not Confident"
+answer: "Aurora can be setup to have up to 15 read replicas and with the ability to update 6 of them synchronously."
 ---
 
 # How Does Replication Works In Amazon Aurora?

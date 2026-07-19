@@ -1,5 +1,5 @@
 ---
-Notes: "Metaphysics And JavaScript"
+notes: "Metaphysics And JavaScript"
 ---
 
 # Rich Harris

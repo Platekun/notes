@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "December 8, 2023 12:20 AM"
-Status: "Processed"
-Created time: "December 8, 2023 12:16 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "December 8, 2023 12:20 AM"
+status: "Processed"
+created-time: "December 8, 2023 12:16 AM"
 ---
 
 # 10x Moment

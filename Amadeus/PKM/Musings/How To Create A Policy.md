@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "IAM"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "August 11, 2022 2:09 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "IAM"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "August 11, 2022 2:09 AM"
+sources: "Unknown"
 ---
 
 # How To Create A Policy

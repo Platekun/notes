@@ -1,8 +1,8 @@
 ---
-Amount: "COP 140,000.00"
-Created by: "Automation"
-Created time: "June 1, 2024 7:25 AM"
-Sprint: "Frozen Mole"
+amount: "COP 140,000.00"
+created-by: "Automation"
+created-time: "June 1, 2024 7:25 AM"
+sprint: "Frozen Mole"
 ---
 
 # Dancing School

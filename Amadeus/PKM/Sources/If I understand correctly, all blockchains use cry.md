@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Blockchain?"
+notes: "What Is A Blockchain?"
 ---
 
 # "If I understand correctly, all blockchains use cryptography but not all DLT use cryptography?” Prompt

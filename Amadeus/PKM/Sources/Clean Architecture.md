@@ -1,5 +1,5 @@
 ---
-"Files & media": "Book_Clean_Architecture.pdf"
+files-media: "Book_Clean_Architecture.pdf"
 ---
 
 # Clean Architecture

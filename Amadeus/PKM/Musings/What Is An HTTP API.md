@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Software Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Distributed Programming, Back-End Development"
-Status: "Processed"
-Created time: "November 8, 2022 1:31 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Software Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Distributed Programming, Back-End Development"
+status: "Processed"
+created-time: "November 8, 2022 1:31 AM"
+sources: "Unknown"
 ---
 
 # What Is An HTTP API?

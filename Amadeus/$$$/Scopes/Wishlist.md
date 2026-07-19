@@ -1,5 +1,5 @@
 ---
-Description: "Everything related to our wishlists for gifts."
+description: "Everything related to our wishlists for gifts."
 ---
 
 # Wishlist

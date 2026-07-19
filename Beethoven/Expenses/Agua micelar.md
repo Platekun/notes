@@ -1,8 +1,8 @@
 ---
-Amount: "COP 50,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "November 3, 2024 2:43 AM"
-Sprint: "Happiness"
+amount: "COP 50,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "November 3, 2024 2:43 AM"
+sprint: "Happiness"
 ---
 
 # Agua micelar

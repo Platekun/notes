@@ -1,6 +1,6 @@
 ---
-Brand: "Zippper Seal"
-Stores: "DollarCity"
+brand: "Zippper Seal"
+stores: "DollarCity"
 ---
 
 # Sandwich Bags

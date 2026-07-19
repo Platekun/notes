@@ -1,10 +1,10 @@
 ---
-Amount: "COP 100,000.00"
-Description: "Subsidio de internet dado por Zemoga"
-Direction: "Ingreso"
-Net Income: "COP 100,000.00"
-Required Expenses Total: "COP 0.00"
-Total: "COP 100,000.00"
+amount: "COP 100,000.00"
+description: "Subsidio de internet dado por Zemoga"
+direction: "Ingreso"
+net-income: "COP 100,000.00"
+required-expenses-total: "COP 0.00"
+total: "COP 100,000.00"
 ---
 
 # Subsidio de internet

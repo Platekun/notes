@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "ASG"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 11, 2022 2:16 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "ASG"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 11, 2022 2:16 AM"
+sources: "Unknown"
 ---
 
 # What Is An Auto Scaling Group?

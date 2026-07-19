@@ -1,6 +1,6 @@
 ---
-Brand: "BrillaKing, Vish Advance"
-Stores: "DollarCity"
+brand: "BrillaKing, Vish Advance"
+stores: "DollarCity"
 ---
 
 # Toallas Desinfectante

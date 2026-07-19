@@ -1,8 +1,8 @@
 ---
-Amount: "COP 165,000.00"
-Created by: "Automation"
-Created time: "February 28, 2024 7:16 AM"
-Sprint: "Test Drive"
+amount: "COP 165,000.00"
+created-by: "Automation"
+created-time: "February 28, 2024 7:16 AM"
+sprint: "Test Drive"
 ---
 
 # Mom's Health Insurance

@@ -1,8 +1,8 @@
 ---
-Slug: "pechuga-de-pollo-fiesta-x-1300-g-12003957"
-Brand: "Pollo Fiesta"
-Price: "COP 17,990.00"
-From: "Tiendas D1"
+slug: "pechuga-de-pollo-fiesta-x-1300-g-12003957"
+brand: "Pollo Fiesta"
+price: "COP 17,990.00"
+from: "Tiendas D1"
 ---
 
 # Pechuga De Pollo (1.3Kg)

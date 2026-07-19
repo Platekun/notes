@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Growth"
-Last edited time: "October 1, 2023 7:48 PM"
-Secondary Zettelkasten Area: "Studying"
-Status: "Processed"
-Created time: "January 1, 2023 12:50 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Growth"
+last-edited-time: "October 1, 2023 7:48 PM"
+secondary-zettelkasten-area: "Studying"
+status: "Processed"
+created-time: "January 1, 2023 12:50 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Genius vs Talented

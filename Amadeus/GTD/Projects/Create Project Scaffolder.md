@@ -1,5 +1,5 @@
 ---
-Status: "In Progress"
+status: "In Progress"
 ---
 
 # Create Project Scaffolder

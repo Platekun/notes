@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "March 4, 2024 2:21 AM"
-Status: "Processed"
-Created time: "March 4, 2024 1:55 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "March 4, 2024 2:21 AM"
+status: "Processed"
+created-time: "March 4, 2024 1:55 AM"
 ---
 
 # Weekend Rollercoaster Of Emotions

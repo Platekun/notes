@@ -1,14 +1,14 @@
 ---
-Amount: "COP 561,890.00"
-Balance: "Wonderful SDLC"
-Scope: "Relationship"
-Created Time: "August 12, 2024 1:41 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 561,890.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 561,890.00"
+balance: "Wonderful SDLC"
+scope: "Relationship"
+created-time: "August 12, 2024 1:41 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 561,890.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Bogota Ticket For Lourdes’ Mom

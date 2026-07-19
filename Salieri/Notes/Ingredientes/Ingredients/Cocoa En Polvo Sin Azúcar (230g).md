@@ -1,8 +1,8 @@
 ---
-Slug: "cocoa-medalla-de-oro-polv-230g"
-Brand: "Medalla De Oro"
-Price: "COP 5,790.00"
-From: "SAO"
+slug: "cocoa-medalla-de-oro-polv-230g"
+brand: "Medalla De Oro"
+price: "COP 5,790.00"
+from: "SAO"
 ---
 
 # Cocoa En Polvo Sin Azúcar (230g)

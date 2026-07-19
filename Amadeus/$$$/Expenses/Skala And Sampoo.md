@@ -1,13 +1,13 @@
 ---
-Amount: "COP 80,000.00"
-Scope: "Lobito"
-Created Time: "October 30, 2022 8:58 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 80,000.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 80,000.00"
+scope: "Lobito"
+created-time: "October 30, 2022 8:58 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 80,000.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Skala And Sampoo

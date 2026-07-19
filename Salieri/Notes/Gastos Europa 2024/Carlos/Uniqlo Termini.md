@@ -1,9 +1,9 @@
 ---
-Fecha: "October 7, 2024"
-Gasto Único De Carlos: "COP 283,670.00"
-Método de Pago: "T. Crédito"
-Precio (COP): "COP 283,670.00"
-Solo Carlos: "Yes"
+fecha: "October 7, 2024"
+gasto-único-de-carlos: "COP 283,670.00"
+método-de-pago: "T. Crédito"
+precio-cop: "COP 283,670.00"
+solo-carlos: "Yes"
 ---
 
 # Uniqlo Termini

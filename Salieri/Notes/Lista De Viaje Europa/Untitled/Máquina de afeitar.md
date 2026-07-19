@@ -1,6 +1,6 @@
 ---
-Listo: "Yes"
-Para: "Carlos"
+listo: "Yes"
+para: "Carlos"
 ---
 
 # Máquina de afeitar

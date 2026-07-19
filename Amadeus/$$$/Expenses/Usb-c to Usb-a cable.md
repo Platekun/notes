@@ -1,14 +1,14 @@
 ---
-Amount: "COP 30,000.00"
-Balance: "Wonderful SDLC"
-Scope: "Lobito"
-Created Time: "August 25, 2024 10:59 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 30,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 30,000.00"
+balance: "Wonderful SDLC"
+scope: "Lobito"
+created-time: "August 25, 2024 10:59 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 30,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Usb-c to Usb-a cable

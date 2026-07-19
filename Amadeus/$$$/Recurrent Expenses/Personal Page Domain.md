@@ -1,9 +1,9 @@
 ---
-Financial Year: "2022, 2023"
-Amount: "COP 60,000.00"
-Scope: "Lobito"
-Amount Per Year: "COP 60,000.00"
-Expense Frequency: "Annual"
+financial-year: "2022, 2023"
+amount: "COP 60,000.00"
+scope: "Lobito"
+amount-per-year: "COP 60,000.00"
+expense-frequency: "Annual"
 ---
 
 # Personal Page Domain

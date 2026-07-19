@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "February 18, 2024 11:17 PM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "October 24, 2022 9:55 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Okabe Rintaro"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "February 18, 2024 11:17 PM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "October 24, 2022 9:55 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # No. I will do it. Failure isn't an option

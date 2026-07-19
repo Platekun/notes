@@ -1,15 +1,15 @@
 ---
-Start Date: "October 1, 2023"
-Salary: "Senior 1"
-Salary Amount: "15100000"
-Income Sum: "0"
-Expenses Sum: "2710658"
-Recurrent Expenses Sum: "0"
-AFC Account Transaction Amount: "2500000"
-Dollar Transactions In COP: "0"
-Gross Balance: "COP 9,889,342.00"
-Expenses: "Pricesmart, Uber, Things iPad, Limpieza Dental, Presto, Buffalo Grill, Almuerzo, Sound Bar, Detergente y Suavizante, Starbucks, Chicken Bake, Farmatodo, Dollar City, D1, Daniela, Helados, Audifonos, Porthos, Productos de Cabello, BBC, Miniso, Pizza, D1"
-AFC Account Transaction: "AFC Savings"
+start-date: "October 1, 2023"
+salary: "Senior 1"
+salary-amount: "15100000"
+income-sum: "0"
+expenses-sum: "2710658"
+recurrent-expenses-sum: "0"
+afc-account-transaction-amount: "2500000"
+dollar-transactions-in-cop: "0"
+gross-balance: "COP 9,889,342.00"
+expenses: "Pricesmart, Uber, Things iPad, Limpieza Dental, Presto, Buffalo Grill, Almuerzo, Sound Bar, Detergente y Suavizante, Starbucks, Chicken Bake, Farmatodo, Dollar City, D1, Daniela, Helados, Audifonos, Porthos, Productos de Cabello, BBC, Miniso, Pizza, D1"
+afc-account-transaction: "AFC Savings"
 ---
 
 # Kind Salmon

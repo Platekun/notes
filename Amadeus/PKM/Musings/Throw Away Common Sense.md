@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Shogun"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "November 4, 2023 6:46 PM"
-Secondary Zettelkasten Area: "Knowledge Management"
-Status: "Processed"
-Created time: "October 24, 2022 8:20 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Shogun"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "November 4, 2023 6:46 PM"
+secondary-zettelkasten-area: "Knowledge Management"
+status: "Processed"
+created-time: "October 24, 2022 8:20 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Throw Away Common Sense

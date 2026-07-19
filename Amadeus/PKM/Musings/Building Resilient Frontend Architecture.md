@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Monica Lent"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 2:38 AM"
-Sources: "GOTO 2019 - Building Resilient Frontend Architecture"
+note-type: "Literature"
+author: "Monica Lent"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 2:38 AM"
+sources: "GOTO 2019 - Building Resilient Frontend Architecture"
 ---
 
 # Building Resilient Frontend Architecture

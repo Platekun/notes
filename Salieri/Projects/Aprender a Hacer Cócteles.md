@@ -1,6 +1,6 @@
 ---
-Status: "Ready To Start"
-Archived: "No"
+status: "Ready To Start"
+archived: "No"
 ---
 
 # Aprender a Hacer Cócteles

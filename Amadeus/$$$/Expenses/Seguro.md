@@ -1,14 +1,14 @@
 ---
-Amount: "COP 690,200.00"
-Balance: "Trusting Mirzakhani"
-Scope: "Lourdes"
-Created Time: "January 6, 2023 1:44 PM"
-Type: "Sinking"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 690,200.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 690,200.00"
+balance: "Trusting Mirzakhani"
+scope: "Lourdes"
+created-time: "January 6, 2023 1:44 PM"
+type: "Sinking"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 690,200.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Seguro

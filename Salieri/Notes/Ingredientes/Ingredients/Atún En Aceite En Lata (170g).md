@@ -1,8 +1,8 @@
 ---
-Slug: "320839"
-Brand: "Member's Selection"
-Price: "COP 34,500.00"
-From: "Pricesmart"
+slug: "320839"
+brand: "Member's Selection"
+price: "COP 34,500.00"
+from: "Pricesmart"
 ---
 
 # Atún En Aceite En Lata (170g)

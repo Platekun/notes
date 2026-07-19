@@ -1,6 +1,6 @@
 ---
-Original Name: "Chopping Board"
-Recipes: "Pechuga De Pollo Rellena, Pollo Napolitano, Ensalada Fría De Pasta, Jamón y Pollo, Pasta De Zuchini"
+original-name: "Chopping Board"
+recipes: "Pechuga De Pollo Rellena, Pollo Napolitano, Ensalada Fría De Pasta, Jamón y Pollo, Pasta De Zuchini"
 ---
 
 # Tabla De Cortar

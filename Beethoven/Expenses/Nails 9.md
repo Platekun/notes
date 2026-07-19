@@ -1,8 +1,8 @@
 ---
-Amount: "COP 90,000.00"
-Created by: "Automation"
-Created time: "February 28, 2024 6:33 AM"
-Sprint: "Test Drive"
+amount: "COP 90,000.00"
+created-by: "Automation"
+created-time: "February 28, 2024 6:33 AM"
+sprint: "Test Drive"
 ---
 
 # Nails

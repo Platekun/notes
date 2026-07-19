@@ -1,10 +1,10 @@
 ---
-Loan: "Matriarca - post cumple Lola"
-Amount: "COP 80,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "April 29, 2023 3:19 AM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Matriarca - post cumple Lola"
+amount: "COP 80,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "April 29, 2023 3:19 AM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment

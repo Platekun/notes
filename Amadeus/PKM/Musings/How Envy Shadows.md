@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 12, 2024 5:33 PM"
-Status: "Unprocessed"
-Created time: "February 12, 2024 5:30 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 12, 2024 5:33 PM"
+status: "Unprocessed"
+created-time: "February 12, 2024 5:30 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # How Envy Shadows

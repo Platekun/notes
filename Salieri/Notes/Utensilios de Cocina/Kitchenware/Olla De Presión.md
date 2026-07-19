@@ -1,5 +1,5 @@
 ---
-Original Name: "Pressure Cooker"
+original-name: "Pressure Cooker"
 ---
 
 # Olla De Presión

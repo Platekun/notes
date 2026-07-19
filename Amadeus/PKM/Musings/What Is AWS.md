@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "AWS"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "August 9, 2022 2:44 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "AWS"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "August 9, 2022 2:44 AM"
+sources: "Unknown"
 ---
 
 # What Is AWS?

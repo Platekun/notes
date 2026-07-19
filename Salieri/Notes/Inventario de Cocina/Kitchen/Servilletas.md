@@ -1,6 +1,6 @@
 ---
-Brand: "Rendy"
-Stores: "Tiendas D1"
+brand: "Rendy"
+stores: "Tiendas D1"
 ---
 
 # Servilletas

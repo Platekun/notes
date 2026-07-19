@@ -1,5 +1,5 @@
 ---
-Notes: "Fool-proofing Links"
+notes: "Fool-proofing Links"
 ---
 
 # Daniel Rhodes

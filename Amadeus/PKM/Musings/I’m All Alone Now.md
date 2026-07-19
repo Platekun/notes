@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "November 4, 2023 8:21 PM"
-Status: "Processed"
-Created time: "October 23, 2023 3:26 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "November 4, 2023 8:21 PM"
+status: "Processed"
+created-time: "October 23, 2023 3:26 AM"
 ---
 
 # I’m All Alone Now

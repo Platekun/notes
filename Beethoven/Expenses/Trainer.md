@@ -1,8 +1,8 @@
 ---
-Amount: "COP 168,000.00"
-Created by: "Carlos Camilo Lobo Ulloque"
-Created time: "March 10, 2024 3:28 AM"
-Sprint: "Modest Kirch"
+amount: "COP 168,000.00"
+created-by: "Carlos Camilo Lobo Ulloque"
+created-time: "March 10, 2024 3:28 AM"
+sprint: "Modest Kirch"
 ---
 
 # Trainer

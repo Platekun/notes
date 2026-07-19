@@ -1,14 +1,14 @@
 ---
-Amount: "COP 116,800.00"
-Balance: "Strong United Kingdom"
-Scope: "Lab"
-Created Time: "July 1, 2024 5:02 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 116,800.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 116,800.00"
+balance: "Strong United Kingdom"
+scope: "Lab"
+created-time: "July 1, 2024 5:02 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 116,800.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Supplies@Pricesmart

@@ -1,5 +1,5 @@
 ---
-Stores: "Tiendas D1"
+stores: "Tiendas D1"
 ---
 
 # Bolsas De Basura (Blancas)

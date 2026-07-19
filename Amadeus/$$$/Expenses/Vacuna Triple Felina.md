@@ -1,13 +1,13 @@
 ---
-Amount: "COP 22,500.00"
-Scope: "Galleta"
-Created Time: "August 30, 2022 2:30 AM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 22,500.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 22,500.00"
+scope: "Galleta"
+created-time: "August 30, 2022 2:30 AM"
+type: "Discretionary"
+discretionary-subtotal: "COP 22,500.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Vacuna Triple Felina

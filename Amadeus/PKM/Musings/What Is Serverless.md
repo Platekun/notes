@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Serverless"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 2, 2022 1:05 AM"
-Sources: "What Is Serverless?"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Serverless"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 2, 2022 1:05 AM"
+sources: "What Is Serverless?"
 ---
 
 # What Is Serverless?

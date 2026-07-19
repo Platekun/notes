@@ -1,7 +1,7 @@
 ---
-Brand: "Quinta Las Cabras"
-Price: "COP 15,990.00"
-From: "Tiendas D1"
+brand: "Quinta Las Cabras"
+price: "COP 15,990.00"
+from: "Tiendas D1"
 ---
 
 # Vino Tinto Carbenet Sauvignon

@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is Lightsail?"
+parent-item: "AWS"
+primary-source: "What Is Lightsail?"
 ---
 
 # Lightsail

@@ -1,5 +1,5 @@
 ---
-Use Cases: "Dolor Corporal, Inflamación De Articulaciones"
+use-cases: "Dolor Corporal, Inflamación De Articulaciones"
 ---
 
 # Crema enfriante

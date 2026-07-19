@@ -1,7 +1,7 @@
 ---
-Amount: "COP 600,000.00"
-Created by: "Automation"
-Created time: "December 1, 2024 5:52 AM"
+amount: "COP 600,000.00"
+created-by: "Automation"
+created-time: "December 1, 2024 5:52 AM"
 ---
 
 # Electricity Service

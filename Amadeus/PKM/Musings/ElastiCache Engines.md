@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "ElastiCache"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 27, 2022 8:14 PM"
-Sources: "Performance At Scale With Amazon Elasticache"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "ElastiCache"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 27, 2022 8:14 PM"
+sources: "Performance At Scale With Amazon Elasticache"
 ---
 
 # ElastiCache Engines

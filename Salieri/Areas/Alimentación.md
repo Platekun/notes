@@ -1,6 +1,6 @@
 ---
-Notes: "Utensilios de Cocina, Recetas, Ingredientes, Lista de Compras, Aperol Spritz"
-Archived: "No"
+notes: "Utensilios de Cocina, Recetas, Ingredientes, Lista de Compras, Aperol Spritz"
+archived: "No"
 ---
 
 # Alimentación

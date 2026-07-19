@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 2,900.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 2,900.00"
+from: "Fruvecol"
 ---
 
 # Banano Uraba Verde (1 KG)

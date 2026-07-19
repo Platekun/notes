@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Aoi Sena"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "November 1, 2023 10:06 AM"
-Secondary Zettelkasten Area: "Identity"
-Tertiary Zettelkasten Area: "Problem Solving, Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Aoi Sena Monologue"
+note-type: "Literature"
+author: "Aoi Sena"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "November 1, 2023 10:06 AM"
+secondary-zettelkasten-area: "Identity"
+tertiary-zettelkasten-area: "Problem Solving, Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Chaos;Head"
+sources: "Aoi Sena Monologue"
 ---
 
 # Doubt The World. Know How It Operates

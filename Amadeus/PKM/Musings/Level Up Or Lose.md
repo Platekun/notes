@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Aoi Todo"
-Last edited time: "January 9, 2024 12:35 AM"
-Status: "Unprocessed"
-Created time: "January 9, 2024 12:33 AM"
+note-type: "Literature"
+author: "Aoi Todo"
+last-edited-time: "January 9, 2024 12:35 AM"
+status: "Unprocessed"
+created-time: "January 9, 2024 12:33 AM"
 ---
 
 # Level Up Or Lose

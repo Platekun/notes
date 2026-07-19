@@ -1,9 +1,9 @@
 ---
-Slug: "chocolate-con-splenda-chocolyne-100-g-12002756"
-Brand: "Chocolyne"
-Price: "COP 5,390.00"
-From: "Tiendas D1"
-Recipes: "Marquesa De Chocolate"
+slug: "chocolate-con-splenda-chocolyne-100-g-12002756"
+brand: "Chocolyne"
+price: "COP 5,390.00"
+from: "Tiendas D1"
+recipes: "Marquesa De Chocolate"
 ---
 
 # Chocolate Chocolyne En Polvo (100g)

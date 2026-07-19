@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Ban Yasuji"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 31, 2023 1:40 AM"
-Status: "Processed"
-Created time: "September 25, 2023 12:35 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Ban Yasuji"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 31, 2023 1:40 AM"
+status: "Processed"
+created-time: "September 25, 2023 12:35 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Tackle Problems As They Emerge

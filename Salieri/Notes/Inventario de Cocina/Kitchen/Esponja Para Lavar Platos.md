@@ -1,5 +1,5 @@
 ---
-Stores: "DollarCity"
+stores: "DollarCity"
 ---
 
 # Esponja Para Lavar Platos

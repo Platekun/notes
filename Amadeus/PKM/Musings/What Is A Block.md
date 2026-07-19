@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Crypto"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "BlockChain"
-Status: "Unprocessed"
-Created time: "December 30, 2022 3:19 AM"
-Sources: "Blockchain Definition, “How does transaction data look like in a blockchain block?” Prompt, “So in a PoW protocol, there is only one block being added. this block can contain the reward for the miner along with other transaction data?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Crypto"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "BlockChain"
+status: "Unprocessed"
+created-time: "December 30, 2022 3:19 AM"
+sources: "Blockchain Definition, “How does transaction data look like in a blockchain block?” Prompt, “So in a PoW protocol, there is only one block being added. this block can contain the reward for the miner along with other transaction data?” Prompt"
 ---
 
 # What Is A Block?

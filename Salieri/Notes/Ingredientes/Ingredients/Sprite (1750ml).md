@@ -1,7 +1,7 @@
 ---
-Brand: "Sprite"
-Price: "COP 2,990.00"
-From: "Tiendas D1"
+brand: "Sprite"
+price: "COP 2,990.00"
+from: "Tiendas D1"
 ---
 
 # Sprite (1750ml)

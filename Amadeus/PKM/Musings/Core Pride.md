@@ -1,8 +1,8 @@
 ---
-Note Type: "Literature"
-Last edited time: "February 19, 2024 3:56 PM"
-Status: "Unprocessed"
-Created time: "February 19, 2024 12:00 AM"
+note-type: "Literature"
+last-edited-time: "February 19, 2024 3:56 PM"
+status: "Unprocessed"
+created-time: "February 19, 2024 12:00 AM"
 ---
 
 # Core Pride

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 30,300.00"
-Balance: "Trusting Mirzakhani"
-Scope: "Lab"
-Created Time: "January 9, 2023 3:44 AM"
-Type: "Short-term"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 30,300.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 30,300.00"
+balance: "Trusting Mirzakhani"
+scope: "Lab"
+created-time: "January 9, 2023 3:44 AM"
+type: "Short-term"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 30,300.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Termómetro Digital

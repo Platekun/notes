@@ -1,9 +1,9 @@
 ---
-Slug: "tomates-enteros-pelados-deliziare-400-g-12002575"
-Brand: "Deliziare"
-Price: "COP 4,490.00"
-From: "Tiendas D1"
-Recipes: "Pollo Napolitano"
+slug: "tomates-enteros-pelados-deliziare-400-g-12002575"
+brand: "Deliziare"
+price: "COP 4,490.00"
+from: "Tiendas D1"
+recipes: "Pollo Napolitano"
 ---
 
 # Tomates En Lata

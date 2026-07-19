@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "EC2"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "September 27, 2022 1:00 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "EC2"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "September 27, 2022 1:00 AM"
+sources: "Unknown"
 ---
 
 # Key Pairs

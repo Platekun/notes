@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Judy Reyes"
-Last edited time: "April 1, 2024 1:45 AM"
-Status: "Unprocessed"
-Created time: "April 1, 2024 1:44 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Judy Reyes"
+last-edited-time: "April 1, 2024 1:45 AM"
+status: "Unprocessed"
+created-time: "April 1, 2024 1:44 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # A Person Is Nothing But Their Memories

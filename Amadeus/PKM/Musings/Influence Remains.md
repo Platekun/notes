@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "May 23, 2024 1:33 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:29 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "May 23, 2024 1:33 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:29 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Influence Remains

@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "October 6, 2023 1:29 PM"
-Status: "Processed"
-Created time: "October 6, 2023 1:26 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "October 6, 2023 1:29 PM"
+status: "Processed"
+created-time: "October 6, 2023 1:26 PM"
 ---
 
 # Boring Friday

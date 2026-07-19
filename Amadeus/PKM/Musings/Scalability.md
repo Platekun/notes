@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Cloud Computing"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 6, 2022 2:18 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Cloud Computing"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 6, 2022 2:18 AM"
+sources: "Unknown"
 ---
 
 # Scalability

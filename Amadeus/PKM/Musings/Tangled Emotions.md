@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Last edited time: "April 8, 2024 2:32 AM"
-Status: "Processed"
-Created time: "April 8, 2024 2:13 AM"
+note-type: "Literature"
+author: "Carlos Lobo"
+last-edited-time: "April 8, 2024 2:32 AM"
+status: "Processed"
+created-time: "April 8, 2024 2:13 AM"
 ---
 
 # Tangled Emotions

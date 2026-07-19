@@ -1,6 +1,6 @@
 ---
-Brand: "Member's Selection"
-Stores: "Pricesmart"
+brand: "Member's Selection"
+stores: "Pricesmart"
 ---
 
 # Jabón Para Platos

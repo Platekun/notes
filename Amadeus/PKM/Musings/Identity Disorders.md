@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "October 1, 2023 7:47 PM"
-Status: "Unprocessed"
-Created time: "February 11, 2023 4:32 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "October 1, 2023 7:47 PM"
+status: "Unprocessed"
+created-time: "February 11, 2023 4:32 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Identity Disorders

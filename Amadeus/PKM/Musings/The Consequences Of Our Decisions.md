@@ -1,11 +1,11 @@
 ---
-Note Type: "Permanent"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Ethics"
-Last edited time: "October 1, 2023 11:49 PM"
-Status: "Processed"
-Created time: "October 1, 2023 11:46 PM"
-Sources: "Spider-Man 2"
+note-type: "Permanent"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Ethics"
+last-edited-time: "October 1, 2023 11:49 PM"
+status: "Processed"
+created-time: "October 1, 2023 11:46 PM"
+sources: "Spider-Man 2"
 ---
 
 # The Consequences Of Our Decisions

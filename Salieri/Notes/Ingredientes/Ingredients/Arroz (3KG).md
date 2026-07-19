@@ -1,8 +1,8 @@
 ---
-Slug: "arroz-diana-3-kg-7702511000038-518233"
-Brand: "Diana"
-Price: "COP 14,550.00"
-From: "SAO"
+slug: "arroz-diana-3-kg-7702511000038-518233"
+brand: "Diana"
+price: "COP 14,550.00"
+from: "SAO"
 ---
 
 # Arroz (3KG)

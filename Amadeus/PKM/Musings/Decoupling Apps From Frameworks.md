@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Robert Aguilera"
-Primary Zettelkasten Area: "Software Architecture"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 2:38 AM"
-Sources: "Frontend architecture: Decoupling apps from frameworks (DevFest 2019)"
+note-type: "Literature"
+author: "Robert Aguilera"
+primary-zettelkasten-area: "Software Architecture"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 2:38 AM"
+sources: "Frontend architecture: Decoupling apps from frameworks (DevFest 2019)"
 ---
 
 # Decoupling Apps From Frameworks

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Suzuha Amane"
-Primary Zettelkasten Area: "Time Perception"
-Last edited time: "October 1, 2023 7:29 PM"
-Status: "Processed"
-Created time: "October 24, 2022 8:38 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Suzuha Amane"
+primary-zettelkasten-area: "Time Perception"
+last-edited-time: "October 1, 2023 7:29 PM"
+status: "Processed"
+created-time: "October 24, 2022 8:38 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # Time Is Just The Measure Of Motion

@@ -1,14 +1,14 @@
 ---
-Amount: "COP 70,000.00"
-Balance: "Distinguished Ningbo"
-Scope: "Relationship"
-Created Time: "November 2, 2024 5:03 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 70,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 70,000.00"
+balance: "Distinguished Ningbo"
+scope: "Relationship"
+created-time: "November 2, 2024 5:03 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 70,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Halloween Dinner Expenses

@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Amadeus Kurisu"
-Last edited time: "April 1, 2024 1:38 AM"
-Status: "Unprocessed"
-Created time: "February 3, 2024 4:37 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Amadeus Kurisu"
+last-edited-time: "April 1, 2024 1:38 AM"
+status: "Unprocessed"
+created-time: "February 3, 2024 4:37 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Amadeus Behavior

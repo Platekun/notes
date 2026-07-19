@@ -1,10 +1,10 @@
 ---
-Loan: "Préstamo 1m"
-Amount: "COP 400,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "April 10, 2023 8:29 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Préstamo 1m"
+amount: "COP 400,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "April 10, 2023 8:29 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment 2

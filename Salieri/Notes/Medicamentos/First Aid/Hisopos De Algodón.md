@@ -1,5 +1,5 @@
 ---
-Use Cases: "Limpieza"
+use-cases: "Limpieza"
 ---
 
 # Hisopos De Algodón

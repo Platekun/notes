@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Shiina Kagari"
-Last edited time: "March 21, 2024 1:48 AM"
-Status: "Unprocessed"
-Created time: "March 21, 2024 1:41 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Shiina Kagari"
+last-edited-time: "March 21, 2024 1:48 AM"
+status: "Unprocessed"
+created-time: "March 21, 2024 1:41 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Memories Trivia

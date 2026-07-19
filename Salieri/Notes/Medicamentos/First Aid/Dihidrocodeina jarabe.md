@@ -1,5 +1,5 @@
 ---
-Use Cases: "Dolor De Garganta, Gripe"
+use-cases: "Dolor De Garganta, Gripe"
 ---
 
 # Dihidrocodeina jarabe

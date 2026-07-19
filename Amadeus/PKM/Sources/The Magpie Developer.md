@@ -1,6 +1,6 @@
 ---
-URL: "https://blog.codinghorror.com/the-magpie-developer/"
-Notes: "The Magpie Developer"
+url: "https://blog.codinghorror.com/the-magpie-developer/"
+notes: "The Magpie Developer"
 ---
 
 # The Magpie Developer

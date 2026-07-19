@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "March 21, 2024 1:55 AM"
-Status: "Unprocessed"
-Created time: "February 3, 2024 3:00 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "March 21, 2024 1:55 AM"
+status: "Unprocessed"
+created-time: "February 3, 2024 3:00 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # I'm Still Me

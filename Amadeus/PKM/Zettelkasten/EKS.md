@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is EKS?"
+parent-item: "AWS"
+primary-source: "What Is EKS?"
 ---
 
 # EKS

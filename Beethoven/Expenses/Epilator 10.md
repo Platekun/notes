@@ -1,7 +1,7 @@
 ---
-Amount: "COP 75,000.00"
-Created by: "Automation"
-Created time: "January 24, 2025 7:33 AM"
+amount: "COP 75,000.00"
+created-by: "Automation"
+created-time: "January 24, 2025 7:33 AM"
 ---
 
 # Epilator

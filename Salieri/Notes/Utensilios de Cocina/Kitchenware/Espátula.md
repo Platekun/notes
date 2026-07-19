@@ -1,6 +1,6 @@
 ---
-Original Name: "Spatula"
-Recipes: "Sandwich De Huevo"
+original-name: "Spatula"
+recipes: "Sandwich De Huevo"
 ---
 
 # Espátula

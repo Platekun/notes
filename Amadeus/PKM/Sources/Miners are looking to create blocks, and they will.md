@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Proof-of-Work?"
+notes: "What Is Proof-of-Work?"
 ---
 
 # "Miners are looking to create blocks, and they will solve a challenge in order to do so. If they get it right they will take as many transactions from the pool and shove them inside, is this correct?” Prompt

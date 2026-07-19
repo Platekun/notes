@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Phi"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "November 19, 2023 12:51 AM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Phi Quote’s Problem Solving Method"
+note-type: "Literature"
+author: "Phi"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "November 19, 2023 12:51 AM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Phi Quote’s Problem Solving Method"
 ---
 
 # Everything Is Designed To Do Something

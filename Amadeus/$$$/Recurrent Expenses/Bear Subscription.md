@@ -1,9 +1,9 @@
 ---
-Financial Year: "2021"
-Amount: "COP 42,900.00"
-Scope: "Lobito"
-Amount Per Year: "COP 42,900.00"
-Expense Frequency: "Annual"
+financial-year: "2021"
+amount: "COP 42,900.00"
+scope: "Lobito"
+amount-per-year: "COP 42,900.00"
+expense-frequency: "Annual"
 ---
 
 # Bear Subscription

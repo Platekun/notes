@@ -1,5 +1,5 @@
 ---
-Location: "Centro Comercial Miramar, Piso 1, Local 7, Cra. 43 #99-50, Barranquilla, Atlántico"
+location: "Centro Comercial Miramar, Piso 1, Local 7, Cra. 43 #99-50, Barranquilla, Atlántico"
 ---
 
 # SAO

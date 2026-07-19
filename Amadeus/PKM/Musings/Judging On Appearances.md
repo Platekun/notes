@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Takuru Miyashiro"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "October 1, 2023 7:46 PM"
-Secondary Zettelkasten Area: "Ethics"
-Tertiary Zettelkasten Area: "Growth"
-Status: "Processed"
-Created time: "March 19, 2023 2:35 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takuru Miyashiro"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "October 1, 2023 7:46 PM"
+secondary-zettelkasten-area: "Ethics"
+tertiary-zettelkasten-area: "Growth"
+status: "Processed"
+created-time: "March 19, 2023 2:35 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Judging On Appearances

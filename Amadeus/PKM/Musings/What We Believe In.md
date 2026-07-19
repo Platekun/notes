@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Hinae Arimura"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 1, 2023 7:31 PM"
-Status: "Processed"
-Created time: "March 19, 2023 5:39 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Hinae Arimura"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 1, 2023 7:31 PM"
+status: "Processed"
+created-time: "March 19, 2023 5:39 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # What We Believe In

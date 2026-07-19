@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Issei Hatano"
-Primary Zettelkasten Area: "Emotions"
-Last edited time: "October 31, 2023 1:16 AM"
-Secondary Zettelkasten Area: "World Perception"
-Status: "Processed"
-Created time: "September 27, 2023 12:59 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Issei Hatano"
+primary-zettelkasten-area: "Emotions"
+last-edited-time: "October 31, 2023 1:16 AM"
+secondary-zettelkasten-area: "World Perception"
+status: "Processed"
+created-time: "September 27, 2023 12:59 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # How We Perceive The World

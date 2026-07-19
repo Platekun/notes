@@ -1,8 +1,8 @@
 ---
-Area: "RDS"
-Reveal: "No"
-Confidence: "Not Confident"
-Answer: "A common deployment setup is having a VPC with two subnets:"
+area: "RDS"
+reveal: "No"
+confidence: "Not Confident"
+answer: "A common deployment setup is having a VPC with two subnets:"
 ---
 
 # How Does A Common Deployment With An RDS Instance Looks Like In Terms Of Infrastructure?

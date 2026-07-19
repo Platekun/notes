@@ -1,5 +1,5 @@
 ---
-URL: "https://tolgee.io/blog/closure-objects/"
+url: "https://tolgee.io/blog/closure-objects/"
 ---
 
 # How to remove Java from JavaScript | Tolgee

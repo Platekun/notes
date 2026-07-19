@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Alan Kay"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 24, 2022 8:17 PM"
-Sources: "Dr Dobb's Journal"
+note-type: "Literature"
+author: "Alan Kay"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 24, 2022 8:17 PM"
+sources: "Dr Dobb's Journal"
 ---
 
 # Software Development Is Like Pop Culture

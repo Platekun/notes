@@ -1,5 +1,5 @@
 ---
-Recipes: "Pechuga De Pollo Rellena, Croquetas De Jamón Serrano"
+recipes: "Pechuga De Pollo Rellena, Croquetas De Jamón Serrano"
 ---
 
 # Brocha

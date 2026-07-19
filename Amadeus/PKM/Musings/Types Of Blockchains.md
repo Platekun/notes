@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "BlockChain"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "January 2, 2023 7:30 PM"
-Sources: "Blockchain Definition"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "BlockChain"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "January 2, 2023 7:30 PM"
+sources: "Blockchain Definition"
 ---
 
 # Types Of Blockchains

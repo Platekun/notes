@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Work"
-Last edited time: "September 25, 2025 5:05 AM"
-Status: "Unprocessed"
-Created time: "September 25, 2025 5:05 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Work"
+last-edited-time: "September 25, 2025 5:05 AM"
+status: "Unprocessed"
+created-time: "September 25, 2025 5:05 AM"
 ---
 
 # Work Day (@September 25, 2025)

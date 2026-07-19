@@ -1,6 +1,6 @@
 ---
-Listo: "No"
-Para: "Lourdes"
+listo: "No"
+para: "Lourdes"
 ---
 
 # Cepillo planchador

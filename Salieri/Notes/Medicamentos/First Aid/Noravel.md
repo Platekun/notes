@@ -1,5 +1,5 @@
 ---
-Use Cases: "Dolor De Garganta"
+use-cases: "Dolor De Garganta"
 ---
 
 # Noravel

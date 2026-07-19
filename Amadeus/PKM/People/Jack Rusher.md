@@ -1,5 +1,5 @@
 ---
-Notes: "HCI Patterns"
+notes: "HCI Patterns"
 ---
 
 # Jack Rusher

@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Caching"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 26, 2022 2:08 AM"
-Sources: "Caching, Systems Design Primer"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Caching"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 26, 2022 2:08 AM"
+sources: "Caching, Systems Design Primer"
 ---
 
 # What To Cache?

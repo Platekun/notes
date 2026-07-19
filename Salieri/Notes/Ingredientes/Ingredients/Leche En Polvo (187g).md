@@ -1,9 +1,9 @@
 ---
-Slug: "leche-polvo-rodeo-187-gr-12004393"
-Brand: "Nestlé"
-Price: "COP 7,590.00"
-From: "Tiendas D1"
-Recipes: "Quesillo"
+slug: "leche-polvo-rodeo-187-gr-12004393"
+brand: "Nestlé"
+price: "COP 7,590.00"
+from: "Tiendas D1"
+recipes: "Quesillo"
 ---
 
 # Leche En Polvo (187g)

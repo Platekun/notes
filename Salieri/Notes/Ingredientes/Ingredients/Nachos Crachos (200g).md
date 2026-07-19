@@ -1,7 +1,7 @@
 ---
-Brand: "Sabores Mexicanos"
-Price: "COP 2,550.00"
-From: "Tiendas D1"
+brand: "Sabores Mexicanos"
+price: "COP 2,550.00"
+from: "Tiendas D1"
 ---
 
 # Nachos Crachos (200g)

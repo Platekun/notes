@@ -1,10 +1,10 @@
 ---
-Loan: "Viking house y topic"
-Amount: "COP 85,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "April 29, 2023 1:57 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Viking house y topic"
+amount: "COP 85,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "April 29, 2023 1:57 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment descontando Mario I

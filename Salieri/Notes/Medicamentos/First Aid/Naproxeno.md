@@ -1,5 +1,5 @@
 ---
-Use Cases: "Dolor Corporal"
+use-cases: "Dolor Corporal"
 ---
 
 # Naproxeno

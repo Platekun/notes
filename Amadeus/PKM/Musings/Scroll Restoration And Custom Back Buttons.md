@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Chris C."
-Primary Zettelkasten Area: "Front-End Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Scroll Restoration And Custom Back Buttons"
+note-type: "Literature"
+author: "Chris C."
+primary-zettelkasten-area: "Front-End Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Scroll Restoration And Custom Back Buttons"
 ---
 
 # Scroll Restoration And Custom Back Buttons

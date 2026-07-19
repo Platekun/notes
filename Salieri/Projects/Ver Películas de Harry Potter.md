@@ -1,6 +1,6 @@
 ---
-Status: "Paused"
-Archived: "No"
+status: "Paused"
+archived: "No"
 ---
 
 # Ver Películas de Harry Potter

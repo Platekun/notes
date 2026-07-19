@@ -1,5 +1,5 @@
 ---
-Status: "Paused"
+status: "Paused"
 ---
 
 # Play Robotic;Notes DaSH

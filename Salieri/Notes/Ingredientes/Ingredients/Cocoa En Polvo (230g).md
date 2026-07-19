@@ -1,9 +1,9 @@
 ---
-Slug: "cocoa-casa-real-230-g-12000479"
-Brand: "Casa Real"
-Price: "COP 5,890.00"
-From: "Tiendas D1"
-Recipes: "Marquesa De Chocolate"
+slug: "cocoa-casa-real-230-g-12000479"
+brand: "Casa Real"
+price: "COP 5,890.00"
+from: "Tiendas D1"
+recipes: "Marquesa De Chocolate"
 ---
 
 # Cocoa En Polvo (230g)

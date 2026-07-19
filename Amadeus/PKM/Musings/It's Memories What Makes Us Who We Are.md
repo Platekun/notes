@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "May 23, 2024 2:20 AM"
-Status: "Unprocessed"
-Created time: "April 1, 2024 1:02 AM"
-Experiences: "Play Steins;Gate 0"
-Sources: "Hiyajo Maho's Speech About Consciousness"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "May 23, 2024 2:20 AM"
+status: "Unprocessed"
+created-time: "April 1, 2024 1:02 AM"
+experiences: "Play Steins;Gate 0"
+sources: "Hiyajo Maho's Speech About Consciousness"
 ---
 
 # It's Memories What Makes Us Who We Are

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:13 PM"
-Status: "Processed"
-Created time: "October 24, 2022 9:55 PM"
-Experiences: "Play Steins;Gate"
-Sources: "Steins;Gate"
+note-type: "Literature"
+author: "Okabe Rintaro"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:13 PM"
+status: "Processed"
+created-time: "October 24, 2022 9:55 PM"
+experiences: "Play Steins;Gate"
+sources: "Steins;Gate"
 ---
 
 # What Are You Afraid Of? Believe In Yourself

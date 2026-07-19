@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "Search Engine Optimizations 101"
+parent-item: "AWS"
+primary-source: "Search Engine Optimizations 101"
 ---
 
 # SEO

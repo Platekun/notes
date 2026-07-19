@@ -1,6 +1,6 @@
 ---
-URL: "https://twitter.com/EnricoPolanski/status/1258727101982703616?s=20"
-Notes: "Separation Of Concerns In A Router"
+url: "https://twitter.com/EnricoPolanski/status/1258727101982703616?s=20"
+notes: "Separation Of Concerns In A Router"
 ---
 
 # Routing Concerns Should Be Isolated

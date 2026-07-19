@@ -1,6 +1,6 @@
 ---
-Original Name: "Refrigerator"
-Recipes: "Postre Napoleón, Croquetas De Jamón Serrano, Marquesa De Chocolate"
+original-name: "Refrigerator"
+recipes: "Postre Napoleón, Croquetas De Jamón Serrano, Marquesa De Chocolate"
 ---
 
 # Nevera

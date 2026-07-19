@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Akiho Senomiya"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 11:29 PM"
-Secondary Zettelkasten Area: "World Perception"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Akiho Senomiya"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 11:29 PM"
+secondary-zettelkasten-area: "World Perception"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # Artificial Miracles

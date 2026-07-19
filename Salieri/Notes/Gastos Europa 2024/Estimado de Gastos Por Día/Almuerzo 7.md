@@ -1,14 +1,14 @@
 ---
-1 EUR a COP: "COP 4,566.00"
-Fecha: "October 1, 2024"
-Payment Method: "Efectivo, T. Crédito"
-Precio (COP): "COP 91,320.00"
-Precio (EUR): "€20.00"
-Total (COP): "COP 182,640.00"
-Total (EUR): "€40.00"
-Total Solo en Efectivo (COP): "COP 91,320.00"
-Total Solo en Efectivo (EUR): "€40.00"
-Unidad: "2"
+1-eur-a-cop: "COP 4,566.00"
+fecha: "October 1, 2024"
+payment-method: "Efectivo, T. Crédito"
+precio-cop: "COP 91,320.00"
+precio-eur: "€20.00"
+total-cop: "COP 182,640.00"
+total-eur: "€40.00"
+total-solo-en-efectivo-cop: "COP 91,320.00"
+total-solo-en-efectivo-eur: "€40.00"
+unidad: "2"
 ---
 
 # Almuerzo

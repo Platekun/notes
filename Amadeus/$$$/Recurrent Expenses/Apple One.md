@@ -1,9 +1,9 @@
 ---
-Financial Year: "2023"
-Amount: "COP 74,500.00"
-Scope: "Lab"
-Amount Per Year: "COP 74,500.00"
-Expense Frequency: "Monthly"
+financial-year: "2023"
+amount: "COP 74,500.00"
+scope: "Lab"
+amount-per-year: "COP 74,500.00"
+expense-frequency: "Monthly"
 ---
 
 # Apple One

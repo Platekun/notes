@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "February 13, 2023 3:36 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "February 13, 2023 3:36 AM"
 ---
 
 # Peaceful Sunday

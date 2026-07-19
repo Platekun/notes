@@ -1,14 +1,14 @@
 ---
-1 EUR a COP: "COP 4,566.00"
-Fecha: "October 14, 2024"
-Payment Method: "Efectivo"
-Precio (COP): "COP 136,980.00"
-Precio (EUR): "€30.00"
-Total (COP): "COP 136,980.00"
-Total (EUR): "€30.00"
-Total Solo en Efectivo (COP): "COP 136,980.00"
-Total Solo en Efectivo (EUR): "€30.00"
-Unidad: "1"
+1-eur-a-cop: "COP 4,566.00"
+fecha: "October 14, 2024"
+payment-method: "Efectivo"
+precio-cop: "COP 136,980.00"
+precio-eur: "€30.00"
+total-cop: "COP 136,980.00"
+total-eur: "€30.00"
+total-solo-en-efectivo-cop: "COP 136,980.00"
+total-solo-en-efectivo-eur: "€30.00"
+unidad: "1"
 ---
 
 # Taxi → Aeropuerto (Paris)

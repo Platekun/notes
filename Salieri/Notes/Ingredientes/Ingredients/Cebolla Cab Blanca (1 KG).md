@@ -1,8 +1,8 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 3,800.00"
-From: "Fruvecol"
-Recipes: "Pasta De Zuchini, Ensalada Fría De Pasta, Jamón y Pollo, Croquetas De Jamón Serrano"
+brand: "Fruvecol"
+price: "COP 3,800.00"
+from: "Fruvecol"
+recipes: "Pasta De Zuchini, Ensalada Fría De Pasta, Jamón y Pollo, Croquetas De Jamón Serrano"
 ---
 
 # Cebolla Cab Blanca (1 KG)

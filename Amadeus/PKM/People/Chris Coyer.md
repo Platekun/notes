@@ -1,5 +1,5 @@
 ---
-Notes: "Simple & Boring"
+notes: "Simple & Boring"
 ---
 
 # Chris Coyer

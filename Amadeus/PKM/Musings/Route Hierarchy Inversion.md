@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Steven Salka"
-Primary Zettelkasten Area: "Routing"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Routing Flexibility"
+note-type: "Literature"
+author: "Steven Salka"
+primary-zettelkasten-area: "Routing"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Routing Flexibility"
 ---
 
 # Route Hierarchy Inversion

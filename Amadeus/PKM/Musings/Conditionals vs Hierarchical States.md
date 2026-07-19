@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Kyle Shelvin"
-Primary Zettelkasten Area: "StateCharts"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Conditionals vs Hierarchical States"
+note-type: "Literature"
+author: "Kyle Shelvin"
+primary-zettelkasten-area: "StateCharts"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Conditionals vs Hierarchical States"
 ---
 
 # Conditionals vs Hierarchical States

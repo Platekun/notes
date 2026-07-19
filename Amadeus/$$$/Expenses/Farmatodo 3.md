@@ -1,14 +1,14 @@
 ---
-Amount: "COP 49,477.00"
-Balance: "Ides Of March"
-Scope: "Relationship"
-Created Time: "March 15, 2025 9:01 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 49,477.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 49,477.00"
+balance: "Ides Of March"
+scope: "Relationship"
+created-time: "March 15, 2025 9:01 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 49,477.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Farmatodo

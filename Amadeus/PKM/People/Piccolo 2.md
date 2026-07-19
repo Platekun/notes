@@ -1,5 +1,5 @@
 ---
-Notes: "Believe In Your Strength"
+notes: "Believe In Your Strength"
 ---
 
 # Piccolo

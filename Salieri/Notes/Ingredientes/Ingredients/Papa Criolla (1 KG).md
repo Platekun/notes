@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 5,200.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 5,200.00"
+from: "Fruvecol"
 ---
 
 # Papa Criolla (1 KG)

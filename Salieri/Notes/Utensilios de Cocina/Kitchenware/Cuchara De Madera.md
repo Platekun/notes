@@ -1,6 +1,6 @@
 ---
-Original Name: "Wooden Spoon"
-Recipes: "Marquesa De Chocolate"
+original-name: "Wooden Spoon"
+recipes: "Marquesa De Chocolate"
 ---
 
 # Cuchara De Madera

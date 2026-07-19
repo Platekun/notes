@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is ECR?"
+parent-item: "AWS"
+primary-source: "What Is ECR?"
 ---
 
 # ECR

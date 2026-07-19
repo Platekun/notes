@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Amadeus Kurisu"
-Last edited time: "May 21, 2024 2:03 AM"
-Status: "Unprocessed"
-Created time: "May 21, 2024 2:01 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Amadeus Kurisu"
+last-edited-time: "May 21, 2024 2:03 AM"
+status: "Unprocessed"
+created-time: "May 21, 2024 2:01 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Scientific Gatekeeping

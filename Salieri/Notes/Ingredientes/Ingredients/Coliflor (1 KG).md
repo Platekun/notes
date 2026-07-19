@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 11,400.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 11,400.00"
+from: "Fruvecol"
 ---
 
 # Coliflor (1 KG)

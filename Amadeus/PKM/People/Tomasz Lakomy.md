@@ -1,5 +1,5 @@
 ---
-Notes: "Correctness Does Not Mean Friendliness"
+notes: "Correctness Does Not Mean Friendliness"
 ---
 
 # Tomasz Lakomy

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Shogun"
-Primary Zettelkasten Area: "Growth"
-Last edited time: "November 4, 2023 7:38 PM"
-Status: "Processed"
-Created time: "September 30, 2023 4:03 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Shogun"
+primary-zettelkasten-area: "Growth"
+last-edited-time: "November 4, 2023 7:38 PM"
+status: "Processed"
+created-time: "September 30, 2023 4:03 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Humans Are Incomplete

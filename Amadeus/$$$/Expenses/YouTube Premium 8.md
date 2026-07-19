@@ -1,14 +1,14 @@
 ---
-Amount: "COP 41,900.00"
-Balance: "Ides Of March"
-Scope: "Family"
-Created Time: "March 7, 2025 5:44 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 41,900.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 41,900.00"
+balance: "Ides Of March"
+scope: "Family"
+created-time: "March 7, 2025 5:44 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 41,900.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # YouTube Premium

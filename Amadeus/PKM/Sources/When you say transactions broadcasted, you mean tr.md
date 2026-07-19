@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Crypto Wallet?"
+notes: "What Is A Crypto Wallet?"
 ---
 
 # "When you say transactions broadcasted, you mean transactions initiated between users using crypto wallets?” Prompt

@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takumi Nishijou"
-Primary Zettelkasten Area: "Loneliness"
-Last edited time: "October 1, 2023 11:28 PM"
-Secondary Zettelkasten Area: "Love"
-Status: "Processed"
-Created time: "October 24, 2022 8:19 PM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Takumi Nishijou"
+primary-zettelkasten-area: "Loneliness"
+last-edited-time: "October 1, 2023 11:28 PM"
+secondary-zettelkasten-area: "Love"
+status: "Processed"
+created-time: "October 24, 2022 8:19 PM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Fear Of Being Alone

@@ -1,5 +1,5 @@
 ---
-Notes: "Difficulty Subjective Terms"
+notes: "Difficulty Subjective Terms"
 ---
 
 # Matt Pocock

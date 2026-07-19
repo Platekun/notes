@@ -1,9 +1,9 @@
 ---
-Slug: "chocolate-chocolyne-barra-bolsa-x-18-7702007019032-1552540"
-Brand: "Chocolyne"
-Price: "COP 9,920.00"
-From: "SAO"
-Recipes: "Marquesa De Chocolate"
+slug: "chocolate-chocolyne-barra-bolsa-x-18-7702007019032-1552540"
+brand: "Chocolyne"
+price: "COP 9,920.00"
+from: "SAO"
+recipes: "Marquesa De Chocolate"
 ---
 
 # Chocolate Chocolyne (108g)

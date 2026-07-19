@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 90,000.00"
-Total: "COP 180,000.00"
-Unidad: "2"
+precio-cop: "COP 90,000.00"
+total: "COP 180,000.00"
+unidad: "2"
 ---
 
 # Torre de Pisa

@@ -1,8 +1,8 @@
 ---
-Amount: "COP 20,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "December 18, 2024 9:45 PM"
-Sprint: "Navidad"
+amount: "COP 20,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "December 18, 2024 9:45 PM"
+sprint: "Navidad"
 ---
 
 # Uber

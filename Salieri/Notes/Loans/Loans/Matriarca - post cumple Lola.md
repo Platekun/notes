@@ -1,15 +1,15 @@
 ---
-Created Time: "April 16, 2023 1:57 PM"
-Scope: "Relationship"
-Borrower: "Lourdes Ojeda"
-Lender: "Carlos Camilo Lobo Ulloque"
-Principal: "COP 80,000.00"
-Transactions: "Payment"
-Paid: "80000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Lourdes Ojeda"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "April 16, 2023 1:57 PM"
+scope: "Relationship"
+borrower: "Lourdes Ojeda"
+lender: "Carlos Camilo Lobo Ulloque"
+principal: "COP 80,000.00"
+transactions: "Payment"
+paid: "80000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Lourdes Ojeda"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Matriarca - post cumple Lola

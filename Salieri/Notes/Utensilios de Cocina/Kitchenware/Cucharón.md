@@ -1,5 +1,5 @@
 ---
-Original Name: "Ladle"
+original-name: "Ladle"
 ---
 
 # Cucharón

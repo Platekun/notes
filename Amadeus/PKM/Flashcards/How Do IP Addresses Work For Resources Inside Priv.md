@@ -1,8 +1,8 @@
 ---
-Area: "VPC"
-Reveal: "No"
-Confidence: "Somewhat Confident"
-Answer: "Resources residing in this type of subnetwork won’t have public IP addresses."
+area: "VPC"
+reveal: "No"
+confidence: "Somewhat Confident"
+answer: "Resources residing in this type of subnetwork won’t have public IP addresses."
 ---
 
 # How Do IP Addresses Work For Resources Inside Private Subnets?

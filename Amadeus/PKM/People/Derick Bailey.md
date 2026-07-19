@@ -1,5 +1,5 @@
 ---
-Notes: "Yes, Your Code Is Opinionated"
+notes: "Yes, Your Code Is Opinionated"
 ---
 
 # Derick Bailey

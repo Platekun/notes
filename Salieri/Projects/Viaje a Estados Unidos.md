@@ -1,7 +1,7 @@
 ---
-Status: "Ready To Start"
-Resources: "Diligenciamiento Del Formulario DS-160 Para La Visa de USA"
-Archived: "No"
+status: "Ready To Start"
+resources: "Diligenciamiento Del Formulario DS-160 Para La Visa de USA"
+archived: "No"
 ---
 
 # Viaje a Estados Unidos

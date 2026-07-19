@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Serika Onoe"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "October 1, 2023 7:49 PM"
-Secondary Zettelkasten Area: "Growth"
-Status: "Processed"
-Created time: "December 31, 2022 10:47 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Serika Onoe"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "October 1, 2023 7:49 PM"
+secondary-zettelkasten-area: "Growth"
+status: "Processed"
+created-time: "December 31, 2022 10:47 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Give Your All In Everything You Do

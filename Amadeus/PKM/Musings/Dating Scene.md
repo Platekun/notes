@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "January 12, 2025 5:03 PM"
-Status: "Unprocessed"
-Created time: "January 12, 2025 5:03 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "January 12, 2025 5:03 PM"
+status: "Unprocessed"
+created-time: "January 12, 2025 5:03 PM"
 ---
 
 # Dating Scene

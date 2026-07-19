@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Archer"
-Primary Zettelkasten Area: "Identity"
-Last edited time: "October 1, 2023 11:38 PM"
-Secondary Zettelkasten Area: "Ethics"
-Tertiary Zettelkasten Area: "Problem Solving"
-Status: "Unprocessed"
-Created time: "December 25, 2022 4:28 PM"
-Sources: "Fate/Stay Night: Unlimited Blade Works"
+note-type: "Literature"
+author: "Archer"
+primary-zettelkasten-area: "Identity"
+last-edited-time: "October 1, 2023 11:38 PM"
+secondary-zettelkasten-area: "Ethics"
+tertiary-zettelkasten-area: "Problem Solving"
+status: "Unprocessed"
+created-time: "December 25, 2022 4:28 PM"
+sources: "Fate/Stay Night: Unlimited Blade Works"
 ---
 
 # Let Your Ideals Drag You To Your Death

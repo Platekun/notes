@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Proof-of-Work?"
+notes: "What Is Proof-of-Work?"
 ---
 
 # "Who determines the reward in a proof-of-work protocol?” Prompt

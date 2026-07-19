@@ -1,9 +1,9 @@
 ---
-Slug: "cafe-instantaneo-descafeinado-viejo-molino-85-g-12000490"
-Brand: "Viejo Molino"
-Price: "COP 9,150.00"
-From: "Tiendas D1"
-Recipes: "Bailey"
+slug: "cafe-instantaneo-descafeinado-viejo-molino-85-g-12000490"
+brand: "Viejo Molino"
+price: "COP 9,150.00"
+from: "Tiendas D1"
+recipes: "Bailey"
 ---
 
 # Café Instantáneo Descafeinado (85g)

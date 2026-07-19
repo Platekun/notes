@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is Elastic Beanstalk?"
+parent-item: "AWS"
+primary-source: "What Is Elastic Beanstalk?"
 ---
 
 # Elastic Beanstalk

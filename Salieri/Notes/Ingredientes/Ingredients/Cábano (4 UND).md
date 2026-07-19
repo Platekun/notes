@@ -1,7 +1,7 @@
 ---
-Brand: "Viandé"
-Price: "COP 2,890.00"
-From: "Tiendas D1"
+brand: "Viandé"
+price: "COP 2,890.00"
+from: "Tiendas D1"
 ---
 
 # Cábano (4 UND)

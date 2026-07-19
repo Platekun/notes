@@ -1,15 +1,15 @@
 ---
-Created Time: "October 23, 2022 9:09 PM"
-Scope: "Lourdes"
-Borrower: "Lourdes Ojeda"
-Lender: "Carlos Camilo Lobo Ulloque"
-Principal: "COP 83,000.00"
-Transactions: "Payment #1"
-Paid: "83000"
-Remaining: "COP 0.00"
-Progress: "100%"
-Created by: "Expense Tracker"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "October 23, 2022 9:09 PM"
+scope: "Lourdes"
+borrower: "Lourdes Ojeda"
+lender: "Carlos Camilo Lobo Ulloque"
+principal: "COP 83,000.00"
+transactions: "Payment #1"
+paid: "83000"
+remaining: "COP 0.00"
+progress: "100%"
+created-by: "Expense Tracker"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Medicina de Kika

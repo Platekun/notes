@@ -1,9 +1,9 @@
 ---
-Financial Year: "2023"
-Amount: "COP 200,000.00"
-Scope: "Lab"
-Amount Per Year: "COP 200,000.00"
-Expense Frequency: "Annual"
+financial-year: "2023"
+amount: "COP 200,000.00"
+scope: "Lab"
+amount-per-year: "COP 200,000.00"
+expense-frequency: "Annual"
 ---
 
 # Notion's Plus Plan

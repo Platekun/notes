@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Takumi Nishijou"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 31, 2023 1:16 AM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "September 26, 2023 1:48 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Takumi Nishijou"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 31, 2023 1:16 AM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "September 26, 2023 1:48 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # What’s Wrong With Being Naive?

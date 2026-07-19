@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Networking"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 1, 2022 1:54 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Networking"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 1, 2022 1:54 AM"
+sources: "Unknown"
 ---
 
 # IP Addresses

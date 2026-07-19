@@ -1,8 +1,8 @@
 ---
-Slug: "pan-hamburguesa-horneaditos-4-und-320-g-12000049"
-Brand: "Horneaditos"
-Price: "COP 2,690.00"
-From: "Tiendas D1"
+slug: "pan-hamburguesa-horneaditos-4-und-320-g-12000049"
+brand: "Horneaditos"
+price: "COP 2,690.00"
+from: "Tiendas D1"
 ---
 
 # Pan De Hamburguesa

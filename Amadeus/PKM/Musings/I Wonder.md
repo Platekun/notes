@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "October 24, 2023 2:15 AM"
-Status: "Unprocessed"
-Created time: "October 24, 2023 2:13 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "October 24, 2023 2:15 AM"
+status: "Unprocessed"
+created-time: "October 24, 2023 2:13 AM"
 ---
 
 # I Wonder

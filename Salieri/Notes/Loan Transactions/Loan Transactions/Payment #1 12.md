@@ -1,10 +1,10 @@
 ---
-Loan: "Cumpleaños de la mamá de Lourdes"
-Amount: "COP 105,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "September 2, 2022 2:41 AM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Cumpleaños de la mamá de Lourdes"
+amount: "COP 105,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "September 2, 2022 2:41 AM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

@@ -1,6 +1,6 @@
 ---
-Brand: "Nosotras"
-Stores: "Tiendas D1, DollarCity"
+brand: "Nosotras"
+stores: "Tiendas D1, DollarCity"
 ---
 
 # Toallas Higiénicas

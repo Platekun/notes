@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 28, 2024 9:17 PM"
-Status: "Processed"
-Created time: "September 28, 2024 9:12 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 28, 2024 9:17 PM"
+status: "Processed"
+created-time: "September 28, 2024 9:12 PM"
 ---
 
 # Back to Madrid

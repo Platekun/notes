@@ -1,13 +1,13 @@
 ---
-Created Time: "October 20, 2024 9:52 PM"
-Borrower: "Lourdes Ojeda"
-Lender: "Carlos Camilo Lobo Ulloque"
-Principal: "COP 560,000.00"
-Paid: "0"
-Remaining: "COP 560,000.00"
-Progress: "0%"
-Created by: "Lourdes Ojeda"
-Edited By: "Carlos Camilo Lobo Ulloque"
+created-time: "October 20, 2024 9:52 PM"
+borrower: "Lourdes Ojeda"
+lender: "Carlos Camilo Lobo Ulloque"
+principal: "COP 560,000.00"
+paid: "0"
+remaining: "COP 560,000.00"
+progress: "0%"
+created-by: "Lourdes Ojeda"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Shakira ticket

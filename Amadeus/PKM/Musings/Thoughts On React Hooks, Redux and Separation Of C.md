@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Mark Erikson"
-Primary Zettelkasten Area: "Front-End Development"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Software Architecture"
-Status: "Processed"
-Created time: "October 18, 2022 2:50 AM"
-Sources: "Thoughts On React Hooks, Redux And Separation Of Concerns"
+note-type: "Literature"
+author: "Mark Erikson"
+primary-zettelkasten-area: "Front-End Development"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Software Architecture"
+status: "Processed"
+created-time: "October 18, 2022 2:50 AM"
+sources: "Thoughts On React Hooks, Redux And Separation Of Concerns"
 ---
 
 # Thoughts On React Hooks, Redux and Separation Of Concerns

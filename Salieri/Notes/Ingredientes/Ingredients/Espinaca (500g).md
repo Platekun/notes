@@ -1,8 +1,8 @@
 ---
-Slug: "359531"
-Brand: "Member's Selection"
-Price: "COP 7,300.00"
-From: "Pricesmart"
+slug: "359531"
+brand: "Member's Selection"
+price: "COP 7,300.00"
+from: "Pricesmart"
 ---
 
 # Espinaca (500g)

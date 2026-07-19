@@ -1,6 +1,6 @@
 ---
-Parent item: "Front-End Development"
-Primary Source: "Using Attributes in CSS Could More Accessible, Using Layout Components Exclusively For Layout"
+parent-item: "Front-End Development"
+primary-source: "Using Attributes in CSS Could More Accessible, Using Layout Components Exclusively For Layout"
 ---
 
 # CSS

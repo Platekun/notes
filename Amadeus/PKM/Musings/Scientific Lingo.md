@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Amadeus Kurisu"
-Last edited time: "February 19, 2024 9:45 PM"
-Status: "Unprocessed"
-Created time: "February 19, 2024 9:43 PM"
+note-type: "Literature"
+author: "Amadeus Kurisu"
+last-edited-time: "February 19, 2024 9:45 PM"
+status: "Unprocessed"
+created-time: "February 19, 2024 9:43 PM"
 ---
 
 # Scientific Lingo

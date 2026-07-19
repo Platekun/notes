@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "BlockChain"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "December 30, 2022 3:19 AM"
-Sources: "Blockchain Definition, \"Are all DTLs block chains?” Prompt, \"Do all DLT use cryptography?” Prompt, \"Do all blockchains use cryptography?” Prompt, \"If I understand correctly, all blockchains use cryptography but not all DLT use cryptography?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "BlockChain"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "December 30, 2022 3:19 AM"
+sources: "Blockchain Definition, \"Are all DTLs block chains?” Prompt, \"Do all DLT use cryptography?” Prompt, \"Do all blockchains use cryptography?” Prompt, \"If I understand correctly, all blockchains use cryptography but not all DLT use cryptography?” Prompt"
 ---
 
 # What Is A Blockchain?

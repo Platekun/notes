@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Mio Kunosato"
-Primary Zettelkasten Area: "Knowledge Management"
-Last edited time: "October 1, 2023 7:49 PM"
-Status: "Processed"
-Created time: "December 31, 2022 10:32 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Mio Kunosato"
+primary-zettelkasten-area: "Knowledge Management"
+last-edited-time: "October 1, 2023 7:49 PM"
+status: "Processed"
+created-time: "December 31, 2022 10:32 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Information Consumption Says A Lot About A Person

@@ -1,10 +1,10 @@
 ---
-Loan: "Regalo Vanesa"
-Amount: "COP 65,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "February 28, 2023 1:31 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Regalo Vanesa"
+amount: "COP 65,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "February 28, 2023 1:31 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Regalo Vanesa

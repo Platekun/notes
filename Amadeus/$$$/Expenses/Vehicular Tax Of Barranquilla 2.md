@@ -1,14 +1,14 @@
 ---
-Amount: "COP 241,200.00"
-Balance: "Ides Of March"
-Scope: "Lab"
-Created Time: "March 24, 2025 5:40 AM"
-Type: "Sinking"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 241,200.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 241,200.00"
+balance: "Ides Of March"
+scope: "Lab"
+created-time: "March 24, 2025 5:40 AM"
+type: "Sinking"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 241,200.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Vehicular Tax Of Barranquilla

@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Nono Kurusu"
-Primary Zettelkasten Area: "Loneliness"
-Last edited time: "October 1, 2023 7:30 PM"
-Status: "Processed"
-Created time: "March 19, 2023 8:28 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Nono Kurusu"
+primary-zettelkasten-area: "Loneliness"
+last-edited-time: "October 1, 2023 7:30 PM"
+status: "Processed"
+created-time: "March 19, 2023 8:28 PM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # The Girl Named Senri Minamisawa

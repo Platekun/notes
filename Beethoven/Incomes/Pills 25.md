@@ -1,7 +1,7 @@
 ---
-Amount: "COP 50,000.00"
-Created time: "March 10, 2024 3:25 AM"
-Sprint: "Modest Kirch"
+amount: "COP 50,000.00"
+created-time: "March 10, 2024 3:25 AM"
+sprint: "Modest Kirch"
 ---
 
 # Pills

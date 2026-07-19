@@ -1,8 +1,8 @@
 ---
-Area: "Networking"
-Reveal: "No"
-Confidence: "Confident"
-Answer: "Mounting refers to giving access to a specific file, directory or file system in a specific location of a given file system."
+area: "Networking"
+reveal: "No"
+confidence: "Confident"
+answer: "Mounting refers to giving access to a specific file, directory or file system in a specific location of a given file system."
 ---
 
 # What does it mean to mount something?

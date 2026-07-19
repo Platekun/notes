@@ -1,14 +1,14 @@
 ---
-Amount: "COP 24,160.00"
-Balance: "Wonderful SDLC"
-Scope: "Lab"
-Created Time: "August 12, 2024 1:39 AM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 24,160.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 24,160.00"
+balance: "Wonderful SDLC"
+scope: "Lab"
+created-time: "August 12, 2024 1:39 AM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 24,160.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Groceries@Olimpica

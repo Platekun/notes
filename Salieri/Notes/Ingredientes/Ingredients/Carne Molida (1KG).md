@@ -1,8 +1,8 @@
 ---
-Slug: "res-carne-molida-esp-24010207"
-Brand: "Olímpica"
-Price: "COP 25,950.00"
-From: "SAO"
+slug: "res-carne-molida-esp-24010207"
+brand: "Olímpica"
+price: "COP 25,950.00"
+from: "SAO"
 ---
 
 # Carne Molida (1KG)

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "December 12, 2023 1:58 AM"
-Status: "Processed"
-Created time: "December 12, 2023 1:52 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "December 12, 2023 1:58 AM"
+status: "Processed"
+created-time: "December 12, 2023 1:52 AM"
 ---
 
 # Moody Monday

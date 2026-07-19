@@ -1,14 +1,14 @@
 ---
-Amount: "COP 22,500.00"
-Balance: "Blink"
-Scope: "Relationship"
-Created Time: "September 10, 2022 9:38 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 22,500.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 22,500.00"
+balance: "Blink"
+scope: "Relationship"
+created-time: "September 10, 2022 9:38 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 22,500.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Pretzels

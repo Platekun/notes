@@ -1,5 +1,5 @@
 ---
-Parent item: "Crypto"
+parent-item: "Crypto"
 ---
 
 # DeFi

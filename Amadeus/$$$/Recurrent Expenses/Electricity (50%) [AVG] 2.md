@@ -1,9 +1,9 @@
 ---
-Financial Year: "2022"
-Amount: "COP 250,000.00"
-Scope: "Lobito"
-Amount Per Year: "COP 250,000.00"
-Expense Frequency: "Monthly"
+financial-year: "2022"
+amount: "COP 250,000.00"
+scope: "Lobito"
+amount-per-year: "COP 250,000.00"
+expense-frequency: "Monthly"
 ---
 
 # Electricity (50%) [AVG]

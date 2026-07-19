@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Oshino Meme"
-Primary Zettelkasten Area: "Time Perception"
-Last edited time: "October 1, 2023 11:40 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Kizumonogatari II Nekketsu-hen"
+note-type: "Literature"
+author: "Oshino Meme"
+primary-zettelkasten-area: "Time Perception"
+last-edited-time: "October 1, 2023 11:40 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Kizumonogatari II Nekketsu-hen"
 ---
 
 # Life Is A Terminal

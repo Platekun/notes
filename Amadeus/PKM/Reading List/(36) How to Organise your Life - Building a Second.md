@@ -1,5 +1,5 @@
 ---
-URL: "https://www.youtube.com/watch?v=K-ssUVyfn5g"
+url: "https://www.youtube.com/watch?v=K-ssUVyfn5g"
 ---
 
 # (36) How to Organise your Life - Building a Second Brain - YouTube

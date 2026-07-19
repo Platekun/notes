@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "January 1, 2025 12:01 AM"
-Status: "Unprocessed"
-Created time: "December 30, 2024 1:56 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "January 1, 2025 12:01 AM"
+status: "Unprocessed"
+created-time: "December 30, 2024 1:56 AM"
 ---
 
 # Core Values

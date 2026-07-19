@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 30, 2023 7:34 PM"
-Status: "Processed"
-Created time: "March 19, 2023 4:51 AM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 30, 2023 7:34 PM"
+status: "Processed"
+created-time: "March 19, 2023 4:51 AM"
 ---
 
 # A Somehwat Lonely Saturday

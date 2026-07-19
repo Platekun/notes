@@ -1,12 +1,12 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "World Perception"
-Last edited time: "October 1, 2023 11:28 PM"
-Secondary Zettelkasten Area: "Growth, Identity, Emotions"
-Status: "Processed"
-Created time: "November 28, 2022 3:03 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "World Perception"
+last-edited-time: "October 1, 2023 11:28 PM"
+secondary-zettelkasten-area: "Growth, Identity, Emotions"
+status: "Processed"
+created-time: "November 28, 2022 3:03 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # I Am The Captain Of My Soul

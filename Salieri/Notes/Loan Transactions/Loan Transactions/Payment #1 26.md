@@ -1,10 +1,10 @@
 ---
-Loan: "Matriarca Amor y Amistad"
-Amount: "COP 78,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "September 29, 2022 10:35 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Matriarca Amor y Amistad"
+amount: "COP 78,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "September 29, 2022 10:35 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

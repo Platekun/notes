@@ -1,8 +1,8 @@
 ---
-Amount: "COP 300,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "May 13, 2024 12:03 AM"
-Sprint: "Eight Years"
+amount: "COP 300,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "May 13, 2024 12:03 AM"
+sprint: "Eight Years"
 ---
 
 # Groceries

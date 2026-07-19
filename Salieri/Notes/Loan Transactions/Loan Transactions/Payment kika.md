@@ -1,10 +1,10 @@
 ---
-Loan: "Internet - kika’s food"
-Amount: "COP 260,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "January 31, 2023 3:09 AM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Internet - kika’s food"
+amount: "COP 260,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "January 31, 2023 3:09 AM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment kika

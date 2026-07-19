@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Harry Brundage"
-Primary Zettelkasten Area: "React"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Ryan Florence’s Use Effect Tweet"
+note-type: "Literature"
+author: "Harry Brundage"
+primary-zettelkasten-area: "React"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Ryan Florence’s Use Effect Tweet"
 ---
 
 # When/Why useEffect Does Not Always Work?

@@ -1,10 +1,10 @@
 ---
-Loan: "Préstamo pagoSept 16"
-Amount: "COP 200,000.00"
-Performed: "No"
-Created By: "Lourdes Ojeda"
-Created Time: "September 19, 2022 12:02 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Préstamo pagoSept 16"
+amount: "COP 200,000.00"
+performed: "No"
+created-by: "Lourdes Ojeda"
+created-time: "September 19, 2022 12:02 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment #1

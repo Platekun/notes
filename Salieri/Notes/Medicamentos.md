@@ -1,7 +1,7 @@
 ---
-Area: "Salud"
-Archived: "false"
-Area Archived: "No"
+area: "Salud"
+archived: "false"
+area-archived: "No"
 ---
 
 # Medicamentos

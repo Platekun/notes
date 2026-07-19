@@ -1,8 +1,8 @@
 ---
-Slug: "sueo-costeno-coolechea-pasteuiz-d-pack-7702810003488-736424"
-Brand: "Coolechera"
-Price: "COP 8,250.00"
-From: "SAO"
+slug: "sueo-costeno-coolechea-pasteuiz-d-pack-7702810003488-736424"
+brand: "Coolechera"
+price: "COP 8,250.00"
+from: "SAO"
 ---
 
 # Suero Costeño (400g)

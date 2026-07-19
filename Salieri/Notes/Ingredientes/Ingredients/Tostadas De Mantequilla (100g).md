@@ -1,8 +1,8 @@
 ---
-Slug: "tostada-mantequilla-horneaditos-100-g-12000199"
-Brand: "Horneaditos"
-Price: "COP 2,390.00"
-From: "Tiendas D1"
+slug: "tostada-mantequilla-horneaditos-100-g-12000199"
+brand: "Horneaditos"
+price: "COP 2,390.00"
+from: "Tiendas D1"
 ---
 
 # Tostadas De Mantequilla (100g)

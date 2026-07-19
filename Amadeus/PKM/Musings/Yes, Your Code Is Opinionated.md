@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Derick Bailey"
-Primary Zettelkasten Area: "Developer Mindset"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "October 18, 2022 2:50 AM"
-Sources: "Yes, Your Code Is Opinionated"
+note-type: "Literature"
+author: "Derick Bailey"
+primary-zettelkasten-area: "Developer Mindset"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "October 18, 2022 2:50 AM"
+sources: "Yes, Your Code Is Opinionated"
 ---
 
 # Yes, Your Code Is Opinionated

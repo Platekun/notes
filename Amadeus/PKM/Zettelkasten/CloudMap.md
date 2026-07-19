@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is CloudMap?"
+parent-item: "AWS"
+primary-source: "What Is CloudMap?"
 ---
 
 # CloudMap

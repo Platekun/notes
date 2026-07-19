@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Systems Design"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Databases"
-Status: "Processed"
-Created time: "October 22, 2022 1:16 AM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Systems Design"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Databases"
+status: "Processed"
+created-time: "October 22, 2022 1:16 AM"
+sources: "Unknown"
 ---
 
 # Self-Hosted Databases

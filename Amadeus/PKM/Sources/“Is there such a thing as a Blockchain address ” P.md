@@ -1,5 +1,5 @@
 ---
-Notes: "How Is Access Represented In Crypto?"
+notes: "How Is Access Represented In Crypto?"
 ---
 
 # “Is there such a thing as a Blockchain address?” Prompt

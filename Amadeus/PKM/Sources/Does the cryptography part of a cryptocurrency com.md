@@ -1,5 +1,5 @@
 ---
-Notes: "What Is Crypto?"
+notes: "What Is Crypto?"
 ---
 
 # "Does the cryptography part of a cryptocurrency comes from its use of blockchain?” Prompt

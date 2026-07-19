@@ -1,6 +1,6 @@
 ---
-Original Name: "Glass Container"
-Recipes: "Postre Napoleón, Torta De Queso, Pollo Napolitano, Croquetas De Jamón Serrano, Marquesa De Chocolate"
+original-name: "Glass Container"
+recipes: "Postre Napoleón, Torta De Queso, Pollo Napolitano, Croquetas De Jamón Serrano, Marquesa De Chocolate"
 ---
 
 # Contenedor De Vidrio

@@ -1,11 +1,11 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 30, 2023 7:32 PM"
-Secondary Zettelkasten Area: "Developer Mindset"
-Status: "Processed"
-Created time: "September 14, 2023 12:25 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 30, 2023 7:32 PM"
+secondary-zettelkasten-area: "Developer Mindset"
+status: "Processed"
+created-time: "September 14, 2023 12:25 PM"
 ---
 
 # Being An Enabler

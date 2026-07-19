@@ -1,5 +1,5 @@
 ---
-Original Name: "Corkscrew"
+original-name: "Corkscrew"
 ---
 
 # Sacacorchos

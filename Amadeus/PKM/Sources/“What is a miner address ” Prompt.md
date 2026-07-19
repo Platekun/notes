@@ -1,5 +1,5 @@
 ---
-Notes: "How Is Access Represented In Crypto?"
+notes: "How Is Access Represented In Crypto?"
 ---
 
 # “What is a miner address?” Prompt

@@ -1,9 +1,9 @@
 ---
-Area: "Lambda"
-Reveal: "No"
-Confidence: "Expert"
-Answer: "Function-as-a-Service (Faas)"
-Last edited time: "January 15, 2023 11:59 PM"
+area: "Lambda"
+reveal: "No"
+confidence: "Expert"
+answer: "Function-as-a-Service (Faas)"
+last-edited-time: "January 15, 2023 11:59 PM"
 ---
 
 # What Is Lambda Referred As?

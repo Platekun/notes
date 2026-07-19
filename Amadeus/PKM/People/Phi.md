@@ -1,5 +1,5 @@
 ---
-Notes: "Everything Is Designed To Do Something"
+notes: "Everything Is Designed To Do Something"
 ---
 
 # Phi

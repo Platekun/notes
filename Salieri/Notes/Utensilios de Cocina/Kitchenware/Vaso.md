@@ -1,6 +1,6 @@
 ---
-Original Name: "Glass"
-Recipes: "Bailey"
+original-name: "Glass"
+recipes: "Bailey"
 ---
 
 # Vaso

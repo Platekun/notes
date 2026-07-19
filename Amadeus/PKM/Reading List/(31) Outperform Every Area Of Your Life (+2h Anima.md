@@ -1,5 +1,5 @@
 ---
-URL: "https://www.youtube.com/watch?v=S7RFQfClRF4"
+url: "https://www.youtube.com/watch?v=S7RFQfClRF4"
 ---
 
 # (31) Outperform Every Area Of Your Life (+2h Animation) - YouTube

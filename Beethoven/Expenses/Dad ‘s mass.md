@@ -1,9 +1,9 @@
 ---
-Amount: "COP 30,000.00"
-Amount In USD: "$30,000.00"
-Created by: "Lourdes Ojeda"
-Created time: "September 2, 2024 6:00 PM"
-Sprint: "Cookie"
+amount: "COP 30,000.00"
+amount-in-usd: "$30,000.00"
+created-by: "Lourdes Ojeda"
+created-time: "September 2, 2024 6:00 PM"
+sprint: "Cookie"
 ---
 
 # Dad ‘s mass

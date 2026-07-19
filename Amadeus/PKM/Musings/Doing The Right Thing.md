@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Oshino Shinobu"
-Primary Zettelkasten Area: "Ethics"
-Last edited time: "October 1, 2023 11:40 PM"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Sources: "Kizumonogatari II Nekketsu-hen"
+note-type: "Literature"
+author: "Oshino Shinobu"
+primary-zettelkasten-area: "Ethics"
+last-edited-time: "October 1, 2023 11:40 PM"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+sources: "Kizumonogatari II Nekketsu-hen"
 ---
 
 # Doing The Right Thing

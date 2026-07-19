@@ -1,9 +1,9 @@
 ---
-Slug: "queso-sabanero-tajado-latti-250-g-12000676"
-Brand: "Latti"
-Price: "COP 10,990.00"
-From: "Tiendas D1"
-Recipes: "Pechuga De Pollo Rellena, Sandwich De Huevo"
+slug: "queso-sabanero-tajado-latti-250-g-12000676"
+brand: "Latti"
+price: "COP 10,990.00"
+from: "Tiendas D1"
+recipes: "Pechuga De Pollo Rellena, Sandwich De Huevo"
 ---
 
 # Queso Sabanero Tajado (250g)

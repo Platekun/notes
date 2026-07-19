@@ -1,6 +1,6 @@
 ---
-URL: "https://en.wikipedia.org/wiki/Ethereum"
-Notes: "What Is Ethereum?"
+url: "https://en.wikipedia.org/wiki/Ethereum"
+notes: "What Is Ethereum?"
 ---
 
 # Ethereum Definition

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "January 26, 2023 1:37 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "January 26, 2023 1:37 PM"
 ---
 
 # Tired Of Being Sick

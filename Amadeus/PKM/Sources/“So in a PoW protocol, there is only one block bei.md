@@ -1,5 +1,5 @@
 ---
-Notes: "What Is A Block?"
+notes: "What Is A Block?"
 ---
 
 # “So in a PoW protocol, there is only one block being added. this block can contain the reward for the miner along with other transaction data?” Prompt

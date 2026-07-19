@@ -1,5 +1,5 @@
 ---
-Use Cases: "Desinfectante"
+use-cases: "Desinfectante"
 ---
 
 # Isodine

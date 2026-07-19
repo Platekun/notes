@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Last edited time: "February 11, 2024 10:48 PM"
-Status: "Unprocessed"
-Created time: "February 11, 2024 10:47 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Carlos Lobo"
+last-edited-time: "February 11, 2024 10:48 PM"
+status: "Unprocessed"
+created-time: "February 11, 2024 10:47 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Harsh But True Criticisms

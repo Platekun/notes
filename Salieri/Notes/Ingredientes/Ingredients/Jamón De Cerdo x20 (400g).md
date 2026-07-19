@@ -1,8 +1,8 @@
 ---
-Slug: "jamon-de-cerdo-viande-400-grs-12000077"
-Brand: "Viandé"
-Price: "COP 7,690.00"
-From: "Tiendas D1"
+slug: "jamon-de-cerdo-viande-400-grs-12000077"
+brand: "Viandé"
+price: "COP 7,690.00"
+from: "Tiendas D1"
 ---
 
 # Jamón De Cerdo x20 (400g)

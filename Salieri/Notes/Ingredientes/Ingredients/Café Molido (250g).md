@@ -1,8 +1,8 @@
 ---
-Slug: "cafe-molido-sello-rojo-250-g-7702032252190--2001737"
-Brand: "Café Sello Rojo"
-Price: "COP 8,870.00"
-From: "SAO"
+slug: "cafe-molido-sello-rojo-250-g-7702032252190--2001737"
+brand: "Café Sello Rojo"
+price: "COP 8,870.00"
+from: "SAO"
 ---
 
 # Café Molido (250g)

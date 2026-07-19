@@ -1,5 +1,5 @@
 ---
-Notes: "Web UI Architecture"
+notes: "Web UI Architecture"
 ---
 
 # Garran Means

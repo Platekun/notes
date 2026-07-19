@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is Amazon MQ?"
+parent-item: "AWS"
+primary-source: "What Is Amazon MQ?"
 ---
 
 # MQ

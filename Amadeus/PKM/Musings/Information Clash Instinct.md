@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Serika Onoe"
-Primary Zettelkasten Area: "Emotions"
-Last edited time: "October 1, 2023 7:47 PM"
-Secondary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "February 8, 2023 2:36 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Serika Onoe"
+primary-zettelkasten-area: "Emotions"
+last-edited-time: "October 1, 2023 7:47 PM"
+secondary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "February 8, 2023 2:36 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # Information Clash Instinct

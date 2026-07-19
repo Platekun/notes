@@ -1,9 +1,9 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Unprocessed"
-Created time: "September 18, 2023 12:55 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Unprocessed"
+created-time: "September 18, 2023 12:55 PM"
 ---
 
 # Create A Safe Fixes

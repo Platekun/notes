@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is SNS?"
+parent-item: "AWS"
+primary-source: "What Is SNS?"
 ---
 
 # SNS

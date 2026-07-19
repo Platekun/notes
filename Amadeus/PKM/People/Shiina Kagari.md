@@ -1,5 +1,5 @@
 ---
-Notes: "Pictures Are Memories, Memories Trivia, Quitters"
+notes: "Pictures Are Memories, Memories Trivia, Quitters"
 ---
 
 # Shiina Kagari

@@ -1,14 +1,14 @@
 ---
-Note Type: "Literature"
-Author: "Kaito Yashio"
-Primary Zettelkasten Area: "Time Perception"
-Last edited time: "October 1, 2023 11:29 PM"
-Secondary Zettelkasten Area: "Sleep"
-Tertiary Zettelkasten Area: "Problem Solving"
-Status: "Processed"
-Created time: "October 18, 2022 1:36 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+note-type: "Literature"
+author: "Kaito Yashio"
+primary-zettelkasten-area: "Time Perception"
+last-edited-time: "October 1, 2023 11:29 PM"
+secondary-zettelkasten-area: "Sleep"
+tertiary-zettelkasten-area: "Problem Solving"
+status: "Processed"
+created-time: "October 18, 2022 1:36 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # Unchaging Days

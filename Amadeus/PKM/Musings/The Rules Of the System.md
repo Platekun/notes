@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Takeshi Shinjo"
-Primary Zettelkasten Area: "Problem Solving"
-Last edited time: "October 1, 2023 7:49 PM"
-Status: "Processed"
-Created time: "January 1, 2023 12:25 AM"
-Experiences: "Play Chaos;Child"
-Sources: "Chaos;Child"
+note-type: "Literature"
+author: "Takeshi Shinjo"
+primary-zettelkasten-area: "Problem Solving"
+last-edited-time: "October 1, 2023 7:49 PM"
+status: "Processed"
+created-time: "January 1, 2023 12:25 AM"
+experiences: "Play Chaos;Child"
+sources: "Chaos;Child"
 ---
 
 # The Rules Of the System

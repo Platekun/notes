@@ -1,8 +1,8 @@
 ---
-Amount: "COP 100,000.00"
-Created by: "Automation"
-Created time: "March 5, 2024 7:11 AM"
-Sprint: "Modest Kirch"
+amount: "COP 100,000.00"
+created-by: "Automation"
+created-time: "March 5, 2024 7:11 AM"
+sprint: "Modest Kirch"
 ---
 
 # Hair Saloon

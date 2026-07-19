@@ -1,5 +1,5 @@
 ---
-Notes: "Decoupling Apps From Frameworks"
+notes: "Decoupling Apps From Frameworks"
 ---
 
 # Robert Aguilera

@@ -1,5 +1,5 @@
 ---
-URL: "https://www.linkedin.com/posts/soumya-ranjan-padhy-70aaa814a_creating-a-custom-screen-size-hook-with-activity-7257926825870262273-XscR?utm_source=share&utm_medium=member_ios"
+url: "https://www.linkedin.com/posts/soumya-ranjan-padhy-70aaa814a_creating-a-custom-screen-size-hook-with-activity-7257926825870262273-XscR?utm_source=share&utm_medium=member_ios"
 ---
 
 # Soumya Ranjan Padhy on LinkedIn: 🔍 Creating a Custom Screen Size Hook with Tailwind…

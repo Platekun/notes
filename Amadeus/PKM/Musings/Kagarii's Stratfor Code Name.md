@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Okabe Rintaro"
-Last edited time: "March 21, 2024 1:54 AM"
-Status: "Unprocessed"
-Created time: "March 21, 2024 1:53 AM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Okabe Rintaro"
+last-edited-time: "March 21, 2024 1:54 AM"
+status: "Unprocessed"
+created-time: "March 21, 2024 1:53 AM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Kagarii's Stratfor Code Name

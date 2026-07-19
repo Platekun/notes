@@ -1,7 +1,7 @@
 ---
-Multi-select: "Alkosto"
-Original Name: "Detergent"
-Stores: "Alkosto, DollarCity"
+multi-select: "Alkosto"
+original-name: "Detergent"
+stores: "Alkosto, DollarCity"
 ---
 
 # Jabón De Ropa

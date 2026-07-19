@@ -1,14 +1,14 @@
 ---
-Amount: "COP 36,000.00"
-Balance: "Gifted Goose"
-Scope: "Relationship"
-Created Time: "April 6, 2024 6:09 PM"
-Type: "Discretionary"
-Discretionary Subtotal: "COP 36,000.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 0.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 36,000.00"
+balance: "Gifted Goose"
+scope: "Relationship"
+created-time: "April 6, 2024 6:09 PM"
+type: "Discretionary"
+discretionary-subtotal: "COP 36,000.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 0.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Lasagnas x2

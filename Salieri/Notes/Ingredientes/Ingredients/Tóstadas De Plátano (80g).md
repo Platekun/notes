@@ -1,8 +1,8 @@
 ---
-Slug: "patacon-pisao-plataitos-80-g-12000223"
-Brand: "Plataitos"
-Price: "COP 4,390.00"
-From: "Tiendas D1"
+slug: "patacon-pisao-plataitos-80-g-12000223"
+brand: "Plataitos"
+price: "COP 4,390.00"
+from: "Tiendas D1"
 ---
 
 # Tóstadas De Plátano (80g)

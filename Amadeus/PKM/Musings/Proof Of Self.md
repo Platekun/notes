@@ -1,10 +1,10 @@
 ---
-Note Type: "Literature"
-Author: "Amadeus Kurisu"
-Last edited time: "February 12, 2024 5:22 PM"
-Status: "Unprocessed"
-Created time: "February 12, 2024 5:18 PM"
-Experiences: "Play Steins;Gate 0"
+note-type: "Literature"
+author: "Amadeus Kurisu"
+last-edited-time: "February 12, 2024 5:22 PM"
+status: "Unprocessed"
+created-time: "February 12, 2024 5:18 PM"
+experiences: "Play Steins;Gate 0"
 ---
 
 # Proof Of Self

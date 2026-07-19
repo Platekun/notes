@@ -1,12 +1,12 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Ethics"
-Last edited time: "October 1, 2023 11:39 PM"
-Secondary Zettelkasten Area: "Relationships"
-Status: "Processed"
-Created time: "September 3, 2023 2:31 PM"
-Experiences: "Play Chaos;Child"
-Sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Ethics"
+last-edited-time: "October 1, 2023 11:39 PM"
+secondary-zettelkasten-area: "Relationships"
+status: "Processed"
+created-time: "September 3, 2023 2:31 PM"
+experiences: "Play Chaos;Child"
+sources: "Under a Silent Sky - Takuru And Serika Character Analysis"
 ---
 
 # The Other Side Of Being Protected

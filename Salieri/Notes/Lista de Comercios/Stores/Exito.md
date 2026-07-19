@@ -1,5 +1,5 @@
 ---
-Location: "Av. Alberto Assa # Calle 87, Barranquilla, Atlántico"
+location: "Av. Alberto Assa # Calle 87, Barranquilla, Atlántico"
 ---
 
 # Exito

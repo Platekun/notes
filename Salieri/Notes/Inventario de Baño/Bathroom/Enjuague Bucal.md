@@ -1,6 +1,6 @@
 ---
-Brand: "Listerine"
-Stores: "SAO"
+brand: "Listerine"
+stores: "SAO"
 ---
 
 # Enjuague Bucal

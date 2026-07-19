@@ -1,9 +1,9 @@
 ---
-Financial Year: "2022, 2023"
-Amount: "COP 227,590.00"
-Scope: "Family"
-Amount Per Year: "COP 227,590.00"
-Expense Frequency: "Annual"
+financial-year: "2022, 2023"
+amount: "COP 227,590.00"
+scope: "Family"
+amount-per-year: "COP 227,590.00"
+expense-frequency: "Annual"
 ---
 
 # 1Password Subscription

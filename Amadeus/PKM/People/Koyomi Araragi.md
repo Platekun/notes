@@ -1,5 +1,5 @@
 ---
-Notes: "Love Is The Reason"
+notes: "Love Is The Reason"
 ---
 
 # Koyomi Araragi

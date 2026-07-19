@@ -1,7 +1,7 @@
 ---
-Project: "Configurar Notion"
-Archived: "false"
-Project Archived: "No"
+project: "Configurar Notion"
+archived: "false"
+project-archived: "No"
 ---
 
 # Area vs Resource Explanation

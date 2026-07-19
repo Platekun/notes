@@ -1,8 +1,8 @@
 ---
-Slug: "galleta-saltin-rojo-taco-x-8-706-g-7702025131426--1093280"
-Brand: "Noel"
-Price: "COP 9,900.00"
-From: "SAO"
+slug: "galleta-saltin-rojo-taco-x-8-706-g-7702025131426--1093280"
+brand: "Noel"
+price: "COP 9,900.00"
+from: "SAO"
 ---
 
 # Galletas Saltín (8 Tacos)

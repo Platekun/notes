@@ -1,6 +1,6 @@
 ---
-Parent item: "Software Development"
-Primary Source: "Concerning Toolkits 🛠 📦"
+parent-item: "Software Development"
+primary-source: "Concerning Toolkits 🛠 📦"
 ---
 
 # Tooling

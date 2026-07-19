@@ -1,9 +1,9 @@
 ---
-Financial Year: "2023"
-Amount: "COP 85,400.00"
-Scope: "Galleta"
-Amount Per Year: "COP 85,400.00"
-Expense Frequency: "Monthly"
+financial-year: "2023"
+amount: "COP 85,400.00"
+scope: "Galleta"
+amount-per-year: "COP 85,400.00"
+expense-frequency: "Monthly"
 ---
 
 # Galleta's Quota

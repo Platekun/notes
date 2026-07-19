@@ -1,11 +1,11 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Introspections"
-Last edited time: "October 1, 2023 11:29 PM"
-Status: "Processed"
-Created time: "October 7, 2022 3:13 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Introspections"
+last-edited-time: "October 1, 2023 11:29 PM"
+status: "Processed"
+created-time: "October 7, 2022 3:13 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # I Am The Master Of My Fate

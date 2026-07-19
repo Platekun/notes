@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "How To Create An EFS?, What Is EFS?"
+parent-item: "AWS"
+primary-source: "How To Create An EFS?, What Is EFS?"
 ---
 
 # EFS

@@ -1,10 +1,10 @@
 ---
-Note Type: "Fleeting"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Journal"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "January 9, 2023 8:48 PM"
+note-type: "Fleeting"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Journal"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "January 9, 2023 8:48 PM"
 ---
 
 # The 80% - 20% Of Moving

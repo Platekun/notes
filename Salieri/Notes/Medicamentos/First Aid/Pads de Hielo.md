@@ -1,5 +1,5 @@
 ---
-Use Cases: "Dolor De Cabeza"
+use-cases: "Dolor De Cabeza"
 ---
 
 # Pads de Hielo

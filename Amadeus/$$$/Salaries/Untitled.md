@@ -1,6 +1,6 @@
 ---
-Anual Gross Salary: "COP 0.00"
-Current: "No"
+anual-gross-salary: "COP 0.00"
+current: "No"
 ---
 
 # Untitled

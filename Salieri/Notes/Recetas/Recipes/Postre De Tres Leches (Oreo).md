@@ -1,8 +1,8 @@
 ---
-Type: "Dessert"
-Ingredients: "Leche Condensada (300g) (../../Ingredientes/Ingredients/Leche%20Condensada%20(300g)%20064f06ad19634ccca54bdbbe7a3f5311.md), Crema De Leche (180g) (../../Ingredientes/Ingredients/Crema%20De%20Leche%20(180g)%20ab5aff974fb44b3a9e81d982d6c55f9e.md), Leche Deslactosada (900ml) (../../Ingredientes/Ingredients/Leche%20Deslactosada%20(900ml)%204d7a4f982c1b49c09d495ab414a9053c.md), Galletas Oreo, Gelatina Sin Sabor x4 (30g) (../../Ingredientes/Ingredients/Gelatina%20Sin%20Sabor%20x4%20(30g)%20a7b12b373da749679bda2f9346edce24.md), Agua"
-Utensils: "Delantal, Servilletas, Olla, Licuadora, Tazón"
-Cost: "28870"
+type: "Dessert"
+ingredients: "Leche Condensada (300g) (../../Ingredientes/Ingredients/Leche%20Condensada%20(300g)%20064f06ad19634ccca54bdbbe7a3f5311.md), Crema De Leche (180g) (../../Ingredientes/Ingredients/Crema%20De%20Leche%20(180g)%20ab5aff974fb44b3a9e81d982d6c55f9e.md), Leche Deslactosada (900ml) (../../Ingredientes/Ingredients/Leche%20Deslactosada%20(900ml)%204d7a4f982c1b49c09d495ab414a9053c.md), Galletas Oreo, Gelatina Sin Sabor x4 (30g) (../../Ingredientes/Ingredients/Gelatina%20Sin%20Sabor%20x4%20(30g)%20a7b12b373da749679bda2f9346edce24.md), Agua"
+utensils: "Delantal, Servilletas, Olla, Licuadora, Tazón"
+cost: "28870"
 ---
 
 # Postre De Tres Leches (Oreo)

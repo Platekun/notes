@@ -1,13 +1,13 @@
 ---
-Note Type: "Literature"
-Author: "Ayase Kishimoto"
-Primary Zettelkasten Area: "Growth"
-Last edited time: "November 4, 2023 6:34 PM"
-Secondary Zettelkasten Area: "Emotions"
-Status: "Processed"
-Created time: "September 18, 2023 1:31 AM"
-Experiences: "Play Chaos;Head"
-Sources: "Chaos;Head"
+note-type: "Literature"
+author: "Ayase Kishimoto"
+primary-zettelkasten-area: "Growth"
+last-edited-time: "November 4, 2023 6:34 PM"
+secondary-zettelkasten-area: "Emotions"
+status: "Processed"
+created-time: "September 18, 2023 1:31 AM"
+experiences: "Play Chaos;Head"
+sources: "Chaos;Head"
 ---
 
 # Suffering And Anger Are Necessary

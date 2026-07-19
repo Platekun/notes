@@ -1,5 +1,5 @@
 ---
-Notes: "Conditionals vs Hierarchical States"
+notes: "Conditionals vs Hierarchical States"
 ---
 
 # Kyle Shelvin

@@ -1,7 +1,7 @@
 ---
-Brand: "Fruvecol"
-Price: "COP 17,000.00"
-From: "Fruvecol"
+brand: "Fruvecol"
+price: "COP 17,000.00"
+from: "Fruvecol"
 ---
 
 # Rábanos (1 KG)

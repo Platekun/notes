@@ -1,9 +1,9 @@
 ---
-Slug: "fecula-maizena-90-g-7702047003466--2005354"
-Brand: "La Original"
-Price: "COP 2,372.00"
-From: "SAO"
-Recipes: "Postre Napoleón, Marquesa De Chocolate, Galletas Fit De Gaby"
+slug: "fecula-maizena-90-g-7702047003466--2005354"
+brand: "La Original"
+price: "COP 2,372.00"
+from: "SAO"
+recipes: "Postre Napoleón, Marquesa De Chocolate, Galletas Fit De Gaby"
 ---
 
 # Maizena (90g)

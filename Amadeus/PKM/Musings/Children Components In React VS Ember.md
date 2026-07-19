@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Yehuda Katz"
-Primary Zettelkasten Area: "Ember"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "React"
-Status: "Processed"
-Created time: "October 18, 2022 12:58 AM"
-Sources: "Children Components In React VS Ember"
+note-type: "Literature"
+author: "Yehuda Katz"
+primary-zettelkasten-area: "Ember"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "React"
+status: "Processed"
+created-time: "October 18, 2022 12:58 AM"
+sources: "Children Components In React VS Ember"
 ---
 
 # Children Components In React VS Ember

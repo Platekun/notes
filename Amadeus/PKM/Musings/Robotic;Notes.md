@@ -1,11 +1,11 @@
 ---
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Introspections"
-Last edited time: "October 1, 2023 11:42 PM"
-Status: "Unprocessed"
-Created time: "September 26, 2022 3:05 AM"
-Experiences: "Play Robotic;Notes"
-Sources: "Robotic;Notes"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Introspections"
+last-edited-time: "October 1, 2023 11:42 PM"
+status: "Unprocessed"
+created-time: "September 26, 2022 3:05 AM"
+experiences: "Play Robotic;Notes"
+sources: "Robotic;Notes"
 ---
 
 # Robotic;Notes

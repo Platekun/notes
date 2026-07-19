@@ -1,8 +1,8 @@
 ---
-Amount: "COP 165,000.00"
-Created by: "Automation"
-Created time: "November 1, 2024 7:48 AM"
-Sprint: "Happiness"
+amount: "COP 165,000.00"
+created-by: "Automation"
+created-time: "November 1, 2024 7:48 AM"
+sprint: "Happiness"
 ---
 
 # Mom's Health Insurance

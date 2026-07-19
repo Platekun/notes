@@ -1,7 +1,7 @@
 ---
-Precio (COP): "COP 4,235,452.76"
-Total: "COP 4,235,452.76"
-Unidad: "1"
+precio-cop: "COP 4,235,452.76"
+total: "COP 4,235,452.76"
+unidad: "1"
 ---
 
 # Reserva de hotel (Paris)

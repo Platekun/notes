@@ -1,11 +1,11 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "SES"
-Last edited time: "September 20, 2023 2:23 AM"
-Status: "Processed"
-Created time: "November 19, 2022 2:12 PM"
-Sources: "Unknown"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "SES"
+last-edited-time: "September 20, 2023 2:23 AM"
+status: "Processed"
+created-time: "November 19, 2022 2:12 PM"
+sources: "Unknown"
 ---
 
 # What Is SES?

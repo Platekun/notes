@@ -1,5 +1,5 @@
 ---
-Description: "Everything related to me."
+description: "Everything related to me."
 ---
 
 # Lobito

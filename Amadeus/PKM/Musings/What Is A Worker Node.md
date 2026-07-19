@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "BlockChain"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Systems Design"
-Status: "Unprocessed"
-Created time: "January 3, 2023 8:48 PM"
-Sources: "“What is a worker node in systems design?” Prompt, Many Nodes, One Distributed System"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "BlockChain"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Systems Design"
+status: "Unprocessed"
+created-time: "January 3, 2023 8:48 PM"
+sources: "“What is a worker node in systems design?” Prompt, Many Nodes, One Distributed System"
 ---
 
 # What Is A Worker Node?

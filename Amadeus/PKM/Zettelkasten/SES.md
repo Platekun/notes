@@ -1,6 +1,6 @@
 ---
-Parent item: "AWS"
-Primary Source: "What Is SES?"
+parent-item: "AWS"
+primary-source: "What Is SES?"
 ---
 
 # SES

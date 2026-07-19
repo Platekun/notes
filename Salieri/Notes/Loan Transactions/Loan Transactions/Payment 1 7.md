@@ -1,10 +1,10 @@
 ---
-Loan: "Bbc + santa cabrona"
-Amount: "COP 120,000.00"
-Performed: "Yes"
-Created By: "Lourdes Ojeda"
-Created Time: "May 27, 2023 6:33 PM"
-Edited By: "Carlos Camilo Lobo Ulloque"
+loan: "Bbc + santa cabrona"
+amount: "COP 120,000.00"
+performed: "Yes"
+created-by: "Lourdes Ojeda"
+created-time: "May 27, 2023 6:33 PM"
+edited-by: "Carlos Camilo Lobo Ulloque"
 ---
 
 # Payment 1

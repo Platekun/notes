@@ -1,14 +1,14 @@
 ---
-Amount: "COP 3,190.00"
-Balance: "Trusting Mirzakhani"
-Scope: "Lab"
-Created Time: "January 15, 2023 5:30 PM"
-Type: "Utilities"
-Discretionary Subtotal: "COP 0.00"
-Sinking Subtotal: "COP 0.00"
-Short-term Subtotal: "COP 0.00"
-Utilities Subtotal: "COP 3,190.00"
-Emergency Subtotal: "COP 0.00"
+amount: "COP 3,190.00"
+balance: "Trusting Mirzakhani"
+scope: "Lab"
+created-time: "January 15, 2023 5:30 PM"
+type: "Utilities"
+discretionary-subtotal: "COP 0.00"
+sinking-subtotal: "COP 0.00"
+short-term-subtotal: "COP 0.00"
+utilities-subtotal: "COP 3,190.00"
+emergency-subtotal: "COP 0.00"
 ---
 
 # Salsa de tomate

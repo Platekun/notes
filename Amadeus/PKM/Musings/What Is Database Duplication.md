@@ -1,12 +1,12 @@
 ---
-Note Type: "Literature"
-Author: "Carlos Lobo"
-Primary Zettelkasten Area: "Databases"
-Last edited time: "September 20, 2023 2:23 AM"
-Secondary Zettelkasten Area: "Distributed Programming"
-Status: "Processed"
-Created time: "December 30, 2022 1:42 AM"
-Sources: "Distributed Database Definition, \"Can replication and duplication be considered consensus protocols in distributed databases?” Prompt, “Do distributed databases use replication and duplication?” Prompt, “How is it different from database duplication?” Prompt"
+note-type: "Literature"
+author: "Carlos Lobo"
+primary-zettelkasten-area: "Databases"
+last-edited-time: "September 20, 2023 2:23 AM"
+secondary-zettelkasten-area: "Distributed Programming"
+status: "Processed"
+created-time: "December 30, 2022 1:42 AM"
+sources: "Distributed Database Definition, \"Can replication and duplication be considered consensus protocols in distributed databases?” Prompt, “Do distributed databases use replication and duplication?” Prompt, “How is it different from database duplication?” Prompt"
 ---
 
 # What Is Database Duplication?

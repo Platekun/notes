@@ -1,9 +1,9 @@
 ---
-Note Type: "Literature"
-Author: "Hiyajo Maho"
-Last edited time: "February 26, 2024 2:10 AM"
-Status: "Unprocessed"
-Created time: "February 24, 2024 2:43 PM"
+note-type: "Literature"
+author: "Hiyajo Maho"
+last-edited-time: "February 26, 2024 2:10 AM"
+status: "Unprocessed"
+created-time: "February 24, 2024 2:43 PM"
 ---
 
 # The Frame Problem

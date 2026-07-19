@@ -1,5 +1,5 @@
 ---
-Notes: "Stupidity and Friendly APIs"
+notes: "Stupidity and Friendly APIs"
 ---
 
 # Adam Wathan
