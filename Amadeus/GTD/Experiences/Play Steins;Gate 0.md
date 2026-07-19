@@ -1,0 +1,11 @@
+---
+Status: "Done"
+Musings: "Keep Your Emotions In Check, Top-down Memory Search Signals, Idea For Password, Kurisu's Second Brain, Simulation Of The Brain, I'm Still Me, Believe There's An answer, You're You, Amadeus Log Messages, The Simplest Explanation Is Usually The Best One, Using Time Efficiently, Is The Brain The Exception?, The Nature Of Memories, The Framing Problem, Amadeus Behavior, Military Code, Pictures Are Memories, Moeka's Employer, Structure And Process, Amadeus Take On Memories, Sense Of Self, Our Second Persona, Noisy Information, Criticism Alone Doesn't Help Anything, Hippocampal Gyrus, Brain Signal Processing Systems, Nobody Can Take Your Place, Harsh But True Criticisms, Proof Of Self, Rising Above Resentment, How Envy Shadows, It's Okay Now, Wavering Thoughts, Echoes of Regret, Information A Trump Card, I'm Always Watching You, Memories Trivia, Different Way Of Asking, What ARE Memories?, Kagarii's Stratfor Code Name, Is This What Death Feels Like?, Problematic Relationship Dynamics Comparison, Soul Vs Memories, The Future Can Be Changed, Deceiving Yourself To Avoid Reality: A Painful Awakening Call, Trying Once or Twice Probably Won't Get You There, Cognitive Dissonance, Remnants Of Death Vs Life Sensations, Deceiving Yourself Vs Deceiving The World, It's Memories What Makes Us Who We Are, The Door We Seek, Accept The Past For What It Was And Connect It To The Future, A Person Is Nothing But Their Memories, I Know I Will Find You, Scientific Gatekeeping, Mistaking Fiction For Reality, Humans Are Social Animals, Built-in Self Deception, Quitters, Too Much Comfort Can Blind People, Ideas For A Project Like Laravel Spark, Influence Remains, Don't Let Peaceful Times Blind You From An Incoming Future, Patriotic Moment In Steins Gate, Just Leave It To Me, Different Axis, Future Aspirations Vs Current Capabilities, Information War, Gehenna's Stigma, At Least Provide Me With The Information, Putting Too Much Faith In Common Sense, Extreme Muscle Relaxation, I Hope Someday You Can Smile For Real, ‘God’ vs Science, Once You Hit Rock Bottom, You Can Only Climb Back Up, I Wasn’t Alone Everyone Was There For Me, This…Is My Choice, Time Heals All Wounds, Without Love, The Truth Cannot Be Seen, Paris Museum Pass"
+---
+
+# Play Steins;Gate 0
+
+[Untitled](../../PKM/Musings_all.csv)
+
+filters: 
+pGR=
